@@ -1,0 +1,33 @@
+package Mains;
+
+
+
+import java.io.File;
+
+import java.io.IOException;
+import index.Index;
+//import tools.FrenchStemmer;
+import tools.FrenchTokenizer;
+import tools.Normalizer;
+
+public class main_Tokenizer {
+
+	
+	public static void main(String[] args) throws IOException {
+		 
+		String StopWords = "/home/amal/search-engine/project/data/frenchST.txt";
+		File corpus = new File ("/home/amal/search-engine/project/data/corpus_reduit" +
+				"")	;
+    // Normalizer tokenizerAllWords = new FrenchTokenizer();
+		Normalizer tokenizerNoStopWords = new FrenchTokenizer(new File(StopWords));
+	//	Normalizer[] normalizers = {tokenizerAllWords, tokenizerNoStopWords};
+		Normalizer normalizer = tokenizerNoStopWords;
+		Index index = new Index(normalizer ,corpus);
+	
+		index.getIndex();
+		
+		
+	
+		
+	}
+}

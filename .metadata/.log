@@ -25,3 +25,17 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.core.resources 2 10035 2016-11-08 01:50:35.419
 !MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 2 2016-11-08 02:34:31.772
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2016-11-08 02:34:31.772
+!MESSAGE The project description file (.project) for 'dd' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2016-11-08 02:34:31.772
+!MESSAGE The project description file (.project) for 'ddd' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 2 2016-11-08 03:00:39.814
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2016-11-08 03:00:39.814
+!MESSAGE The project description file (.project) for 'dd' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2016-11-08 03:00:39.814
+!MESSAGE The project description file (.project) for 'ddd' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.

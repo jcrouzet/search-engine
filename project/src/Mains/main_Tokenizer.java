@@ -18,11 +18,12 @@ public class main_Tokenizer {
 		String StopWords = "/home/amal/search-engine/project/data/frenchST.txt";
 		File corpus = new File ("/home/amal/search-engine/project/data/corpus_reduit" +
 				"")	;
-    // Normalizer tokenizerAllWords = new FrenchTokenizer();
-		Normalizer tokenizerNoStopWords = new FrenchTokenizer(new File(StopWords));
-	//	Normalizer[] normalizers = {tokenizerAllWords, tokenizerNoStopWords};
-		Normalizer normalizer = tokenizerNoStopWords;
-		Index index = new Index(normalizer ,corpus);
+    		Normalizer tokenizerNoStopWords = new FrenchTokenizer(new File(StopWords));
+	     	Normalizer normalizer = tokenizerNoStopWords;
+	     	String path_index = "/home/amal/search-engine/project/result_indexation/index_tokenizer";
+	     	File index_ = new File(path_index);
+			
+		    Index index = new Index(normalizer ,corpus , index_);
 	
 		index.getIndex();
 		

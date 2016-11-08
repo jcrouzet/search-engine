@@ -11,30 +11,32 @@ public class Index {
 
 	public File corpus;
 	public Normalizer normalizer;
+	public File index_;
 
-
-	public Index(Normalizer normalizer, File corpus)
+	public Index(Normalizer normalizer, File corpus , File index)
 	{
 		this.normalizer = normalizer;
 
 		this.corpus = corpus;
+		this.index_ = index;
 	}
+	
 	public void  getIndex() throws IOException {
 
-		// Create the index_file
-		File index_file = new File("/home/amal/search-engine/project/result_indexation/without_stemming");
-		// if file doesnt exists, then create it
-		if (!index_file.exists()) {
-			index_file.createNewFile();
+		
+		// Create the index
+			// if file doesnt exists, then create it
+		if (!index_.exists()) {
+			index_.createNewFile();
 		}
 		else {
-			
+			   index_.delete();
+			    index_.createNewFile();
 		
-			   index_file.delete();
-			    index_file.createNewFile();
-		}
-		FileWriter fw = new FileWriter(index_file.getAbsoluteFile());
+
+		FileWriter fw = new FileWriter(index_.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
+		
 		//  get the occurence of each term in each document
 		HashMap<String, HashMap<String, Integer>> tf = new HashMap<String, HashMap<String, Integer>>();
 		int NumberOfDocument = 0 ;
@@ -119,7 +121,7 @@ public class Index {
 			//word + "\t" + tfidf.keySet().toString().replaceAll("[\\[\\] ]", "") + "\t" + tfidf.values().toString().replaceAll("[\\[\\] ]", ""));
 		//	bw.write(term + " _______  " +   tfIdfs.keySet().toString() + tfIdfs.values().toString().replaceAll("[\\[\\] ]", ""));
 		
-bw.write(term+ "\t" + tfIdfs.keySet().toString() + "\t" + tfIdfs.values().toString());
+bw.write(term+ "\t" + tfIdfs.keySet().toString().replace(","," ") + "\t" + tfIdfs.values().toString().replace(","," ") + "\n");
 			
 
 		}
@@ -127,4 +129,4 @@ bw.write(term+ "\t" + tfIdfs.keySet().toString() + "\t" + tfIdfs.values().toStri
 
 		bw.close();
 	}	
-}
+	}}
