@@ -1,6 +1,8 @@
 package index;
 
 import java.io.*;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 
 import java.util.*;
@@ -13,12 +15,12 @@ public class Index {
 	public Normalizer normalizer;
 	public File index_;
 
-	public Index(Normalizer normalizer, File corpus , File index)
+	public Index(Normalizer normalizer, File corpus , File index_)
 	{
 		this.normalizer = normalizer;
 
 		this.corpus = corpus;
-		this.index_ = index;
+		this.index_ = index_;
 	}
 	
 	public void  getIndex() throws IOException {
@@ -31,7 +33,7 @@ public class Index {
 		}
 		else {
 			   index_.delete();
-			    index_.createNewFile();
+			   index_.createNewFile();
 		
 
 		FileWriter fw = new FileWriter(index_.getAbsoluteFile());
@@ -111,11 +113,19 @@ public class Index {
 				Integer Df = documents_tf.size();
 
 				// truncate : for optimizing memory in the index 
-		Double tfIdf = Math.round(((double)term_Frequency  * Math.log((double)NumberOfDocument / (double)Df))*100.0)/100.0;
-		//		Double tfIdf= (double)term_Frequency * Math.log((double)(NumberOfDocument / Df));
 				
+		//Integer 	a =	Integer.parseInt("");
+				
+	///	Double tfIdf = Math.round(((double)term_Frequency  * Math.log((double)NumberOfDocument / (double)Df))*100.0)/100.0;
+		Double weight= (double)term_Frequency * Math.log((double)(NumberOfDocument / Df));
+		
+		BigDecimal tfIdf = new BigDecimal(weight);
+		tfIdf = tfIdf.setScale(2, RoundingMode.HALF_UP);
+		// Integer.toString
 			//	String substring = str.substring(Math.max(str.length() - 2, 0));
-				tfIdfs.put(document.substring(0,document.length()-4), tfIdf);
+	//	Integer.toString(a,36);
+		 // decimal to base 64 for the  document name ;
+				tfIdfs.put(Integer.toString(Integer.parseInt(document.substring(0,document.length()-4)),36), tfIdf.doubleValue());
 			}
 
 			//word + "\t" + tfidf.keySet().toString().replaceAll("[\\[\\] ]", "") + "\t" + tfidf.values().toString().replaceAll("[\\[\\] ]", ""));
@@ -129,4 +139,4 @@ bw.write(term+ "\t" + tfIdfs.keySet().toString().replace(","," ") + "\t" + tfIdf
 
 		bw.close();
 	}	
-	}}
+}}

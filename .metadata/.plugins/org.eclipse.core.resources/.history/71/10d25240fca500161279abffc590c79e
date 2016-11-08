@@ -1,0 +1,26 @@
+import java.io.IOException;
+import java.math.BigInteger;
+import java.util.Base64;
+
+
+public class conversion {
+
+	
+	String a ;
+	public conversion (String a)
+	{
+		
+		this.a=a;
+	}
+	public static String base16to64(String dec ){
+	    return Base64.getEncoder().encodeToString(new BigInteger(dec, 10).toByteArray());
+	}
+
+	
+	public static void main(String[] args) throws IOException {
+		
+	String	a = "9482.txt";
+	S
+	System.out.print(a.)
+	}
+}

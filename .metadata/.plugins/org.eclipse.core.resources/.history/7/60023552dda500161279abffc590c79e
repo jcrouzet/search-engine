@@ -1,0 +1,50 @@
+package Search;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+
+import tools.Normalizer;
+
+public class Search {
+
+	public File index;
+	
+	public Normalizer normalizer;
+
+	public Search ( File index)
+		{
+			
+
+			this.index = index;
+		}
+	
+	
+	public static HashMap<String, Integer> getTermFrequencies(File file, Normalizer normalizer) throws IOException {
+		HashMap<String, Integer> hits = new HashMap<String, Integer>();
+		ArrayList<String> wordss = normalizer.normalize(file);
+		HashSet<String> words = new HashSet<String>(wordss) ;
+		Integer number;
+
+		for (String word : words) {
+			word = word.toLowerCase();
+			number = hits.get(word);
+			if (number == null) {
+				hits.put(word, 1);
+			} else {
+				hits.put(word, ++number);
+			}
+		}
+		return hits;
+	}
+
+	
+	
+
+	}
+

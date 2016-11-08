@@ -1,0 +1,23 @@
+import java.io.IOException;
+import java.math.BigInteger;
+import java.util.Base64;
+
+
+public class conversion {
+
+	
+	
+	
+	public static String base16to64(String dec ){
+	    return Base64.getEncoder().encodeToString(new BigInteger(dec, 10).toByteArray());
+	}
+
+	
+	public static void main(String[] args) throws IOException {
+		
+	//conversion a = new conversion ();
+		
+		
+	System.out.print(conversion.base16to64("54855txt"));
+	}
+}

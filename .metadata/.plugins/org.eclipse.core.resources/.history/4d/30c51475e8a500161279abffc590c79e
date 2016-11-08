@@ -1,0 +1,126 @@
+package index;
+
+
+
+
+
+import java.io.*;
+
+
+import java.util.*;
+
+import tools.Normalizer;
+public class kkk {
+
+
+	public File corpus;
+	public Normalizer normalizer;
+	public File index_;
+
+	public kkk (Normalizer normalizer, File corpus , File index)
+	{
+		this.normalizer = normalizer;
+
+		this.corpus = corpus;
+		this.index_ = index;
+	}
+	 
+	
+	public TreeMap<String, HashMap<String, Double>> Weights () throws IOException
+
+	{
+		TreeMap<String, HashMap<String, Double>> weights_withs_docs  = new TreeMap<String, HashMap<String, Double>>();
+		HashMap<String, HashMap<String, Double>> weights = new HashMap<String, HashMap<String, Double>>();
+		
+		HashMap<String, HashMap<String, Integer>> tf = new HashMap<String, HashMap<String, Integer>>();
+		int NumberOfDocument = 0 ;
+
+		if (corpus.isDirectory()) {
+			// get all the files of the directory in order to Calculate of Tf (frequency terms)
+			String [] files_corpus = corpus.list();
+			
+			for (String file : files_corpus)
+			{
+		//System.out.print(file);
+		ArrayList<String>words = normalizer.normalize(new File(corpus, file));
+		//System.out.print(words);
+				//The hash code is then used as the index at which the data associated with the key is stored. 
+				//the transformation of the key into its hash code is performed automatically.
+				//we use a hashset for no have  2 occurences of the term
+
+				HashSet<String> wordsInFiles = new HashSet<String>(words) ;
+			//	System.out.print(wordsInFiles);
+				for(String word: wordsInFiles)
+				{
+					word = word.toLowerCase();
+					//  word is null
+					if (word==null)
+					continue;
+						HashMap<String, Integer> value = tf.get(word); 
+
+						if(value == null) 
+							value = new HashMap<String, Integer>();
+							//The frequency(Collection<?>, Object) method is used to get the number of elements
+							//in the specified collection equal to the specified object.
+							// example: https://www.tutorialspoint.com/java/util/collections_frequency.htm
+							value.put(file, Collections.frequency(words, word));
+							tf.put(word,value);
+			//	System.out.print(word + "\t" + tf.get(word));
+				}
+				NumberOfDocument ++ ;
+			
+			}		
+		}
+		// Calculation of weights tf_idf 
+		// list of terms on orders alphabetic ( that means the terms of the tf calculated before)
+
+		Set<String> terms= new TreeMap<String, HashMap<String, Integer>>(tf).keySet();
+
+		// the result of tf will be like this term document1 document2 document3  1 2 3 
+		// the idea is for each term in the hash map tf we will use the value which is the document
+		// and the frequency like that:
+		// suppose that we have 3 terms in 4 documents like this:
+		// amal d1 d2 d3  1 2 3
+		// targhi d1 d3   1 4 
+		// engine d2      2
+		// so we will extract the value of each term (document,frequency) 
+		// first case for example for the term amal (d1,1) (d1,2)  (d1,3) 
+		// and for each hashMap we will extract the keys (documents ) d1 d2 d3
+		// calculate extarct the term frequncy is the value of each hashmap
+		//for calculate the Document frequency it is simply the size of the hashmap for example for amal is 3
+
+		for ( String term : terms)
+		{
+			//  Create a List of the documents and their occurences of the terms the value of tf is 
+			// a hashMap (Doc,occurence)
+
+			HashMap<String, Double> tfIdfs = new HashMap<String, Double>();
+			HashMap<String, Integer> documents_tf = tf.get(term);
+
+			for(Map.Entry<String, Integer> document_tf : documents_tf.entrySet())
+			{
+
+				String document = document_tf.getKey();
+				Integer  term_Frequency = documents_tf.get(document);
+				Integer Df = documents_tf.size();
+
+				// truncate : for optimizing memory in the index 
+		Double tfIdf = Math.round(((double)term_Frequency  * Math.log((double)NumberOfDocument / (double)Df))*100.0)/100.0;
+		//		Double tfIdf= (double)term_Frequency * Math.log((double)(NumberOfDocument / Df));
+				
+			//	String substring = str.substring(Math.max(str.length() - 2, 0));
+				tfIdfs.put(document.substring(0,document.length()-4), tfIdf);
+			}
+
+			//word + "\t" + tfidf.keySet().toString().replaceAll("[\\[\\] ]", "") + "\t" + tfidf.values().toString().replaceAll("[\\[\\] ]", ""));
+		//	bw.write(term + " _______  " +   tfIdfs.keySet().toString() + tfIdfs.values().toString().replaceAll("[\\[\\] ]", ""));
+		
+		weights.put(term,tfIdfs);
+
+		}
+	//	System.out.print(corpus.getAbsolutePath());
+
+	
+	
+		return null;	
+	}}
