@@ -1,0 +1,40 @@
+package index;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+
+
+
+public class IdFile {
+	public static void main(String[] args) throws IOException {
+		 
+		
+		File f = new File("/home/amal/search-engine/project/data/corpus_reduit");
+		ArrayList<String> names = new ArrayList<String>(Arrays.asList(f.list()));
+		   Collections.sort(names);
+		   System.out.print(names.size());
+		
+		File file_id = new File("/home/amal/search-engine/project/data/file_id");
+		if (!file_id.exists()) {
+			file_id.createNewFile();
+		}
+		else {
+			file_id.delete();
+			file_id.createNewFile();
+			FileWriter fw = new FileWriter(file_id.getAbsoluteFile());
+			BufferedWriter bw = new BufferedWriter(fw);
+		
+		HashMap<String, String> id = new HashMap<String, String> ();
+		
+		bw.close();
+		}
+		
+		
+	}
+}

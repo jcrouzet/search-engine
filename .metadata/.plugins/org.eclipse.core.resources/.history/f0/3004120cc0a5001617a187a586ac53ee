@@ -1,0 +1,34 @@
+package Search;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import tools.Normalizer;
+
+public class Search {
+
+	public File index;
+	
+	public Normalizer normalizer;
+
+	public Search ( File index)
+		{
+			
+
+			this.index = index;
+		}
+	
+	// Calculate the Similarity 
+	
+	// for this code i was inspirited from this web site
+	// file:///home/amal/Documents/master%20aic/extraction/cours/hors-prof/Tf-Idf%20and%20Cosine%20similarity%20|%20Seeking%20Wisdom.html
+	// it's in python but helped me to understand the principle of implementaion
+	
+	private double CosineSimilarity(String [] request, String index,
+			HashMap<String, HashMap<String, Double>> best_files,
+			HashMap<String, HashMap<String, Double>> weight_by_file)
+	{
+		return (Double) null ;
+	}
+}

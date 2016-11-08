@@ -1,0 +1,14 @@
+package Search;
+
+import java.io.File;
+
+import tools.Normalizer;
+
+public class Search {
+
+	public File index;
+	
+	public Normalizer normalizer;
+	
+	public class Search (ined ,=)
+}

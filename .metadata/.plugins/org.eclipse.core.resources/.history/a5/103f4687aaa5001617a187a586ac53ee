@@ -1,0 +1,21 @@
+package index;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+
+
+public class IdFile {
+	public static void main(String[] args) throws IOException {
+		 
+		
+		File f = new File("/home/amal/search-engine/project/data/corpus");
+		ArrayList<String> names = new ArrayList<String>(Arrays.asList(f.list()));
+		
+		File f = new File("/home/amal/search-engine/project/data/corpus_reduit");
+		ArrayList<String> names = new ArrayList<String>(Arrays.asList(f.list()));
+		
+	}
+}

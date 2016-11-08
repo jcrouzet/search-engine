@@ -1,0 +1,21 @@
+package Search;
+
+import java.io.File;
+
+import tools.Normalizer;
+
+public class Search {
+
+	public File index;
+	
+	public Normalizer normalizer;
+
+	public Search (Normalizer normalizer , File index)
+		{
+			this.normalizer = normalizer;
+
+			this.index = index;
+		}
+	
+	
+}
