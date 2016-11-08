@@ -1,0 +1,27 @@
+07 février 2015
+Pourquoi certaines équipes sont-elles plus intelligentes que d’autres ?
+Anita Wooley , spécialiste de l'étude des comportements de groupes, Thomas Malone , directeur du Centre pour l'intelligence collective du MIT et le psychologue Christopher Chabris , nous expliquent dans une tribune pour le New York Times ce qui fait la qualité d'un groupe sur un autre.
+Pour cela, ils convoquent une étude de 2010 menée par Alex Pentland du MIT (cf.
+ Big Data : vers l'ingénierie sociale ?  ) qui montrait que certaines équipes réussissaient mieux que d'autres, même si elles n'étaient pas spécialistes des sujets qu'elles devaient traiter.
+La qualité d'une équipe ne repose donc pas tant sur l'intelligence de chacun de ses membres que sur sa capacité à faire équipe (enfin, pour autant que la tâche à réaliser nécessite une collaboration profonde pas seulement de résoudre un problème précis : si vous demandez à un groupe de résoudre un calcul différentiel, il vaudrait mieux qu'il y a ait des mathématiciens autour de la table !).
+Les chercheurs ont ensuite tenté d'en comprendre les raisons.
+Le niveau de QI n'a rien expliqué.
+L'extraversion ou l'introversion des participants non plus, pas plus que la motivation des participants à faire réussir leur équipe.
+En fait, les équipes les plus intelligentes étaient distinguées par trois caractéristiques :
+Leurs membres ont contribué de façon plus équitable aux discussions de l'équipe, plutôt que de laisser une ou deux personnes dominer le groupe.
+Leurs membres ont obtenu de meilleurs résultats à un test de lecture de  l'esprit dans les yeux , un test qui mesure la façon dont les gens peuvent décrypter les états émotionnels complexes à partir d'images de visages où seuls les yeux sont visibles ( comme celui-ci ) !
+enfin, les équipes avec plus de femmes ont surclassé les équipes avec plus d'hommes.
+Ce n'est pas la diversité (un nombre égal d'hommes et de femmes) qui comptait, mais le fait qu'il y ait plus de femmes, notamment parce qu'en moyenne elles ont tendance à être plus capables de lire l'esprit des autres.
+Une nouvelle étude vient de reproduire ces conclusions, mais en la précisant, notamment en faisant travailler les équipes pour moitié en face à face et pour l'autre en ligne.
+Le but, voir si les groupes travaillant en ligne étaient capables d'intelligence collective et si la capacité sociale, l'empathie, importerait autant quand les gens communiquaient par messagerie électronique.
+En fait, l'étude a confirmé les apprentissages de la première.
+Les ingrédients les plus importants (l'équité de parole, l'empathie, la sur-représentation féminine) sont demeurés les facteurs décisifs (sur tous les autres) indépendamment du mode d'interaction employé.
+Les meilleures équipes étaient celles qui communiquaient beaucoup, d'une manière équitable et qui possédaient de bonnes compétences en compréhension des émotions des autres.
+Ce dernier constat a été plutôt une surprise, soulignent les chercheurs.
+La capacité à comprendre les émotions des autres était aussi importante pour ceux qui devaient lire entre les lignes que pour ceux qui devaient travailler en face à face.
+ Ce qui rend les équipes plus intelligentes est non seulement la capacité à lire les expressions faciales, qu'une capacité plus générale, connue comme la  théorie de l'esprit , de savoir examiner et garder trace de ce que les autres pensent, connaissent, croient... 
+Comme le souligne Derek Thompson pour The Atlantic , ces études battent en brèche bien des attributs qu'on accorde généralement aux collectifs.
+Notamment le fait que la cohésion,  la motivation  ou la  satisfaction  n'ont pas un grand rôle dans l'intelligence et l'efficacité d'un groupe.
+Le rôle de l'intelligence sociale, de l'empathie, semble plus importants.
+Tant mieux !
+Hubert Guillaud

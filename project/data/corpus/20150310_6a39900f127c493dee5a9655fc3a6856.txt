@@ -1,0 +1,43 @@
+Départementales : le tract trompeur du Front national
+Le Monde |
+| Par Alexandre Pouchard
+Fort d'une dynamique créée lors des élections municipales puis européennes, le Front national mise beaucoup sur les élections départementales des 22 et 29 mars.
+Le parti d'extrême droite présente des candidats dans 95 % des 2 054 cantons, une première dans son histoire.
+C'est dans cette optique qu'il a diffusé début mars un tract au niveau national – quand les autres partis privilégient des supports de communication locaux.
+Par ce document, le FN entend notamment dénoncer la situation de la France, qui subit un chômage élevé et des hausses d'impôts de ces dernières années.
+Quitte à utiliser une visualisation trompeuse.
+1.
+Impôts et taxes : un graphique raccourci
+C'est également l'un des principaux angles d'attaque de l'UMP : les hausses d'impôts successives ces dernières années.
+Par « taxes et impôts », le FN évoque ici les prélèvements obligatoires, qui incluent également les cotisations (assurance maladie, retraites, etc.).
+Il est vrai que ces derniers ont augmenté ces dernières années, comme l'indique l'Institut national de la statistique et des études économiques (Insee) .
+Les chiffres 2014 ne sont pas encore disponibles, mais l'augmentation constatée ces dernières années provient bien de mesures fiscales, dans les lois de finances et de financement de la sécurité sociale.
+La visualisation choisie par le Front national souffre toutefois de trois biais :
+le premier est que l'axe des ordonnées ne commence pas à zéro, comme cela doit normalement être le cas, mais à 818,3 milliards d'euros.
+Cela donne une courbe à la « pente » beaucoup plus forte que réellement.
+le deuxième biais est qu'il manque deux années, 2009 et 2010.
+Choix étonnant… sauf lorsqu'on constate que ces prélèvements obligatoires ont diminué en 2009 (795,8 milliards d'euros), avant de recommencer à augmenter en 2010 (825,1 milliards d'euros) et de dépasser en 2011 le niveau de 2008.
+La baisse de 2009 est due à la récession qui a frappé le pays cette année-là (- 2,9 %).
+le troisième biais est que ces prélèvements obligatoires sont exprimés en volume (milliards d'euros).
+Or ils sont dépendants du produit intérieur brut (PIB) et de sa croissance : si le pays est en récession, comme en 2009, alors le volume diminue, comme on l'a constaté précédemment.
+Si le pays est en croissance, et donc s'enrichit, alors les prélèvements obligatoires augmenteront sans forcément que leur taux augmente.
+Il est plus judicieux de visualiser ces changements en mesurant la part de ces prélèvements obligatoires dans le PIB.
+Cela étant, dans ce cas, l'augmentation reste nette, de 42,1 % en 2007 à 44,7 % en 2013 – un niveau jamais atteint auparavant.
+Le graphique réel :
+ 
+2.
+Chômage : un graphique lui aussi trompeur
+Dans un second graphique, le Front national dénonce l'explosion du nombre de chômeurs, passé de 3,1 millions en décembre 2007 à 5,2 millions en décembre 2014.
+Le parti a ici choisi de retenir le nombre de chômeurs toutes catégories confondues : à la fois la catégorie A (aucune activité) et les catégories B et C (activité réduite).
+Ces chiffres, issus du ministère du travail, sont vrais.
+La visualisation qui en est faite, elle, laisse à désirer.
+Le graphique souffre d'un double problème :
+comme celui sur les prélèvements obligatoires, l'axe des ordonnées ne commence pas non plus à zéro, donnant la même impression d'une augmentation plus élevée qu'en réalité.
+les points de référence choisis sont tous égaux (un an, de décembre à décembre)... sauf l'avant-dernier, juillet 2014 venant troubler la visualisation.
+Le graphique réel :
+ 
+3.
+Des propositions qui n'ont rien à voir avec les conseils généraux
+Dans son tract, le Front national mentionne plusieurs de ces propositions phares, comme « arrêter l'immigration », « mettre en place le patriotisme économique », « cesser la politique d'austérité » ou encore « faire de vastes économies sur l'immigration, la fraude fiscale et l'Union européenne ».
+Problème : toutes ces thématiques ne sont aucunement du ressort des conseils généraux – et des futurs conseils départementaux.
+Ces derniers ont des compétences en matière d'aide sociale (soutiens en famille en difficulté, aux personnes handicapées, aux personnes âgées…), d'éducation (gestion des collèges), de culture (bibliothèques, musées) ou encore d'aménagement du territoire.

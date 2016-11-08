@@ -1,0 +1,15 @@
+Le site de Lenovo piraté en plein scandale sur la vie privée
+Le Monde |
+26.02.2015 à 11h48
+En plein scandale sur les pratiques en matière de vie privée du constructeur informatique chinois, le site Web de Lenovo a été brièvement piraté dans la nuit du 25 février.
+La page d'accueil du site a été remplacée par des photos de deux membres du groupe Lizard Squad, qui s'était notamment fait connaître en s'attaquant aux systèmes de jeu en ligne de Sony et Microsoft.
+Rien ne semble cependant indiquer que Lizard Squad soit à l'origine de cette attaque informatique, qui n'a pas touché le réseau informatique interne de l'entreprise.
+Lenovo est au cœur d'une vaste polémique depuis plusieurs jours, concernant le logiciel Superfish.
+Ce programme, préinstallé sur de nombreuses machines du constructeur, est conçu pour diffuser des publicités comparatives – mais pour ce faire, il utilisait un certificat de sécurité non sécurisé.
+La présence de ce logiciel publicitaire, déjà peu appréciée des clients, ouvrait par ailleurs une faille de sécurité importante, rendant les ordinateurs qui en sont équipés vulnérables à plusieurs techniques d'espionnage de leurs communications. 
+Objet de très nombreuses critiques, Lenovo a finalement annoncé avoir coupé le fonctionnement de Superfish , et mis à disposition un logiciel et un guide de désinstallation complète de ce programme ( PDF ).
+Le certificat de sécurité utilisé par Superfish est également présent dans d'autres programmes, ont découvert les équipes de sécurité de Facebook et d'autres chercheurs.
+Les utilisateurs des produits suivants sont invités à vérifier leurs certificats de sécurité  : 
+Keep My Family Secure (Komodia)
+Kurupira Webfilter Staffcop (Qustodio, versions 5.6 et 5.8)
+Easy Hide IP Classic

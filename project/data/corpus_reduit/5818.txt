@@ -1,0 +1,19 @@
+Google a publié par erreur des données privées liées à 282 000 noms de domaines
+Le Monde |
+13.03.2015 à 19h14
+Pour enregistrer un nom de domaine, il faut fournir un certain nombre d'informations à l'entreprise qui se charge de faire la démarche : nom, adresse, numéro de téléphone, e-mail… Des informations généralement publiques, qui composent le « whois » d'un nom de domaine, une sorte de carte d'identité.
+Les personnes ayant choisi le service Google Apps for Work pour enregistrer leur nom de domaine avaient la possibilité de souscrire, pour 6 dollars par an, une option permettant de rendre ces informations privées.
+Seulement voilà : le système comportait une faille et n'a pas fonctionné comme prévu.
+Résultat, les informations confidentielles relatives à plus de 282 000 noms de domaine ont été publiées, révèle vendredi 13 mars le site Ars Technica .
+Et ce, depuis le milieu de l'année 2013.
+« Ces informations resteront disponibles en permanence »
+Ce sont des ingénieurs de l'entreprise informatique Cisco qui ont découvert le problème le 19 février.
+Cinq jours plus tard, la faille était colmatée, soit près de deux ans après son apparition.
+Si elle a perduré, c'est que lors de l'enregistrement du nom de domaine, les données étaient bel et bien inaccessibles au public.
+En revanche, c'est au moment de son renouvellement qu'elles étaient rendues publiques.
+Google a averti jeudi les clients de Google Apps for Work dans un e-mail d'excuse.
+Mais, même si la faille n'existe plus, le problème n'est pas pour autant complètement réglé, soulignent les ingénieurs de Cisco, cités par Ars Technica :
+« Ces informations resteront disponibles en permanence, car un grand nombre de services archivent les informations relatives au Whois.
+»
+En clair, même si Google masque ces informations, elles ont depuis été « aspirées » par d'autres sites qui publient les « whois ».
+Difficile alors pour les personnes concernées de réussir à faire le ménage sur tous les sites impliqués.

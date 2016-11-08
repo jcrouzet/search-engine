@@ -1,0 +1,85 @@
+Cultures Web
+Du « loser » au super-héros, trente ans de hackeurs au cinéma
+A l'occasion de la sortie du film « Hacker », de Michael Mann, retour sur la figure emblématique du hackeur au cinéma et de ses clichés, qui, peu à peu, commencent à se fissurer.
+Le Monde |
+21.03.2015 à 10h32
+Il est beau, fort et charismatique : Nicholas Hattaway, le personnage principal du film Hacker , sorti le 18 mars, a tout du cliché du héros américain.
+A ceci près qu'il s'agit, comme le titre du film l'indique, d'un hackeur, type de personnage peu habitué à ce genre de représentation.
+« C'est une nouvelle manière de représenter les hackeurs, non plus comme maladroits, mais comme des leaders et des héros », se réjouit Damian Gordon, chercheur à l'Institut de technologie de Dublin, auteur de recherches sur la figure du hackeur au cinéma .
+Lire la critique du film : « Hacker » : l'homme et la machine à couteaux tirés
+Avec la démocratisation de l'informatique et d'Internet, le hackeur est devenu une figure récurrente à Hollywood, avec ses stéréotypes et ses clichés, qui tendent – un peu – à se fissurer ces dernières années.
+Retour sur l'évolution de l'image du hackeur au cinéma.
+Le hackeur, ce magicien
+Le cliché le plus tenace chez les hackeurs made in Hollywood est sans doute la facilité déconcertante avec laquelle ils pénètrent dans des systèmes ou accèdent à des données confidentielles, comme le souligne Damian Gordon, par ailleurs ingénieur en informatique :
+« Ils sont dépeints comme des magiciens.
+Ils ont la capacité de contrôler n'importe quel ordinateur de n'importe où et n'importe quand.
+Ils ont des super-pouvoirs.
+En comparaison, moi, j'ai parfois du mal à réussir à démarrer mon ordinateur. 
+»
+Une vision bien éloignée de la réalité.
+« En vrai, c'est du travail ! 
+» explique « Arroway », ingénieure en sécurité informatique, qui préfère utiliser son pseudonyme.
+« Cela nécessite plusieurs jours, il faut avoir recours à plusieurs techniques différentes… On n'accède pas aux serveurs de la NSA comme ça. 
+» Pour elle, qui a rédigé plusieurs articles sur la question, le personnage du hackeur au cinéma a quelque chose d'« omniscient » :
+« J'ai l'impression qu'on poursuit toujours la figure de Neo dans “Matrix”.
+Le hackeur a accès à la matrice, au programme, et donc il a accès au monde. 
+»
+Un truc d'ados
+Seize ans plus tôt, le hackeur faisait sa grande entrée au cinéma avec Wargames, après une première incursion moins remarquée, en 1968, dans Hot Millions.
+Dans ce film, le tout jeune Matthew Broderick, petit génie de l'informatique, s'amusait à changer ses notes sur le serveur de son école… Et se connectait au système de l'armée américaine, risquant de déclencher par erreur une guerre nucléaire.
+A cette époque, l'informatique au cinéma est associée aux adolescents, et les hackeurs avec.
+« C'étaient des adolescents ou de jeunes adultes qui pouvaient faire de mauvaises choses accidentellement », explique Damian Gordon.
+On peut aussi citer le tout jeune John Connor, qui, dans Terminator 2, piratait – tout à fait sciemment – des distributeurs automatiques de billets.
+Si les premiers hackeurs des années 1980 sont plutôt ados et « cool », les années 1990 vont changer la donne.
+La figure du hackeur connaît un pic de popularité, soutenu par la démocratisation de l'informatique et d'Internet, mais aussi par l'actualité : des arrestations spectaculaires ont lieu aux Etats-Unis, et en Europe, le Chaos Computer Club fait plusieurs fois les gros titres.
+Le cinéma suit, avec un premier film au titre explicite : Hackers, de Iain Softley, sorti en 1995.
+Contrairement à Matthew Broderick, le personnage principal est plutôt dépeint comme un « loser », qui va finir par se faire accepter par un groupe de jeunes hackeurs plus ou moins « nerds ».
+« C'est un film de teenagers limite parodique, un cliché de la subculture des années 1990 », analyse Selim Krichane, assistant chercheur à l'université de Lausanne, auteur de travaux sur les hackeurs au cinéma.
+« Ça a d'ailleurs fâché de vrais hackeurs, qui ont piraté le site du film et détourné l'affiche.
+Ils trouvaient que ça ne donnait pas une image représentative de leur pratique. 
+»
+Pour lui, ce film marque un tournant dans la représentation de cette figure au cinéma : « C'est là que se met en place le système d'opposition entre bon et méchant hackeur. 
+» Ici, les héros doivent combattre un virus capable de plonger le monde dans le chaos.
+Beaucoup de films suivent avec le même type de scénario, comme Traque sur Internet, Intraçable, Johnny Mnemonic ou Les Experts, « dans lesquels la technologie est la cause du drame mais aussi son unique solution, avec un hackeur coupable, et un autre qui va rétablir la situation ».
+Hackeurs, hackeuses
+Dans les années 2000, le hackeur se détache de l'adolescent.
+Il vieillit, occupe un travail, souvent dans l'informatique.
+La figure du hackeur, généralement un homme blanc hétérosexuel, va aussi se diversifier, avec l'apparition de personnages féminins forts.
+Lisbeth Salander, héroïne de la trilogie suédoise Millénium, marque un tournant.
+Même s'il ne s'agit pas de la première hackeuse du cinéma, elle casse les clichés qui y sont habituellement associés.
+Un symbole enthousiasmant pour Arroway :
+« C'est un des personnages les plus cool de ces dernières années.
+C'est une femme courageuse, débrouillarde, bisexuelle, à forte personnalité.
+En plus, la façon dont elle fait ses recherches pour s'introduire dans des systèmes est assez cohérente. 
+»
+Ce qui change des rares personnages féminins qu'on avait pu voir auparavant, répondant souvent aux clichés sexistes encore trop courants dans l'industrie cinématographique.
+C'est le cas du personnage interprété par Angelina Jolie dans Hackers.
+Un film qu'Arroway juge « horrible », déplorant une hackeuse « sexualisée, objectifiée ».
+« Au début, elle est montrée comme très compétente, mais au final, elle est évidemment moins forte que le héros.
+C'est pénible. 
+» Dans le film, un autre hackeur lui lance un défi informatique : si elle perd, elle devra accepter de sortir avec lui.
+Les séries, en revanche, offrent une variété plus large de hackeuses, avec des personnages tels que Chloe O'Brian (24), Abby Sciuto (NCIS), Felicity Smoak (Arrow) ou encore Willow (Buffy contre les vampires).
+La normalisation du hackeur
+Lisbeth reste néanmoins un personnage socialement inadapté, punkette sauvage et renfermée.
+Un cliché qui a la vie dure quand il s'agit d'évoquer les hackeurs et les génies de l'informatique en général, souvent carrément dépeints comme des « losers ».
+On pense par exemple au personnage interprété par Alan Cumming dans GoldenEye, informaticien stressé à petites lunettes et chemise bariolée.
+L'association entre loser et informatique est même devenue un running gag, à la base du scénario de séries comiques comme The Big Bang Theory ou encore Silicon Valley, qui mettent en scène une bande de geeks caricaturaux socialement inadaptés.
+« On montre les hackeurs comme asociaux, et pourtant, ils passent beaucoup de temps dans des conférences ou des hackathons.
+C'est un processus très important, c'est là qu'on apprend.
+Et ça, on ne le voit jamais dans les films », souligne Arroway, qui regrette que les hackeurs soient souvent dépeints comme des individus isolés « qui codent dans leur cave ».
+Mais les choses évoluent.
+« La figure du hackeur se normalise, elle devient acceptable, voire cool », assure Selim Krichane.
+Beaucoup de hackeurs des années 1980 et 1990 se sont « rangés » en entrant dans le monde de l'entreprise, voire du renseignement.
+Bill Gates, Steve Jobs et Mark Zuckerberg sont devenus des icônes, et la Silicon Valley fait rêver les jeunes du monde entier.
+Avec le film de Michael Mann sorti mercredi, le hackeur s'éloigne encore plus des clichés de l'asocial un peu gauche pour devenir un héros hollywoodien super-viril.
+Une dimension politique édulcorée
+Néanmoins, si la représentation du hackeur tend à se diversifier, reste un aspect du hackeur encore laissé de côté par l'industrie du cinéma : sa dimension politique.
+C'est en tout cas ce que regrette Selim Krichane :
+« On le voit notamment avec Snowden et WikiLeaks : le hackeur est une figure de contre-pouvoir, contestataire.
+Au cinéma, ce potentiel subversif est édulcoré par la machine hollywoodienne.
+Dans les films, le hackeur rétablit l'ordre social plutôt que de révéler les secrets du gouvernement.
+Le héros est celui qui va punir le méchant hackeur qui vole des informations sensibles. 
+»
+Cette dimension commence tout de même à apparaître sur grand écran, inspirée, justement, par l'actualité.
+Sorti en 2013, Le Cinquième Pouvoir raconte l'histoire de WikiLeaks et de Julian Assange.
+Et les révélations d'Edward Snowden ont également donné des idées à l'industrie du cinéma, puisque deux films, dont l'un réalisé par Oliver Stone, sont actuellement en préparation.

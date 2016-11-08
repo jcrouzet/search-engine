@@ -1,0 +1,43 @@
+18.02.2015 à 17h49
+| Par William Audureau
+Le 10 février, sans crier gare, le site anglais Eurogamer a abandonné son classique système de notation de zéro à dix points, remplacé par trois badges : « recommandé », « essentiel » et « à éviter ».
+Ce qui n'aurait pu relever que d'un changement de formule a été relevé par de nombreux sites spécialisés, d' ArsTechnica aux Etats-Unis à Gameblog en France, et vient poser une question récurrente : faut-il noter les jeux vidéo ?
+En apparence bénigne, elle interroge l'essence de ce média, écartelé entre son héritage d'objet juvénile, son existence première comme objet de consommation, et ses demandes répétées à une reconnaissance artistique.
+Qu'est-ce qu'une note dans un « test » de jeu vidéo ?
+Il s'agit tout simplement d'une appréciation chiffrée de la qualité du jeu, souvent apposée en fin de texte pour en résumer l'esprit.
+Elle est le plus souvent sur 10 aux Etats-Unis, sur 20 en France et sur 100 en Allemagne, mais de nombreuses variantes existent au sein d'un même pays.
+Le site Gameblog évalue les jeux sur 5, Gamekult sur 10, Jeux Vidéo Magazine et JeuxVideo.com
+sur 20, et feu le magazine Console + est longtemps resté le dernier héritier d'une décennie, les années 1990, où la note en pourcentages était la norme. 
+De quand datent les notes ?
+Elles sont presque aussi vieilles que la presse spécialisée : dès le premier âge d'or de l'arcade, entre 1979 et 1982, des revues américaines pour professionnels comme Replay et Play Meter adjoignent une note sur dix aux bornes d'arcade qu'ils essaient, afin de mieux conseiller leurs clients, essentiellement des gérants de salles de machines de jeux.
+Dans la foulée, Electronic Games en 1981 introduit un système similaire.
+De manière plus rudimentaire, le premier magazine de jeu vidéo français, Tilt, embrasse des notes sur cinq en astérisques pour son numéro de lancement en 1982.
+Son concurrent Gen 4 popularisera la formule sur 100.
+Quels sont les systèmes de notation les plus célèbres ?
+En Angleterre, le très prestigieux magazine Edge évalue les jeux sur dix, sans virgule, souvent sur des critères atypiques, en privilégiant les mécaniques et l'originalité à l'aspect technique.
+En vingt et un ans d'existence, la revue a accordé dix-sept 10/10.
+Super Mario 64 a été le premier, en 1996.
+Au Japon, le magazine Famitsu agrège quatre avis individuels sur dix en une note collective sur 40.
+Là encore, les 40/40 ont longtemps fait figure d'événements.
+Seuls The Legend of Zelda : Ocarina of Time, Bayonetta et The Legend of Zelda : Skyward Sword ont reçu la note maximale dans les deux revues.
+En France, aucun média n'a cette notoriété à l'étranger, mais au niveau national, le site Gamekult s'est fait connaître pour ses jugements sévères, au point de donner naissance à un mème, « C'est 7 », en référence à la note régulièrement attribuée à des jeux à très gros budget, comme Halo.
+En dix ans, le site n'a jamais accordé de note maximale.
+Ces notes ont-elles vraiment des conséquences ?
+Commercialement, rien ne permet de l'affirmer avec certitude.
+En revanche, l'émergence au milieu des années 2000 d'agrégateurs de notes comme Metacritic a conduit les éditeurs de jeux à ajuster les primes versées aux studios de développement à la note moyenne obtenue sur ces agrégateurs.
+Par exemple, un détail du contrat fuité liant Activision aux développeurs du jeu de tir Destiny, Bungie, évoque un bonus de 2,5 milliards si celle-ci atteint 90 sur 100 – ce qui ne sera pas le cas.
+Outre que les conséquences financières peuvent être fatales pour un studio, le calcul comporte de très nombreux biais, à commencer par les différences culturelles entre pays (les sites français sont souvent plus sévères) et le mode de calcul – toutes les notes étant rapportées sur 100, un 4/5 enthousiaste devient un 80/100 sur Metacritic, correspondant à un jeu correct sans plus.
+Existe-t-il des systèmes de notation alternatifs ?
+A la marge, oui.
+C'est par exemple ce que fait la rubrique Pixels du Monde.fr,
+en proposant à chaque fois un barème parodique différent.
+Mais l'idée n'est pas nouvelle, et dès 2004, dans Game Fan, un ancien journaliste spécialisé, Chazumaru, s'était amusé à noter Metal Gear Solid 3 : Snake Eater en fréquences de radio, manière de pervertir de l'intérieur les cadres habituels de la critique de jeu vidéo tout en rendant hommage aux nombreuses mises en abîme et effets de réel de la série, qui utilise elle-même des fréquences de radio pour communiquer avec certains personnages.
+Plus loin de nous, dans les années 1990, le rédacteur en chef de Nintendo Player avait longtemps refusé de noter les jeux, avant de céder à la pression des lecteurs, et d'adopter un système parodique, une évaluation sur six champignons. 
+Y a-t-il des critiques de jeu vidéo sans notes ?
+Oui, et ce depuis au moins le début des années 2000.
+Dans le monde anglophone, un courant rapidement baptisé « New Game Journalism » (le « nouveau journalisme jeu vidéo ») oppose à une approche chiffrée consumériste de longs textes narratifs et expérimentaux, mettant l'accent sur l'expérience du joueur davantage que sur de supposées qualités techniques objectives du produit testé.
+Il y a eu des tentatives de l'importer en France, notamment à travers les articles de Tristan Ducluzeau dans Joypad et Chronicart, ou le projet de magazine sans note Game Select, en 2005, finalement avorté.
+Toutefois, des critiques impressionnistes d'Olivier Séguret dans Libération à l'approche déconstructiviste de Martin Lefebvre sur le site indépendant Merlanfrit,  toute une littérature parallèle s'est depuis développée, et si elle diffère en de nombreux points de style, d'approche et de sensibilités, elle se rejoint dans la volonté d'adapter la langue au jeu vidéo, afin d'en dire le charme et la spécificité, plutôt que de le réduire à de scolaires notes sur 20.
+Du moins c'est la théorie.
+Car après tout, la critique œnologique réussit bien à concilier les deux.
+William Audureau

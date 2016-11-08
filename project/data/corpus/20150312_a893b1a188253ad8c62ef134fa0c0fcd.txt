@@ -1,0 +1,23 @@
+Astronomie : les tentatives pour renouer contact avec Philae ont commencé
+Le Monde |
+| Par David Larousserie
+Reprendre contact avec Philae, jauger de ses réserves en énergie, et si possible pouvoir lui transmettre de nouvelles instructions.
+Tel est le sens de l'opération entamée jeudi 12 mars afin de réveiller cet instrument scientifique, en hibernation depuis le 15 novembre 2014.
+Posé depuis le 12 novembre 2014 sur la comète 67P/Tchourioumov-Guerassimenko, Philae devait aider à percer les mystères des comètes, ces sortes de fossiles du système solaire.
+Porte-parole du Centre européen des opérations spatiales, Daniel Scuka expliquait, mercredi 11 mars, en quoi consiste l'opération : « Nous allumerons la réception de la radio de Rosetta [la sonde qui a déposé Philae sur la comète] sur le canal qu'utilise Philae.
+Sur une période de 8 jours, jusqu'au 20 mars, nous aurons 11 fenêtres où tout coïncidera particulièrement bien : la proximité de la comète et la situation géométrique.
+» Mais après la première tentative, le robot n’a toujours pas envoyé de message à la Terre sur son état de santé.
+Zone d’ombre
+La tâche des scientifiques est compliquée par le fait que Philae se trouve dans une zone d’ombre dans l’hémisphère sud de la comète.
+Or l’instrument tire son énergie de panneaux solaires, seulement éclairés pendant une heure trente par jour, alors qu’il en faudrait quatre fois plus pour mener des expériences.
+Mais comme la comète se rapproche du Soleil, la puissance reçue a doublé depuis novembre, ce qui suscite l’espoir des scientifiques.
+A l’inverse, les températures très froides (jusqu’à -90 degrés Celsius) régnant sur la comète pourraient avoir mis l’électronique hors service .
+Avant de pouvoir envoyer depuis la Terre les ordres d’exécution de manœuvres et d’expériences, les équipes doivent d’abord connaître précisément l’état de charge du robot, la température extérieure et divers diagnostics techniques.
+Un minimum de 5,5 watts est requis pour réveiller Philae, et sa température doit être d’au moins -45 degrés Celsius.
+Il faut 19 watts pour qu’il puisse envoyer à la Terre ses données.
+Du coup, le robot peut être réveillé sans que les terriens ne le sachent…
+L’objectif est d’obtenir des mesures in situ au moment où la comète commence à être très active
+Avec la seule énergie de ses panneaux solaires, des mesures des paramètres de la comète (température...) ou des images peuvent être prises, mais pour les expériences de forage ou l’utilisation des fours destinés à analyser les échantillons prélevés, il faudra que la batterie secondaire soit chargée, ce qui nécessite plus de temps.
+Les scientifiques ont néanmoins déjà préparé différentes séquences de travail à envoyer au laboratoire, en fonction de son état de forme.
+L’intérêt de ce réveil est d’obtenir des mesures in situ à un moment où la comète commence à être très active : sous l’effet de la « chaleur », ses glaces d’eau, de carbone, de méthane sont vaporisées, emportant avec elle de la matière cométaire (ce qui forme la fameuse queue des comètes).
+Même si Philae ne se réveille pas, les chercheurs ont du travail car la vingtaine d’instruments embarqués sur la sonde Rosetta, qui a lâché Philae le 12 novembre, fonctionnent parfaitement et accumulent des données, encore jamais obtenues sur une comète.

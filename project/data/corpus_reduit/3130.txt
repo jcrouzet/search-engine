@@ -1,0 +1,25 @@
+Les voitures connectées sont vulnérables au piratage
+Le Monde |
+• Mis à jour le
+09.02.2015 à 19h54
+L' avenir de la voiture autonome et connectée reste encore à écrire , mais suscite déjà l'inquiétude.
+Un rapport, rédigé par un sénateur américain et publié lundi 9 février, met en garde contre le fait que presque toutes les voitures connectées sur les routes sont encore vulnérables à d'éventuels cyberpirates, qui pourraient voler des données personnelles ou prendre le contrôle du véhicule.
+Il y a des failles de sécurité dans « presque 100 % des véhicules [connectés] sur le marché », selon ce rapport préparé par l'équipe du sénateur démocrate Ed Markey sur la base de données collectées auprès de 16 grands constructeurs automobiles.
+« PRENDRE LE CONTRÔLE D'UN VÉHICULE »
+« Même si nous sommes plus connectés que jamais dans nos voitures, nos systèmes informatiques et de protection des données restent largement non protégés », a commenté M. Markey dans un communiqué, où il estime que les constructeurs « n'ont pas fait leur travail pour nous protéger ».
+« Il y a un manque clair de mesures de sécurité appropriées pour protéger les conducteurs contre les pirates qui pourraient prendre le contrôle d'un véhicule ou contre ceux qui désirent collecter et utiliser des données personnelles du conducteur. 
+»
+Les pirates peuvent accéder au véhicule par l'intermédiaire de connexions sans fil en Bluetooth, du système d'assistance à distance OnStar (filiale de General Motors), d'un virus sur un smartphone Android ( Google ) connecté au véhicule ou même d'un CD infecté lu par le système audio de la voiture, détaille le rapport.
+Lire aussi (en édition abonnés) : La voiture, nouvelle frontière de la high-tech
+Il cite aussi des études réalisées auparavant montrant comment les pirates peuvent prendre le contrôle de certains véhicules populaires, et les faire brutalement accélérer ou tourner , klaxonner , désactiver leurs freins, allumer ou éteindre les phares, modifier l'affichage du compteur de vitesse ou de la jauge de carburant...
+Certaines voitures connectées peuvent aussi collecter illégalement des données sur la conduite.
+UN MARCHÉ DE 25 MILLIARDS D'EUROS EN 2015
+Le rapport estime que les constructeurs ont pris peu ou pas de mesures après des études mettant en lumière ces vulnérabilités en 2013 et 2014.
+Deux alliances de constructeurs ont adopté récemment des codes de bonne conduite mais le rapport juge leur interprétation pas assez claire.
+« Des protections solides des données privées des consommateurs et une sécurité solide des voitures sont nécessaires pour maintenir la confiance de nos clients », a indiqué l'Alliance des contructeurs automobiles, sise aux Etats-Unis.
+Le rapport s'appuie sur des données collectées auprès de BMW, Chrysler, Ford, General Motors, Honda, Hyundai, Jaguar Land Rover, Mazda, Mercedes-Benz, Mitsubishi, Nissan, Porsche, Subaru, Toyota, Volkswagen et Volvo.
+Le marché de l' automobile connectée est estimé par le cabinet Strategy  à 25 milliards d'euros en 2015.
+Et devrait quadrupler d'ici à 2020 pour atteindre quelque 95 milliards d'euros.
+Le nombre de voitures connectées devrait, lui, passer de 36 millions d'unités aujourd'hui à 152 millions en 2020, selon le cabinet IHS.
+Lire aussi (en édition abonnés) : Automobile : les promesses de la connexion
+Industrie automobile

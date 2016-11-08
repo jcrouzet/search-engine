@@ -1,0 +1,22 @@
+Trois millions de dollars de récompense pour l’arrestation d’un criminel informatique
+Le Monde |
+| Par Olivier Dumons
+Evgueni Mikhaïlovitch Bogatchev est « peut-être le plus important cybercriminel de la planète », a déclaré lundi 23 février William Brownfield, chargé de la coopération judiciaire internationale au département d’Etat.
+« M. Bogatchev est accusé d’avoir été l’administrateur d’un réseau ayant implanté un logiciel pirate sur plus d’un million d’ordinateurs » et d’avoir dérobé « plus de 100 millions de dollars » à des particuliers et des entreprises, selon le communiqué du département d’Etat, qui offre 3 millions de dollars (environ 2,6 millions d’euros) pour tout renseignement amenant à sa capture.
+Depuis mai 2014, M. Bogatchev n’est plus un inconnu pour les différents services internationaux de la lutte contre le cybercrime.
+Pas plus que le réseau qu’évoquent les autorités américaines, plus connu sous le nom de Gameover Zeus, un des plus vastes réseaux de machines zombies (botnets).
+Ce réseau permettait de contrôler un programme espion destiné à pénétrer dans les comptes bancaires de ses victimes et de piloter Cryptolocker, un logiciel qui crypte les données de sa victime et réclame ensuite une rançon pour les décrypter, l’un des plus redoutables du genre.
+Machines zombies venues de l’Est
+Ces réseaux de machines sont un atout remarquable pour le ou les pirates qui les possèdent et les administrent : ils permettent de procéder à des envois de masse de courriels piégés et d’infecter ainsi de nombreux ordinateurs ou de saturer un site en y multipliant les tentatives de connexion.
+Zeus, créé en 2007, puis « Gameover Zeus », son successeur depuis septembre 2011, étaient des botnets extrêmement performants.
+Le 23 mai 2014, une opération internationale, baptisée « Opération Tovar », avait mis un coup d’arrêt à leurs opérations.
+« Gameover Zeus est le réseau le plus sophistiqué que le FBI et nos alliés aient jamais tenté de démanteler », déclarait le 2 juin Robert Anderson, haut responsable de la police fédérale.
+Après une enquête judiciaire débutée en Pennsylvanie il y a deux ans et demi et impliquant plus d’une dizaine de pays (Australie, France, Italie, Japon, Luxembourg, Pays-Bas, Royaume-Uni, Suisse) mais aussi des entreprises privées (Afilias, Dell, Deloitte, McAfee, Microsoft, Symantec), l’opération Tovar avait permis de « couper les lignes de communications » entre les ordinateurs infectés et le réseau Gameover Zeus, selon David J. Hickton, le procureur fédéral local.
+C’est notamment l’aide des autorités ukrainiennes qui a permis au FBI de saisir le 7 mai à Donetsk et à Kiev les premiers serveurs de commande et contrôle, permettant au FBI d’identifier le criminel à l’origine du botnet, de remonter les différentes ramifications des serveurs (situés en Allemagne, au Canada, en France, au Luxembourg, aux Pays-Bas, au Royaume-Uni et donc en Ukraine) et de préparer le démantèlement de l’ensemble.
+Lors de cette opération, les autorités se sont concentrées sur un gang de criminels russes et ukrainiens, dont les principaux responsables furent arrêtés.
+Mais M. Bogatchev, administrateur principal de ces ordinateurs zombies, est toujours recherché.
+Féru de voile en mer Noire
+Inculpé en début de semaine en Pennsylvanie pour crime organisé, piratage informatique, fraude électronique, financière et bancaire et blanchiment d’argent, Evgueni Bogatchev devient, à 31 ans, le cybercriminel le plus recherché .
+À l’heure actuelle, et selon les dernières informations de la justice américaine, ce Russe originaire d’Anapa, au bord de la mer Noire, et féru de voile, résiderait toujours en Russie.
+Figure de la criminalité sur Internet dès l’âge de 25 ans, il sévissait notamment sous les pseudonymes de Slavic, Monstr, IOO, lucky12345, Pollingsoon, ou encore Nu11.
+Joseph Desmarest, directeur adjoint de la cyberdivision du FBI, a précisé que ces informations avait été transmises dans leur ensemble au FSB, le service du renseignement russe.

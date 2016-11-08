@@ -1,0 +1,42 @@
+import java.io.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+
+import tools.Normalizer;
+import java.io.*;
+import java.io.*;
+public class Index {
+
+	
+	public File corpus;
+	public Normalizer normalizer;
+
+
+	public Index(Normalizer normalizer, File corpus)
+	{
+		this.normalizer = normalizer;
+
+		this.corpus = corpus;
+	}
+	
+	// get the occurence of each term in each document
+	
+	public void  getTf () throws IOException {
+		
+	HashMap<String, HashMap<String, Integer>> tf = new HashMap<String, HashMap<String, Integer>>();
+	int occurences = 0 ;
+	
+	if (corpus.isDirectory()) {
+		File [] files_corpus = corpus.listFiles();
+		for (File file : files_corpus)
+		{
+			ArrayList<String> words = normalizer.normalize(file);
+		// indexation by alphabetic order	
+			HashSet<String> wordsInFile = new HashSet<String> () ;
+			
+		}		
+	}
+	}
+}	
+	

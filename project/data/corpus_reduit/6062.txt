@@ -1,0 +1,35 @@
+Nourrissons de Chambéry : la bactérie (probablement) responsable identifiée
+Le Monde |
+| Par Sandrine Cabut
+La mystérieuse bactérie impliquée dans le décès de trois nouveau-nés à l’hôpital de Chambéry en décembre 2013 a désormais un nom : Rouxiella chamberiensis.
+L’équipe de l’Institut Pasteur de Paris à l’origine de l’identification de ce germe d’un nouveau genre, vient de publier ses travaux dans l’International Journal of Systematic and Evolutionary Microbiology, la revue de référence en taxonomie.
+Rouxiella chamberiensis a été ainsi baptisée en hommage à Emile Roux, cofondateur de l’Institut Pasteur ; le nom de l’espèce – chamberiensis – a lui été attribué en référence au lieu de l’apparition de cette nouvelle bactérie.
+Soupçons sur les poches de nutrition
+En quelques jours, fin 2013, trois nourrissons, dont deux prématurés, étaient décédés brutalement de choc septique à l’hôpital de Chambéry.
+Un quatrième avait été sauvé in extremis.
+Rapidement, les soupçons s’étaient orientés vers les poches de nutrition parentérale utilisées pour alimenter ces bébés.
+Les analyses de ces poches, fabriquées par le laboratoire Marette, avaient permis d’établir qu’elles étaient contaminées par une même bactérie, jusque-là inconnue.
+C’est dans ce cadre qu’a été sollicitée la Cellule d’intervention biologique d’urgence (CIBU) de l’Institut Pasteur, dirigée par Jean-Claude Manuguerra.
+Dès mi-janvier 2014, Anne Le Flèche-Matéos (première auteure de l’article) et ses collègues avaient séquencé l’intégralité du génome de cette bactérie inconnue, et l’ont progressivement caractérisée.
+Mais sa reconnaissance officielle n’intervient que maintenant, car c’est un processus long et très codifié.
+Rouxiella chamberiensis appartient aux entérobactéries, une vaste et hétérogène famille de germes qui comporte plus de 50 genres, comme par exemple Escherichia coli, les salmonelles (responsables entre autres de la typhoïde), ou encore les yersinia (dont fait partie le bacille de la peste).
+« Elle cesse sa croissance au-delà de 30 C, ce qui est plutôt rassurant car cela en fait un mauvais candidat pour une épidémie »
+« Il s’agit très certainement d’une bactérie de l’environnement, mais on ne pourra trouver son habitat précis (terre, eau…) que lorsque des analyses d’échantillons permettront de la mettre en évidence dans un environnement », expliquent Anne Le Flèche-Matéos, et Ana Maria Burguière (cosignataire de l’article).
+« L’une de ses caractéristiques est de pousser à basse température, environ 4 C, alors que la majorité des entérobactéries sont incapables de pousser en dessous de 8 C, ajoute le virologue Jean-Claude Manuguerra, responsable de la CIBU.
+De plus, elle cesse sa croissance au-delà de 30 C, ce qui est plutôt rassurant car cela en fait un mauvais candidat pour une épidémie. 
+»
+Sensible aux antibiotiques
+Par ailleurs, Rouxiella chamberiensis s’est montrée sensible aux 39 antibiotiques testés, ce qui ne signifie pas qu’elle ne soit pas dangereuse.
+En effet, la toxicité des entérobactéries peut provenir de leurs endotoxines, dont le relargage est accru par un traitement antibiotique.
+Ces résultats peuvent-ils éclairer l’enquête judiciaire, en cours d’instruction au pôle santé du tribunal de grande instance de Marseille ?
+Une première enquête sanitaire, menée au moment des cas par l’Agence nationale de sécurité du médicament et des produits de santé (ANSM), avait conduit, le 7 janvier 2014, à la suspension de l’activité du laboratoire Marette (qui a depuis fermé ses portes, en juillet 2014).
+D’autres investigations, notamment conduites par l’Agence régionale de santé (ARS) Rhône-Alpes n’avaient pas montré de dysfonctionnement sur le reste de la chaîne, et en particulier à l’hôpital de Chambéry.
+« Je pense que ce qui s’est passé à Chambéry relève d’une conjonction d’événements peu probables »
+Pour Jean-Claude Manuguerra, les caractéristiques de Rouxiella chamberiensis (origine environnementale, multiplication à basse température, incapacité de survivre dans le corps humain) plaident en faveur de l’hypothèse, déjà évoquée à l’époque, d’un accident de contamination.
+« Je pense que ce qui s’est passé à Chambéry relève d’une conjonction d’événements peu probables », indique-t-il.
+« A ce stade, rien ne permet d’affirmer à 100 % que cette bactérie est à l’origine des décès des nourrissons à Chambéry.
+La preuve serait de mettre en évidence ce germe dans des prélèvements provenant de ces enfants », précisent Anne Le Flèche-Matéos et Ana Maria Burguière.
+Ce pourrait être la prochaine étape.
+Il est en tout cas prévu que l’équipe de Pasteur apporte son expertise dans le cadre de l’enquête judiciaire, qui devrait permettre d’établir le scénario de contamination des poches de nutrition.
+Parallèlement, les chercheurs de Pasteur poursuivent leurs investigations scientifiques, en collaboration avec d’autres équipes, pour déterminer l’habitat de Rouxiella chamberiensis, mettre au point des outils moléculaires de détection, étudier l’endotoxine…
+D’ores et déjà, les souches bactériennes et toutes les données génomiques ont été mises à disposition de la communauté scientifique internationale.

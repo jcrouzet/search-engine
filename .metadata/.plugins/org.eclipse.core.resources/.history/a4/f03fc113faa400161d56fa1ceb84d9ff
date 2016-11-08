@@ -1,0 +1,30 @@
+import java.io.*;
+import java.util.HashMap;
+
+import tools.Normalizer;
+
+
+public class Index {
+
+	// public void index_corpus(File corpus , Normalizer normalize) throws IOException {
+		
+//		// first step is create an index file 
+//		File index = new File("/home/amal/search-engine/project/index.txt");
+//	 if (index.exists())
+//	 {
+//		 FileWriter writer = new FileWriter(index,false);
+//	 }
+//	 else
+//	 {
+//		index.createNewFile(); 
+//		
+//		}
+//	 }
+		
+		
+	
+	// }	
+	
+	
+		
+	}

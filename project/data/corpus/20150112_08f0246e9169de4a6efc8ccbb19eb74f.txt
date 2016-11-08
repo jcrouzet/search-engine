@@ -1,0 +1,47 @@
+Cancer et hasard, gare aux dérives interprétatives
+Le Monde |
+• Mis à jour le
+13.01.2015 à 10h36
+Un article paru le 2 janvier dans la revue Science , écrit par deux scientifiques réputés de l’université Johns-Hopkins (Baltimore), annonçait que la variation du risque de survenue de cancer entre différents organes était expliquée par le nombre de divisions des cellules souches dans les tissus concernés pendant la durée de vie ( Le Monde du 3 janvier ).
+Il est rare qu’une publication scientifique provoque autant de réactions du public, des scientifiques, des associations.
+Elles s’expliquent en partie par l’irruption des approches mathématiques en biologie et en médecine , mais pas seulement.
+Cet article, dont les conclusions et la formulation sont ambiguës, était accompagné par un commentaire éditorial du journal Science et un communiqué de l’université Johns-Hopkins, affirmant que le hasard et la malchance – « bad luck » – interviennent dans un plus grand nombre de cancers que les facteurs environnementaux, comportementaux et héréditaires.
+Cette malchance serait, selon le communiqué, responsable de 65 % des cancers, entretenant une confusion entre variations des localisations des tumeurs (22 localisations – dont cinq que l’on peut considérer comme identiques, atteignant différents os – sur 31 au total ) et variations du taux d’incidence des cancers (nombre de nouveaux cas de cancers survenant dans une population ).
+On doit regretter la dérive des interprétations entretenue par une communication imprécise.
+Les cellules souches sont des cellules indifférenciées caractérisées par leur capacité à engendrer des cellules spécialisées par différenciation cellulaire, tout en se maintenant par prolifération (auto-renouvellement).
+Les auteurs montrent effectivement une corrélation entre le nombre de divisions des cellules souches pendant la durée de vie et le risque de développer un cancer dans quelques organes particuliers.
+Le nombre de divisions de ces cellules étant associé à un risque constant de mutations, les auteurs concluent que plus le potentiel de renouvellement de cellules souches d’un organe est élevé, plus le risque de cancer augmente dans ce tissu pendant la durée de la vie.
+ 
+Dérive des informations
+Il s’agit d’une information scientifique originale et intéressante, qui porte sur un nombre de tissus limité (31, dont cinq segments osseux, trois localisations de tumeurs digestives et d’autres cancers de fréquence variable : peau, poumon, cerveau, ovaire, os, sang…) , les données sur les cellules souches étant encore peu abondantes ou fiables.
+Le nombre cumulé de divisions est donc étroitement lié à l’âge et il est admis que le taux de mutations augmente avec le vieillissement en même temps que les capacités de réparation des mutations diminuent.
+La nouveauté de ce travail réside dans cette nouvelle variable, les cellules souches, confortée par une explication de la variation d’incidence entre cancers fréquents de certains organes (cancers du côlon et du rectum) et les tumeurs rares d’organes voisins (duodénum et intestin grêle) a priori exposés aux mêmes risques externes.
+Les auteurs estiment que 65 % des différences de risque de cancer observées entre les différents tissus sont expliquées par le nombre total de divisions des cellules souches.
+La dérive des informations affirmant que deux tiers des cancers sont liés au manque de chance est susceptible d’avoir un impact très négatif dans les approches de prévention des cancers.
+Ces résultats et corrélations sont basés sur des données de risque occidentales.
+Elles cachent en fait notre ignorance résiduelle sur la génétique de prédisposition et sur l’influence de facteurs exogènes, vie fœtale, infections, environnement et comportements non encore identifiés.
+Substances cancérigènes
+Le rôle important d’un certain nombre de substances cancérigènes ne fait toutefois aucun doute.
+Il est avéré depuis près de cinquante ans que le risque de base du cancer du poumon chez un non-fumeur est multiplié par un facteur 30 à 50 par la consommation régulière et prolongée de tabac .
+Le cancer du col utérin chez la femme semble être quasi exclusivement dû à l’infection par les virus HPV (papilloma virus humains).
+Le cancer du foie, une des tumeurs les plus fréquentes et les plus graves en Afrique et en Asie, est surtout lié aux virus des hépatites B et C auxquels peut se surajouter l’exposition à des agents exogènes comme l’Aflatoxine B.
+Son augmentation récente dans les pays occidentaux pourrait être liée à la suralimentation et au tabagisme, en plus du rôle de l’ alcool déjà bien connu.
+L’étude publiée dans Science laisse en suspens d’autres interrogations.
+Comment, dans le cadre du hasard, placer les inégalités sociales, géographiques et économiques qui ont un impact sur la survenue des cancers ?
+Et comprendre les tumeurs de l’enfant ?
+Le réel problème que soulève cet article dans ses conclusions est d’affirmer que les événements liés au hasard ont une responsabilité très « substantielle » dans la survenue des cancers et de pointer du doigt le fait que la prévention ne concernerait qu’un nombre limité d’organes.
+En fait, d’autres chiffres montrent qu’un tiers des cancers, parmi les plus graves, sont quasi exclusivement dus au tabac (P.
+Jha et R.
+Peto, New England Journal of Medecine, 2 janvier 2014), qu’environ 10 % à 15 % des cancers sont liés à une alimentation inadéquate ou à des toxiques environnementaux, et que le patrimoine génétique « pèserait » sur environ 10 % des cancers.
+Cette corrélation, mise en perspective avec les erreurs génétiques ou mutations associées aux divisions cellulaires portant sur les cellules souches, permet de réinterpréter les variations de risque entre différents organes.
+Prévention
+Extrapoler ces données partielles portant sur quelques tissus à l’ensemble des cancers est un raccourci qui n’autorise pas à conclure sur la valeur effective de la prévention et du dépistage précoce dans le plus grand nombre de cancers.
+Echappent à ce travail deux cancers fréquents, ceux du sein et de la prostate, pour lesquels le lien avec le vieillissement est avéré par des analyses systématiques : après 75 ans, près de 30 % des femmes ont des tumeurs du sein essentiellement muettes, et 40 % à 50 % des hommes ont un cancer de la prostate (J.
+Jahn et coll.,
+International Journal of Cancer, 8 janvier 2015, en ligne).
+Cette présence sans impact sur la vie s’oppose à la gravit é des mêmes cancers survenant à un âge plus précoce.
+Le caractère inéluctable (événements stochastiques, aléatoires) de la transformation maligne de certains tissus de l’organisme porté par cet article ne rend pas compte de la diversité des différents types de cancers.
+Il serait très dangereux de laisser penser que la prévention ne concerne que de rares cas au prétexte que la plupart des cancers seraient liés à la « malchance ».
+Aux côtés des efforts du dépistage et du progrès thérapeutique, la poursuite des recherches sur les facteurs de risques individuels (hérédité et comportements) et collectifs (environnementaux et sociétaux) vise à mieux comprendre les cancers et les prévenir ou les dépister .
+Le hasard de la pagination dans le journal Science met un article d’auteurs européens immédiatement après celui des scientifiques américains : ils montrent que fumer est associé à la perte du chromosome Y dans les cellules sanguines, proposant ainsi une explication au risque plus élevé de survenue et de gravité des cancers liés au tabac chez les hommes que chez les femmes.
+Fabien Calvo est professeur à l’université Paris Denis-Diderot, directeur scientifique de Cancer Core Europe , Campus Gustave-Roussy, Villejuif.

@@ -1,0 +1,46 @@
+10 février 2015 , par Guillaume Cannat
+Cure d’amaigrissement en vue pour la comète « Tchouri »
+Un communiqué de presse diffusé hier par le Max Planck Institute for Solar System Research annonce que la face sud du noyau de la comète 67P Tchourioumov-Guerassimenko pourrait perdre jusqu’à 20 mètres d’épaisseur lors de son passage au plus près du Soleil.
+Ce portrait de la comète 67P Tchourioumov-Guerassimenko est une mosaïque d’images prises le 3 février 2015 par la caméra de navigation de la sonde Rosetta, alors qu’elle se trouvait à 28 km de distance.
+J’ai volontairement et exagérément accentué la luminosité et le contraste afin de mettre en évidence les multiples jets de gaz chargés de poussières qui s’échappent déjà du noyau.
+Cela nous donne un avant-goût de ce qui nous attend dans les prochains mois, lorsque l’augmentation de l’énergie solaire reçue par la surface provoquera un dégazage de plus en plus intense.
+Rosetta se sera alors éloignée de quelques dizaines de kilomètres pour ne pas risquer d’être déstabilisée par des jets particulièrement puissants, mais elle sera, et nous avec, aux premières loges pour suivre l’augmentation de l’activité du noyau jusqu’au paroxysme périhélique : le spectacle promet d’être fascinant !
+ESA/Rosetta/NAVCAM – CC BY-SA IGO 3.0 ; traitement Guillaume Cannat
+Même s’il augmente régulièrement, le dégazage du noyau de 67P Tchourioumov-Guerassimenko est encore plutôt modeste.
+Rien de plus normal puisque la comète accompagnée par Rosetta se situe encore à plus de 350 millions de kilomètres du Soleil, loin à l’extérieur de l’orbite de la planète Mars.
+Cette distance va fondre dans les mois qui viennent et l’énergie solaire reçue par la surface va croître spectaculairement.
+La glace d’eau présente sous la couche de poussières minérales qui enveloppe presque intégralement le noyau va se sublimer, passer de l’état solide à l’état gazeux, et de puissants jets de vapeur d’eau chargés de poussières font fuser, arrachant des fragments plus ou moins volumineux à la surface.
+Le processus est connu et on l’a déjà vu à l’œuvre avec plus ou moins de détails sur quelques comètes lors de brefs survols effectués par des sondes, par exemple sur la comète de Halley croisée par la sonde européenne Giotto en mars 1986 ou sur la comète 103P Hartley 2 survolée par la sonde américaine Deep Impact/EPOXI en novembre 2010.
+Mais, ce qui est nouveau, ce sont les prévisions les plus récentes des scientifiques fondées sur les observations réalisées depuis plusieurs mois avec les instruments de la sonde Rosetta.
+Le modèle élaboré pour rendre compte de l’activité actuelle du noyau et de son augmentation régulière permet aujourd’hui d’annoncer que l’hémisphère Sud de 67P Tchourioumov-Guerassimenko pourrait perdre jusqu’à 20 mètres d’épaisseur lors des mois qui entoureront le passage de la comète au plus près du Soleil – le périhélie se produira le 13 août prochain à 186 millions de kilomètres du Soleil.
+Voici un autre portrait du noyau, obtenu le 31 janvier par la caméra de navigation de Rosetta, auquel j’ai appliqué le même traitement.
+Les jets qui s’échappent de la région du cou sont les plus puissants que l’on observe depuis de nombreux mois, mais on peut constater que de multiples autres zones sont déjà actives.
+La luminosité réfléchie par les poussières microscopiques en suspension dans la chevelure est suffisante pour que le profil du noyau se découpe devant.
+Nombre des petits points visibles sont des fragments arrachés à la surface par l’activité : certains retombent vers le noyau et d’autres sont en orbite autour et disparaîtront à l’approche du Soleil.
+Vous pouvez voir les images originales de la caméra de navigation sur le site de l’ESA : ici et ici .
+ESA/Rosetta/NAVCAM – CC BY-SA IGO 3.0 ; traitement Guillaume Cannat
+Pourquoi l’hémisphère Sud et pas l’ensemble du noyau ?
+Parce que l’inclinaison de l’axe de rotation du noyau est de 52, un peu plus de 2 fois plus que l’inclinaison de l’axe terrestre (23,5), et cette forte inclinaison aura une conséquence importante : l’hémisphère Sud, dont certaines zones sont actuellement plongées dans une nuit permanente et glaciale depuis plusieurs années, sera celui que le Soleil éclairera en plein durant une dizaine de mois autour du périhélie.
+Ce rythme saisonnier extrême est dû à l’orbite fortement elliptique que parcourt le noyau qui passe bien plus de temps loin du Soleil que près de lui ; l’inclinaison de son axe de rotation favorise l’ensoleillement de l’hémisphère Sud au moment du périhélie et cet hémisphère connaît un bref « été » d’une dizaine de mois après un long « hiver » de près de 5,6 années.
+Cela n’a probablement pas toujours été le cas.
+Les comètes sont des petits corps sensibles aux perturbations gravitationnelles des planètes, notamment la massive Jupiter, et dont l’inclinaison de l'axe de rotation et même la forme de l’orbite peuvent changer passage après passage.
+Mais, pour cette fois, l’inclinaison est ce qu’elle est et le dégazage estival de l’hémisphère austral pourrait se révéler très impressionnant.
+Voici un modèle de forme simplifié du noyau de la comète 67P Tchourioumov-Guerassimenko avec l’indication de son axe de rotation (en bleu) et de son plan équatorial (vert et rouge).
+ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA
+Le moment-clé du changement de saison va se produire vers le mois de mai, lorsque le Soleil commencera à inonder les régions actuellement plongées dans la nuit.
+La comète sera alors près de 100 millions de kilomètres plus proche du Soleil et l’érosion provoquée par la montée en puissance du dégazage devrait être intense dans l’hémisphère Sud.
+Le modèle présenté par les scientifiques qui gèrent la caméra OSIRIS de Rosetta permet d’estimer l’érosion cumulée des différentes régions du noyau lors du passage au périhélie.
+Horst Uwe Keller (Institute for Planetary Research of the German Aerospace Center, DLR), principal investigateur émérite d’OSIRIS, estime « qu’il existe bien sûr une incertitude sur les valeurs, mais le modèle reproduit très bien le taux d’érosion que nous observons actuellement, c’est donc un bon point de départ. 
+» La principale incertitude est liée à l’épaisseur de la couche de poussières minérales qui recouvre le noyau et qui doit probablement varier de quelques millimètres à quelques mètres selon les régions, alors que le modèle actuel est fondé sur une fine couche uniformément répartie.
+Les observations de Rosetta permettront d’affiner les paramètres dans les prochains mois.
+Pour l’heure, la carte simplifiée de la surface présentée ci-dessous montre que l’érosion devrait varier de quelques centimètres pour la plupart des régions de l’hémisphère Nord, celui que Rosetta observe depuis son arrivée en août 2014, à près de 20 mètres pour celles que nous découvrirons dans le courant du printemps.
+D’après un modèle proposé par certains des scientifiques qui gèrent la caméra OSIRIS de Rosetta, l’hémisphère Sud du noyau de la comète 67P Tchourioumov-Guerassimenko (à droite sur cette illustration) pourrait perdre une couche pouvant aller jusqu’à 20 m d’épaisseur lors du passage au périhélie.
+Dans l’hémisphère Nord (à gauche), qui est celui que nous voyons depuis l’arrivée de Rosetta, seules quelques structures pourraient perdre plusieurs mètres d’épaisseur, mais la majeure partie de la surface serait apparemment peu érodée au périhélie.
+ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA
+Samedi prochain, le 14 février, Rosetta effectuera son survol le plus rapproché du noyau avant bien longtemps.
+Elle glissera au-dessus du grand lobe et de la région baptisée Imhotep à seulement 6 000 m d’altitude et circulera durant quelques heures dans la partie interne de la chevelure gazeuse et poussiéreuse qui enveloppe le noyau afin de prélever des échantillons.
+Dans les semaines et les mois qui viennent, Rosetta effectuera une succession de survols à une distance qui sera progressivement adaptée en fonction de la montée en puissance de l’activité de la comète.
+Selon son état de santé après le périhélie, Rosetta pourrait de nouveau se rapprocher du noyau et se remettre en orbite autour de lui lorsque le dégazage diminuera.
+Quant à Philae, qui n’a toujours pas été repéré sur la surface, les responsables de la mission pensent encore qu’il devrait se rallumer automatiquement dans le courant du printemps lorsque l’ensoleillement croissant permettra à ses panneaux solaires de fournir assez d’électricité pour le réchauffer et pour charger sa batterie.
+Espérons simplement que le sol ne va pas disparaître sous lui ou qu’il ne va pas être satellisé par un nouveau jet !
+Guillaume Cannat (pour être informé de la parution de chaque nouvel article, suivez-moi sur  Twitter , sur  Facebook  ou sur  Google+ )

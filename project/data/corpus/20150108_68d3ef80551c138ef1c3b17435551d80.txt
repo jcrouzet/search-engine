@@ -1,0 +1,46 @@
+Espoir avec la découverte d’un nouvel antibiotique
+Le Monde |
+| Par Paul Benkimoun
+Un nouvel antibiotique prometteur a été identifié par une équipe de chercheurs américains et allemands dont les résultats sont publiés jeudi 8 janvier dans la revue Nature .
+Une découverte à marquer d’une pierre blanche tant cela est devenu rare dans cette catégorie de médicaments, contrairement à d’autres domaines.
+La molécule identifiée a montré, chez la souris, une efficacité contre des bactéries difficiles à traiter .
+Une dizaine d’années seront encore nécessaires pour qu’elle soit éventuellement utilisable chez l’homme.
+L’alarme a été maintes fois donnée.
+Après l’ère dorée allant des années 1940, où les antibiotiques sont apparus, à la fin des années 1950, où ils se sont multipliés, deux problèmes sont survenus : la découverte de nouveaux antibiotiques s’est progressivement tarie – six classes nouvelles ont vu le jour depuis les années 1960 – et, dans le même temps, les souches bactériennes résistantes aux molécules existantes ont proliféré.
+Le premier phénomène s’explique par le désintérêt croissant des industriels pour des médicaments utilisés le plus souvent pour de brèves périodes et dont la durée de vie sur le marché est écourtée par le développement des résistances.
+Le second résulte d’une utilisation abusive et inadaptée des antibiotiques : l’excès de prescription et de consommation , l’interruption trop précoce des traitements, l’administration massive à des fins économiques dans des élevages d’animaux…
+Lire aussi : Le business model cassé des antibiotiques
+Fabriquée par une moisissure
+Au point que les résistances bactériennes ont entraîné une mobilisation des Etats.
+En France , Marisol Touraine a lancé en novembre un « groupe de travail pour la préservation des antibiotiques », chargé de présenter ses propositions en juin 2015 pour réduire une consommation supérieure à la moyenne européenne.
+Depuis septembre, des experts britanniques travaillent sur de nouveaux modèles économiques.
+Selon ces derniers, la résistance aux antibiotiques pourrait causer 10 millions de morts par an d’ici à 2050.
+Aux Etats-Unis, un décret signé en septembre par Barack Obama vise à renforcer les capacités de combattre la résistance des bactéries.
+Lire aussi : Les Etats en guerre contre les bactéries
+C’est dans ce contexte que Losee Ling (NovoBiotic Pharmaceuticals, Cambridge, Massachusetts) et ses confrères de plusieurs institutions publiques américaines et allemandes se sont mis en chasse de nouvelles molécules dotées d’une activité antibactérienne.
+La mise au point d’antibiotiques a reposé jusqu’ici sur l’identification de substances produites naturellement par des micro-organismes présents dans le sol.
+Ces substances permettent de se défendre contre des bactéries.
+La pénicilline est ainsi à l’origine fabriquée par une moisissure.
+Les substances naturelles présentent l’avantage d’être le fruit d’une longue évolution qui leur permet de pénétrer dans les bactéries ciblées bien mieux que des produits de synthèse.
+Mais la contrainte est qu’il était nécessaire de se limiter aux micro-organismes cultivables en laboratoire.
+Or « on avait fait le tour des composés obtenus par ce procédé susceptibles d’avoir une activité antibiotique », constate le professeur Jean-Michel Molina, chef du service des maladies infectieuses à l’hôpital Saint-Louis, à Paris .
+C’est précisément là que l’équipe américano-allemande a réalisé une percée, grâce à l’utilisation d’un dispositif miniaturisé très innovant, l’iChip : une puce multicanaux.
+Un échantillon d’un gramme d’un sol herbeux prélevé dans l’Etat du Maine, aux Etats-Unis, a été dilué de telle façon qu’à peu près une seule cellule bactérienne aille se nicher dans un minicanal.
+Puis ce dispositif a été recouvert de deux membranes semi-perméables et replacé dans le sol.
+Au bout d’un mois, près de la moitié des cellules avaient donné naissance à une colonie, alors que 1 % seulement de cellules poussent avec la méthode de culture classique dans un milieu de culture, selon les auteurs.
+Les colonies ont ensuite été mises en culture in vitro.
+Dans un second temps, quelque 10 000 cultures isolées ont été testées sur des plaques recouvertes de staphylocoques dorés afin de détecter une éventuelle activité antibiotique.
+Cela a été le cas avec l’extrait d’une nouvelle espèce bactérienne, baptisée provisoirement Eleftheria terræ.
+Les chercheurs ont identifié la molécule responsable de cette action sur les bactéries de type Gram positif, comme le staphylocoque doré, et l’ont appelée « teixobactine ».
+Elle agit en s’attaquant à la membrane des bactéries qui, comme celles de type Gram positif, ont une paroi épaisse.
+Nouvelle technique de culture in situ
+Enfin, la teixobactine a été testée avec succès chez des souris infectées par le staphylocoque doré, par le pneumocoque, par Clostridium difficile ou par le bacille de Koch, agent de la tuberculose.
+Des résultats encourageants mais qui ne signifient pas que la molécule pourra assurément entrer dans la pharmacopée.
+Elle doit en effet passer par diverses étapes de développement, d’évaluation de sa sécurité d’ emploi chez l’homme, de sa bonne tolérance à des doses efficaces, de sa capacité être produite en grande quantité… A supposer que toutes ces étapes soient franchies, le nouvel antibiotique pourrait apparaître sur le marché d’ici dix ans ou peut-être moins.
+« C’est assurément une bonne nouvelle car peu d’antitiobiques sont apparus récemment », se réjouit le professeur Mathieu Molimard (université de Bordeaux ), président du Collège national de pharmacologie médicale.
+« L’activité sur le bacille de Koch est probablement la plus intéressante, compte tenu de l’ampleur des résistances, car pour les autres bactéries, nous ne sommes heureusement pas encore en situation d’impasse thérapeutique », remarque le professeur Molina.
+Les deux spécialistes soulignent que la meilleure nouvelle qu’apporte cet article est l’identification d’une nouvelle technique de culture in situ, qui va permettre d’explorer un ensemble de micro-organismes jusque-là inexploitables.
+« C’est un peu comme si l’on avait découvert un nouveau champ de pétrole  », se réjouit le professeur Molimard.
+La découverte pourrait aussi motiver l’ industrie pharmaceutique pour réinvestir ce domaine de recherche.
+Certains signes montrent un regain d’intérêt.
+En 2013, Roche a racheté Polyphor, un petit laboratoire spécialisé dans les antibiotiques, et en décembre 2014 Merck a annoncé l’acquisition pour plus de 7 milliards d’euros de Cubist Pharmaceuticals, une société spécialisée dans les traitements contre les bactéries superrésistantes.

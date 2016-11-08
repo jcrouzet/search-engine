@@ -1,0 +1,27 @@
+28.04.2015 à 18h21
+| Par William Audureau
+Qui a dit que le jeu vidéo était un jeune art ?
+Un passionné d'histoire de l'informatique a mis au jour le plus vieil ancêtre connu des jeux d'aventure, un programme intitulé Wander, datant de 1974.
+Il était jusqu'ici considéré comme perdu.
+Avant cette découverte, c'est ADVENT (également baptisé Colossal Cave), développé deux ans plus tard, qui faisait office de pionnier du genre.
+« Wander a probablement été le premier jeu informatique que l'on peut considérer, comme il deviendra commun de l'appeler, d'“aventure textuelle” (ou “fiction interactive”) », souligne l'auteur de cette découverte sur son blog, Retroactive Fiction .
+« Un outil pour écrire des histoires fantastiques »
+Le programme a été développé par l'informaticien américain Peter Langston, déjà auteur en 1972 d'Empire, l'ancêtre des jeux de stratégie à la Civilization. 
+Jeu textuel oblige, dans Wander, point de boutons à activer, mais des ordres à rentrer au clavier, en anglais, comme « prendre la carte de crédit », « taper la machine » ou encore « [aller vers le] Nord ».
+Les fichiers de documentation d'époque n'emploient pas encore le terme de jeu vidéo, alors surtout réservés aux jeux d'action de type Pong.
+Ils décrivent « un outil pour écrire des histoires fantastiques non déterministes ».
+M. Langston fait référence à « une histoire dont le développement est affecté par les décisions prises par le ''lecteur'' [sic]. 
+» C'était il y a quarante et un ans.
+Premiers outils de création
+Non content d'être le précurseur des jeux d'aventure textuels, Wander inaugure également les premiers outils pensés pour permettre au joueur de bâtir sa propre aventure, préfigurant ainsi toute une tradition de jeux offrant les clés de la création, dont LittleBigPlanet ou Minecraft sont les plus récents avatars, et dont les premières tentatives connues ne remontaient qu'à trois décennies. 
+« De ce côté-là, c'est une première, relève Raphaël Lucas, auteur de L'Histoire des RPG (Pix'n Love, 2014).
+Il n'y a pas d'équivalent durant les années 1970.
+Il faut attendre le début des années 1980 pour voir émerger quelques produits commerciaux du même genre, comme le Pinball Construction Set (1983) de Bill Budge, puis l'Adventure Construction Set (1985) chapeauté par Don Daglow.
+»
+Un pan de l'histoire informatique sous-documenté
+Dans les années 1970, ces programmes n'étaient pas commercialisés et leur circulation était limitée aux universités où ils ont germé.
+C'est la raison pour laquelle Wander était considéré comme perdu, comme nombre de programmes de l'époque.
+« Les premiers développeurs amateurs, étudiants ou professeurs d'université, n'ont jamais cherché à conserver leurs jeux vidéo.
+D'ailleurs, sur Plato [le premier système informatique en réseau, né à la fin des années 1960], les serveurs étaient régulièrement nettoyés de ces “parasites” qui ralentissaient l'accès aux programmes principaux, ceux des cours », décrypte Raphaël Lucas.
+Ant, l'auteur du blog Retroactive Fiction, a contacté en personne Peter Langston, qui lui a envoyé par e-mail le code source et la documentation du jeu, qu'il avait lui-même retrouvés dans les archives d'un ami d'époque.
+En parallèle, un chineur du nom de Doug Merritt a revendiqué avoir retrouvé une autre copie de Wander dans la bibliothèque de logiciels distribués en 1980 lors d'une importante conférence pour ingénieurs informaticiens, Usenix .

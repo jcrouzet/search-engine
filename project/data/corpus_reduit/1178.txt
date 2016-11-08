@@ -1,0 +1,57 @@
+Applis de « sourcing » : la mode du prêt-à-scanner
+Le Monde |
+16.01.2015 à 18h34
+| Par Marine Benoit
+S’acheter en un clic une robe repérée sur une actrice ou les chaussures portées par une inconnue : c’est la promesse des applications de « sourcing mode ».
+Mais le résultat des recherches est d’une efficacité inégale.
+Il y a quelques années, l’arrivée de l’application de reconnaissance musicale Shazam marquait le début d’une nouvelle ère : terminées les longues heures passées à tenter de se rappeler le nom d’un morceau entendu à la radio ou les recherches sur d’obscurs forums pour découvrir quel groupe jouait sur la publicité d’une berline.
+En un clic et quelques secondes, Shazam nous donnait la réponse et nous évitait ainsi ces pénibles obsessions grâce à une empreinte acoustique captée, puis comparée à la base de données centrale de la société.
+Aujourd’hui, il est désormais possible d’en faire de même pour les vêtements.
+Ou presque.
+Avec une sortie annoncée pour début 2015, l’application Shazam Fashion, distribuée par la firme Shazam elle-même, ne sera pourtant pas basée sur un système de reconnaissance visuelle du vêtement comme on aurait pu l’imaginer (ou en rêver ).
+Destinée uniquement à reconnaître les pièces portées par les acteurs du petit écran, elle reposera sur des partenariats avec les producteurs de télévision américains.
+Andrew Fisher, le PDG de Shazam, déclarait déjà en mars 2013, dans les pages du Guardian, avoir « engagé des partenariats avec plus de 160 émissions américaines ».
+Si Shazam confirmait, avec cette annonce, que la révolution digitale en matière de consommation de prêt-à-porter était plus qu’engagée, d’autres applications déjà disponibles ont depuis eu le temps d’aller encore un peu plus loin.
+S’offrir le blouson au dragon de Ryan Gosling
+Application lancée voici quelques semaines, The Take permet de s’habiller de la tête aux pieds comme ses héros de cinéma (américains, toujours).
+Le principe est le même que celui de Shazam version musicale : grâce à la reconnaissance sonore, The Take identifie le film qu’est en train de regarder l’utilisateur pour lui proposer ensuite une sélection de modèles portées par les comédiens dans certaines scènes majeures.
+On apprend ainsi que le blouson de Ryan Gosling dans Drive, en satin et orné d’un dragon dans le dos, a été fabriqué spécialement par un tailleur de Los Angeles, Richard Lim de High Society ; que les bottes de combat de Jennifer Lawrence dans le film Hunger Games sont griffées Tory Burch ; et même que l’avion piloté par Jamie Dornan alias Christian Grey dans Cinquante nuances de Grey (en salles le 11 février) est un DG Flugzeugbau DG 1000…
+Certaines applications sont capables de détecter la provenance d’un téléphone portable ou d’un couteau vus dans un film, et même de révéler la localisation d’un lieu de tournage.
+Car au-delà des robes et des paires de chaussures, The Take est à même de nous informer de la provenance des objets utilisés dans une scène, comme un téléphone portable ou un couteau, et même de détecter la localisation d’un lieu de tournage.
+Seul hic : l’application ne répertorie qu’une centaine de blockbusters, mais la plupart, sortis en salles très récemment, laissent supposer que le catalogue est voué à s’étoffer avec le temps.
+Malgré tout, inutile d’espérer pouvoir utiliser The Take devant un drame français, même dans les mois à venir .
+Plus généraliste, Asap54, fondée à Londres en 2013 par Daniela Cecilio, une développeuse brésilienne, est à mi-chemin entre un Pinterest et un Instagram de la mode .
+Uniquement disponible sur iPhone , cette application propose aux utilisateurs de retrouver l’origine d’un vêtement à partir d’une simple photo.
+Ce qu’on aurait pu attendre de Shazam Fashion, en somme.
+Une fois la correspondance trouvée, Asap54 redirige l’utilisateur vers le site marchand en question .
+Si son système de scan ne parvient pas à trouver de correspondance exacte, plusieurs équivalents sont proposés.
+Sur le papier, Asap54 semble être l’une des meilleures applications mode de ces dernières années.
+Pourtant, après un certain nombre de tentatives pour retrouver des modèles, le résultat déçoit quelque peu.
+Après tout, un tee-shirt noir reste un tee-shirt noir.
+Une application ne peut déterminer le petit détail qui fait toute la subtilité d’un modèle à partir d’une seule photo.
+Forcément, ce genre de système a ses limites », explique Benjamin Gauffre, directeur exécutif de BrandsOnAir, site Web de shopping de produits vus à la télévision.
+Lancé en 2011, le site est en cours de refonte grâce au soutien financier du groupe de presse Reworld Media (propriétaire notamment des magazines Be, Marie France ou Pariscope).
+Chez BrandsOnAir, quatre spécialistes mode passent quotidiennement au crible le petit écran français, où ils tentent de répertorier un maximum de pièces repérées sur les plateaux télés, dans les séries ou les émissions de téléréalité.
+« Nous fonctionnons aussi beaucoup sur le mode du partenariat avec les chaînes de télévision.
+Le problème en France , c’est que pour exercer ce type d’activité, on se doit de reverser de l’argent à la fois à la boîte de production et à la chaîne en question , qui sont deux entités bien distinctes.
+C’est beaucoup plus coûteux et contraignant qu’aux États-Unis, où les chaînes sont souvent productrices elles-mêmes », poursuit Benjamin Gauffre.
+Une start-up française a pourtant réussi à dominer le marché du « sourcing mode » à l’ international .
+WhereToGet, lancée en février 2011, compte aujourd’hui plus de 3 millions de visiteurs uniques par mois, dont 60 % d’Américains.
+Sa force ?
+Une communauté de passionnés qui « s’entraide ».
+Un nouvel outil marketing pour les marques
+Car WhereToGet fonctionne uniquement sur le principe du « crowdsourcing »  : « L’internaute poste d’abord une photo d’une pièce qui l’inspire, généralement trouvée sur des sites de partage d’images comme Tumblr, Instagram ou Pinterest.
+Dans la foulée, la communauté de membres va mener son enquête et, une fois la pièce repérée, elle va poster un lien vers le site marchand.
+Pour nous, ce lien est quasi obligatoire », explique Romain Moyne, le fondateur de la société.
+WhereToGet ne cache pas son lien étroit avec les marques, qui sont considérées sur le site comme des membres à part entière et peuvent donc encourager les internautes à acheter leurs produits au travers d’un tracking des requêtes, un système de « pistage » du profil des internautes.
+« Indéniablement, notre but est d’avoir la base de données la plus complète au monde en matière de “sourcing mode” ».
+Pour le sociologue Nicolas Herpin, chercheur au CNRS et à l'Observatoire sociologique du changement, « ce genre de plates-formes, c’est surtout une énième méthode de publicité à l’heure où le placement de produit prend de plus en plus d’ampleur.
+Ces technologies risquent tout simplement d’accélérer les nouveaux désirs liés aux objets dernier cri, et particulièrement pour les plus jeunes, friands de gadgets numériques ».
+Car il est vrai qu’en surfant sur ces applications, on a surtout le sentiment de se retrouver dans un immense catalogue et qui nous présente surtout ce qu’il veut plutôt que ce que l’on veut.
+Et qui aurait à lui tout seul ringardisé La Redoute.
+« De toute façon, qu’ils aient pris ou pas des accords avec les marques, ces nouveaux outils transforment la réalité en une publicité géante.
+N’importe qui peut ainsi devenir , à son insu, un mannequin potentiel », ajoute Nicolas Herpin.
+Voyons les choses du bon côté, comme le créateur de WhereToGet : « Ce ne sont plus les magazines de mode qui inspirent la jeune génération.
+Désormais, c’est la vraie vie.
+»
+Marine Benoit

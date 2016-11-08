@@ -1,0 +1,29 @@
+IBM s’associe à Apple pour analyser les données de santé
+Le Monde |
+| Par Jean-Baptiste Jacquin
+Au moment où le législateur se penche sur l’ouverture des données de santé , surgissent d’autres questions.
+Que faire de ces données, comment les comprendre sans s’y perdre ?
+Car il y a risque de submersion alors que la production d’informations sur la santé n’est plus l’apanage du médecin, de l’hôpital ou de l’assurance-maladie.
+Avec l’engouement pour les gadgets connectés destinés à surveiller en permanence son rythme cardiaque, son poids et les calories brûlées dans la vie de tous les jours, la séance hebdomadaire de course à pied ou même pendant le sommeil, IBM a calculé qu’au cours d’une vie un individu devrait produire plus d’un million de gigabits de données sur sa santé.
+C’est l’équivalent de trois cents millions de livres !
+Lire aussi : Gadgets connectés : tous mesurés ?
+Lancement d’une nouvelle plate-forme
+IBM y voit une formidable opportunité, lui qui a depuis plusieurs années de sérieux problèmes de croissance.
+Le groupe informatique américain a dévoilé lundi 13 avril ses projets dans ce domaine.
+Et il voit grand.
+En partant de son savoir-faire développé avec son super-ordinateur Watson, il va développer une plate-forme, Watson Health Cloud.
+Le groupe dirigé depuis trois ans par Ginni Rometty veut désormais aller vite.
+Il a décidé de s’allier à Apple, qui depuis quelques années engrange les données de santé avec ses iPhone et iPad, et bientôt avec sa montre connectée, l’Apple Watch .
+Ces deux poids lourds de la technologie, aux cultures totalement différentes, vont travailler ensemble dans ce domaine.
+Une greffe originale.
+La plate-forme d’IBM va héberger les données anonymisées collectées par le logiciel Apple HealthKit et par le module Apple ResearchKit qui permet d’inclure les clients qui le souhaitent dans des recherches et essais médicaux.
+Elixir de jouvence
+IBM ne se contente pas de stocker les données.
+Il affecte 2 000 de ses salariés à cette plate-forme.
+L’accord prévoit un partage des revenus qui seront générés à partir de cette matière première.
+Car le défi de Mme Rometty est bien de générer du chiffre d’affaires.
+C’est bien joli de faire jouer Watson aux échecs ou de lui faire gagner le célèbre jeu télévisé « Jeopardy ! 
+» , où l’ordinateur a démontré sa capacité à interpréter l’humour de l’animateur, encore faut-il que ces prouesses débouchent sur des services qui intéressent des clients.
+Pour augmenter ses chances dans ce pari sur la santé, IBM a simultanément annoncé des partenariats avec les groupes de matériel médical Johnson   Johnson (prothèses) et Medtronic (pacemakers, pompes à insuline) pour développer des services communs.
+L’acquisition de deux petites sociétés de logiciels du domaine médical a également été annoncée lundi 13 avril.
+A défaut d’avoir découvert l’élixir de jouvence, cette vaste offensive en forme de greffe multiple devrait aider à revigorer le groupe plus que centenaire.

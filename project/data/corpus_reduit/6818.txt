@@ -1,0 +1,75 @@
+Les secrets des plantes contre les agressions
+L'arabette est un organisme modèle dans la recherche sur les plantes.
+Olivier Ali.
+Un entretien avec Antony Champion et Antoine Larrieu
+Antony Champion est chercheur à l'Institut de recherche pour le développement (IRD), au sein de l’unité DIADE, dans le Laboratoire mixte international Adaptation des Plantes et micro-organismes associés aux Stress Environnementaux (LAPSE) à Dakar (Sénégal). 
+Antoine Larrieu est chercheur post-doctorant dans le groupe de Teva Vernoux au laboratoire de Reproduction et Développement des Plantes à l’École normale supérieure de Lyon.
+Tous deux co-auteurs d'un récent article sur la réponse des plantes à une agression, ils ont bien voulu répondre à mes questions sur ce domaine fascinant.
+Antony Champion (à gauche) et Antoine Larrieu.
+DR.
+ 
+1/ Vous avez récemment publié une étude dans Nature Communications annonçant la mise au point d'un bio-capteur capable d'observer en temps réel la manière dont les plantes répondent à une blessure.
+Comment fonctionne-t-il et à quoi cela va-t-il servir ?
+A. L.
+et A. C. 
+: La perception d’une blessure (stress mécanique, attaque d’un herbivore) se traduit au niveau de la plante par la production rapide d’une hormone de stress nommée acide jasmonique.
+Jusqu’à présent, les méthodes utilisées pour la détecter nécessitaient la destruction de la plante, empêchant de suivre dans la plante la dynamique de ce processus.
+Dans le cadre d’une collaboration entre le CNRS, l’université de Nottingham et l’IRD, nous avons développé un bio-capteur fluorescent qui permet de quantifier et localiser à l’échelle cellulaire la présence de cette hormone dans la plante vivante après une blessure.
+Nos observations ont montré que la plante réagit en deux temps après qu’une feuille a été blessée : une première réponse rapide informe la plante entière de la blessure et une seconde, plus lente, lui permet d'y répondre, notamment en ralentissant la croissance et en produisant des molécules de défense.
+Ce bio-capteur sera un outil essentiel pour mieux comprendre comment les plantes luttent contre les agressions extérieures et comment elles s’adaptent à leur environnement.
+2/ Quelles sont les réponses des plantes face aux différents types d'agression qu'elles subissent ?
+A.
+C. : Ces réponses vont dépendre de nombreux paramètres mais principalement de l’identité du bioagresseur, qu’il soit un micro-organisme ou un herbivore.
+Dans la majorité des cas associant des micro-organismes (virus, bactéries ou champignons), la maladie ne se développe pas et c'est une exception dans la nature !
+Lorsque l’infection est bloquée, on dit que la plante résiste.
+Dans ce cas, les réactions de défense se traduisent localement par une fortification des cellules ou encore par la production de composés chimiques toxiques qui vont bloquer la multiplication des parasites.
+Dans certains cas, la réponse à l’agresseur entraîne une « mort programmée » des cellules végétales infectées permettant d’isoler les agents pathogènes des parties saines de la plante.
+Cette réponse est accompagnée par une immunisation de la plante entière.
+Lorsque des insectes herbivores attaquent une plante, des réponses de défense sont également activées pour notamment réduire la digestibilité des tissus.
+Ces réactions sont modulées par des hormones végétales comme l’acide salicylique, l’éthylène et l’acide jasmonique.
+Mieux connaître les interactions entre ces hormones, leurs rôles dans les mécanismes de défense et dans le développement des plantes en condition de stress est un enjeu essentiel pour l’agriculture de demain.
+3/ Comment les plantes font-elles la différence entre les micro-organismes pathogènes et ceux qui leur sont bénéfiques ?
+A.
+C. : Tout au long de leur vie, les plantes interagissent avec un cortège de micro-organismes qui soit sont des pathogènes soit vivent en symbiose avec elles.
+La maladie ou la symbiose ne résulte pas de la réponse exclusive de la plante mais plutôt d’un « dialogue moléculaire » entre ces organismes.
+Dans le cadre des interactions entre plantes et agents pathogènes, le modèle appelé « zig zag » reflète cette dynamique.
+Des molécules communes à de nombreux pathogènes sont reconnues par la plante qui va alors se défendre (le « zig »).
+D’autres molécules du pathogène peuvent supprimer ces défenses (le « zag »).
+Ces interactions permettent dans ce cas l’infection de la plante.
+Dans le cas des associations mutualistes, bénéfiques pour le micro-organisme et pour la plante, la colonisation des tissus végétaux nécessite pour ces micro-organismes d’échapper au système immunitaire des plantes soit en le contournant soit en bloquant les réactions de défense.
+Par exemple, il a été montré récemment qu’un champignon symbiotique sécrète un composé qui bloque la perception de l’acide jasmonique, facilitant ainsi la colonisation des racines du peuplier .
+4/ On a par le passé montré que les plantes communiquaient entre elles pour s'avertir de la présence d'agresseurs.
+Comment font-elles ?
+A.
+L. : La « communication » entre plantes est avant tout chimique.
+De nombreuses expériences ont montré qu’un gaz, l’éthylène, est produit par certaines plantes lorsqu'elles sont attaquées par des herbivores.
+L’éthylène ainsi produit rayonne aux alentours et alerte d’autres plantes d’un danger imminent.
+En réponse, les feuilles accumulent des composés chimiques complexes, les tanins, qui les rendent indigestes.
+D’autres molécules ont également été impliquées dans la communication entre plantes.
+Chez la tomate, une forme volatile de l’acide jasmonique, le méthyl de jasmonate, est produite après une attaque par un insecte ravageur.
+Une plante placée à proximité et qui a été exposée au composé volatil sans être touchée physiquement par l’insecte va accumuler des molécules particulières appelés « inhibiteurs de protéases ».
+Ces molécules agissent directement au niveau du système digestif d’un insecte et en affectent le fonctionnement, le rendant malade.
+Dans ces deux cas, il s’agit avant tout de limiter l’impact d’une agression sur un groupe de plantes de manière à maximiser les chances de survie d’au moins quelques individus.
+5/ Comment une plante perçoit-elle une blessure et traite-t-elle les informations qu'elle reçoit sans système nerveux ?
+A.
+L. : La perception d'une blessure chez les plantes se rapproche des mécanismes en place chez l’homme.
+Des cellules intactes sont capables de déclencher une réponse si elles reconnaissent des signaux associés à une blessure.
+Ces signaux incluent différents composés normalement présents dans la cellule mais qui se retrouvent à l’extérieur suite à sa destruction.
+Il a ainsi été observé qu’il suffisait de déposer un broyat de plante sur une feuille pour déclencher une réponse à la blessure.
+La transmission du signal à d’autres parties de la plante implique notamment des gènes similaires à ceux associés aux activités synaptiques chez les animaux.
+Leur activation entraîne la propagation du signal depuis la zone blessée jusqu’à des parties distantes de plusieurs dizaines de centimètres.
+Cela permet notamment à la plante de se préparer à d’éventuels dommages supplémentaires en ralentissant sa croissance, pour attendre des conditions propices à son développement.
+6/ De nombreux travaux récents ont montré que les plantes étaient sensibles et réagissaient à de nombreux stimuli (lumière, couleur, odeurs, et même sons ), au point que certains ont émis le concept, contesté, d'une  neurobiologie des plantes .
+Comment vous positionnez-vous par rapport à ce sujet ?
+A.
+L. et A.
+C. : La perception de la lumière, mais également de la « couleur » de la lumière, qui varie en fonction de la canopée, ainsi que la perception de molécules chimiques (« odeurs ») ont des bases génétiques solides.
+Autant la théorie d’une neurobiologie des plantes est séduisante et fait des parallèles évolutifs intéressants entre les organismes animaux et végétaux, autant certains arguments laissent songeur.
+Les défenseurs de cette théorie prétendent notamment que les végétaux sont dotés d’une « intelligence » et d’une « mémoire ».
+Ces fonctions sont normalement remplies par le cerveau chez les animaux.
+Cependant, il n’y a pas d’organes chez les plantes qui remplissent les fonctions d’un cerveau, à savoir centraliser les informations, les traiter et agir en conséquence.
+La neurobiologie des plantes joue donc sur les mots et n’apporte pas grand-chose à notre compréhension du développement des plantes.
+C’est un concept qui renvoie également à l’idée de neurones, qui n’existent évidemment pas chez les végétaux.
+Il semblerait donc qu’elle résulte d’une tendance anthropomorphique quelque peu exagérée.
+Propos recueillis par Pierre Barthélémy (suivez-moi  ici sur Twitter  ou bien  là sur Facebook )
+Lire aussi :

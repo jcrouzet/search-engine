@@ -1,0 +1,21 @@
+TV5 Monde : les pirates ont infiltré la chaîne plusieurs semaines avant l'attaque
+Le Monde |
+| Par Martin Untersinger
+Quelques jours après l'attaque informatique qui a interrompu les programmes de la chaîne française  TV5 Monde, les enquêteurs commencent à avoir une idée plus précise du degré de sophistication de l'attaque.
+Les assaillants avaient pris soin de repérer le terrain : cela faisait plusieurs semaines qu'ils étaient présents dans le réseau de la chaîne, selon une source proche de l'enquête.
+Un laps de temps mis à profit pour repérer, parmi les milliers d'ordinateurs du réseau de la chaîne, les équipements indispensables à la diffusion, qu'ils sont parvenus, dans la nuit du mercredi 8 au jeudi 9 avril, à mettre hors-ligne.
+Lire : TV5 Monde, un piratage d'ampleur et de nombreuses zones d'ombre
+Les enquêteurs sont aujourd'hui convaincus d'être face à un groupe de pirates de bon niveau, peut-être d'une dizaine de personnes.
+Une information confirmée après la découverte des dégâts causés par les pirates : certains serveurs étaient toujours impossible à démarrer plusieurs jours après l'attaque.
+Par ailleurs, la connaissance du fonctionnement de matériels informatiques très spécifiques à la télévision laisse peu de doute quant à la détermination et au niveau technique des pirates.
+Rien à voir, donc, avec la vague d'attaques de faible niveau technique qui avait touché de nombreuses petites communes peu après les attentats de la rédaction de Charlie Hebdo et de la porte de Vincennes.
+« Un réseau bien géré mais fragile »
+La question du niveau de protection offert par le réseau informatique de la chaîne a été posée dès le lendemain de l'attaque.
+Selon les enquêteurs, ce dernier, loin d'être impénétrable, offrait une protection qui ne dépareillait pas pour une entreprise.
+« Le réseau de TV5 Monde était bien géré, par des gens sérieux, mais était fragile : une fois qu'on est rentré, il n'y avait pas de portes étanches », confie cette même source.
+Enfin, le lien entre les assaillants et l'Etat islamique est considéré, à ce stade, avec beaucoup de circonspection par les enquêteurs.
+Le « cyber caliphat », dont se sont réclamés les pirates à l'origine de l'attaque contre TV5 Monde, semble davantage être une mouvance qu'un groupe fixe.
+Lire : TV5 Monde : les pirates n'ont pas diffusé de documents confidentiels de l'armée
+Treize agents de l'Agence nationale de la sécurité des systèmes d'information (Anssi) ont été dépêchés dans les locaux de la chaîne dès jeudi.
+Après avoir préservé les traces laissées par les pirates, le temps est désormais à l'analyse car ils craignent que d'autres médias soient menacés par des attaques similaires.
+L'agence va donc communiquer aux équipes techniques des médias le résultat de leur enquête afin de prévenir de futures attaques.

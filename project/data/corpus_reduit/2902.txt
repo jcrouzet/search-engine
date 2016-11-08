@@ -1,0 +1,26 @@
+| Par Damien Leloup
+Depuis le mois de mai, et la publication d'un arrêt de la Cour de justice de l' Union européenne (CJUE), les internautes européens peuvent faire jouer un « droit à l'oubli  », ou plus exactement, un droit au déréférencement.
+Ils peuvent demander à ce que soient supprimés des résultats des moteurs de recherche des pages dont le contenu est attentatoire à leur vie privée ; les pages sont toujours consultables en ligne, mais n'apparaissent plus dans Google ou Bing.
+Mais où situer la limite entre les demandes légitimes et celles qui peuvent porter atteinte à la liberté d'expression ou d' informer ?
+Ne souhaitant pas se retrouver seul arbitre de ces choix – qui pourraient potentiellement donner lieu à de coûteuses et nombreuses contestations – Google avait appelé à l' aide , et lancé un « comité consultatif  » accueillant des représentants de l'entreprise et des experts européens [dont Sylvie Kauffmann, directrice éditoriale du « Monde  »], pour certains favorables, et pour d'autres opposés à la décision de la CJUE.
+Jimmy Wales, le cofondateur de Wikipedia, écrit ainsi dans une remarque personnelle en fin de rapport que « l'ensemble des recommandations sont pleines de défauts, parce que la loi elle-même est remplie de défauts.
+Je m'oppose totalement à un système dans lequel une entreprise privée est érigée en arbitre de nos droits les plus fondamentaux, la liberté d'expression et le droit à la vie privée.
+»
+Lire aussi : A Paris, Google face au casse-tête du « droit à l’oubli »
+Quatre critères principaux
+Après une série de réunions publiques dans plusieurs villes d' Europe et l'audition de plusieurs dizaines d'experts, le comité consultatif a rendu son rapport final , vendredi 6 février.
+Le texte ne contient pas de surprises majeurs : il propose une série de critères éthiques et juridiques pour aider les moteurs de recherche à décider d' accepter ou non une demande de déréférencement.
+L'an dernier, Google a accepté près d'une demande sur deux .
+Le comité consultatif liste quatre critères principaux à prendre en compte : le rôle de la personne dans la vie publique ; le type d'information faisant l'objet d'une demande de retrait (degré d'atteinte à la vie privée, intérêt pour le grand public...) ; le type de site hébergeant les informations ; et enfin le « facteur temps », à savoir l'ancienneté de l'information. 
+Ces propositions de critères doivent permettre à Google d' établir des règles à même de simplifier le traitement des demandes de déréférencement.
+Le rapport ne donne cependant pas un mode d' emploi « clé en main ».
+Par exemple, il ne recommande pas précisément de choix à opérer pour un article de presse faisant état d'une condamnation judiciaire ancienne d'un élu, ou des informations personnelles publiées récemment sur le site d'une association.
+Débats sur le périmètre des demandes
+Mais au-delà des raisons justifiant ou non un déréférencement, d'autres questions se posent, concernant notamment l'ampleur que doivent prendre les suppressions de liens.
+Google a jusqu'à présent choisi de déréférencer les résultats uniquement des versions européennes de son moteur de recherche – les pages restent accessibles en passant par exemple par la version américaine du moteur.
+Certaines associations et régulateurs contestent ce choix et souhaiteraient que le déréférencement concerne toutes les versions de Google, mais le rapport note « qu'en l'état du droit et de la technologie », le déréférencement dans les seules versions européennes est suffisant.
+Lire : Les CNIL européennes souhaitent que le droit à l'oubli s'applique sur Google.com
+Concernant la nécessité de signaler ou non aux administrateurs des sites le déréférencement de leurs pages, le rapport considère qu' avertir les administrateurs serait une « bonne pratique ».
+Il insiste surtout sur le fait que les critères de choix précis doivent être rendus publics.
+Plus de neuf mois après la décision de la CJUE, le rapport montre que l'élaboration de règles précises reste complexe.
+Pour Google et les autres moteurs de recherche, qui tâtonnent encore sur la manière de traiter les  nombreuses demandes qui leur parviennent, il y a cependant urgence : le futur projet de loi sur le numérique, qui doit être présenté au Parlement cette année, pourrait intégrer un droit au déréférencement étendu pour les mineurs, qui disposeraient d'une procédure simplifiée pour masquer des contenus les concernant publiés en ligne avant leur majorité.

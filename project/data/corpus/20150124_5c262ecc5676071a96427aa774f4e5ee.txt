@@ -1,0 +1,74 @@
+Cowbells, nouvelles révélations sur les pratiques de la NSA
+Partager facebook twitter google + linkedin pinterest
+MoreCowBells
+Nouvelles révélations sur les pratiques de la NSA
+Yves Eudes
+Laura Poitras,
+Matthias Wachs
+L’agence de surveillance américaine s’attaque de façon massive au système qui gère les noms de domaine.
+Un an et demi après le début des révélations d’Edward Snowden, on croyait tout savoir sur la surveillance massive de l’Internet par l’agence de renseignement américaine, la fameuse National Security Agency (NSA).
+Or les découvertes se poursuivent.
+Le Monde et le site Internet allemand Heise ont pu consulter un nouveau lot de documents confidentiels montrant que la NSA s’attaque de façon massive et systématique au DNS (Domain Name System), qui gère les répertoires de noms à l’échelle mondiale.
+Sur Internet, tout ou presque commence par une requête vers un nom de domaine.
+Les serveurs DNS, « postes d’aiguillage » indispensables, reçoivent les demandes de connexion sous forme d’adresses formulées en langage compréhensible par un humain (par exemple « lemonde.fr 
+»), puis ils trouvent le numéro Internet (IP) correspondant, lisible par les machines (195.154.120.129).
+Les fournisseurs d’accès et les grands organismes possèdent leurs propres serveurs DNS internes, mais pour s’assurer que les noms sont toujours valides, ils doivent rester en liaison permanente avec les grands « serveurs racine » situés au sommet de la pyramide, qui centralisent les répertoires pour le monde entier.
+Il existe aujourd’hui treize groupes de serveurs racine.
+Ils sont gérés par douze organismes, dont neuf sont américains (le département de la défense, la NASA, des sociétés privées, des universités…).
+Par ailleurs, l’attribution et la vente des noms de domaine sont supervisées par l’Internet Corporation for Assigned Names and Numbers (Icann), une association installée en Californie et qui est placée sous la tutelle du département du commerce américain.
+Les numéros IP « en chiffres », correspondant aux adresses « en mots », sont gérés par l’Internet Assigned Numbers Authority (IANA), un organisme rattaché à l’Icann et qui travaille en liaison avec l’agence fédérale NTIA (National Telecom and Information Administration).
+A noter que la NSA collabore officiellement avec la NTIA, en matière de cryptographie.
+Le gouvernement des Etats-Unis a annoncé qu’il souhaitait réduire son rôle au sein de l’Icann avant la fin 2015, mais les modalités de ce transfert de pouvoir restent à définir.
+Enfin, pour les organismes qui ne veulent pas ou ne peuvent pas se payer leur propre serveur DNS interne, il existe sur Internet des serveurs intermédiaires gratuits et libres d’accès.
+A nouveau, les principaux appartiennent à des sociétés américaines comme Google, qui collecte ainsi des masses de renseignements sur l’origine et la destination des connexions Internet dans le monde entier.
+La surveillance systématique du DNS, système ouvert, ne pose donc pas de problèmes théoriques complexes, mais elle nécessite des moyens humains et matériels importants.
+A ce paysage déjà très américain, il faut ajouter la NSA.
+Les documents consultés par le site Internet allemand Heise et Le Monde décrivent un vaste programme spécialement consacré à l’espionnage du système des noms de domaine, baptisé « MoreCowBells » (Davantage de cloches à vaches).
+A l’origine, « More Cow Bells » est le titre d’un sketch musical datant de 2000, diffusé par l’émission satirique hebdomadaire « Saturday Night Live » diffusée sur la chaîne de télévision américaine NBC.
+Par la suite, le sketch est devenu culte, notamment sur la Toile.
+En choisissant ce nom, les fonctionnaires de la NSA ont peut-être voulu montrer qu’ils avaient de l’humour, et qu’ils appréciaient la culture populaire jeune et branchée.
+MoreCowBells a plusieurs fonctions.
+C’est d’abord un outil de « surveillance passive ».
+Dans ce cadre, il sert à cartographier les réseaux internes de grandes entreprises, d’administrations et d’organismes divers.
+Pour espionner les serveurs DNS, la NSA leur envoie en continu des rafales de demandes de connexion.
+Elle utilise pour cela un outil baptisé « Packaged Goods » (marchandises emballées), un réseau international d’ordinateurs clandestins qui, en apparence, n’ont aucun lien avec le gouvernement des Etats-Unis.
+Les machines visant spécifiquement les grands serveurs DNS sont installées, notamment, en Malaisie, en Allemagne et au Danemark.
+Au total, elles les interrogent plusieurs milliers de fois par heure, 24 heures sur 24.
+Les résultats sont envoyés au quartier général de la NSA toutes les quinze à trente minutes.
+Les demandes de connexion se font avec des adresses fictives mais plausibles.
+Celles-ci sont fabriquées à partir de listes de mots-clés figurant fréquemment dans les adresses à usage interne des serveurs Web et email, des bases de données, etc. – généralement des noms barbares, impossibles à deviner directement, et qui ne sont publiés nulle part.
+Ainsi, de proche en proche, MoreCowBells parvient à reconstituer un annuaire assez complet des adresses valides d’un réseau d’entreprise ou d’administration.
+Puis, pour chaque adresse, il va chercher le numéro IP correspondant.
+Certains serveurs facilitent d’ailleurs sans le vouloir la tâche de la NSA.
+Quand ils reçoivent une demande pour une adresse qui n’existe pas, ils renvoient un message d’erreur accompagné de deux suggestions – les deux adresses valides les plus proches, par ordre alphabétique… La constitution de « l’annuaire » devient ainsi assez aisée.
+Contactée par Heise, la NSA a répondu qu'elle ne faisait
+« aucun commentaire sur ses activités spécifiques supposées en matière de renseignement à l'étranger »
+.
+Par ailleurs, des documents révélés par Edward Snowden en 2013 ont montré que la NSA intercepte directement le trafic Internet circulant sur certains câbles internationaux, et participe secrètement à la gestion de nœuds de communication appartenant au secteur privé.
+Dans le flot de requêtes DNS banales adressées à une entreprise (www.companyX.com),
+MoreCowBells pourra ainsi relever celles qui semblent les plus intrigantes (par exemple « deepstorage.internal.companyX.com »), et les mémoriser, afin de les exploiter plus tard.
+Selon les nouveaux documents consultés par Le Monde, MoreCowBells sert en priorité à surveiller quasiment en temps réel
+« des sites Web de gouvernements étrangers, des forums terroristes et extrémistes, des sites de téléchargement de logiciels malveillants… »
+La surveillance vise même des sites américains
+« dans le cadre d’une demande d’assistance émanant du département de sécurité intérieure »
+. L’objectif est de les défendre contre une attaque venue de l’étranger.
+Plus généralement, la NSA se trouve ainsi en possession d’une masse de « métadonnées » techniques sur le trafic Internet global, qu’elle pourra croiser avec d’autres types de métadonnées collectées par ses autres programmes de surveillance : qui communique avec qui, quand, combien de fois, etc.
+MoreCowBells sert également à préparer des offensives de la NSA visant à pénétrer ou à perturber un serveur ou un réseau étranger.
+Par exemple, il va détecter un service créé par une entreprise à l’usage exclusif de ses employés, mais qui est en fait accessible depuis l’extérieur car il a été mal configuré : pour un hacker expérimenté, équipé de logiciels d’attaque, le service devient alors une porte d’entrée vers l’ensemble du réseau de l’entreprise, qui pourra être piraté de diverses façons.
+Enfin, quand une attaque est déclenchée, l’interrogation des serveurs DNS va servir à évaluer son efficacité en temps réel.
+Grâce à MoreCowBells, la NSA saura si le service attaqué continue à fonctionner ou s’il a été coupé.
+S’il a été déplacé vers un autre serveur par mesure de protection, elle va le repérer à nouveau, ce qui permettra de reprendre l’attaque.
+Par petites touches discrètes, l’Agence nationale de sécurité (NSA) des Etats-Unis a confirmé la véracité des révélations faites par Edward Snowden et les médias américains depuis 2013.
+Dans un article publié en janvier 2015 par la revue de mathématique américaine Notices , Michael Wertheimer, le directeur de la recherche de la NSA, reconnaît ainsi que l’agence a tenté d’imposer à la communauté internationale l’usage d’un algorithme de cryptographie qui était piégé ; son générateur de nombres aléatoires composant les clés de chiffrement contenait une porte dérobée qui permettait de prévoir les chiffres générés, et donc de casser facilement des clés pourtant réputées inviolables.
+S’adressant à ses pairs de la communauté des mathématiciens américains, Michael Wertheimer s’est livré à un début de mea culpa inhabituel :
+« Rétrospectivement, la NSA aurait dû cesser de promouvoir l’algorithme dual EC_DRBG dès que les chercheurs en sécurité ont découvert la possibilité d’une porte dérobée. 
+»
+Puis il a qualifié de
+« regrettable »
+la décision de continuer à soutenir l’usage de ce générateur faussement aléatoire.
+Pour l’avenir, il a affirmé que
+« nous serons plus ouverts et plus transparents à propos de nos contributions à l’élaboration de normes cryptographiques »
+.
+Cela dit, en matière de collecte d’informations personnelles et de respect de la vie privée des citoyens, Michael Wertheimer réaffirme que la NSA est presque irréprochable :
+« Les algorithmes de la NSA éliminent approximativement 99,998 % des données auxquelles elle a accès… Après ce processus de filtrage, les données restantes doivent remplir des conditions très strictes avant d’être sélectionnées pour traitement et analyse. 
+»

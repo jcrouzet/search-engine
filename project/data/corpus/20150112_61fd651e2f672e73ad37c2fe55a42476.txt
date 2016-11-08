@@ -1,0 +1,23 @@
+Le Patriot Act, une législation d'exception au bilan très mitigé
+Le Monde |
+| Par Samuel Laurent
+Il est sur toutes les lèvres, ou presque : le Patriot Act à la française est réclamé par certains élus à la suite de la tuerie de Charlie Hebdo.
+Derrière cette expression, une référence à un autre événement historique, celui du 11 septembre 2001, et à la réaction législative qui avait suivi outre-Atlantique.
+Il faudra bien entendu un Patriot Act à la française.
+Il faut une réponse ferme et globale #renseignement #securité #laicite #education
+— Valérie Pécresse (@vpecresse)
+Le 26 octobre 2001, quelques jours après les attentats qui ont frappé les Etats-Unis dans leur cœur, le président George W. Bush propose un train de mesures résumées par l'acronyme Patriot (pour providing appropriate tools required to intercept and obstruct terrorism, soit « fournir les outils appropriés pour déceler et contrer le terrorisme »).
+Le texte de 132 pages modifie un certain nombre de libertés fondamentales pour renforcer fortement le pouvoir des agences de renseignement et de lutte contre le crime de l'Etat fédéral américain, du FBI à la CIA en passant par la NSA. 
+Surveillance et arbitraire
+Le dispositif le plus controversé du Patriot Act prévoit ainsi que ces agences ont le pouvoir de récupérer auprès des opérateurs de télécommunication privés des informations personnelles d'usagers, mais aussi de les mettre sur écoute et d' archiver ou d' exploiter des données issues de surveillance électronique, sans que les usagers soient mis au courant, et sur simple soupçon.
+Cette disposition a été très controversée aux Etats-Unis, où l'Etat fédéral a de plus parfois fait appel à des société s privées pour exploiter les données collectées.
+Le Patriot Act prévoyait aussi la possibilité de perquisitionner un suspect et de saisir des biens chez lui en son absence et sans avoir besoin de le prévenir .
+Il créait également des statuts juridiques particuliers, ceux d'« ennemi combattant » ou de « combattant illégal », qui permettaient d' arrêter , d' inculper et de détenir sans durée des personnes soupçonnées de terrorisme.
+Un usage en dehors du terrorisme
+Cette loi d'exception n'a jamais été abrogée.
+Prolongée en 2005, puis pérennisée en 2006, elle est toujours en place, même si Barack Obama a appelé à la « réformer » en 2013 , à la suite de l'affaire Snowden.
+Concrètement, le Patriot Act a abouti à l'émission par le FBI de plus de 200 000 national security letters (« lettres de sécurité nationale », NSL), permettant d' avoir accès aux données d'usagers de télécommunications entre 2003 et 2006, selon l'Union américaine pour les libertés civiles (American Civil Liberties Union, ACLU).
+Ces données ont été archivées et cherchées par des moyens automatiques (data mining).
+Surtout, cette loi prévue pour lutter contre le terrorisme a été utilisée à d'autres fins.
+Ainsi, selon une enquête de l'Electronic Frontier Fondation (EFF) , sur 11 129 demandes de perquisition dans le cadre du Patriot Act en 2013, seuls 51 avaient trait au terrorisme ; les demandes concernaient pour l'essentiel le trafic de drogue (9 401).
+En France , l'idée d'un Patriot Act renvoie donc, dans l'esprit de ses promoteurs, à une accentuation des moyens de surveillance des télécommunications, qui sont pourtant déjà renforcés dans le cadre de la dernière loi antiterroriste, qui date de novembre, malgré un lobbying important du secteur des télécommunications .

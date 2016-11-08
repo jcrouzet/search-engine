@@ -1,0 +1,36 @@
+Des astronomes mystifiés par… des fours à micro-ondes
+Le radio-télescope de Parkes.
+John Sarkissian (CSIRO Parkes Observatory).
+Dans l'album L'Etoile mystérieuse, se rendant à l'observatoire pour connaître la nature de l'astre qui grossit à toute vitesse dans le ciel, Tintin jette un œil dans la lunette astronomique et y découvre, posée sur l'astéroïde qui fonce vers la Terre, une immense araignée.
+En réalité, il s'agit d'un gag d'Hergé puisque ce qu'a vu le reporter à houppette n'est qu'une inoffensive épeire grossie par la lentille de la lunette , sur laquelle elle se promène...
+Toutes proportions gardées, c'est un peu le même genre de gag dont des astronomes australiens sont victimes depuis des années : l'intrusion inopportune d'un élément bien terrestre se surimposant à l'observation d'un phénomène extragalactique.
+L'histoire commence en 2007.
+Dans un article publié par la prestigieuse revue  Science , une équipe d'astrophysiciens explique comment, en analysant d'anciennes données enregistrées par le radio-télescope autralien de Parkes, elle a découvert un phénomène extrêmement curieux, un signal aussi puissant que bref (de l'ordre de quelques millisecondes) remontant au 24 août 2001, qui semble puiser sa source au-delà de notre galaxie.
+Même si on suppose que seul un cataclysme astronomique a pu lui donner naissance, son origine demeure mystérieuse.
+Baptisé FRB (pour  Fast Radio Burst , en français  sursaut radio rapide ), ce nouveau genre de signal dispose d'une signature particulière : il apparaît étiré dans le temps, au sens où sa partie la plus  aiguë  arrive un peu avant sa partie la plus  grave , un peu comme si, en écoutant un orchestre, nous entendions les violons avant les violoncelles, le piccolo avant le tuba.
+Un phénomène qui, selon les astronomes, s'explique par le fait que le milieu interstellaire traversé par le train des ondes ralentit un chouïa les plus grandes par rapport aux plus petites.
+Depuis 2007, les radioastronomes sont donc partis à la chasse aux sursauts radios.
+Et ils en ont trouvé plusieurs, soit bien cachés dans les archives, soit lors de nouvelles séances d'observation.
+Mais un problème a commencé à apparaître : il semblait bien qu'il y avait des imposteurs dans le tas.
+Des signaux qui avaient la même fugacité et la même physionomie que les FRB mais qui n'en étaient pas.
+Au lieu d'apparaître dans une région très ponctuelle du firmament, ils donnaient l'impression de venir d'un peu partout, ce qui, à l'instar de l'énorme araignée de Tintin, signait leur origine terrestre.
+Pour le seul radio-télescope de Parkes, une quarantaine d'événements furent été répertoriés.
+Jamais en manque d'imagination, les chercheurs surnommèrent ce signal-imposteur  péritio , du nom du personnage mythique inventé par l'écrivain argentin Jorge Luis Borges, un animal mi-cerf mi-oiseau ayant la particularité, une fois illuminé, de projeter l'ombre d'un homme.
+Une manière habile de sous-entendre que derrière ces énigmatiques signaux se cachait peut-être une cause humaine.
+Les péritios provenaient-il d'un dysfonctionnement du télescope ou d'un autre type d'interférence radio ?
+On ne savait mais cela jetait un doute sur l'authenticité-même des FRB.
+Ces derniers étaient-ils réellement la trace d'un véritable phénomène extragalactique ultra-puissant ou bien de vulgaires signaux parasites locaux ?
+Pour le savoir, une équipe australienne a examiné de plus près ce qui se passait à Parkes, en profitant du fait que, en décembre 2014, un détecteur d'interférences radio y avait été installé.
+Comme ils le décrivent dans un article mis en ligne sur le site de pré-publications arXiv , ces chercheurs ont, en janvier, découvert trois péritios au cours de la même semaine.
+Et à chaque fois, le signal correspondait à une interférence locale émise dans la bande allant de 2,3 à 2,5 gigahertz.
+Si l'on ajoute à cet indice le fait que l'immense majorité des péritios, dans l'histoire du site, avaient été détectés aux heures de bureau et du lundi au vendredi, les astronomes ont rapidement restreint leur liste de suspects aux... fours à micro-ondes présents dans l'observatoire, dont la longueur d'ondes est de 2,45 gigahertz.
+Encore fallait-il prouver que ces appareils parvenaient bien à créer ces signaux très particuliers et très brefs.
+Et nos chercheurs d'aller faire chauffer des tasses d'eau dans lesdits fours tout en scrutant les enregistrements du radio-télescope.
+Deux séries de tests... et rien !
+C'est lors de la troisième série d'essais que le mystère des péritios du radio-télescope de Parkes s'acheva, lorsque les expérimentateurs décidèrent de ne plus attendre la fin du cycle de chauffage et d'ouvrir prématurément la porte du four à micro-ondes.
+Bien sûr la sécurité interne de l'appareil stoppait le magnétron – le dispositif qui engendre les ondes –, mais cela ne se faisait pas de manière instantanée et une petite bouffée d'ondes avait le temps de s'échapper et d'être captée par l'antenne géante (64 mètres de diamètre) de Parkes.
+De nouveaux péritios, bien brillants, bien comme il faut, apparurent.
+Avec ces informations en poche, les chercheurs retournèrent au sursaut radio de 2001.
+Non seulement celui-ci était bien localisé dans le ciel mais, en plus de cela, il avait été enregistré à un moment où le seul four à micro-ondes présent dans le champ de l'antenne était celui du centre destiné aux visiteurs.
+Et à 5h50 du matin, ledit centre était vide et fermé.
+Personne pour y faire réchauffer un café et troubler la bonne marche de la science...

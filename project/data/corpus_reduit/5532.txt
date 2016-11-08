@@ -1,0 +1,50 @@
+10.03.2015 à 17h58
+| Par William Audureau et Benjamin Benoit
+Où sont les femmes, les Noirs, ou encore les gays dans les jeux vidéo ?
+La question était sur les lèvres de plusieurs intervenants de la Game Developers Conference (GDC) de San Francisco.
+Cet événement annuel d'une semaine s'est déroulé du 2 au 6 mars en Californie et a permis à 26 000 professionnels de s'interroger sur l'évolution de leur industrie.
+Les femmes vues comme des objets sexuels
+Premier combat récurrent des développeurs et développeuses de jeux vidéo : la représentation des femmes.
+Selon une étude réalisée au printemps 2014 sur un échantillon de 1 583 collégiens et lycéens et présentée à la GDC, 78 % des garçons et des 70 % filles interrogés ne choisissent pas leurs jeux en fonction du sexe du héros, contrairement à un argument régulièrement repris par l'industrie pour justifier le peu de personnages féminins.
+« En tant que développeurs, de manière compréhensible, nous avons peur que nos jeux ne se vendent pas.
+Cette perspective est terrifiante.
+Mais il se peut que nous attribuions à tort le succès des jeux déjà sortis à des critères qui n'importent pas réellement aux yeux des enfants qui y jouent », a notamment pointé Ashly Burch, actrice et scénariste pour plusieurs jeux vidéo , co-auteure de l'étude avec l'enseignante Rosalind Wiseman.
+approfondir : Dans les jeux vidéo, « l'habitude est de concevoir des héros masculins »
+Toujours selon la même étude, même si, spontanément, la plupart des garçons et filles préfèrent incarner un personnage de leur sexe – phénomène plus marqué chez les collégiens et les lycéennes –, ils estiment que les jeux vidéo gagneraient à offrir plus de choix.
+86 % des garçons lycéens souhaiteraient même davantage d'héroïnes, et garçons et filles s'accordent à dire que les femmes sont trop souvent traitées en objets sexuels dans les jeux. 
+Un simulateur de coming out
+San Francisco est une place forte de l'industrie du jeu vidéo, mais aussi de la communauté militante LGBT – la plupart des jeux publiés ces derniers mois évoquant les questions de genre et de diversité ont été conçus en Californie, plus rarement en Europe, et quasiment jamais au Japon.
+Le concours annuel du meilleur jeu indépendant, qui se déroule durant la GDC, abordait aussi à sa manière la thématique, rarement évoquée dans les jeux, de l'orientation sexuelle.
+C'est ce que fait Coming Out Simulator, sélectionné dans les finalistes de la compétition, un jeu textuel plaçant le joueur dans la peau d'un jeune bisexuel confronté à des parents peu tolérants.
+L'exemple n'est pas isolé : l'étrange Plug And Play , publié ce 5 mars, aborde la notion d'amour et de connexion, physique et mentale, sans distinction de sexe ni de genre.
+« En tant qu'homme blanc hétéro, je suis dans la majorité, et je reconnais que je n'ai pas toujours été le plus sensible à ce que peut être le monde pour d'autres.
+Je n'ai jamais été familier du coming out, car je n'ai jamais eu à m'y intéresser.
+Mais [Coming Out Simulator] a changé ça, et m'a aidé à rejeter l'homophobie informelle avec laquelle j'ai grandi », a témoigné Joe Donnel, un contributeur exceptionnel au site spécialisé Kotaku, dans une tribune publiée durant le salon et intitulée « Comment un jeu m'a aidé à rejeter l'homophobie ».
+Les Noirs sous-représentés
+Derek Manns et Dennis Mathews, deux concepteurs de jeux vidéo mobiles, ont par ailleurs attiré l'attention sur la sous-représentation des créateurs noirs dans l'industrie (seulement 2,5 % des effectifs globaux, selon l'International Games Developers Association, ou IGDA), et ses conséquences en matière de création.
+Avant d'élargir et de rappeler que « la diversité inclut les femmes, les transsexuels, l'accessibilité et les handicaps ».
+Il a fallu attendre 1999 pour qu'apparaisse le premier héros de jeu vidéo noir, le personnage de comics Shadowman, et les deux plus célèbres sont aujourd'hui Carl « CJ » Johnson et Franklin, deux jeunes apprentis gangsters dans GTA San Andreas et GTA V.
+« Les développeurs perpétuent des stéréotypes parce qu'ils n'ont souvent aucun collègue de couleur pour leur en faire prendre conscience », a pointé Mathews, cité dans un compte rendu de Polygon , avant de rappeler la création en 2014 de la première association de développeurs noirs, Black in Gaming .
+A noter qu'à l'exception de la série Prince of Persia, à l'abandon depuis quelques années, et des jeux sportifs, qui offrent souvent la possibilité de créer un athlète de manière très libre, les jeux permettant d'incarner un personnage d'origine arabe sont encore plus rares, même s'il n'en a pas été question à la GDC.
+Une évolution générale perceptible
+Ces prises de position marquées s'inscrivent dans un courant plus général de remise en question des stéréotypes dans les jeux vidéo, initié au début des années 2010 avec notamment les travaux de la vidéobloggeuse Anita Sarkeesian sur les clichés sur les femmes.
+Il s'est concrétisé ces deux dernières années par la multiplication de jeux cherchant à mettre en avant la diversité dans les jeux vidéo, notamment sur la scène indépendante.
+Gone Home, jeu d'exploration à la narration silencieuse, fait vivre en différé une romance lesbienne.
+Récemment, un jeu vidéo comme To The Moon a exploré l'univers de l'autisme.
+Les minorités sont moins visibles dans les jeux vidéo à gros budgets, même si plusieurs projets ont fait un pas en direction d'une meilleure représentation.
+Freedom Cry, une extension payante d'Assassin Creed IV : Black Flag sortie fin 2013, permet d'incarner pour la première fois dans la série un héros noir, Adewalé, un ancien esclave.
+Dans la deuxième saison de l'adaptation de The Walking Dead, distribuée en mars 2014, le joueur rencontre et tue accidentellement un jeune homme dont il rencontrera le compagnon plus tard.
+La compagnie Bioware laisse par ailleurs régulièrement le choix d'orientation sexuelle de ses personnages, notamment dans les séries Mass Effect et Dragon Age.
+Dans le dernier épisode, sorti fin 2014, le joueur peut nouer une relation amoureuse avec un personnage féminin lesbien à l'unique condition d'incarner lui-même une femme, et met par ailleurs en scène un personnage transexuel sans que celui-ci ait une fonction comique ni critique.
+Le spectre du « GamerGate »
+Néanmoins, les minorités restent largement sous-représentées dans les jeux vidéo.
+Sur les 52 jeux différents qui composent le top 100 des meilleures ventes d'Amazon France en 2014 – le plus détaillé parmi les classements publics – 50 % des titres imposaient de jouer un personnage masculin, contre seulement 4 % d'héroïnes.
+Et encore, de Bayonetta à Lara Croft, celles-ci sont le plus souvent sursexuées.
+La moitié impose également un personnage principal blanc au joueur, et seuls une dizaine laissent à l'utilisateur la possibilité de choisir sa couleur de peau. 
+Les jeux vidéo s'intéressent, en revanche, rarement à l'orientation sexuelle de leur protagoniste : celle-ci n'est pas précisée dans trois quart des cas.
+Mais quand elle l'est, c'est quasi exclusivement pour mettre en scène des personnages hétérosexuels (85 %), ou dont la préférence est laissée à la discrétion des joueurs (15 %).
+Les jeux les plus vendus proposent majoritairement d'incarner des hommes blancs hétérosexuels, comme dans Call of Duty, Advanced Warfare, Assassin's Creed Unity ou encore Watch_Dogs.
+Succès surprise de l'année en France, Tomodachi Life oblige le joueur à tricher avec le genre de son personnage s'il souhaite entretenir une relation amoureuse homosexuelle.
+Nintendo s'en était excusé au printemps, mais avait refusé de procéder à un changement, estimant que son jeu devait être considéré comme « un autre monde ludique, non une simulation de la vraie vie ».
+Les prises de position des conférenciers de la GDC sont aussi une réaction au GamerGate, ce mouvement de contestation en ligne protéiforme apparu à la fin de l'été 2014, et régulièrement accusé par les militants féministes et LGBT de harcèlement en ligne et de mysogynie.
+La Game Developers Conference appartient au même groupe que Gamasutra, le site spécialisé qui avait suscité la colère de milliers d'internautes en publiant une tribune annonçant que le temps du joueur de jeu vidéo traditionnel, homme, blanc et hétéro, était révolu.

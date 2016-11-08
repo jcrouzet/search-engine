@@ -1,0 +1,37 @@
+Pourquoi certains rouges de Van Gogh blanchissent
+ Meules de foin sous un ciel pluvieux , de Vincent Van Gogh.
+Musée Kröller-Müller.
+Au cours de la dernière année de sa vie, malgré une santé mauvaise, Van Gogh peint beaucoup.
+Parmi toutes ses œuvres, beaucoup de champs de blé avant ou après les moissons, dont les Meules de foin sous un ciel pluvieux, un tableau aujourd'hui conservé au musée Kröller-Müller d'Otterlo (Pays-Bas). 
+Le ciel gris de nuages menace de crever et, devant le foin entassé, à la surface d'une mare flottent des feuilles mortes d'un rouge éclatant.
+Du moins l'étaient-elles à l'origine.
+Petit à petit, ce rouge se décolore, s'affadit jusqu'à prendre une teinte blanchâtre.
+Qu'arrive-t-il au pigment de Vincent Van Gogh ?
+A l'intérieur du grain de peinture, le rouge d'origine est toujours présent.
+Vanmeert et al./Angewandte Chemie.
+Pour le comprendre, il faut pénétrer au cœur de la peinture, non pas au sens d'art mais au sens de matière.
+C'est ce que vient de faire une équipe belge de l'université d'Anvers, qui relate ce qui est presque une enquête de police scientifique dans une étude publiée par la revue  Angewandte Chemie.  
+Ces chercheurs ont obtenu l'autorisation de prélever sur le tableau de Van Gogh un grain de matière, d'environ 0,2 millimètre de diamètre.
+Vue de l'extérieur, cette minuscule bille était d'un gris clair mais, à l'intérieur, le rouge flamboyant d'origine était bel et bien toujours là !
+Présent mais caché, enchâssé dans un cocon de matière (voir image ci-dessus).
+L'enquête ne faisait que commencer.
+Pour aller plus loin, les auteurs de l'étude ont soumis, comme c'est de plus en plus courant pour l'analyse des œuvres d'art , leur tout petit échantillon à la lumière d'un synchrotron.
+Une tomographie aux rayons X pour déterminer la composition des différentes couches de cette gangue.
+Vincent Van Gogh avait utilisé du minium, un oxyde de plomb servant de pigment rouge depuis l'Antiquité.
+Le plus souvent, le minium noircit avec le temps, soit parce qu'il se transforme en plattnérite, un autre oxyde de plomb, soit parce qu'il se change en galène (un sulfure de plomb).
+Il arrive également que le minium, comme c'est le cas avec ce fragment de peinture, blanchisse, sans que le phénomène soit jusqu'ici bien compris.
+Une énigme que l'analyse de ce grain a permis de résoudre.
+Le coupable est... la lumière.
+Sous l'effet de celle-ci, des modifications de l'agencement des électrons au sein du solide se produisent qui vont lui permettre de prendre au piège du dioxyde de carbone (CO2).
+Ce dernier provient soit de l'air, soit... de la peinture elle-même, de la décomposition des acides gras présents dans le liant qu'employait Van Gogh (d'où le nom de peinture à huile).
+En se recomposant avec le CO2, le minium devient un carbonate de plomb, la plombonacrite, une molécule très rarement retrouvée dans les peintures.
+La réaction chimique ne s'arrête pas là.
+La plombonacrite va continuer à absorber du dioxyde de carbone, jusqu'à se transformer en céruse, pigment blanc connu lui aussi depuis l'Antiquité, sous le nom de blanc de plomb.
+Au bout du compte, le grain de minium finit prisonnier, encapsulé dans ses propres produits de dégradation.
+Ce n'est pas la première fois que la chimie permet de comprendre la cause des décolorations en art.
+Ainsi, toujours dans la palette de Van Gogh, des analyses ont révélé que si un certain jaune orangé perdait de son éclat, c'était en raison d'une oxydation du chrome contenu dans la peinture.
+De la même manière, j'ai relaté en 1998 une enquête chimico-artistique menée sur des enluminures contenues dans un des joyaux de la British Library , un livre de psaumes byzantin du XIIIe siècle : les anges et les saints étaient devenus des gueules noires, comme si leur visage, rosé à l'origine, avait été passé au brou de noix.
+L'artiste, pour faire son rose, avait utilisé le fameux blanc de plomb.
+Mais ce carbonate de plomb s'était – comme cela peut arriver au minium – transformé en sulfure de plomb, sous l'effet du soufre contenu dans l'air pollué de la Londres victorienne et dans le gaz brûlé pour éclairer la British Library...
+Tous ces travaux de chimie indiquent aux musées les voies à suivre pour conserver le mieux possible les œuvres d'art.
+Dans le cas des tableaux de Van Gogh où le peintre a utilisé du minium, il va falloir soigneusement étudier la lumière, avec un beau casse-tête en perspective : atténuer son agressivité au maximum tout en en laissant assez pour que le public puisse goûter aux plaisirs et aux subtilités de la toile.

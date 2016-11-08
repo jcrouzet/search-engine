@@ -1,0 +1,74 @@
+Cultures Web
+Boson de Higgs, théorème de Fermat, Big Bang... les étranges découvertes de Homer Simpson
+Le héros des Simpson est crédité d'une prouesse scientifique : celle d'avoir deviné l'équation qui allait mener à la découverte de la masse du boson de Higgs.
+Le Monde |
+12.03.2015 à 17h41
+| Par William Audureau
+Oublié, Pythagore.
+Ringardisé, Hawking.
+Débutant, Einstein.
+Le plus grand scientifique de tous les temps est jaune, fainéant, et ne pense qu'à la bière, aux donuts et aux pizzas, qu'il s'amuse à manger par le ventre .
+Depuis début mars, le ventripotent héros des Simpson est pourtant crédité d'une prouesse scientifique inattendue : celle d'avoir deviné, dans un épisode de 1998, la masse du boson de Higgs, une particule élémentaire longtemps restée mystérieuse.
+Et ce avec plus d'une décennie d'avance sur l'Organisation européenne pour la recherche nucléaire (CERN), qui n'est parvenue à mesurer sa masse qu'en 2012.
+Une formule incorrecte
+L'histoire est relatée le 1er mars par le quotidien britannique The Independent , qui pointe la première ligne d'une équation mathématique rédigée par le héros dans un épisode intitulé « La Dernière Invention de Homer » (The Wizard of Evergreen Terrace en anglais).
+Dans cet épisode, une opération rend Homer surdoué, après qu'on a retiré de sa boîte crânienne un crayon niché dans son cerveau depuis l'enfance.
+Interrogé et cité par le quotidien britannique, le journaliste et scientifique Simon Singh, spécialiste de la série, s'enflamme.
+« Cette équation prédit la masse du boson de Higgs.
+Si vous la calculez, vous obtenez une masse pour le boson de Higgs seulement légèrement supérieure à sa nano-masse réelle.
+C'est assez épatant que Homer effectue cette prédiction 14 ans avant sa découverte. 
+»
+L'anecdote est vite reprise par de nombreux journaux .
+Un peu trop vite, probablement, car en réalité, la formule tracée par Homer n'invente ni ne prédit rien.
+Comme l'explique le mathématicien tchèque Lubos Motl Pilsen sur son blog , l'idée que Homer ait découvert l'existence du boson de Higgs en premier est « évidemment fausse »,  celle-ci ayant été théorisée trois décennies plus tôt, en 1964, par celui qui lui a donné son nom, Peter Higgs, ainsi, indépendamment, que par d'autres physiciens, dont François Englert, ce qui leur valut le prix Nobel en 2013 .
+Ce qui était resté longtemps inconnu, c'est sa masse exacte, que l'on a longtemps supposée comprise entre 80 et 1 000 gigaélectronvolts (ou GeV).
+L'hypothèse selon laquelle Homer Simpson est tombé dessus est tout aussi hasardeuse. 
+« La seule façon de la découvrir, c'est par une expérience scientifique et il faut un collisionneur pour cela », reprend Motl Pilsen.
+En l'occurrence, si l'on va au bout de la formule de Homer, celui-ci arrive à un résultat incorrect : 775 GeV, au lieu de 125.
+Dans un billet de blog de juin 2014 sur le même sujet, Simon Singh se montrait lui-même plus mesuré, évoquant seulement « une supposition pas mauvaise, surtout si l'on garde à l'esprit que Homer est un inventeur amateur. 
+» 
+Deux scénaristes sortis de Harvard
+En somme, point de découverte scientifique inattendue dans cette ligne d'équation.
+Mais le témoignage du bagage scientifique des deux scénaristes historiques de la série, Al Jean et David X.
+Cohen, deux anciens diplômés de Harvard, respectivement en mathématiques et en sciences informatiques.
+« En mathématiques, on cherche toujours à trouver la preuve parfaite, tandis que dans une comédie, on cherche toujours la blague parfaite.
+Dès le début j'ai trouvé que c'était deux processus identiques », expliquait l'an passé au micro de Simon Singh Al Jean, entré à Harvard à l'âge de 16 ans et aujourd'hui producteur exécutif de la série.
+Les Simpson et Futurama, l'autre série phare sur laquelle ont travaillé les deux hommes, sont ainsi remplis de clins d'œil scientifiques.
+Comme le relevait The Guardian en 2013, le premier épisode de la série en 1989 contient déjà des « blagues de matheux ».
+Et d'autres contiennent des allusions au dernier théorème de Fermat , célèbre dans le monde des mathématiciens.
+D'ailleurs, comme le relève Wiki Simpsons , la série fait d'autres références cachées au boson de Higgs.
+Par exemple dans un linéaire du supermarché de Springfield, sur une boîte de céréales jaunes, appelées « Frosted Higgs Bosons » (bosons de Higgs givrés).
+Un épisode riche en références scientifiques
+Dans « La Dernière Invention de Homer », le tableau sur lequel Homer Simpson aurait découvert la masse du boson de Higgs condense ainsi tout ce second degré de lecture.
+Le temps d'un épisode, le pataud papa de Bart est en effet exceptionnellement considéré comme un esprit brillant, l'occasion pour les scénaristes de le confronter à quelques-uns des plus grands défis scientifiques de l'époque.
+Homer réussit ainsi en un seul plan à surmonter tous les obstacles scientifiques qui bloquent le reste de la communauté.
+La première ligne, on l'a vu, tente ainsi de définir une masse crédible pour le boson de Higgs.
+Fort de leur bagage universitaire, les deux coscénaristes n'ont pas rempli le tableau de signes au hasard.
+David X.
+Cohen a contacté un ancien ami de son lycée, David Schiminovich, devenu astronome à l'université de Columbia, pour arriver à un résultat le moins fantaisiste possible, relève le Daily Mail .
+Dans la deuxième et la troisième ligne, Homer va toutefois plus loin.
+Il s'attaque frontalement au fameux théorème de Fermat, selon lequel xn + yn = znn'est possible que si et seulement si le nombre noté n est égal à 1 ou à 2.
+« Contre-exemple, il y a également égalité dans un certain cas si n=12 ! », lance Homer, contredisant l'un des plus célèbres théorèmes mathématiques, avec cet assommant « 3 987 puissance 12 plus 4 365 puissance 12 égale 4 472 puissance 12 ».
+Cette suite de chiffres n'est pas choisie au hasard, comme le montre le détail de l'équation :
+3987^12 + 4365^12 = 63976656349698612616236230953154487896987106
+4472^12 = 63976656348486725806862358322168575784124416
+Lubos Motl Pilsen analyse :
+« Vous pouvez apercevoir que les dix premiers chiffres sont les mêmes – un nombre assez élevé, sur une calculatrice générique, pour vous duper et vous faire croire qu'ils sont exactement égaux.
+»
+Pierre de Fermat n'a pas à se retourner dans sa tombe : ce n'est donc qu'un piège de matheux facétieux.
+Du tore au donut et réciproquement
+Décryptée, la troisième ligne affirme de manière révolutionnaire que l'énergie de l'univers, notée Ω, serait au Big Bang (noté t0, c'est-à-dire temps zéro), supérieure à 1, contredisant de manière aussi gratuite que spectaculaire l'idée la plus communément admise par les scientifiques, à savoir que l'énergie de l'univers est à peu près constante (Ω≈1), de sa phase d'expansion à sa phase de contraction, du Big Bang au Big Crunch.
+Il s'agit toutefois d'une question qui continue d'agiter la communauté.
+Impossible pour autant d'arrêter le héros de Matt Groening, qui dans une dernière ligne délicieuse d'absurdité, note ce qui peut être aussi bien décrit comme un tore représentant un changement topologique dans l'espace-temps, ou la sucrerie préférée de Homer, un donut, en train d'être progressivement mangé.
+Du pouvoir de la VHS à celui d'Internet
+Comme l'explique The Irish Times, ce genre de plaisanteries scientifiques s'explique aussi par l'époque à laquelle est née la série, « au même moment où les lecteurs-enregistreurs VHS se sont démocratisés, permettant aux spectateurs d'analyser les séries image par image ».
+Il a toutefois fallu attendre 2013 pour qu'un livre soit entièrement consacré aux facéties scientifiques des deux scénaristes des Simpson.
+Intitulé The Simpsons and their Mathematical Secrets, il a été rédigé par...
+Simon Singh, l'inévitable spécialiste du sujet, à l'origine de la « révélation » récente de The Independent .
+Ne restait plus qu'un mystère à lever.
+Pourquoi le quotidien britannique s'est-il emparé de ce fameux épisode le 1er mars, près de deux ans après que Singh a révélé l'anecdote dans son livre ?
+« Il parlait de son livre au festival de littérature de Bath, dont mon journal est partenaire, explique au Monde.fr
+Nick Clark, auteur de l'article en question.
+Pour être honnête, c'était juste une petite histoire qu'il m'a racontée après sa conférence, qui a semblé vivre ensuite sa propre vie en ligne.
+C'était un chouette sujet mais je n'aurais jamais pensé qu'il traverserait la Manche ! » C'était pourtant le véritable message du fameux épisode : ne sous-estimez jamais Homer Simpson.
+William Audureau

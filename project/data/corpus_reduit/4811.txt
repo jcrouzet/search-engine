@@ -1,0 +1,49 @@
+Cultures Web
+Une brève histoire de Google+
+Après avoir tenté d'imposer à tous ses utilisateurs ce service, qui aura connu trois patrons en un an, Google a fait lentement machine arrière.
+Car personne, ou presque, ne comprend son but.
+Le Monde |
+| Par Damien Leloup
+A la fin de juin 2011, lorsque Google commence à distribuer des invitations pour la version bêta privée de Google+, c'est une effervescence mêlée de craintes qui saisit ses fans.
+Personne ne veut passer à côté d'un nouveau Gmail, grande réussite de Google, et dont les invitations ont longtemps été diffusées au compte-gouttes.
+Mais, un peu plus d'un an auparavant, Google a aussi connu l'un de ses pires fiascos avec le lancement mal préparé de Google Buzz — un véritable désastre en matière de vie privée, dont les paramètres par défaut avaient rendu publique quantité d'informations personnelles d'utilisateurs…
+Pour ses premiers utilisateurs, Google+ est plutôt une bonne surprise.
+Le service propose un concept innovant et séduisant sur le papier : les « cercles ».
+On peut créer facilement des groupes, « famille », « collègues », « amis » ou autre, y ranger ses différents contacts, et choisir de ne partager les photos du petit dernier qu'avec ses cousins et celles de la soirée du samedi uniquement avec ses amis.
+Mais personne ou presque ne comprend le but de Google+.
+Et Google ne facilite pas la tâche de ses utilisateurs : alors que tout le monde y voit un concurrent de Facebook, le géant du Web répète à l'envi qu'il ne s'agit pas du tout d'un réseau social, mais plutôt d'une « couche sociale », un «  Google 2.0  » visant à rassembler tous les services de Google.
+Personne n'y comprend rien.
+Il faut dire que Google+ intègre une grande quantité de nouveautés, certaines réellement des nouveautés, ou intéressantes, mais aussi déstabilisantes.
+Les « vidéos-bulles », par exemple, permettent de lancer des discussions en vidéo avec… toutes les personnes de vos cercles qui souhaitent se joindre à la conversation.
+Comme à une terrasse de café, affirme Google, mais la transition est pleine de confusion pour des utilisateurs habitués aux discussions de groupe de Gmail, qui existe depuis 2007 .
+Pourtant, les utilisateurs affluent.
+Ils sont 25 millions en moins d'un mois, 150 millions en six, affirme Google, qui refuse pourtant de donner des détails ou des chiffres réguliers sur ces utilisateurs « actifs » de Google+.
+Si l'outil compte un noyau d'utilisateurs qui y sont très présents, la plupart des pages semblent désertes : peu de publications, peu d'activités, pas ou peu de commentaires...
+Pseudonymes et comptes obligatoires
+Ces débuts en demi-teinte se doublent d'une première polémique, liée à l'utilisation de pseudonymes.
+Contrairement à Facebook, Google+ n'impose pas l'utilisation des noms et prénoms réels ; mais ses règles prévoient qu'un pseudonyme ne peut être utilisé que s'il est bien établi par ailleurs — par exemple, si la personne l'utilise déjà sur un blog ou un autre site.
+L'appréciation est laissée aux équipes de modération de Google — et les utilisateurs n'y comprennent rien.
+Quelques fermetures , jugées arbitraires, de comptes très suivis finissent par contraindre Google à faire machine arrière : les pseudonymes sont finalement autorisés en janvier 2012.
+A la même époque, Google sort l'artillerie lourde pour convertir ses utilisateurs à Google+ : il rend obligatoire la création d'un profil Google+ lors de l'ouverture d'un compte Google.
+Un internaute se voit donc « offrir » un compte Google+ quand il crée une adresse Gmail ou qu'il s'inscrit sur YouTube… Un « cadeau forcé » qui fait mécaniquement grimper le nombre d'utilisateurs, mais diminue encore le ratio entre « inscrits » et « utilisateurs actifs ».
+Surtout, avec le développement d'Android, le système d'exploitation mobile de Google, qui nécessite un compte Google, et dont le succès se fait vraiment sentir à partir de 2012, les inscriptions explosent.
+L'application Google+ est, bien sûr, installée par défaut sur les téléphones Android — et impossible à désinstaller, même s'il est toujours possible de supprimer son compte Google+.
+ Dans l'intervalle, Google « vend » de plus en plus Google+ comme un outil d'authentification pour se connecter à d'autres sites Web.
+En mai 2013, il fusionne plusieurs services de communication dans un outil intégré à Google+ : Google Hangouts rassemble désormais les messageries instantanées de Gmail, Google+, les hangouts vidéo, et même, sur mobile, les SMS.
+L'accueil de ce « hub centralisé » de toutes les communications est, là encore, en demi-teinte : l'interface est esthétique, mais perturbe aussi une partie des utilisateurs qui se perdent entre SMS et chats.
+Au début de 2014, Hangouts sera d'ailleurs au centre d'une polémique lorsqu'une transsexuelle croyant envoyer un texto à un collègue enverra à la place un message Google, qui donne accès à son profil Google — et donc à des informations sur son changement de genre.
+Bronca sur YouTube
+En novembre 2013, Google prend une décision qui va liguer contre Google+ une partie très écoutée de ses utilisateurs : les stars de YouTube.
+Poursuivant toujours ses efforts pour amener la quasi-totalité des internautes utilisant ses services sur Google+, il remplace l'outil de commentaires de YouTube par Google+.
+Le changement soulève une vague de protestations, de la part des commentateurs, mais aussi de la part des créateurs de vidéos — la nouvelle interface de modération est jugée beaucoup moins simple, les notifications arrivent désormais sur Google+ et non plus sur YouTube, et le système demande avec insistance à ses utilisateurs d'abandonner leur pseudonyme YouTube pour leur nom véritable.
+A la fin de 2013, le géant du Web continue de publier des chiffres en hausse : peu après ses deux ans, Google+ dépasse, officiellement, les cinq cents millions d'utilisateurs.
+Pourtant, en avril 2014, surprise : le responsable de Google+ démissionne.
+Vic Gundotra avait suivi le projet depuis ses débuts. 
+« J'ai une dette éternelle envers l'équipe Google+.
+Ce sont des gens qui ont construit tout ce qui est social à Google, envers et contre le scepticisme de beaucoup de personnes », écrit-il dans son message de départ.
+Vic Gundotra est remplacé par l'un des vice-présidents de Google chargé de l'ingénierie, David Besbris, et la direction de l'entreprise assure que les investissements dans le produit continueront.
+Moins d'un an après, le 2 mars 2015, nouveau changement : c'est Bradley Horowitz, le bras droit de Vic Gundotra, qui prend la tête du « réseau social ».
+Ou presque.
+Un mot est étrangement absent du message publié par M. Horowitz pour annoncer sa nomination  : Google+.
+« Je suis très excité de diriger les produits Photos et Streams de Google», les deux principales composantes de Google+, écrit-il.
+Après avoir tenté de regrouper dans Google+ l'ensemble de ses services, Google s'apprête-t-il à les séparer à nouveau ?

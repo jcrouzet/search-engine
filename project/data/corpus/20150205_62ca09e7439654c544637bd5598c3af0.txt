@@ -1,0 +1,32 @@
+Uhuru, le smartphone sécurisé « made in France »
+Le Monde |
+| Par Yves Eudes
+A première vue, le mobile Uhuru, de la société française Nov'It, est un smartphone Google Nexus ordinaire.
+Mais quand on y regarde de près, on découvre un appareil hautement sécurisé, destiné en priorité aux grandes entreprises et aux administrations soucieuses de la confidentialité de leurs communications.
+Son contenu (système d'exploitation, mémoire, données personnelles) est intégralement chiffré.
+D'autre part, le système d'exploitation Android de base a été remplacé par une version mieux sécurisée.
+Il contient notamment le premier antivirus de conception française, Davfi , créé par Nov'It en partenariat avec trois autres société s et une école d'ingénieur.
+Selon Jérôme Notin, patron de Nov'It, la « nationalité » d'un antivirus n'est pas anodine : « Il sait tout ce qui se passe sur l'ordinateur, et transmet en continu des données chiffrées vers le serveur central de l'éditeur.
+» Avant même les révélations d'Edward Snowden sur les programmes de surveillance massive de la NSA, Nov'It affirmait régulièrement que les sociétés informatiques américaines collaboraient avec les agences de renseignement de leur pays pour espionner les entreprises étrangères.
+Respect de la vie privée
+Uhuru possède aussi son propre « store » en ligne, contenant environ 450 applications téléchargeables.
+On est loin du million et demi d'applications de Google Play, mais selon Nov'It, cette offre est suffisante pour un usage professionnel classique : messagerie, lecture de documents, utilitaires de connexion, accès à Wikipedia, à des bibliothèques scientifiques et à des dictionnaires, plus quelques jeux , pour ne pas sembler trop austère…
+Avant d' être validée, chaque application est décortiquée, pour s' assurer qu'elle ne contient aucun logiciel malveillant, et respecte la vie privée de l'utilisateur.
+En faisant ce travail d'audit, la société a eu des surprises : « Nous avons trouvé un petit jeu apparemment anodin qui capte les données de localisation du téléphone en temps réel, ou une application de recettes de cuisine permettant de prendre le contrôle complet de l'appareil », raconte Jérôme Notin.
+Pour accéder au reste du Web, l'utilisateur d'un mobile Uhuru doit passer par le navigateur Android de base, comme sur un ordinateur.
+Pour les recherches Internet, le navigateur se connecte par défaut sur le moteur de recherche français Qwant.
+Fausses coordonnées GPS
+L'appareil est protégé contre les logiciels malveillants téléchargés sur Internet, mais aussi contre les intrusions physiques – par exemple l'injection de logiciels-espions par la prise USB ou l'aspiration de données par la prise audio.
+En théorie, on peut donc le laisser traîner dans sa chambre d'hôtel sans riquer de piratage … A noter aussi des raffinements comme le « leurre de localisation » : pour brouiller les pistes, l'appareil peut envoyer sur le réseau, à la demande, de fausses coordonnées GPS – par exemple celles du quartier général de la NSA...
+En ce qui concerne la partie téléphone, Uhuru Mobile peut fonctionner comme un appareil ordinaire, avec une carte SIM, mais il peut aussi fournir un service de chiffrement de la voix.
+Pour cela, les appels passent par Internet, via un VPN (réseau privé virtuel) et une application spécifique.
+Nov'It propose ce service aux entreprises et aux administrations possédant leurs propres serveurs, et ayant acquis une flotte de téléphones Uhuru.
+En mode chiffré, les utilisateurs pourront appeler uniquement d'autres appareils Uhuru dont les numéros figureront dans un annuaire central.
+Pour le moment, Jérôme Notin a renoncé à offrir la prestation de voix chiffrée aux particuliers : « C'est un service complexe, dont la qualité ne dépend pas de nous, mais de la connexion Internet locale.
+En plus, juridiquement, nous devrions obtenir le statut d'opérateur télécom, ce qui entraînerait toutes sortes de contraintes techniques et administratives… »
+Reste à savoir si Uhuru sera un succès commercial.
+Jérôme Notin affirme être en négociation avec des entreprises et des administrations françaises qui, à ce stade, souhaitent rester anonymes.
+Par ailleurs, il souhaite vendre son système à des fabricants et des distributeurs de smartphones, qui l'installeront en série.
+Il est aussi en pourparlers avec une société du Sri Lanka , qui a besoin d'une sécurité optimale pour son service de micropaiement par téléphone mobile.
+Cela dit, il reconnaît que, partout, la concurrence est rude : « Les entreprises et les administrations restent très sensibles aux opérations de marketing des grands prestataires américains.
+»

@@ -1,0 +1,21 @@
+« Droit à l'oubli » : la justice française condamne Google
+Le Monde |
+16.01.2015 à 18h34
+Google a été condamné pour la première fois par une juridiction française en décembre 2014 pour avoir refusé une demande de droit au déréférencement, appelé abusivement « droit à l'oubli », révèle Le Figaro vendredi 16 juin .
+Une internaute avait constaté qu'une recherche sur Google avec son nom et son prénom renvoyait comme premier résultat vers un article du Parisien évoquant sa condamnation pour escroquerie à une peine de trois ans de prison, dont trois mois ferme, qui datait de 2006.
+Craignant les conséquences de cette information sur sa recherche d' emploi , elle avait adressé une demande à Google pour que le moteur de recherche retire ces résultats de recherche.
+C'est un arrêt du mois de mai dernier de la Cour de justice européenne qui lui en donnait la possibilité.
+En septembre, l'entreprise américaine avait refusé de procéder à cet effacement.
+La plaignante s'était donc tournée vers la justice .
+Lire notre analyse : Internet : du devoir de mémoire au « droit à l'oubli »
+Dans une ordonnance rendue le 19 décembre dernier, le tribunal de grande instance de Paris a finalement ordonné au géant américain de retirer sous dix jours ces liens dans ses résultats de recherche.
+La justice a retenu deux arguments principaux.
+Le fait, d'une part, que huit années s'étaient écoulées depuis la publication des articles et que, d'autre part, d'éventuels employeurs n'ont normalement pas accès à ce type d'information, la condamnation pour escroquerie n'étant pas inscrite dans le bulletin no 3 du casier judiciaire.
+Ces deux éléments justifiaient, selon le tribunal, la suppression partielle des articles des résultats de recherche.
+Il n'a cependant pas accordé à la plaignante les dédommagements qu'elle réclamait.
+LA FRANCE EN TÊTE
+Une décision de la Cour de justice de l' Union européenne (CJUE) de mai dernier consacre le droit au déréférencement partiel, c'est-à-dire le droit de faire supprimer des moteurs de recherche les liens vers des pages comportant des informations personnelles « non pertinentes, obsolètes ou inappropriées ».
+Cette suppression ne s'applique que sur les résultats qui s'affichent lorsque sont recherchés le nom de l'internaute qui en fait la demande.
+Ce n'est pas la première fois  que la justice française mentionne l'arrêt européen dans une décision condamnant le moteur de recherche.
+Dans ce cas précis, en revanche, la justice a donné raison à la plaignante en s'appuyant précisément sur les critères retenus par la CJUE dans son arrêt de mai, ce qui est une première.
+Depuis la reconnaissance du droit à l'oubli par la CJUE, la France avec 50 000 cas est en tête des pays européens au niveau du nombre de demandes de retrait de liens, mais la firme de Mountain View a décliné pour l'instant un peu plus de la moitié d'entre elles (52 %) dans l'Hexagone.

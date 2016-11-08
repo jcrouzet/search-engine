@@ -1,0 +1,22 @@
+Renseignement : la commission numérique recommande l'abandon des « boîtes noires »
+Le Monde |
+• Mis à jour le
+01.04.2015 à 22h28
+C'est l'une des mesures les plus emblématiques du projet de loi sur le renseignement, que les commissions de l'Assemblée nationale ont commencé à examiner cette semaine : la possibilité, pour les services de renseignement, d'installer des « boîtes noires » chez les fournisseurs d'accès à Internet.
+Ces dispositifs de surveillance du trafic sur Internet seront, prévoit le texte de loi, alimentés par un algorithme chargé de détecter des comportements pouvant signaler une activité terroriste — par exemple, être parmi les premiers internautes à consulter une vidéo djihadiste après sa publication.
+La commission numérique de l'Assemblée nationale vient cependant de rejoindre plusieurs associations de défense des libertés et syndicats de magistrats en recommandant la suppression pure et simple de ce dispositif.
+Dans sa recommandation, rendue publique mercredi 1er avril , la commission de réflexion et de propositions sur le droit et les libertés à l'âge numérique se dit « fortement préoccupée par l'usage préventif de sondes et d'algorithmes paramétrés pour recueillir largement et de façon automatisée des données anonymes afin de détecter une menace terroriste ».
+Lire : La galaxie des opposants au projet de loi sur le renseignement
+Les députés notent que ces « boîtes noires » ouvrent « la possibilité, à des fins de prévention du terrorisme, d'une collecte massive et d'un traitement généralisé de données ».
+Ils réfutent notamment l'un des principaux arguments mis en avant par le gouvernement pour affirmer que ce dispositif n'est pas intrusif : le fait que les données soient collectées de manière anonyme.
+Le texte prévoit en effet que l'anonymat des données collectées ne puisse être levé que sur demande du premier ministre, en cas de menace imminente.
+Cet argument de l'anonymat est « traditionnellement avancé à l'appui de la surveillance généralisée, qui a recours à des algorithmes qui lisent et exploitent des volumes massifs de données.
+Par ailleurs, sur le plan juridique, les données concernées ne sont pas anonymes, puisque leur exploitation peut conduire, sous certaines conditions, à la levée de l'anonymat.
+Il s'agit donc d'un traitement de données à caractère personnel », note la commission. 
+La commission adresse plusieurs autres reproches au texte, et notamment le fait que les dispositifs qu'il légalise pourront s'appliquer à de très nombreuses missions, allant de la lutte contre le terrorisme à la surveillance des mouvements violents en passant par la « protection des intérêts de la politique étrangère » — des champs d'application qui ont été de nouveau élargis en commission des lois.
+La surveillance internationale peut aussi concerner les Français
+Autre point clé, la commission note que la partie du projet de loi encadrant la surveillance des communications avec l'étranger est trop floue pour protéger les droits des citoyens français.
+« Compte tenu du caractère mondial des réseaux numériques, l'essentiel des communications des citoyens français est émis ou reçu à l'étranger, notamment aux Etats-Unis, où sont domiciliés de nombreux serveurs.
+Il y a donc un risque que cette surveillance internationale, beaucoup moins encadrée, s'applique indirectement aux citoyens français », notent les députés.
+La commission salue en revanche la création de la commission nationale de contrôle des techniques de renseignement, appelée à remplacer la commission nationale de contrôle des interceptions de sécurité, organisme de contrôle de l'activité des services de renseignement, mais recommande un renforcement de ses pouvoirs et l'instauration d'un mécanisme de sanction pour les agents qui mettraient en place des surveillances illégales.
+Pixels

@@ -1,0 +1,32 @@
+Aux origines de la machine de chiffrement Enigma
+Le Monde |
+29.01.2015 à 14h06
+Si Alan Turing a finalement eu droit à une reconnaissance posthume, et est aujourd'hui le personnage principal du film Imitation Game, sorti mercredi 28 janvier, ce n'est pas le cas de celui qui a été durant des années son « adversaire » indirect.
+Mort en 1929, Arthur Scherbius est l'inventeur de la fameuse machine Enigma, utilisée par l' armée allemande pour chiffrer ses communications à l'aide d'un code très élaboré – code que Turing et les équipes de chercheurs de Bletchley Park finiront par déchiffrer à l' aide du premier prototype d'ordinateur.
+Né en 1878, Scherbius étudie l'ingénierie à Munich puis à Hanovre.
+Ses premiers centres d'intérêt ne sont pas nécessairement les codes et les chiffres : sa thèse de doctorat, qu'il soutient en 1903, porte sur les systèmes de turbines à eau.
+Mais dans les années 1910, il conçoit un système de chiffrement novateur pour l'époque, utilisant des rotors désynchronisés : l'idée permet de multiples combinaisons de chiffrement, offrant une très grande sécurité.
+Dans ces conditions, il est impossible, même pour une équipe nombreuse, d' essayer toutes les combinaisons pour tenter de déchiffrer un texte.
+Il dépose un brevet en 1918 pour protéger son invention.
+L'idée est bonne, mais Scherbius n'est pas le seul à l' avoir eue.
+En l'espace de deux ans, quatre personnes ont déposé des brevets similaires : Hebern, en 1917 aux Etats-Unis ; Scherbius, en Allemagne en 1918 ; et en 1919, le Néerlandais Koch et le Suédois Damm déposent à leur tour des projets similaires.
+Pour éviter une complexe et coûteuse bataille judiciaire, la société de Scherbius rachètera par la suite les droits du brevet de Koch. 
+Echec commercial
+Car entre-temps, Scherbius s'est associé à un autre ingénieur pour créer une société et tenter de commercialiser sa machine, Enigma.
+C'est un échec cuisant.
+Trop chère, la machine ne trouve pas preneur.
+Les deux hommes ont pourtant frappé aux bonnes portes : la marine allemande, tout d'abord, qui après avoir fait preuve d'intérêt renonce.
+Le ministère des affaires étrangères de la République de Weimar refuse également d' acheter l'Enigma pour chiffrer ses câbles diplomatiques.
+Les deux ingénieurs se tournent alors vers des clients potentiels à l'étranger et dans le secteur privé ; ils tiennent un stand au grand salon suisse de la poste et des communications en 1923, là encore sans succès.
+L'entreprise vend quelques machines, mais il leur manque un « gros » client.
+En 1925, la chance semble enfin leur sourire : l'armée suédoise se montre intéressée.
+Les négociations se déroulent bien, mais un nouveau venu va bloquer le processus.
+Damm avait lui aussi déposé un brevet pour un système de chiffrement par rotors – sa machine, très complexe, n'avait jamais été construite.
+Mais un employé de sa firme découvre que l' arm ée suédoise s'intéresse à l'Enigma : il simplifie la machine de Damm et la présente au commandement militaire, qui préfère la machine suédoise à sa concurrente allemande...
+Scherbius retourne à la case départ.
+Cet ultime revers ne dure pas longtemps : en 1926, au moment où Scherbius perd le contrat suédois, la Kriegsmarine renoue avec son intérêt pour l'Enigma.
+Elle passe une importante commande, tandis que Scherbius améliore sa machine en la rendant plus complexe.
+Trois ans plus tard, l'armée de terre allemande décide à son tour de déployer l'Enigma pour toutes ses communications : la Wehrmacht améliore au passage considérablement la sécurité de la « machine M », comme l'appellent les militaires allemands, en généralisant notamment l'usage de clefs de chiffrement changeant tous les jours.
+Mais Scherbius n'assistera pas au succès de sa machine, ni à l'utilisation qu'en feront les nazis : la même année, quatre ans avant l'accession de Hitler au pouvoir , il est atteint par la ruade d'un cheval attelé à une carriole.
+Il meurt à 41 ans, sans savoir que son invention jouera un rôle-clé dans le conflit mondial qui s'annonce.
+ Imitation Game , de Morten Tyldum

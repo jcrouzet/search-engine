@@ -1,0 +1,26 @@
+| Par Hervé Morin
+Modifier le génome d’un embryon humain pour prévenir le développement d’une maladie chez cet individu, mais l’éradiquer aussi dans toute sa descendance.
+Cette expérience, qui touche au patrimoine héréditaire de l’espèce humaine, et contrevient à la convention d’Oviedo, ratifiée par la France et 28 autres pays européens en 2011, vient d’être tentée par une équipe chinoise.
+Décrite dans la revue Protein   Cell du 18 avril , elle concrétise les craintes exprimées ces dernières semaines par une partie de la communauté de la recherche en génie génétique.
+Après la publication par le journal du Massachusetts Institute of Technology (MIT) d’une enquête très fouillée montrant des débuts de manipulation génétique des cellules sexuelles (y compris aux Etats-Unis), des chercheurs américains avaient publié dans les revues Nature et Science les 12 et 19 mars des mises en garde envers les tentatives de modifier ces cellules germinales : elles auraient pour effet de modifier l’hérédité humaine, et non plus, comme les thérapies géniques classiques, une partie seulement des cellules défaillantes d’un individu.
+Les craintes portaient notamment sur l’utilisation d’une nouvelle technique d’ingénierie du gène, CRISPR-Cas9, extrêmement efficace et simple à mettre en œuvre.
+L’expérience chinoise, qui fait appel à cet outil, s’inscrit dans le spectre des manipulations visées par ces demandes de moratoire, dans la mesure où elle avait pour objectif d’effectuer des mutations chez l’embryon, qui se seraient de fait retrouvées dans ses cellules sexuelles – et potentiellement dans sa descendance.
+Lire aussi : Les vertiges de la « chirurgie du génome »
+Précisons-le d’emblée, l’expérience tentée par l’équipe de Junjiu Huang (Université Sun-Yat-sen, Canton) a échoué.
+Les 85 embryons ayant fait par la suite l’objet de modification avaient été obtenus auprès de centres de fertilité réalisant des fécondations in vitro - ils étaient dotés de chromosomes surnuméraires et n’avaient donc pas été retenus dans des projets parentaux.
+Aucun n’aurait été viable.
+L’expérience ne visait d’ailleurs pas à réimplanter ces embryons pour obtenir des bébés, mais à tester l’efficacité de cette nouvelle méthode d’édition de l’ADN afin de corriger un gène responsable d'une maladie génétique du sang, la bêta-thalassémie ou anémie de Cooley.
+Mais la technique CRISPR-Cas9 a été prise en défaut, dans la mesure notamment où de nombreux embryons présentaient une structure mosaïque, avec des cellules dont l’ADN avait bien été corrigé, mais d’autres où le gène défaillant s’exprimait toujours.
+« Cela montre à quel point cette science est immature »
+Pour le prix Nobel David Baltimore, interrogé par le New York Times, « cela montre à quel point cette science est immature.
+Nous avons appris beaucoup de leur expérience, principalement sur ce qui peut mal tourner ».
+David Baltimore faisait partie des deux premiers signataires de l’appel de Science à « suivre une voie prudente avant de manipuler le génome des cellules germinales ».
+Un autre prix Nobel, Paul Berg, lui aussi signataire de cet appel, avait été à l’origine il y a quarante ans de la conférence d’Asilomar, qui visait déjà à réfléchir aux risques liés au développement du génie génétique.
+Certains estiment aujourd’hui qu’en génétique humaine, une telle conférence serait indispensable.
+En juin 2014, la Française Emmanuelle Charpentier, co-inventrice de l’outil CRISPR-Cas9, estimait ainsi que « cette technique fonctionne si bien et rencontre un tel succès qu’il serait important d’évaluer les aspects éthiques de son utilisation ».
+L’expérience chinoise confirme chez l’humain ce qui avait déjà été montré chez d’autres espèces animales : malgré sa puissance, CRISPR-Cas9 n’est pas un outil parfait.
+Outre le risque d’introduire des modifications hors de la cible visée, on peut aboutir à des individus « chimères », dotés de plusieurs génomes différents.
+De plus, il est difficile de prédire tous les effets induits par une correction effectivement réalisée.
+« Notre étude souligne les défis posés par les applications cliniques de CRISPR-Cas9, concluent les chercheurs chinois, pour qui les effets de cet outil en dehors des gènes ciblés « devraient faire l’objet d’investigations exhaustives avant toute application clinique ».
+Mais si la technique devenait plus efficace, la question du principe même de son utilisation ferait débat.
+Certains y voient une première étape vers une forme d’eugénisme et la quête du « bébé parfait », quand d’autres soulignent l’intérêt de maîtriser une capacité nouvelle à soulager l’humanité de certaines maladies héréditaires.

@@ -1,0 +1,24 @@
+« Source sûre », une plateforme sécurisée pour lanceurs d'alerte
+Le Monde |
+| Par Yves Eudes et Martin Untersinger
+En Europe , la protection des sources des journalistes est garantie par des lois et des conventions internationales, mais en pratique, elle est souvent bafouée, y compris par les autorités.
+En plus des protections juridiques, les lanceurs d'alerte, qui souhaitent généralement rester anonymes pour éviter d'éventuelles représailles, doivent aussi être aidés concrètement par les organes de presse auxquels ils s'adressent.
+Dans ce but, quatre médias francophones, Le Monde, La Libre Belgique, Le Soir de Bruxelles et la RTBF (radio-télévision belge), ont créé ensemble un site Internet sécurisé baptisé Source sûre .
+Le site Source sûre
+Toute personne désireuse de dénoncer , preuves à l'appui, des actes illégaux perpétrés par leur patron, leur chef ou par un responsable détenteur d'autorité, pourra y déposer des documents et des messages, tout en restant anonyme et intraçable.
+Elle pourra choisir d' envoyer ses documents à un seul média participant, ou à plusieurs.
+Chaque média décidera alors s'il souhaite ou non lancer une enquête sur la base de ces informations.
+Source sûre devrait ainsi permettre aux médias de découvrir de nouvelles affaires et de mieux remplir leur rôle de contre-pouvoir.
+Lorsqu'un lanceur d'alerte désire envoyer des documents sensibles, il peut se connecter à un site sécurisé et intraçable, qui nécessite d' installer le navigateur Tor (gratuit et facile d'installation, qui brouille les pistes et empêche de remonter jusqu'à lui) ou bien sur un site classique, qui l'avertit que sa connexion, non sécurisée, peut laisser des traces et dévoiler son identité.
+Plate-forme internationale
+Sur ce site, le lanceur d'alerte choisit le ou les médias à qui il désire transmettre des documents.
+Une fois envoyés, ceux-ci sont pris en charge par la plate-forme sécurisée GlobaLeaks, mise au point par une équipe d'experts européens indépendants, déjà utilisée dans différents pays ( Pays-Bas , Serbie ...) et par des ONG comme Amnesty International .
+Celle-ci débarrasse les documents de leurs métadonnées, qui peuvent trahir leur émetteur, puis les chiffre grâce à un puissant système de cryptage, de manière à ce que seul le média destinataire des documents puisse les lire .
+Les documents sont ensuite entreposés sur un autre serveur caché et sécurisé, auquel se connecte un journaliste de la rédaction à qui sont adressés les documents.
+Il utilise pour cela le logiciel Tor, installé sur un ordinateur et qui fonctionne grâce au système d'exploitation Tails , dérivé du système libre et ouvert Linux, qui efface toute trace de navigation à chaque extinction de l'ordinateur.
+Lui seul peut déchiffrer les fichiers qui ont été envoyés.
+Les documents ainsi expédiés sont à la fois très difficiles à intercepter par un tiers, mais également impossibles à lire, car chiffrés.
+Par ailleurs, les journalistes ne pourront pas remonter eux-mêmes jusqu'à l'identité de leur source.
+Cette dernière se verra attribuer un numéro à 16 chiffres qui lui servira d'identifiant pour discuter dans un second temps avec le journaliste, notamment pour l' aider dans son enquête, par la messagerie sécurisée intégrée au site.
+Dès à présent, le site Source sûre est prêt à accueillir d'autres médias francophones, grands et petits, désireux de participer à cette aventure – et de partager les frais de fonctionnement.
+Une seule condition : les nouveaux venus s'engageront à mener des investigations approfondies avant de publier une information tirée d'un document reçu par l'intermédiaire de Source sûre.

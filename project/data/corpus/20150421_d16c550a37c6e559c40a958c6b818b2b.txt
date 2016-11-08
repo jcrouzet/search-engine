@@ -1,0 +1,18 @@
+Google va désormais privilégier les sites adaptés au mobile lors d’une recherche sur smartphone
+Le Monde |
+| Par Sarah Belouezzane
+Le mardi 21 avril s’est produit un changement déterminant dans les résultats que présente le moteur de recherche Google sur mobile.
+Désormais, lorsqu’une recherche est faite sur un smartphone (le changement ne concerne pas les tablettes), le moteur de recherche fera apparaître – que ce soit avec l’application ou le site Internet – d’abord les sites qui sont mobile friendly, c’est-à-dire qui s’adaptent à l’écran du mobile quelle que soit sa taille.
+Les sites Internet qui ne correspondraient pas à cette description et qui ne passeraient pas le test de Google , se voient, à partir d’aujourd’hui, relégués plus bas dans le résultat de recherche.
+Prévue depuis maintenant deux mois, la mesure n’en fait pas moins peur aux spécialistes du référencement.
+Les Américains l’ont même surnommée « mobilegeddon », ou « l’apocalypse du mobile ».
+Leur crainte : que tous ceux qui ne sont pas prêts voient leurs sites relégués dans les limbes du moteur de recherche, inaccessibles pour le grand public.
+Selon une étude de Yooda , un spécialiste de la performance digital et du référencement, 64 % des sites français ne seraient pas adaptés à l’interface mobile.
+Particulièrement concernées, les administrations ou les commerces de proximité.
+Ces derniers seraient donc les premiers à pâtir de la mesure.
+Si un utilisateur effectue une recherche sur son smartphone pour trouver un fleuriste à proximité, il ne trouvera pas forcément le plus proche, ou celui où il avait ses habitudes ; Google faisant d’abord remonter le site dont l’interface est adaptée pour les smartphones.
+Selon le site spécialisé Business Insider , des millions de petits commerces pourraient alors voir le trafic de leur site s’effondrer.
+Et ils ne seraient pas les seuls, citant une étude de Somo, un spécialiste de marketing en ligne, le site recense une multitude de grandes marques qui n’ont pas encore adapté leurs sites Internet au terminal : Nintendo, Versace, American Apparel, Danone ou même le Daily Mail feraient partie du lot.
+Pourtant ce n’est pas faute d’avoir été prévenus.
+Google a même réalisé un guide spécial expliquant aux développeurs la marche à suivre pour que leur site soit adapté au smartphone et n’ait pas à souffrir de ce changement.
+Le groupe de Mountain View qui voit 60 % de son trafic arriver par le mobile, souhaite, selon les spécialistes, offrir une expérience plus riche et plus pertinente à ses utilisateurs.

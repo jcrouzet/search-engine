@@ -1,0 +1,47 @@
+Des torrents de dollars.
+Après la publication, jeudi 5 février sur le site ProPublica, d’un article faisant état de ses difficultés à réunir de l’argent , les donations ont soudainement afflué dans les poches de Werner Koch.
+Vous ne connaissez probablement pas cet Allemand : il est pourtant l’auteur et le principal responsable des lignes de codes parmi les plus importantes de la sécurité sur Internet.
+Il a créé (et s’occupe toujours) de GNU Privacy Guard (« GNU’s Not UNIX » [littéralement, « GNU n’est pas UNIX »] – GPG), un code informatique qui met en musique le standard de cryptage OpenPGP : c’est grâce à lui que de nombreuses entreprises , journalistes, activistes, ou « simples » internautes protègent leurs courriels des indiscrets.
+Souvent, ces derniers utilisent GPG sans le savoir , puisque le logiciel libre peut être gratuitement réutilisé partout, et l’est dans plusieurs logiciels, comme GPG4Win (sa déclinaison pour Windows) ou Enigmail.
+Encore aujourd’hui, cette technologie fait figure de référence.
+Des documents de la NSA récemment publiés par Der Spiegel montrent que la puissante agence de renseignement se casse encore les dents lorsqu’elle tente d’en contourner la protection.
+Et jusqu’à la semaine dernière, son créateur n’avait quasiment pas un sou.
+« Je travaille sur GPG depuis longtemps [1999], mais au bout d’un moment j’ai réalisé que ça n’était pas juste que je vive avec un aussi petit salaire, cela affectait ma propre famille .
+Début 2013, j’ai commencé à chercher un nouveau travail », explique-t-il aujourd’hui au Monde.
+Son projet , après avoir été partiellement financé par des bourses de la République allemande, où il réside, reposait sur des donations d’internautes, insuffisamment nombreuses .
+200 000 dollars
+Courant 2013, les révélations d’Edward Snowden se multiplient.
+Impossible pour lui d’abandonner son projet.
+Il continue donc, et lance en décembre dernier une nouvelle levée de fonds.
+Il a besoin de 137 000 dollars.
+Juste avant la publication de l’article de ProPublica, jeudi, il en avait récolté environ 43 000.
+Dès vendredi, le compteur atteint les 120 000 dollars, et lundi, dans l’après-midi, il passe la barre des 200 000 dollars. 
+Facebook et Stripe, une start-up de paiement, lui ont aussi promis 50 000 dollars annuels chacun après l’article de ProPublica.
+Les problèmes de financement de GPG sont désormais derrière lui.
+Une donation discrète, dont M. Koch n’avait pas le droit de parler jusqu'à la semaine dernière, lui avait déjà permis d’éviter le pire.
+La Linux Foundation avait accordé 60 000 dollars, de quoi le convaincre de franchir le pas et d' embaucher un développeur à plein temps pour l’épauler, un «  luxe  » auquel M. Koch avait dû précédemment renoncer faute d’argent.
+Avec ces nouveaux fonds, auquel il ne « s'attendait pas du tout », M. Koch réfléchit même à embaucher un troisième développeur.
+GPG survivra, mais ses mésaventures posent à nouveau la question du financement des logiciels libres en matière de sécurité informatique .
+Le cas s’était déjà présenté avec  le « bug » Heartbleed : un bout de code utilisé par des millions d’internautes et d’entreprises du monde entier était entretenu par une petite poignée de développeurs, dont un seul s’y consacrait à plein temps.
+De quoi favoriser , dans le cas d'Heartbleed, l’introduction involontaire d’une faille.
+Lire : Faille de sécurité Heartbleed : « Le pire scénario a été évité »
+La sécurité, « un coût sans contrepartie immédiate »
+Une mésaventure qu’a évitée GPG, mais Werner Koch reconnaît une carence : « Tous les gros projets libres utilisés pour créer des sites Web, comme PHP, ont été pris en charge par des entreprises, car c’est très important pour elles.
+Elles en voient les résultats tous les jours, si quelques chose ne marche pas, elles le remarquent et donnent de leur argent.
+Avec les logiciels de sécurité, on s’en rend compte après que le dommage soit fait.
+C’est un coût sans contrepartie immédiate. 
+»
+Pourtant, pour Werner Koch, un financement assuré exclusivement par un gouvernement, par exemple, pose problème.
+« Ils financent de nouvelles fonctionnalités, mais pas le maintien du logiciel, pour lequel ils comptent sur les volontaires.
+Ils ne comprennent pas comment ça marche, ils pensent qu’on écrit un programme une fois, que ça marche, et qu’on a pas besoin de faire quoi que ce soit d’autre après » explique-t-il.
+Werner Koch est aussi très critique concernant les positions récentes des gouvernements britannique et américain sur le chiffrement des communications.
+Ces derniers se sont notamment  alarmés des dispositions mises en place par Apple et Google pour protéger leurs utilisateurs et ont réclamé un moyen pour les forces de l’ordre d’y accéder .
+Plus récemment le premier ministre britannique, David Cameron, a évoqué une demande similaire.
+Lire : David Cameron veut accroître les pouvoirs de ses espions sur Internet
+Attention au passe-partout
+« On a déjà assisté à ce débat il y a une grosse dizaine d’années, où des gouvernements demandaient une clé universelle pour déchiffrer les communications », explique Werner Koch, faisant référence au tournant des années 2000, lorsque la cryptographie, alors militaire, est devenue accessible au grand public à mesure que l’informatique s'est démocratisée.
+Ce mouvement s’était accompagné de vélleités gouvernementales pour obtenir un moyen universel de casser cette cryptographie.
+« Le problème, c’est qui contrôle cette clé, explique M. Koch.
+Si vous mettez en place une clé universelle, les risques d’attaques contre cette clé sont très élevés.
+Ce passe-partout, c’est un problème pour les gouvernements, les entreprises, car il suffit de mettre la main sur cette clé pour tout déchiffrer : eux, mais leurs ennemis aussi.
+»

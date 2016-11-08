@@ -1,0 +1,43 @@
+4 janvier 2015 , par Pierre Barthélémy
+Quand la justice veut différencier des vrais jumeaux par l’ADN
+Tout commence il y a dix ans, le 21 septembre 2004, dans le sud de Boston (Massachusetts, Etats-Unis).
+La menaçant d'un pistolet, deux hommes obligent une femme à monter en voiture, la conduisent dans un endroit reculé, la frappent, la violent et la volent.
+Huit jours plus tard, quasiment dans le même quartier, l'horrible scénario se reproduit.
+Cependant, cette fois-là, la victime, en ramassant ses affaires, a la présence d'esprit de prendre le préservatif usagé dont un de ses violeurs s'est servi, en espérant que l'ADN parlera.
+L'un des deux agresseurs finit par être pris et condamné en 2012 mais ce n'est pas l'homme au préservatif.
+La police pense savoir qui est ce dernier car, dès 2008, elle a montré que le matériel génétique contenu dans le sperme correspondait à celui de Dwayne McNair, 23 ans au moment des faits.
+Mais elle ne peut pas l'arrêter.
+Pourquoi ?
+Parce que ce suspect a un frère jumeau, Dwight, dont l'ADN est lui aussi identique à celui présent dans le condom !
+Les tests génétiques réalisés par la police scientifique se concentrent en effet sur ce que l'on appelle des micro-satellites, c'est-à-dire des petites portions non codantes de l'ADN, qui varient énormément d'un individu à l'autre mais pas du tout entre deux vrais jumeaux : issus du même ovule fécondé qui s'est ensuite divisé en deux aux premiers jours du stade embryonnaire, les jumeaux monozygotes partagent le même matériel génétique.
+Toutefois, depuis quelques années on sait qu'il existe d'infimes variations entre l'ADN de deux jumeaux, résultant de mutations aléatoires qui se sont produites lors du développement in utero mais après la séparation des deux embryons.
+Seulement, ces mutations rarissimes ne peuvent pas être décelées avec les protocoles expérimentaux employés par la police scientifique ou pour les tests de paternité.
+On estime en effet que ces variations concernent tout au plus quelques dizaines de paires de bases (ces barreaux de la célèbre double hélice de l'ADN) sur les quelque 3 milliards que compte le génome de chaque humain...
+Pour différencier deux jumeaux, il faut donc comparer minutieusement leurs génomes entiers, ce qui était impossible à réaliser en 2004.
+Mais en dix ans, les méthodes de séquençage se sont considérablement améliorées et leur coût a dégringolé.
+Ce qui a permis à une équipe allemande de tenter sa chance.
+Comme ils le décrivent dans leur étude publiée dans le numéro de mars 2014 de Forensic Science International : Genetics – et dont le titre commence par  Trouver l'aiguille dans la meule de foin ... –, ces chercheurs ont recruté deux vrais jumeaux ainsi que l'épouse et l'enfant d'un d'entre eux.
+Des échantillons ont été prélevés – sang pour la mère et l'enfant, sperme, sang et muqueuse buccale pour les jumeaux – et confiés à des expérimentateurs sans que ces derniers en connaissent la provenance : à eux de différencier les deux jumeaux et de dire lequel des deux était le père.
+Même avec du matériel de séquençage très récent et performant, il leur a tout de même fallu plusieurs semaines pour préparer et traiter les échantillons, cartographier puis comparer les génomes grâce à un logiciel utilisé pour détecter les mutations génétiques dans les tumeurs cancéreuses.
+Les données prenaient, à l'état brut, 600 gigaoctets de mémoire et 2,8 téraoctets une fois analysées.
+Lorsque les auteurs de l'étude évoquaient l'aiguille et la meule de foin, ils ne mentaient pas : sur les milliards de paires de bases comparées, seulement 5 différences ont pu être mises au jour, des mutations que l'on retrouvait à la fois chez le père et l'enfant mais pas chez l'oncle jumeau.
+L'image ci-dessous, extraite de l'article, pointe une de ces différences, découverte sur le chromosome 4.
+Et l'affaire Dwayne McNair dans tout cela ?
+Eh bien, la police scientifique du Massachusetts effectuant un bon travail de veille, elle a repéré cette étude de Forensic Science International : Genetics et répété l'expérience avec les frères McNair.
+Résultat :  selon le bureau du procureur ,  il est 2 milliards de fois plus probable que Dwayne McNair, plutôt que son frère, soit la source de l'ADN  retrouvé dans le préservatif. 
+Sur la base de ce nouvel élément, le procureur a décidé de poursuivre Dwayne McNair.
+C'était le 5 septembre 2014.
+Si je parle de cela aujourd'hui, c'est parce que l'histoire n'est pas terminée.
+Dans quelques jours, le 12 janvier, doit se tenir l'audience préliminaire au procès et c'est à ce moment-là que le juge décidera de retenir ou non le résultat de ce test parmi les éléments à charge.
+De mettre ou non la justice au diapason de la recherche.
+Ce type d'analyse ADN n'a en effet encore jamais servi devant un tribunal et l'avocat de McNair, Robert Tobin, a déclaré à Associated Press qu'il était bien décidé à se battre sur ce point.
+Selon lui, le test  n'a pas été accepté dans la communauté de la police scientifique. 
+(...) Est-il fiable ?
+Est-il prêt pour une première utilisation ?  
+Interrogé par Wired , le bio-informaticien Yaniv Erlich, du Massachusetts Institute of Technology (MIT), sans remettre en cause le sérieux de l'équipe allemande ni son protocole, regrette que l'expérience n'ait pas été menée sur plusieurs dizaines de paires de jumeaux, pour avoir une base statistique plus solide.
+Ceci dit, même si le juge décide de rejeter le test dans cette affaire, celui-ci finira par s'imposer devant les tribunaux.
+Utilisé par la police scientifique depuis près de trente ans, l'ADN est au fil des années devenu la  reine des preuves  et l'on comprend bien pourquoi les enquêteurs ragent quand la gémellité donne un passeport pour l'impunité en application du principe selon lequel mieux vaut un coupable en liberté qu'un innocent en prison.
+Les naissances de jumeaux monozygotes étant relativement fréquentes (3 naissances sur 1 000, soit 6 enfants sur un millier), la justice a déjà dû plusieurs fois relâcher un suspect identifié par son ADN, parce qu'il disposait d'un  clone  génétique, ce qui ouvrait la porte au doute.
+Ainsi en 2009,  la police allemande a été contrainte de laisser filer deux frères dont au moins un était impliqué dans un vol de bijoux qui avait fait la  une  des journaux...
+Pierre Barthélémy (suivez-moi  ici sur Twitter  ou bien  là sur Facebook )
+Lire aussi :

@@ -1,0 +1,29 @@
+Les électriciens veulent éviter le coup de chaud lors de la prochaine éclipse
+Le Monde |
+| Par Jean-Michel Bezat
+Tous les gestionnaires européens de lignes à haute tension - à l’image de Réseau de transport d’électricité (RTE) en France - sont sur les dents.
+Vendredi 20 mars, entre 9 heures et 12 heures, une éclipse exceptionnelle cachera jusqu’à 80 % du soleil en Europe, entraînant l’effacement de 34 000 mégawatts (MW) de capacités des panneaux solaires disponibles.
+« Cette baisse brutale de la production photovoltaïque, si elle n’est pas instantanément compensée par d’autres moyens de production, pourrait faire peser un risque sur l’équilibre du réseau et entraîner des coupures d’électricité », prévient RTE, qui, ne parlant pas de black-out, ne dramatise pas.
+La filiale d’EDF indique qu’elle est mobilisée dans le cadre de la « coordination » des gestionnaires de réseaux européens, un travail indispensable à la sécurité d’approvisionnement électrique du Vieux Continent.
+L’Allemagne sera la plus affectée
+La situation risque d’être tendue entre 10 heures et 10 h 30 en cas de fort ensoleillement puisque, leur « combustible » étant gratuit, les centrales solaires sont appelées en priorité sur le réseau quand le soleil brille.
+L’interconnexion des réseaux est de plus en plus importante et leurs gestionnaires devront réagir de manière coordonnée et instantanée lors de l’éclipse.
+Tous les pays ne sont toutefois pas logés à la même enseigne.
+L’Allemagne sera la plus exposée, puisque 17 000 MW de solaire (sur un total de 40 000 MW) seront touchés.
+Elle sera suivie de l’Italie (7 000 MW concernés sur 20 000 MW), puis de la France (2 000 MW sur 5 400 MW).
+L’équivalent, pour la France, de deux réacteurs nucléaires, ce qui est a priori parfaitement gérable.
+Mais la France s’inscrit dans un contexte européen.
+« La baisse de la production photovoltaïque, si elle n’est pas compensée en quelques instants, pourrait entraîner un déséquilibre entre la production et la consommation électrique, provoquant ainsi une variation importante de la fréquence électrique sur laquelle fonctionnent les réseaux électriques des 34 pays européens interconnectés », prévient RTE.
+Réglée sur 50 Hz, cette fréquence doit être maintenue entre 49,5 Hz et 50,2 Hz pour éviter que certaines centrales de production se déconnectent automatiquement du réseau pour protéger leur matériel.
+Des délestages, en cas d’urgence
+Ces gestionnaires sont réunis au sein d’une structure, l’ENSOE-E (European Network of Transmission System Operators), dont il existe un équivalent pour le gaz.
+Elle a arrêté un « plan d’action commun ».
+Les réserves de production seront accrues dans chaque pays durant la matinée de vendredi, notamment en France (+ 50 %).
+D’autres moyens de production, « essentiellement hydrauliques », seront mobilisés et « pourront être activés en moins de 15 minutes », indique RTE, qui pilote le réseau depuis son Centre national d’exploitation du système (CNES) de Saint-Denis (Seine-Saint-Denis).
+Des opérations de maintenance sur les interconnexions aux frontières ont été reportées pour optimiser les capacités d’échanges entre pays.
+Dernière possibilité, mais seulement en cas d’urgence : des délestages, le courant étant momentanément coupé chez certains clients.
+Exportatrice nette de courant, la France pourrait aider ses voisins.
+Elle dispose de 14 000 MW de capacités d’échange à ses frontières.
+L’Allemagne, avec laquelle elle est globalement déficitaire sur l’année, pourrait avoir besoin d’une aide ponctuelle.
+Ce n’est pas la première fois que l’Europe et la France connaissent une telle éclipse solaire.
+En août 1999, un phénomène de même ampleur s’était produit, mais il n’avait eu aucun impact sur le réseau : la capacité photovoltaïque européenne était alors 100 fois inférieure à celle d’aujourd’hui.

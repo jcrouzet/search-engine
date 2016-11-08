@@ -1,0 +1,12 @@
+Un nouveau logiciel espion de la NSA mis au jour
+Le Monde |
+17.02.2015 à 04h29
+L'Agence nationale de sécurité américaine (NSA) aurait, selon d'anciens agents du renseignement américain, trouvé le moyen de dissimuler un logiciel espion dans les disques durs fabriqués par les société s Western Digital, Seagate, Toshiba et d'autres fabriquants.
+Ce procédé signifie que la NSA dispose des moyens de contrôler la majeure partie des ordinateurs dans le monde , affirment-ils à l'agence de presse Reuters.
+Ces révélations interviennent après la découverte par le laboratoire Kaspersky, développeur de logiciels de sécurité informatique basé à Moscou, de la présence de groupes de programmes d'espionnage sur des ordinateurs dans plusieurs pays. 
+Lire : La NSA, l'espion qui vous aimait
+UNE TRENTAINE DE PAYS CONCERNÉS
+Kaspersky, qui a mis au jour une série d'opérations de cyberespionnage occidentales, précise que des ordinateurs personnels infectés avec un ou plusieurs programmes d'espionnage ont été recensés dans une trentaine de pays.
+Le pays le plus concerné est l' Iran suivi par la Russie , le Pakistan , l' Afghanistan , la Chine , le Mali , la Syrie , le Yémen et l' Algérie .
+L'espionnage aurait pour cible des institutions militaires et gouvernementales, des sociétés de télécommunication, des banques, des entreprises du secteur de l'énergie, des chercheurs en nucléaire , des médias et des activités islamistes, ajoute Kaspersky.
+La société moscovite n'a pas fourni le nom du pays derrière cette campagne d'espionnage mais a précisé qu'elle était étroitement liée au virus Stuxnet, cyber-arme utilisée pour attaquer des installations nucléaires iraniennes.

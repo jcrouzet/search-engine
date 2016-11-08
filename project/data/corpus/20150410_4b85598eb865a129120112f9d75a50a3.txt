@@ -1,0 +1,48 @@
+La coulée de miel sur tartine, discipline scientifique
+Le Monde |
+| Par David Larousserie
+De bonnes questions de science peuvent naître dès le petit-déjeuner en regardant couler mollement le miel sur une tartine.
+Pourquoi le filet ambré dessine-t-il des points, des ronds ou des huits sur le pain ou la biscotte ?
+Depuis 2006, au moins, plusieurs physiciens se passionnent pour cette obsédante question.
+L’un de ces groupes vient enfin de proposer une manière « simple » de prédire la forme des motifs dans Physical Review Letters (à paraître).
+« Ce qui nous motivait était de réduire l’écart entre la simplicité du phénomène et la complexité de sa description », explique Pierre-Thomas Brun, actuellement au Massachusetts Institute of Technology (MIT).
+Autour de la table, on trouve d’autres Français du CNRS et des universités Pierre-et-Marie-Curie (UPMC) et Paris-Sud, mais aussi des Anglais de l’université de Cambridge, dont John Lister.
+Un tapis roulant permet de déployer les motifs
+Il est le premier, en 2006, à avoir transformé ses breakfasts en table d’expériences.
+Il a forgé le terme « machine à coudre liquide » par analogie entre ces motifs et ceux d’une couture.
+Il s’est aussi associé au Canadien Stephen Morris de l’université de Toronto pour étudier une expérience plus rigoureuse en faisant tomber des fluides visqueux, non sur un support fixe mais sur un tapis roulant.
+Cela permet de « déployer » les motifs : il apparaît un trait droit à la place du « point », un ressort à la place du rond et des vagues à la place du huit.
+Surtout, d’autres figures apparaissent comme des petites boucles de part et d’autre d’une ligne, ou des boucles du même côté (appelé motif W).
+Depuis cette date, les simulations n’ont pas manqué, parvenant avec succès à reproduire toutes ces figures.
+« Ce qui manquait était une compréhension “simple” du phénomène.
+Ce qui est différent de faire des mesures ou de réussir à résoudre des équations.
+Nous y sommes parvenus », estime Pierre-Thomas Brun.
+« C’est un peu la même différence qu’entre être capable de faire des simulations de dynamique moléculaire pour un gaz, et d’identifier sa loi thermodynamique », précise Basile Audoly, de l’UPMC.
+La clé ?
+La vitesse du fluide au contact de la tartine
+Le modèle balaie des paramètres comme la viscosité du fluide, le diamètre de l’écoulement, la hauteur de chute… pour ne retenir que la vitesse du fluide au contact du tapis (qui dépend en fait de tous ces paramètres) et celle de la « tartine ».
+Fixons la vitesse d’écoulement.
+Lorsque le tapis est arrêté, un rond se forme.
+Puis lorsqu’il démarre, le rond se « déplie » et forme des ressorts.
+En augmentant la vitesse, des boucles apparaissent, alternant de part et d’autre d’une ligne droite.
+Toujours plus vite, des vaguelettes se forment.
+Et enfin, plus précisément lorsque les deux vitesses deviennent égales, un trait droit strie le tapis.
+Parfois, entre les boucles alternées et les vagues, apparaît le W.
+Mais ce n’est jamais le cas si on fait l’expérience en partant d’une grande vitesse du tapis, puis qu’on la diminue.
+« Le fluide se retrouve un peu comme un coureur imaginaire sur un tapis de course.
+S’il court à la même vitesse que le tapis, ça va.
+Mais si le tapis devient très lent et que lui garde sa vitesse, il va devoir zigzaguer pour éviter la chute », justifie Pierre-Thomas Brun.
+Le motif en ressort correspond ainsi au maximum de circonvolution possible.
+« Cela donne des idées pour augmenter la rigidité d’un fil »
+Plus techniquement, la partie inférieure de l’écoulement, appelé talon, doit se « coucher » ou se courber plus ou moins sur le tapis, plutôt que rester rigide.
+Et c’est cette courbure qui s’imprime en quelque sorte sur le support mobile.
+« Cela nous donne des idées pour modifier des propriétés mécaniques de filaments très fins.
+Pour augmenter la rigidité d’un fil, on pourrait lui faire faire des boucles grâce à ce procédé.
+Le rompre en tirant, nécessiterait de casser d’abord ces points de contacts, ce qui serait plus difficile.
+C’est notamment ce qui expliquerait la solidité du fil d’araignée comme le pense Frederick Gosselin de l’Ecole polytechnique de Montréal», indique Pierre-Thomas Brun.
+En 2014, une équipe américaine , étudiant non des filaments visqueux mais des cordes élastiques, s’était elle intéressée à la dépose de câbles sous-marins : la vitesse du bateau et celle de contact du câble doivent être bien contrôlées pour permettre une pause bien droite.
+« Grâce à ce modèle, nous comprenons mieux ce qui se passe en fonction de la vitesse de déplacement de la main pour la tartine, voire pour des peintures à la Jackson Pollock », résume Pierre-Thomas Brun. « L’article est une avancée intéressante.
+Le modèle est beau car simple.
+Mais il n’explique pas tout », salue Stephen Morris.
+Il existe en effet quelques zones de paramètres non explorés, notamment pour des hauteurs de chute élevées : des motifs chaotiques pourraient apparaître.
+A essayer au prochain petit-déjeuner.

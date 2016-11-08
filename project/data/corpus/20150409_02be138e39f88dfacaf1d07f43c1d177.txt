@@ -1,0 +1,23 @@
+Popcorn Time arrive sur iOS
+Le Monde |
+09.04.2015 à 16h05
+Une version pour iPhone et iPad de Popcorn Time, le « concurrent gratuit » de Netflix, Hulu et autres plates-formes légales de streaming, est disponible depuis ce jeudi au téléchargement.
+Popcorn Time est un logiciel de streaming que l'on peut installer sur son ordinateur.
+Il donne accès à une base de données recensant films et séries – disponibles légalement ou non – en bonne qualité.
+La technologie utilisée est celle du peer-to-peer, c'est-à-dire que le contenu est téléchargé depuis plusieurs sources en même temps, l'utilisateur devenant lui-même hébergeur du fichier pendant un court instant.
+Celui-ci s'efface de l'ordinateur au fur et à mesure du visionnage.
+Disponible partout sauf sur les appareils Apple
+S'il existe depuis quelque temps une version de l'application disponible pour les appareils sous Android, il n'y en a pas pour iOS, le système d'Apple, en tout cas, pas d'officielle.
+En effet, les règles de la société stipulent que toute application permettant le partage illégal de fichiers sera automatiquement rejetée.
+Aucune chance, donc, de trouver Popcorn Time sur l'App Store.
+Lire : Pourquoi utiliser Popcorn Time présente des risques
+Il était, cependant, déjà possible depuis quelque temps d'avoir accès à Popcorn Time sur son iPhone ou son iPad en procédant à un jailbreak, une manipulation assez complexe qui permet d'outrepasser toutes les barrières logicielles de l'appareil.
+Il sera désormais possible d'installer l'application sur iPhone sans avoir à faire la moindre manipulation complexe, annoncent les créateurs de cette version.
+@Time4Popcorn iPhone connected to pc, open the iOSinstaller, it tells me to connect the phone, disconnect it, program crashes w/error 2001
+— Not Daed (@notdaed)
+La procédure semble, en effet, assez simple et ne comporte que trois étapes.
+Il suffit de télécharger un programme d'installation sur son ordinateur, pour l'instant uniquement disponible sur Windows.
+Après avoir connecté son téléphone ou tablette au terminal, l'utilisateur devra indiquer qu'il fait confiance à l'ordinateur – ce qui peut poser un problème de sécurité.
+En effet, la logique de la démarche laisse entendre que les barrières de l'appareil sont baissées pendant la durée de l'installation.
+L'iPhone ou l'iPad serait ainsi potentiellement vulnérable à un piratage.
+Pixels

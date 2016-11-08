@@ -1,0 +1,62 @@
+Comment la Suisse a renoncé au secret bancaire
+Le Monde |
+| Par Mathilde Damgé
+Pendant plusieurs années, la banque suisse HSBC a mis en place un vaste système de fraude fiscale destiné à ses riches clients étrangers.
+Selon les données que se sont procurées les enquêteurs et auxquelles Le Monde a eu accès, 180,6 milliards d'euros auraient transité, à Genève, par les comptes HSBC de plus de 100 000 clients et de 20 000 société s offshore entre novembre 2006 et mars 2007.
+Lire : « SwissLeaks » : révélations sur un système international de fraude fiscale
+Ceci a été rendu possible par le principe du secret bancaire, prévu par la législation helvète depuis des décennies, et qui interdit de dévoiler des informations sur les actifs détenus dans le pays.
+Institué en 1934, son inviolabilité est consacrée par l' article 47 de la loi fédérale sur les banques et les caisses d'épargne .
+Il est assorti de conséquences pénales définies dans l' article 273 du code pénal suisse , dans la partie « Crimes ou délits contre l'Etat et la défense nationale » :
+« Celui qui aura cherché à découvrir [ou aura rendu accessible] un secret de fabrication ou d'affaires pour le rendre accessible à un organisme officiel ou privé étranger, ou à une entreprise privée étrangère, ou à leurs agents, sera puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire ou, dans les cas graves, d'une peine privative de liberté d'un an au moins.
+»
+Ces dispositions restent actuellement de mise, la Suisse comptant bien rester un pays d'accueil pour les fortunes privées étrangères.
+Hervé Falciani, l'informaticien de HSBC qui a transmis la liste des fraudeurs à l'Etat français, est bien placé pour le savoir : il est poursuivi en Suisse pour « vol » des données de la branche suisse de la banque britannique.
+Mais depuis quelques années, face à une pression internationale croissante, le sacro-saint secret bancaire s'est effrité peu à peu.
+Voici comment :
+2008 : les Etats-Unis à l'assaut
+Outre des entailles temporaires (par exemple lors de l'« Irangate » des années 1980, lorsque des Américains ont vendu illégalement des armes à l' Iran ), la première véritable brèche dans le secret bancaire suisse est ouverte à partir des années 2000 par les Etats-Unis.
+Ces derniers veulent lutter plus efficacement contre l'évasion fiscale, un objectif rendu encore plus pressant après la crise financière de 2008.
+Aidé par son dispositif légal Fatca, destiné à obtenir des pays étrangers des données sur les Américains où qu'ils soient dans le monde , Washington a cherché à s' attaquer à de gros dossiers, fortement médiatisés.
+L'UBS en a fait les frais, accusé d' avoir aidé 17 000 riches Américains à dissimuler près de 20 milliards de dollars (17 milliards d'euros) au fisc entre 2002 et 2007.
+En 2009, la banque a dû s' acquitter de 780 millions de dollars (688 millions d'euros) pour éviter des poursuites dans le même registre et a livré les noms de 250 clients (elle en a livré finalement 4 450 en 2010).
+   Lire (en édition abonnés) : UBS, la banque suisse qui fraude aussi
+En mai 2014, le Crédit suisse a payé en mai d'une amende de 2,6 milliards de dollars (2,3 milliards d'euros), pour des pratiques supposées de fraude fiscale.
+Toutes les banques ont été sommées de se déclarer ou non coupables, dans le cadre d'un accord conclu entre Washington et Berne en 2013, pour solder ce problème des comptes américains non déclarés.
+Lire (en éditions abonnés) : Le secret bancaire suisse sur le banc des accusés
+2009 : la fin de la distinction entre fraude et évasion fiscale
+En mars 2009, Berne accepte, sur injonction du G20 et de l'OCDE, d' abandonner son intenable distinction entre la « soustraction » (ou évasion) – une infraction mineure en droit helvétique – et la « fraude » fiscale, un délit pénalement répréhensible.
+Avant cela, seul ce second cas de figure permettait de lever le secret bancaire et de transmettre des informations à l'étranger.
+Les évadés fiscaux qui avaient simplement « oublié » de déclarer leur compte en banque en Suisse dormaient tranquilles.
+2009 : les pressions de l'OCDE et du G20
+Les pays réunis dans le G20 affirment que l'ère du secret bancaire est « révolue ». 
+A Londres, les leaders des vingt pays les plus industrialisés demandent à l'OCDE de publier une liste des paradis fiscaux non-coopératifs.
+Parmi eux, ceux qui opposent le secret bancaire à l'administration fiscale, ou à la justice de pays tiers, lorsque ces derniers leur demandent des informations.
+Le 2 avril 2009, la Suisse est inscrite sur cette liste grise des paradis fiscaux de l'OCDE.
+Elle y restera cinq mois, jusqu'à ce que soient signées une douzaine de nouvelles conventions fiscales qui entérinent les engagements de Berne sur l'échange automatique d'informations bancaires.
+Il demeure toutefois aujourd'hui des exceptions.
+Il existe encore beaucoup de pays avec lesquels la Suisse n'échange pas de données fiscales, comme les Etats non membres de l'OCDE, ce qui maintient une zone grise.
+La seconde exception concerne les contribuables suisses, pour lesquels la réglementation intérieure n'a pas été mise à jour.
+2009 : l'accord Rubik ne fait pas l'unanimité
+En 2009, les banquiers suisses imaginent une taxe rétroactive imposée sur les fonds non déclarés.
+Cette solution contre la fraude fiscale, qui porte le nom de Rubik, aurait consisté à leur laisser sous-traiter le travail des services d'impôt étrangers... et donc à avoir toute confiance dans les banques helvètes.
+En taxant elles-mêmes leurs clients, elles préservaient leur anonymat.
+Mise en place dans deux pays européens seulement, le Royaume-Uni et l' Autriche , la taxe aurait rapporté huit fois moins que prévu à Londres (par rapport au montant espéré dans le cadre d'une régularisation rétroactive sur dix ans) et les chiffres pour Vienne ne sont pas encore connus.
+Lire (en édition abonnés) : Evasion fiscale : l'accord avec la Suisse a été un échec cuisant pour le Royaume-Uni
+2012 : Les vols de données allemandes
+En 2012, les vols de listes de clients allemands de banques suisses soupçonnés d'avoir soustrait leurs deniers au fisc sont devenus une pratique de plus en plus courante dans certains Etats allemands.
+Pratiqués par des particuliers, des employés de banque le plus souvent, se faisant rémunérer par les enquêteurs allemands, ces vols permettent aux autorités allemandes de renforcer leurs contrôles fiscaux.
+Mais la pratique fait débat dans le pays, les sociaux-démocrates faisant valoir les bénéfices financiers issus des régularisations , tandis que les chrétiens démocrates en rejettent le principe.
+2013 : les banques se défont des clients encombrants
+Après avoir démarché les clients français pour leur faire ouvrir un compte en Suisse en toute discrétion, les banques helvètes ont commencé en 2013 à... les chasser , c'est-à-dire expulser du territoire ceux qui ne se sont pas déclarés aux autorités françaises , en raison d'un durcissement de la législation suisse sur la fraude fiscale.
+Flouer le fisc, même étranger, devient un délit passible d'une peine allant jusqu'à trois ans de prison, s'il est réalisé avec « astuce », et un crime (jusqu'à cinq ans de prison), s'il dépasse un revenu équivalent à 490 000 euros.
+La plupart des banques ont déjà pris les mesures pour se défaire de leur clientèle défiscalisée.
+D'autant que les clients individuels sont moins rentables que la gestion institutionnelle, qui s'occupe des fonds de retraite ou de placement ; des sommes bien plus importantes et moins « mobiles » (les mandats de gestion sont établis au minimum sur un an).
+2013 : L'échange automatique de données
+Dernière avancée majeure, la Confédération a signé en 2013 une convention de l'OCDE sur la lutte contre l'évasion fiscale, convention qui prépare le passage à l'échange automatique de données fiscales, prévu pour 2018 . 
+Lire (en édition abonnés) : Evasion fiscale : la Suisse renonce officiellement à son secret bancaire
+L'échange automatique de renseignements est ainsi défini par l'OCDE  :
+Il s'agit de « la transmission systématique et régulière d'un gros volume d'informations concernant des contribuables, qui sont communiquées au pays de résidence par le pays de la source et concernent diverses catégories de revenu ».
+Concrètement, cet échange automatique permettra de passer outre les procédures d'assistance administrative, longues et parfois ralenties par la collaboration toute relative des autorités.
+Le système d'échange d'informations en vigueur actuellement ne fonctionne en effet qu'à la demande de l'Etat qui s'estime lésé, en cas d' enquête du fisc (procédure fiscale dans le cadre de l'entraide administrative) ou de la justice (procédure pénale dans le cadre de l'entraide judiciaire).
+De l'éco, du décryptage et une pincée de data Suivre Aller sur la page de ce journaliste Suivre ce journaliste sur twitter
+Révélations SwissLeaks

@@ -1,0 +1,25 @@
+Epouser un(e) riche héritier(ère), une utopie
+Le Monde |
+| Par Gaëlle Dupont
+Quelle est la probabilité qu’un cœur tendre, mais dépourvu par le sort de tout bien matériel, se mette en ménage avec un(e) riche héritier(ère) ?
+Ou encore, quelles seraient les chances actuelles d’un Rastignac ou d’un Bel Ami d’arriver, comme dans Balzac et Maupassant, à s’enrichir en épousant des femmes bien dotées ?
+Pour celles et ceux qui rêvent d’avoir la belle vie grâce à un bon parti, la réponse est désespérante : ces chances sont très faibles.
+Car les héritiers et héritières préfèrent s’épouser entre eux.
+Cette réalité est mise en lumière par Nicolas Frémeaux, jeune chercheur en économie à l’université de Cergy Pontoise, ancien thésard de Thomas Piketty, dans le dernier numéro de la revue de l’Institut national d’études démographiques, Population, paru fin mars.
+La tendance des humains à l’homogamie, c’est-à-dire à s’apparier avec des personnes qui sont issues du même milieu social, ont le même niveau d’études et le même niveau de revenus, est bien connue.
+En revanche, l’importance de l’héritage dans le choix du conjoint a jusqu’à présent été peu étudiée.
+« Stratégies volontaires »
+M. Frémeaux a pour ce faire utilisé l’enquête Patrimoine de l’Insee, qui décortique les biens de 10 000 ménages français depuis 1992.
+Il a pris en compte non seulement le patrimoine, mais aussi l’héritage espéré en fonction du patrimoine des parents, ainsi que le niveau des revenus issus du travail de chacun des membres du couple (qu’il soit marié ou non).
+Il en tire notamment cette équation : RicheConjointj = α + r × ß1 RicheHéritieri + ß2 RicheTravailleur + γX ij + u. 
+Résultat : non seulement les héritiers vivent et se reproduisent en circuit fermé, mais ils érigent des murs autour d’eux.
+Ils ne frayent pas avec des prétendants qui ont le double handicap de gagner peu et de ne rien posséder.
+Et ils ne condescendent même pas à tomber amoureux de gros revenus sans fortune familiale.
+Le patrimoine constitue leur unique boussole.
+Sur la période étudiée, les frontières entre les héritiers et les autres, y compris les hauts revenus, restent donc étanches, si ces derniers n’ont pas la chance d’avoir des parents qui ont accumulé des biens.
+« Les choix de mise en couple des individus sont déterminants pour expliquer la transmission des inégalités d’une génération à l’autre », en conclut l’auteur.
+Est-ce conscient ou inconscient ?
+« Chez les très riches, des stratégies volontaires sont mises en place pour éviter de mauvais mariages, comme les rallyes, répond M. Frémeaux.
+Pour les autres, ce sont les mécanismes traditionnels de l’homogamie qui jouent, c’est-à-dire le fait de fréquenter un certain milieu, d’aller dans certaines écoles, qui fait que vous rencontrez des gens qui vous ressemblent. 
+» Les cendrillons dépitées peuvent quand même continuer à rêver un peu : ces résultats sont des moyennes.
+Il y a toujours eu, et il y aura toujours quelques exceptions.

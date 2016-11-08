@@ -115,6 +115,7 @@ public class Corpus {
 			}
 		}
 		
+		
 //my new directory corpus containing my files
 	
 		String outDirName = "/home/amal/Documents/master aic/extraction/essai/project/src/corpus_final";

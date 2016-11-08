@@ -1,0 +1,16 @@
+Le Conseil national du numérique critique plusieurs points du projet de loi sur le renseignement
+Le Monde |
+19.03.2015 à 12h51
+Le Conseil national du numérique (Cnnum), cet organe consultatif sollicité par le gouvernement sur les sujets liés au numérique, a fait part ce jeudi de son « inquiétude » concernant le projet de loi sur le renseignement.
+Il reconnaît au texte, présenté ce matin au conseil des ministres, plusieurs avancées, dont la création de la Commission de contrôle des techniques de renseignement (CNCTR), une autorité indépendante aux pouvoirs de contrôle importants.
+Lire : Le gouvernement veut légaliser certaines techniques du renseignement français
+En revanche, le Cnnum regrette, dans son communiqué , que le projet de loi instaure une « extension significative du périmètre de la surveillance », incluant notamment deux « champs aux contours flous », à savoir la « prévention contre les violences collectives » et la « défense des intérêts de la politique étrangère ».
+Surtout, le conseil critique fortement le dispositif instauré par la loi de traitement automatisé de métadonnées censé permettre de détecter, en temps réel, la préparation imminente d'un acte terroriste.
+Pour ce faire, le gouvernement souhaite installer chez les fournisseurs d'accès à Internet des « boîtes noires » d'analyse du trafic, qui collecteraient les données.
+L'anonymat des données collectées ne pourrait être levé qu'en cas de « menace imminente ».
+Pour le Cnnum, cette pratique « peut confiner à une forme de surveillance de masse ».
+Critiques proches de celles formulées par la Cnil
+Le premier ministre, Manuel Valls, s'est défendu, lors d'une conférence de presse ce jeudi matin, de vouloir instaurer « des moyens d'exception ou une surveillance généralisée » de la population française. 
+Les critiques du Cnnum recoupent assez largement celles formulées par la Commission nationale de l'informatique et des libertés (CNIL).
+Dans son avis, rendu public mercredi par Le Monde, le gendarme de la vie privée déplorait la présence dans ce projet de loi de « mesures de surveillance beaucoup plus larges et intrusives » que ce qui existe actuellement.
+La commission regrettait également que le texte permette de « collecter, de manière indifférenciée, un volume important de données qui peuvent être relatives à des personnes tout à fait étrangères à la mission de renseignement ».

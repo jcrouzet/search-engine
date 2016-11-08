@@ -1,0 +1,55 @@
+Facebook se convertit aux messages vidéo
+Le Monde |
+28.04.2015 à 12h39
+| Par Jérôme Marin (San Francisco, correspondance)
+Facebook poursuit son offensive sur les supports mobiles.
+Lundi 27 avril, le réseau social a annoncé l’arrivée, sur smartphones, des appels vidéo au sein de Messenger, son populaire service de messagerie.
+Il part ainsi à l’assaut de Skype, FaceTime et Hangouts, les solutions rivales de Microsoft, Apple et Google.
+« Cette fonctionnalité était réclamée par nos utilisateurs », indique Stan Chudnovsky, directeur produit pour Messenger.
+Pour en bénéficier, une simple mise à jour des applications Android et iOS est nécessaire.
+Il suffit ensuite d’appuyer sur une icône représentant une caméra afin de lancer une conversation vidéo avec un autre utilisateur de la plate-forme.
+Les appels sont gratuits et sans publicité.
+Discussions limitées à deux personnes
+Pour le moment, les discussions sont limitées à deux participants.
+Mais Facebook indique que les appels de groupe feront partie des prochains ajouts.
+Autre carence : les conversations ne s’effectuent qu’entre deux smartphones.
+Il n’est pas possible de parler avec un ami connecté sur un ordinateur ou une tablette.
+Là aussi, la société promet une prochaine mise à jour.
+« La première phase était de lancer le produit, justifie M. Chudnovsky.
+Nous allons maintenant écouter les retours et suggestions des utilisateurs afin d’enrichir l’application ».
+L’entreprise assure que la qualité des appels sera, dans les conditions idéales, proche de la haute définition.
+Et elle insiste sur les performances de l’application dans des conditions difficiles.
+« Cela fonctionne même sur les smartphones d’entrée de gamme reliés à un mauvais réseau », fait valoir le responsable.
+C’est un enjeu très important.
+Une grande partie de ses utilisateurs ne possèdent pas des terminaux très puissants, ou ils vivent dans des pays où l’Internet haut débit, fixe ou mobile, n’est pas très développé.
+Enjeu stratégique
+Mark Zuckerberg, le patron et fondateur de Facebook, considère la messagerie comme un enjeu stratégique.
+Sa société n’a ainsi pas hésité à débourser plus de 20 milliards de dollars pour racheter WhatsApp .
+Elle investit aussi beaucoup pour ajouter régulièrement de nouvelles fonctionnalités à Messenger.
+L’an passé, elle a notamment généralisé la possibilité de réaliser des appels vocaux.
+« En un an, nous avons atteint 10% de l’ensemble des appels par Internet passés dans le monde », se félicite M. Chudnovsky.
+Plus récemment, l’application a intégré une fonction de transfert d’argent entre amis .
+Fin mars, elle s’est ouverte aux développeurs extérieurs, ajoutant immédiatement des dizaines de nouvelles options (envoi de GIF animés, d’effets sonores, de photos retouchées…).
+Lire aussi : Messenger, la tête de pont de Facebook dans l’e-commerce
+1,44 milliard d’utilisateurs potentiels
+Avec l’intégration des appels vidéo, Facebook espère que son service se démarquera encore plus de ses nombreux rivaux (WeChat, Line, Tango, Kakao…).
+Dans cette bataille, le réseau social dispose d’un avantage de poids : 1,44 milliard d’adeptes dans le monde.
+Autant d’utilisateurs potentiels de Messenger.
+Facebook a aussi forcé la main à ses membres.
+Depuis l’an passé, il n’est plus possible d’envoyer des messages à ses amis depuis l’application principale de l’entreprise.
+L’installation de Messenger est obligatoire.
+Une tactique controversée que M. Chudnovsky assume.
+« C’est la meilleure décision que nous pouvions prendre », assène-t-il aujourd’hui.
+Les chiffres lui donnent raison : en un an, le nombre d’utilisateurs actifs a été multiplié par trois, dépassant la barre des 600 millions.
+« Réinventer le commerce »
+Les appels vidéo pourraient également permettre à Facebook de gagner du terrain dans les entreprises, après le lancement, début janvier, d'une version dédiée.
+Cette fonctionnalité pourrait faciliter les communications internes.
+Mais aussi les relations client.
+Un premier pas dans ce sens a déjà été franchi, fin mars, avec une phase de test permettant à deux distributeurs américains de communiquer, par messages écrits, directement avec leurs acheteurs.
+« Nous voulons réinventer le commerce », lançait alors David Marcus, l’ancien président de PayPal, recruté en 2014 pour diriger les activités de messagerie de Facebook.
+A terme, il sera certainement possible de réaliser des achats directement depuis Messenger, avec un système de paiement intégré.
+Cette évolution doit ouvrir la voie à la monétisation du service.
+L’an passé, M. Zuckerberg avait expliqué que « les publicités n’étaient pas la voie à suivre ».
+Mais le modèle économique reste encore à bâtir.
+Jérôme Marin (San Francisco, correspondance)
+Journaliste au Monde

@@ -1,0 +1,36 @@
+| Par Paul Benkimoun
+Il ne s’agit encore que d’un travail expérimental sur la souris, modèle animal pour l’infection par le virus de l’immunodéficience humaine (VIH), l’agent du sida, complété par des tests adaptés au virus équivalent chez le singe.
+Mais il fait apparaître une nouvelle piste de recherches alors que la mise au point de vaccins demeure encore éloignée.
+Pour autant, des questions essentielles comme celles de la transposition à l’homme et de la toxicité possible restent entièrement en suspens.
+Depuis les débuts de la pandémie, mettre au point un vaccin contre le VIH a été l’objectif des chercheurs.
+Il permettrait d’éduquer préventivement le système immunitaire à reconnaître le VIH et à produire des anticorps afin de l’éliminer et d’empêcher l’infection de se développer.
+Malheureusement, cette perspective n’est pas près de se concrétiser.
+Certains scientifiques ont donc envisagé d’autres approches de protection.
+Parmi celles-ci figurent l’utilisation des médicaments antirétroviraux, comme dans l’essai Ipergay , ou bien ce que l’on appelle l’immunothérapie passive, consistant à apporter au patient les anticorps à même de neutraliser les différentes souches de VIH, technique explorée par l’équipe du Prix Nobel David Baltimore.
+Bloquer la clé d’entrée du VIH
+L’équipe américaine d’une trentaine de chercheurs placés sous la direction de Michael Farzan (Scripps Research Institute, Jupiter, Floride) a choisi une autre approche, celles de leurres, dont les résultats expérimentaux sont présentés dans un article mis en ligne , mercredi 18 février sur le site de la revue Nature.
+Le point de départ a été la manière dont le VIH pénètre dans les cellules du système immunitaire pour s’y multiplier puis les détruire.
+Le VIH possède à sa surface une protéine d’enveloppe qui se lie à un récepteur, une protéine appelée « CD4 », présente sur la plupart des cellules immunitaires (lymphocytes T, macrophages).
+Cette liaison modifie la protéine d’enveloppe du VIH, qui peut alors se lier à d’autres récepteurs présents sur les cellules humaines, notamment le corécepteur CCR5.
+La première liaison permet en quelque sorte au virus de fabriquer la « clé » adaptée à la serrure des cellules de l’hôte.
+Des travaux antérieurs avaient tenté de neutraliser le virus en administrant des immunoglobulines couplées à la protéine CD4.
+Le but de cette technique était d’offrir au VIH des cibles le détournant des cellules immunitaires qu’il infecte habituellement.
+Malheureusement, ces premières approches n’ont pas été efficaces.
+Un leurre pour neutraliser le virus
+Michael Farzan et ses collègues ont procédé autrement pour fabriquer un leurre destiné à neutraliser le VIH.
+Ils ont fabriqué une protéine artificielle, baptisée « CD4-Ig », fusionnant la protéine réceptrice CD4 et l’extrémité du corécepteur CCR5.
+Après avoir constaté qu’il neutralisait très bien le VIH in vitro, ils l’ont testé avec succès chez des souris utilisées comme modèle animal de l’infection humaine, puis sous une forme adaptée chez quatre macaques.
+Cette protéine artificielle a été administrée au moyen d’un vecteur viral utilisé en thérapie génique à quatre singes, quatre autres macaques servant de contrôles.
+Le vecteur viral – un « vecteur adéno-associé » (AAV) exprimait le gène codant pour la protéine CD4-Ig.
+Comme il s’intègre dans le génome, il permet une production indéfinie de la protéine artificielle.
+Les singes ainsi traités ont été exposés par voie veineuse au virus de l’immunodéficience simien (SIV, équivalent pour le singe du VIH).
+Les quatre animaux ont présenté une protection à pendant au moins trente-quatre semaines après l’exposition au virus.
+Questions en suspens
+Ces résultats sont « intéressants », estime le Pr Jean-Daniel Lelièvre, du Vaccine Research Institute (hôpital Henri-Mondor, Créteil) car ils apportent du crédit au concept de neutralisation par des leurres.
+Ils constituent une « piste complémentaire à celle du vaccin ».
+Néanmoins, le chercheur souligne plusieurs limites.
+Le faible effectif – quatre singes traités – ne permet pas les conclusions hâtives, d’autant que l’exposition expérimentale au virus s’est faite par voie intraveineuse, ce qui ne correspond pas aux conditions les plus fréquentes de contamination pour les humains, où la voie muqueuse (vaginale ou rectale) prédomine.
+Ensuite, la question de la tolérance à un tel procédé reste à explorer.
+Les résultats chez l’animal ne sont pas nécessairement transposables à l’homme.
+Surtout, « si l’intégration du vecteur dans le génome présente l’avantage d’une production perpétuelle de la protéine artificielle, elle pourrait se retourner en inconvénient majeur si un problème devait apparaître avec cette dernière ».
+Enfin, si elle se révélait utilisable chez l’homme, cette approche serait « avant tout destinée à des personnes à très haut risque de contamination et non à la protection à grande échelle d’une population », estime le Pr Lelièvre.

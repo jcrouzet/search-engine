@@ -1,0 +1,15 @@
+La Fondation Wikimedia porte plainte contre la NSA
+Le Monde |
+• Mis à jour le
+10.03.2015 à 16h50
+La Fondation Wikimedia, qui édite notamment l'encyclopédie collaborative Wikipedia, a annoncé qu'elle portait plainte, mardi 10 mars, aux Etats-Unis contre le programme de surveillance de masse de la National Security Agency (NSA, Agence nationale de la sécurité).
+Elle accuse les services de renseignement d'avoir violé le premier amendement de la Constitution américaine, qui garantit la liberté d'expression, et le quatrième amendement, qui protège les citoyens contre les arrestations et enquêtes arbitraires.
+« En se connectant directement aux dorsales Internet [des serveurs cruciaux pour le fonctionnement du réseau] la NSA s'est attaquée au cœur même de la démocratie », écrit sur le site de la Fondation Lila Trtikov, directrice exécutive de Wikimedia.
+La plainte vise spécifiquement le système « upstream », un vaste programme de collecte de données prélevées directement sur les câbles par lesquels transitent les informations.
+La plainte doit être déposée conjointement avec huit autres organisations, dont la puissante American Civil Liberties Union (ACLU), qui défend les droits fondamentaux des citoyens américains.
+Documents Snowden
+Comme le notent les avocats de la Fondation, de précédentes plaintes contre les programmes de la NSA avaient été rejetées parce que les plaignants n'étaient pas parvenus à prouver que leurs clients étaient bien victimes de pratiques de surveillance illégale.
+Dans cette procédure, Wikimedia dispose d'un atout : un document fourni par le lanceur d'alerte Edward Snowden, qui mentionne nommément Wikipedia et ses utilisateurs comme une cible des programmes de surveillance.
+« Les dommages causés par [ces programmes] à Wikipedia et à ses centaines de millions de visiteurs sont clairs : la surveillance de masse provoque l'autocensure.
+Elle bride la liberté d'expression, et le libre échange de connaissances, qui est le but de Wikipedia », écrivent Lila Trtikov et le fondateur de l'encyclopédie, Jimmy Wales, dans une tribune publiée par le New York Times . 
+Surveillance des communications

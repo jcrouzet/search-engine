@@ -1,0 +1,41 @@
+Le Conseil de l’Europe livre un rapport très critique sur les pratiques de la NSA
+Le Monde |
+| Par Yves Eudes
+Après plus d'un an de travail, le député démocrate-chrétien néerlandais Pieter Omtzigt (groupe PPE), membre de l'assemblée parlementaire du Conseil de l'Europe, a présenté un rapport très critique sur les programmes américains de surveillance électronique de masse de la National Security Agency (NSA) révélés par Edward Snowden, et leurs conséquences pour l' Europe .
+Le 26 janvier, les 84 membres de la commission des affaires juridiques et des libertés de l'assemblée parlementaire du Conseil, représentant 47 pays, ont adopté le rapport à l'unanimité, sans amendement.
+Même les conservateurs britanniques et polonais, qui avaient émis des réserves sur certains passages, l'ont approuvé.
+En exergue, une phrase de Soljenitsyne résume l'état d'esprit des rédacteurs : « Notre liberté repose sur ce que les autres ignorent de notre existence.
+» Le cœur du rapport est une énumération de l'ensemble des révélations d'Edward Snowden.
+Même pour ceux qui ont suivi l'affaire assidûment, cette compilation reste impressionnante : on redécouvre que grâce aux réseaux électroniques, les Etats-Unis se sont réellement donné les moyens d' espionner la terre entière en permanence.
+Tous les canaux imaginables ont été exploités, depuis la captation de trafic sur les câbles transatlantiques jusqu'au détournement de jeux vidéo en ligne.
+Sur cette base, le rapport condamne les Etats-Unis sans réserve : « Ces opérations mettent en danger les droits de l'homme fondamentaux, notamment le droit au respect de la vie privée […], le droit à la liberté d'information et d'expression […], le droit à un procès équitable et à la liberté de religion.
+» Plus généralement, « le fait de savoir que les Etats opèrent une surveillance massive a un effet dissuasif sur l'exercice de ces libertés ».
+Juridiquement, cet espionnage constitue une violation de la Convention européenne des droits de l'homme et de la convention du Conseil de l'Europe sur la protection des données personnelles.
+Absence de collaboration des Etats-Unis
+Le rapport regrette aussi « la réticence des autorités américaines et de leurs homologues européens à apporter leur concours à l'éclaircissement des faits ».
+On assiste, selon lui, à l'émergence d'un « gigantesque complexe industriel de la surveillance » qui menace « le caractère libre et ouvert de nos société s. 
+[…] L'emballement de cette machine de surveillance est dû au fait que les dirigeants politiques ont perdu le contrôle des activités des services de renseignement.
+»
+Pire : il observe que « les opérations massives de surveillance ne semblent pas avoir contribué à prévenir les attentats terroristes ».
+Il accuse même la NSA de jouer les apprentis sorciers : « La présence, entre les mains de régimes autoritaires, d'outils […] comparables à ceux qu'ont mis au point les services américains et alliés aurait des conséquences catastrophiques.
+» Enfin, il rappelle que ces scandales ont durablement détérioré les relations entre les Etats-Unis et certains de leurs alliés.
+Lire : Comment la NSA tente de percer les remparts de sécurité sur Internet
+Comment, dès lors, réparer les dégâts, c'est-à-dire revenir à une situation plus acceptable ?
+Pour commencer , le rapport indique que le Conseil de l'Europe doit soutenir les membres du Congrès américain, du Bundestag allemand et du Parlement européen qui tentent de faire voter des lois limitant les abus des services de renseignement.
+Il approuve aussi l'appel lancé par le Parlement européen pour « promouvoir l'utilisation généralisée du chiffrement et résister à toute tentative de fragilisation du chiffrement et des autres normes de sécurité d'Internet ».
+A noter qu'au lendemain des attentats de Paris , le premier ministre britannique, David Cameron, a au contraire souhaité l'interdiction de certains outils de chiffrement, qui, selon lui, empêcheraient la police de surveiller les criminels et les terroristes.
+Création d'un « code du renseignement »
+Sur le plan intérieur, le rapport recommande aux Etats membres du Conseil de l'Europe de « veiller à ce que le droit interne autorise la collecte des données à caractère personnel […] uniquement avec le consentement de l'intéressé ou à la suite d'une décision de justice ».
+Le Conseil pourrait ouvrir une enquête « pour demander aux Etats parties d' expliquer de quelle manière ils mettent en œuvre les dispositions pertinentes de la Convention européenne des droits de l'homme ».
+Pour les relations transatlantiques, il soutient sans réserve « la proposition faite par le Parlement européen, qui préconise d' utiliser tous les instruments dont l' Union européenne dispose dans ses relations avec les Etats-Unis pour faire pression en faveur de la protection de la vie privée des citoyens européens ».
+L'objectif sera la mise en place d'un nouveau cadre juridique international dans ce domaine.
+Il souhaite aussi la création d'un « code du renseignement », qui inclurait « un engagement mutuel des Etats à appliquer à la surveillance de leurs ressortissants réciproques les mêmes dispositions que celles qu'ils appliquent à leurs propres ressortissants […].
+Le recours aux mesures de surveillance à des fins politiques, économiques ou diplomatiques entre les Etats participants devrait être interdit.
+»
+Le « courage » d'Edward Snowden
+En revanche, le rapport ne recommande pas la création de « clouds souverains » ni « d'Internets nationaux » : de telles mesures provoqueraient une « balkanisation » du réseau mondial et pourrait s' avérer « contre-productives du point de vue des principes défendus par le Conseil de l'Europe ».
+Enfin, il insiste sur la nécessité « d' accorder une protection efficace aux donneurs d'alerte qui révèlent les activités de surveillance illégales, y compris en leur donnant asile… ».
+Au printemps 2014, le Conseil de l'Europe avait voulu inviter Edward Snowden à Strasbourg pour qu'il témoigne devant l'Assemblée, mais cela n'avait pas été possible, car il risquait d'être arrêté, et peut-être extradé vers les Etats-Unis.
+Il avait témoigné grâce à une liaison vidéo depuis Moscou, où il est réfugié en juillet 2013.
+Oubliant quelque peu la prudence diplomatique, le rapport n'hésite pas à exprimer son admiration pour Edward Snowden – un homme que les Etats-Unis considèrent comme un traître et un criminel : « Son courage et son dévouement à la cause de la liberté et au respect de la vie privée sur Internet, en dépit du danger que cette entreprise pouvait représenter pour sa sécurité et sa liberté, imposent le plus grand respect.
+»

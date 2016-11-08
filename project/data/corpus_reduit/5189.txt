@@ -1,0 +1,34 @@
+« La Ferme des animaux », concepteur de logiciels espions depuis au moins 2009
+Le Monde |
+| Par Martin Untersinger
+Casper, Babar, Evil Bunny... Tous ces logiciels espions sont les membres d'une même famille.
+C'était déjà la thèse de plusieurs chercheurs en informatique, et c'est aussi la conviction de la grande entreprise de sécurité russe Kaspersky, qui publie, vendredi 6 mars, une note à ce sujet .
+Lire : Casper, le logiciel espion qui surveillait la Syrie
+Kaspersky affirme surveiller « depuis plusieurs années » un groupe de développeurs de programmes espions que l'entreprise a baptisés « Animal Farm », la Ferme des animaux.
+L'entreprise confirme que la Ferme a donné naissance à Bunny, Babar et Casper.
+Et révèle l'existence de nouveaux programmes espions : Dino, Tafacalou et NBot.
+Certains étaient connus dans le cercle restreint des experts en sécurité informatique.
+Lire : Le programme espion Babar a un « grand frère » : Evil Bunny
+Le programme nommé Tafacalou, qui pourrait être une traduction de « ça va chauffer » ou « pour réchauffer » en occitan, est un logiciel de reconnaissance destiné à repérer des cibles.
+Ce fonctionnement est similaire à celui de Casper, qui semble cependant être plus récent.
+Si les attaquants estiment qu'un ordinateur infecté par Tafacalou est intéressant, ils y injectent Dino ou Babar.
+L'entreprise ne s'étend pas sur les capacités précises de ces nouveaux logiciels.
+Elle souligne cependant que Dino est une « plateforme d'espionnage complète », qui reste moins sophistiquée que Babar.
+Impossible de dire avec certitude qui se cache derrière la Ferme des animaux.
+Comme à son habitude, Kaspersky se refuse à toute attribution, un exercice particulièrement délicat en sécurité informatique.
+Cependant, pour Costin Raiu, de Kaspersky, l'implication d'un Etat dans la Ferme des animaux ne fait « aucun doute » :
+« Des choses aussi complexes que Dino et Babar ne peuvent pas être réalisées par des cybercriminels, d'autant qu'il n'y a pas de profit financier.
+De fait, cela ne peut être qu'un Etat.
+»
+Des cibles humanitaires
+Kaspersky ne mentionne aucune cible précise, mais évoque des victimes au sein d'organisations gouvernementales, de sous-traitants militaires, mais aussi d'organisations humanitaires, d'activistes ou de médias.
+Le programme Tafacalou, qui effectue des repérages sur les ordinateurs qu'il infecte afin de déterminer s'ils doivent être surveillés de plus près, donne de bons indices sur les priorités des pirates, explique Kaspersky.
+La plupart des ordinateurs infectés par Tafacalou se situent en Syrie, en Iran et en Malaisie.
+Le nombre de machines infectées repérées par l'entreprise russe – quelques dizaines – confirme que les programmes de la Ferme des animaux ne sont pas destinés à de l'interception massive, mais à des opérations ciblées.
+Paul Rascagnères, expert en sécurité dans l'entreprise allemande G-DATA, qui a pu consulter la note de Kaspersky, estime que ces éléments confirment ce qu'il a pu observer.
+« Nous savons que Babar a été utilisé en Iran courant 2013 », explique-t-il.
+« Le mode opératoire consistant à utiliser un premier logiciel malveillant de reconnaissance puis dans un second temps un plus complexe est classique dans le cas d'attaque ciblée. 
+»
+Selon Kaspersky, la Ferme des animaux est active depuis au moins 2009, mais l'entreprise dit avoir retrouvé des traces d'activité remontant à 2007.
+Les chercheurs russes ont également détecté un logiciel espion encore inconnu, à l'œuvre au Burkina Faso, sans préciser la date du repérage.
+En 2014, Le Monde révélait sur la base de documents fournis par Edward Snowden que les services de renseignement canadiens soupçonnaient les services de renseignement français d'avoir développé Babar.

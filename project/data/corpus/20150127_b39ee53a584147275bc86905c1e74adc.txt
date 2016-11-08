@@ -1,0 +1,24 @@
+De la lumière moins rapide que… la lumière
+Le Monde |
+| Par David Larousserie
+Des chercheurs écossais ont réussi à ralentir la lumière, réputée pourtant avoir une vitesse constante dans le vide !
+Leur faisceau laser est arrivé, à l’issu d’une course sur 1 mètre, dix micromètres derrière un laser normal, soit avec trente femtosecondes d’écart, comme ils l’expliquent dans la revue Science le 22 janvier.
+Depuis une quinzaine d’années, les chercheurs savent en fait ralentir la lumière, voire l’arrêter avant de la réémettre, en utilisant des milieux particuliers, à base d’atomes très froids notamment.
+Il est aussi bien connu que la lumière va moins vite dans l’eau ou l’air que dans le vide.
+La nouveauté est donc de n’avoir utilisé aucun de ces subterfuges et d’avoir réalisé cette course dans le vide, un milieu dans lequel la théorie n’autorise ni les traînards ni les fend-la-bise : tous les grains de lumière – les photons – filent à la même vitesse.
+Les chercheurs de l’université de Glasgow et de l’université Heriot-Watt d’Edimbourg ( Ecosse ) ont en fait démontré que la vitesse dépend de la forme du faisceau lumineux, comme prédit par la théorie de l’électromagnétisme de Maxwell.
+Mais, jusqu’à présent, la littérature scientifique se limitait à la description d’ondes planes, c’est-à-dire des ondes dont le front d’avancé est un plan perpendiculaire à la direction de propagation.
+En chaque point de ce plan, l’intensité est toujours la même.
+« Des aspects méconnus de l’optique »
+Mais en réalité un faisceau est limité transversalement : un laser focalisé, par exemple, a plus d’intensité au centre qu’en périphérie.
+Il est même possible de modifier à sa guise la forme spatiale d’un faisceau en utilisant, pour « sculpter » la lumière, des modulateurs spatiaux de lumière analogues à ceux que l’on trouve dans les projecteurs vidéos .
+Cette procédure peut même s’appliquer à un seul photon car ce grain de lumière, en mécanique quantique, se décrit aussi comme une onde.
+Dans ces cas, les équations tout à fait classiques de l’optique montrent que la vitesse n’est plus la même.
+C’est ce qu’ont expérimentalement constaté les Ecossais, en ralentissant de la lumière (mais l’accélération reste impossible !).
+Un faisceau très focalisé s’est propagé à une vitesse légèrement inférieure à celle d’une onde plane.
+Le chronomètre a été délicat à fabriquer .
+Il nécessite d’utiliser des faisceaux contenant des photons uniques corrélés et repose sur un effet quantique publié en 1987 : si deux photons corrélés arrivent exactement en même temps sur une lame de verre semi-réfléchissante, alors ils se « regroupent » et sortent tous les deux dans la même direction (soit en traversant la lame, soit en étant réfléchis).
+L’effet n’existe pas s’ils arrivent sur l’obstacle avec un très petit décalage temporel.
+« C’est une jolie expérience qui met le doigt sur des aspects méconnus de l’optique », souligne Claude Fabre, du laboratoire Kastler-Brossel (CNRS - Ecole normale supérieure - université Pierre-et-Marie-Curie).
+Que la vitesse de la lumière ne soit pas constante a donc une explication.
+Et les chercheurs invitent les acousticiens à le vérifier aussi pour les ondes sonores.

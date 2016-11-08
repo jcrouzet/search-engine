@@ -1,0 +1,61 @@
+| Par Samuel Laurent et Jérémie Baruch
+L' UMP a sorti sa calculatrice pour enfoncer le clou sur le mauvais bilan de François Hollande en matière de chômage, avec une méthode simple, et qui frappe les esprits : ramener la hausse du chômage depuis 2012 à la minute, voire à la seconde.
++602 500 chômeurs supplémentaires depuis l'élection de @fhollande, soit 1 chômeur toutes les 2min15 !
+#HollandeLEchec http://t.co/PJErGivrrg
+— UMP (@ump)
+L'échec de @fhollande dans la lutte contre le chômage est total !
+http://t.co/TFC2KfLtb5
+— Bruno Retailleau ن (@BrunoRetailleau)
+1.
+Un calcul exact, mais limité 
+Le calcul est aisé, et mathématiquement plutôt juste : on comptait, en France métropolitaine, 2,923 millions de chômeurs de catégorie A en mai 2012, et 3,496 millions en décembre 2014.
+Soit une hausse de 572 500 chômeurs en 32 mois.
+Pour l'ensemble des catégories A, B et C, la hausse est plus importante encore : 860 600 chômeurs en plus en 32 mois !
+Catégories et chômeurs.
+Depuis 1996, on comptabilise les chômeurs selon diverses catégories.
+La A représente les personnes inscrites à Pôle Emploi n'ayant pas du tout travaillé au cours du mois précédent et qui recherchent activement un emploi.
+La catégorie B représente les demandeurs d' emploi en recherche active qui ont travaillé moins de 78 heures dans le mois.
+La C les demandeurs en recherche active ayant travaillé plus de 78 heures. 
+Il suffit donc de ramener cette hausse à une période donnée : en moyenne, on a compté 17 890 chômeurs de plus chaque mois en catégorie A (26 893 en catégories A, B et C).
+Si on divise ce chiffre par 30, on parvient à 596 chômeurs de plus chaque jour (et 896,5 en cat.
+A, B et C).
+Divisions ce chiffre par 24, et on parvient à 24,8 chômeurs de plus par heure (37,3 en cat.
+A B et C).
+Et divisons à nouveau par 60, pour arriver au chiffre par minute : 0,414 pour la catégorie A, et 0,622 pour les catégories A, B, C.
+2,4 mn On parvient donc à 1 chômeur supplémentaire en catégorie A toutes les 2,4 minutes (ou 2 minutes 14 secondes, ou 134 secondes) et un toutes les 1,6 minute (ou 1 minute 36 secondes) en catégories A, B et C.
+2.
+Sous Sarkozy, un chômeur toutes les 4 minutes
+L'opération mathématique est assez simple, et frappe les esprits.
+Pour autant, elle ne veut pas dire grand-chose : le chômage n'est pas une maladie contagieuse qui se transmettrait d'une personne à une autre, il est avant tout un flux, fait d'entrées et de sorties.
+Il se détermine donc en fonction du nombre de créations d'emploi dans le pays, du nombre de départs en retraite, de la variation du nombre de jeunes entrant sur le marché du travail et d'une foule de paramètres.
+On ne peut le réduire à un comptage de chômeurs, puisque ces chiffres sont des soldes : la différence entre les entrées à Pôle Emploi et les sorties.
+Du reste, on peut « sortir » des chômeurs des chiffres via diverses astuces et artifices : formations, radiations plus fréquentes, etc.
+Restons sur nos chiffres par minute.
+On peut refaire le même calcul avec le prédécesseur de M. Hollande.
+Si on prend les 32 derniers mois de la présidence Sarkozy, la hausse est la suivante : 572 500 chômeurs supplémentaires en catégorie A, 860 600 en catégories A, B et C.
+Là aussi, on peut ramener ces nombres à une moyenne mensuelle : + 10 084 chômeurs en catégorie A (+ 18 765 en catégories A, B et C).
+Soit 336 chômeurs de plus par jour (625,5 en cat.
+A, B et C).
+Et donc 14 chômeurs de plus par heure (26 en cat.
+A, B et C), ou 0,23 par minute (0,43 en cat.
+A, B et C).
+4 mn Donc, durant les 32 derniers mois de mandat de Nicolas Sarkozy , on comptait un nouveau chômeur toutes les 4 minutes en cat.
+A, et toutes les 2,3 minutes (ou 2 minutes et 18 secondes)  en catégories A, B et C.
+Le chiffre est spectaculaire.
+Est-il significatif ?
+Lorsqu'on regarde la courbe mensuelle des demandeurs d'emploi depuis 2007, on constate surtout une progression assez linéaire depuis 2010.
+3.
+Depuis 1996, un chômeur toutes les 26 minutes 
+3 mn Si on calcule la hausse par minute sur l'ensemble de la période, on retrouve d'ailleurs des rapports proches : entre mai 2007 et janvier 2015, on aura compté, en France, un chômeur de plus toutes les 3 minutes en catégorie A et toutes les 2 minutes en catégories A, B et C.
+Allons plus loin et remontons à 1996 : on parvient alors à un chômeur toutes les 26 minutes en catégorie A, et un toutes six minutes en catégories A, B et C, cette dernière ayant augmenté plus fortement.
+4.
+Année par année, combien de chômeurs par seconde ? 
+Nous avons extrapolé ce mode de calcul, année par année dans l'infographie ci-dessous, qui permet de comparer des « vitesses » de progression du chômage.
+Les données utilisées dans l'infographie sont celles des demandeurs d'emploi inscrits en catégorie A en France métropolitaine.
+Une seconde sur l'animation ci-dessous correspond à une minute.
+Ainsi pour 1997, un nouveau chômeur apparait toutes les 7 secondes; pour 2010, un nouveau chômeur apparait toutes les 1,2 secondes.
+Les années en bleu sont celles où le chômage diminue : pour 1999, on compte un chômeur de moins toutes les 9 secondes et demie.
+Lancer l'animation
+Un chômeur toutes les XX minutes
+en plus ou en moins
+↓        

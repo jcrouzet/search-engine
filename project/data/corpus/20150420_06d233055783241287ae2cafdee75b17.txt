@@ -1,0 +1,58 @@
+Facebook attaqué sur la neutralité du Net en Inde
+Le Monde |
+20.04.2015 à 17h25
+| Par Morgane Tual
+Mark Zuckerberg est-il en train de créer un « Internet pour les pauvres » ?
+C'est en tout cas ce dont l'entreprise est accusée en Inde, en tant que créateur de l'application internet.org.
+Cette dernière permet aux utilisateurs de mobiles de se connecter à Internet gratuitement, mais seulement à une quarantaine de services, parmi lesquels Facebook.
+La semaine dernière, après plusieurs jours de controverse, certains éditeurs de ces services ont décidé de mettre un terme à leur participation au projet.
+En cause : la neutralité du Net, mise à mal, selon eux, par le service.
+« Options limitées »
+La neutralité du Net est un principe qui régit Internet depuis ses débuts, et qui garantit un traitement technique identique à tous les fournisseurs de contenus, petits ou grands, consensuels ou dérangeants.
+Il s'agit d'un principe simple de non-discrimination : tout le monde doit avoir un égal accès à Internet et aucun contenu ne doit bénéficier d'un traitement préférentiel et s'afficher plus vite que les autres.
+Lire le décryptage : Qu'est-ce que la neutralité du Net ?
+Or, en proposant un accès à Internet limité, Facebook viole ce principe, qui plus est en valorisant ses propres contenus.
+Le voyagiste Cleartrip a été le premier à annoncer sur son blog qu'il quittait le projet, mercredi 15 avril :
+« Les récents débats sur la neutralité du Net nous ont amenés à repenser notre approche concernant internet.org,
+et l'idée que de grandes entreprises aient leur mot à dire sur qui a accès à quoi.
+(...) Nous ne voulons pas influencer les choix des consommateurs en limitant leurs options. 
+»
+D'autres ont embrayé, comme le grand groupe de médias indien Times Group, qui encourage ses concurrents à faire de même dans un communiqué :
+« Nous soutenons la neutralité du Net car elle offre un terrain de jeu juste et égalitaire à toutes les entreprises – grandes ou petites – pour produire les meilleurs services et les offrir aux consommateurs.
+Nous mènerons la lutte pour la neutralité du Net, mais nous avons besoin que nos confrères le fassent aussi, pour que le terrain de jeu reste égalitaire. 
+»
+« Nous avons cru naïvement contribuer à une bonne action »
+Facebook a lancé son application internet.org
+en Inde en février, après la Zambie, la Tanzanie, le Kenya, le Ghana ou encore la Colombie.
+Elle propose une quarantaine de services , de Wikipédia à Facebook en passant par un moteur de recherche ou un outil de messagerie instantanée, mais aussi l'accès à des sites d'information, d'éducation, de santé ou de recherche d'emploi.
+Un accès gratuit, issu d'un partenariat entre l'opérateur téléphonique Reliance et Facebook.
+« Il n'y a eu aucun arrangement financier entre nous et internet.org
+» , explique Cleartrip.
+« Nous n'avons pas été payés, et nous n'avons pas dû payer pour participer.
+(...) Puisqu'il n'y avait pas de question d'argent, nous avons cru naïvement que nous allions contribuer à une bonne action. »
+Mais la façon dont sont choisis les services présents dans l'application reste obscure, et internet.org
+est soupçonné de favoriser certaines entreprises.
+C'est par exemple Bing qui permet d'effectuer des recherches, et non Google – ou tout autre moteur de recherche.
+Cela a-t-il un lien avec les parts détenues par Microsoft, qui possède Bing, dans Facebook ?
+YouTube, le plus important site de vidéos, appartenant à Google, ne fait pas non plus partie des services proposés.
+Dans un contexte où Facebook tente, plus largement, d'imposer son propre service de vidéos…
+Mark Zuckerberg réplique
+Face aux accusations, Mark Zuckerberg a rédigé une longue explication sur son compte Facebook :
+« Nous soutenons pleinement la neutralité du Net.
+(...) Mais la neutralité du Net n'entre pas en contradiction avec le fait de travailler pour connecter de plus en plus de personnes.
+Ces deux principes – la connectivité universelle et la neutralité du Net – peuvent et doivent coexister.
+Pour donner à plus de personnes accès à Internet, il est utile d'offrir quelques services gratuitement.
+Si quelqu'un n'a pas les moyens de payer une connexion, il vaut toujours mieux un peu d'accès que pas du tout. 
+»
+Un positionnement taxé de « racisme économique » par le site d'information Quartz , et qui mène, selon Wired , à la création d'un « Internet pour les pauvres ».
+Pourtant, comme le rappelle Mark Zuckerberg, l'entreprise affirme soutenir la neutralité du Net, et ce depuis de nombreuses années.
+En 2009, le patron avait cosigné une lettre vantant les mérites de la neutralité du Net avec d'autres fondateurs de grandes entreprises du Web comme Google ou Amazon.
+Pour, écrivait-il, « assurer que les consommateurs aient la possibilité de choisir les contenus et les services auxquels ils souhaitent accéder avec leur connexion Internet.
+» En 2010, Facebook avait réaffirmé, via son porte-parole Andrew Noyes, qu'il « continuait à soutenir les principes de la neutralité du Net » et un « Internet ouvert, accessible aux innovateurs, peu importe leur taille ou leur richesse ».
+Une œuvre philanthropique raillée
+Plus récemment, Facebook avait protesté, l'été dernier, contre la proposition de la Commission fédérale des communications (FCC) visant à introduire la possibilité d'un meilleur accès aux réseaux pour les entreprises contre rémunération.
+L'Internet Association, dont fait partie Facebook aux côtés des autres géants du Web, avait alors fustigé une « ségrégation de l'Internet ».
+Aujourd'hui, Mark Zuckerberg se retranche derrière l'aspect philanthropique d'Internet.org,
+qu'il met en avant depuis les débuts du projet en 2013 .
+« Les arguments sur la neutralité du Net ne devraient pas être utilisés pour empêcher les personnes les plus démunies de la société d'accéder à Internet », précise-t-il sur son compte Facebook.
+Une « bonne action » raillée par ses détracteurs, qui l'accusent depuis les premiers pas d'internet.org de vouloir connecter la planète pour son propre intérêt.

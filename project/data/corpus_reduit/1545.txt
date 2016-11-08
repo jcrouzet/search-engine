@@ -1,0 +1,34 @@
+20 janvier 2015 , par Guillaume Cannat
+Une exoplanète 1,5 fois plus grande que la Terre dans la « zone habitable » d’une étoile du Lion
+Le télescope spatial Kepler vient de permettre la détection d’un nouveau système planétaire situé à 150 années-lumière du Soleil.
+La plus petite des 3 exoplanètes qu’il abrite circulerait dans la « zone habitable » de cette étoile naine rouge.
+Le télescope spatial Kepler est utilisé pour détecter l’infime variation lumineuse qui se produit lorsqu’une exoplanète passe devant son étoile.
+Kepler était inactif depuis mai 2013 à cause de la panne de son système d’orientation, mais, grâce à l’ingéniosité des responsables de la mission, Kepler est utilisé depuis quelques mois d’une manière qui n’était pas envisagée à l’origine, ce qui lui permet de collecter de nouvelles mesures.
+Au lieu d’une seule région dans la constellation du Cygne, Kepler observera successivement 9 zones différentes jusqu’en juin 2016 ; ces zones, représentées sur cette illustration, sont réparties le long de l’écliptique.
+Crédit : ESO/S.
+Brunier/NASA Kepler Mission
+Trois exoplanètes un peu plus grandes que la Terre – rayons de 2,1, 1,7 et 1,5 fois celui de notre planète – viennent d’être découvertes dans les données collectées lors de la nouvelle série de campagnes d’observation du télescope spatial Kepler (NASA).
+Elles sont en orbite autour d’une étoile de la constellation du Lion cataloguée sous le nom EPIC 201367065 ; il s’agit d’une naine rouge de type spectral M, près de 0,6 fois moins volumineuse et massive que le Soleil et distante de près de 150 années-lumière de nous.
+Une telle distance peut sembler énorme – près de 1,4 million de milliards de kilomètres !
+– mais elle signifie pourtant que cette étoile est dans notre environnement presque immédiat à l’échelle de la Voie lactée ; EPIC 201367065 est l’une des 10 étoiles les plus proches de nous devant lesquelles des transits d’exoplanètes ont été détectés.
+Des observations extrêmement précises, réalisées avec des télescopes terrestres de grands diamètres à Hawaii, en Californie et au Chili, ont permis de confirmer que ces 3 exoplanètes existent bien, même si nous n’en avons aucune image directe.
+L’exoplanète la plus éloignée de l’étoile, celle dont le rayon n’est que de 1,5 fois celui de la Terre – soit un diamètre proche de 19 000 km – orbite en 45 jours et reçoit 1,5 fois plus d’énergie que notre planète.
+Elle se situerait sur le bord intérieur de la fameuse « zone habitable », cette zone annulaire ceignant chaque étoile au sein de laquelle l’énergie stellaire reçue permettrait à une planète de type terrestre enveloppée d’une atmosphère appropriée et suffisamment dense d’avoir de l’eau sous forme liquide à sa surface.
+Si la définition de cette « zone habitable » est toujours débattue, certains la trouvent bien trop restrictive, la possibilité de conserver de l’eau liquide en surface durant une longue période semble néanmoins être une condition indispensable pour que des formes de vie plus ou moins complexes puissent s’élaborer et perdurer.
+Les étoiles naines de type M sont de bons « endroits » où chercher ce genre d’exoplanètes puisque leur luminosité peut rester stable durant des milliards d’années.
+Je rappelle que « zone habitable » ne signifie pas nécessairement « zone habitée » et que par « formes de vie », il faut entendre les formes de vie que nous connaissons et qui se sont adaptées aux différents environnements terrestres, ce qui est probablement très limitatif.
+L’équipe du télescope spatial Kepler avait annoncé début janvier que le cap de la 1000e exoplanète détectée avec cet instrument et confirmée par des observations terrestres venait d’être franchi.
+Ce total symbolique a vite été dépassé et les nouvelles découvertes présentées dans un article disponible sur arXiv et soumis le 15 janvier à Astrophysical Journal portent à présent le nombre confirmé d’exoplanètes de Kepler à 1 013, soit plus de la moitié de l’ensemble des exoplanètes découvertes à ce jour (1 876 le 9 janvier).
+On peut affirmer sereinement que ce total augmentera rapidement puisque la base de données de la mission Kepler compte encore plus de 3 160 détections à confirmer.
+De plus, alors que l’on pensait qu’une panne avait mis définitivement fin aux observations de cet télescope spatial en mai 2013, l’ingéniosité des chercheurs a permis de les reprendre au printemps 2014 et les résultats de la nouvelle campagne de mesures s’accumulent depuis peu.
+Avec l’exoplanète HIP 116454 b annoncée le mois dernier, les 3 exoplanètes de l’étoile EPIC 201367065 sont les premières détections confirmées de Kepler depuis qu’il est de nouveau opérationnel et cela explique pourquoi les chercheurs impliqués et les responsables de la mission diffusent cette information avec enthousiasme, avant même l’acceptation de l’article scientifique dans Astrophysical Journal.
+Il faut pourtant relativiser cette annonce.
+Avec des rayons de 1,5 à 2,1 fois celui de la Terre, ces 3 nouvelles exoplanètes ne sont assurément pas des géantes gazeuses, mais ce ne sont pas non plus des jumelles de notre planète.
+D’après les auteurs de l’article, leur masse pourrait atteindre 4 à 5 fois celle de la Terre, il faut donc plutôt les classer entre les planètes rocheuses de type terrestre – les exoterres ou les superterres de moins de 3 masses terrestres – et les planètes gazeuses du type de Neptune (près de 17 masses terrestres).
+Pour Erik Petigura, co-auteur de l’article soumis à Astrophysical Journal : « La composition de ces nouvelles exoplanètes n’est pas connue, mais, il existe une forte probabilité pour que la plus éloignée de l’étoile soit rocheuse. 
+»
+L’article évoque la zone habitable de l’étoile, ce qui fait toujours rêver aux possibilités que cela implique pour la vie, mais il faut souligner que l’existence d’une atmosphère autour de l’exoplanète potentiellement concernée par cette zone habitable reste à confirmer et que, sans atmosphère, l’eau liquide ne peut exister en surface de façon pérenne, même si la température est clémente.
+La détection d’une atmosphère sera donc une étape essentielle pour ces chercheurs qui ont de bons atouts en main pour obtenir une réponse rapidement.
+La proximité de ce nouveau système planétaire et l’éclat de son étoile (magnitude 13) devraient en effet permettre de détecter une éventuelle enveloppe gazeuse avec le télescope spatial Hubble.
+Dans le cas contraire, il faudra probablement attendre la mise en service de la prochaine génération de grands télescopes spatiaux ( JWST/James Webb Space Telescope ) et terrestres ( E-ELT/European Extremely Large Telescope ) pour parvenir à détecter cette atmosphère encore hypothétique, déterminer sa composition et obtenir des données plus précises sur les possibilités de trouver de l’eau liquide en surface.
+Sources

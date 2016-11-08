@@ -1,0 +1,93 @@
+Tristan Nitot, navigateur du logiciel libre
+Le visage de la fondation Mozilla, l'éditeur du navigateur Firefox, change de travail, mais pas d'idéaux.
+Le Monde |
+| Par Martin Untersinger
+« La décentralisation du Net, en cette période de défiance vis-à-vis des géants du numérique, c'est ce qui va permettre une renaissance des valeurs positives de l'Internet.
+Si on ne décentralise pas, c'est la dystopie assurée : profilage, surveillance, auto-censure.
+» Tristan Nitot, 48 ans, a beau avoir quitté, en février, Mozilla, il a gardé les mêmes convictions.
+Il vient d'officialiser, mercredi 11 mars, son arrivée dans la start-up française Cozy Cloud.
+Cette entreprise de dix-sept salariés propose aux internautes un ensemble de services (courriel, gestion de contacts, calendrier...) installable directement sur son propre site.
+Une alternative décentralisée à Google, au code libre et ouvert.
+Il sera notamment chargé de convaincre les développeurs de coder des applications qui fonctionneront sur Cozy Cloud.
+Ses idéaux de décentralisation et de respect de la vie privée, Tristan Nitot a eu le temps de les défendre pendant ses 17 années au sein de Mozilla.
+Pour le grand public, cette fondation c'est d'abord le navigateur Firefox, la tête de pont des logiciels libres (dont le code informatique, accessible à tous, peut être modifié et distribué gratuitement).
+Et pendant toutes ces années, le visage de Firefox pour les journalistes, les développeurs et la frange du public intéressée par ces questions, c'était Tristan Nitot.
+« Quand on est passionné de logiciel libre, il est impossible de ne pas connaître Firefox et il était difficile d'éviter Tristan Nitot », explique Pierre-Yves Gosset, de l'association de défense des logiciels libres Framasoft.
+Le parcours de toute une génération d'informaticiens
+Le parcours professionnel de Tristan Nitot, qui commence au début des années 1990, suit en pointillé celui de l'Internet et du Web, typique de toute une génération qui a assisté aux premières loges à l'émergence de ces nouvelles technologies.
+Il fait ses premiers pas dans l'informatique comme tant d'autres de sa génération.
+A 14 ans, l'informatique débarque dans le salon parental sous la forme d'un PC prêté par un ami de son père.
+Tristan y passe toutes ses vacances de Pâques.
+Il apprend ensuite à programmer en basic, sans grande conviction.
+« Je n'étais pas fait pour ça », constate-t-il, quelques dizaines d'années plus tard : « Il manquait les gens.
+Ce qui m'intéresse, c'est de résoudre les problèmes des gens.
+»
+Avant son bac, il décroche un stage au Centre mondial de l'informatique ressources humaines.
+Sous ce nom qui fleure bon l'époque de la télématique, se cache un ovni dans la France des années 1980, l'un des premiers endroits dans le pays où l'on peut se connecter à Internet.
+C'est là qu'il rencontre Richard Stallman, alors que ce dernier n'est pas encore le pape du logiciel libre qu'il est aujourd'hui.
+Une révélation ?
+« Je ne m'en suis pas rendu compte », s'amuse aujourd'hui Tristan Nitot.
+« Ni vraiment un matheux, ni très bon développeur », mais passionné, il étudie l'informatique, puis embraye sur un master en ressources humaines.
+Il confesse avoir fait « quelques conneries » à l'époque : « On pénétrait dans des systèmes, à une époque où les gens ne savaient même pas qu'ils pouvaient être piratés.
+» Ses talents, repérés, lui ouvrent la porte de son premier emploi et il rejoint en 1992 une start-up spécialisée dans la sécurité informatique.
+Internet « ne connecte pas seulement des réseaux »
+Quelques mois plus tard, il change de travail pour une société vendant des services informatiques à des entreprises.
+Le Web commence à s'étendre en France, mais c'est sur CompuServe qu'il a le déclic.
+Sa femme cherche à savoir combien il existe de lits d'hôpital aux Etats-Unis pour un type précis de maladie.
+Un soir, il poste la question sur un forum spécialisé.
+Le lendemain, au réveil, quelqu'un, de l'autre côté de l'Atlantique, lui a trouvé la réponse.
+Il se rend alors compte qu'Internet « ne connecte pas seulement les réseaux de communications, mais les vrais gens ».
+Il télécharge les premiers navigateurs, se lasse des projets de son entreprise et « surfe comme un dingue ».
+Fin 1997, Netscape, qui commercialise un navigateur Web, recherche un profil « entre ingénieur et être humain » capable « d'expliquer Internet aux gens ».
+Tristan Nitot n'hésite pas longtemps.
+Netscape est alors en passe d'être asphyxié par Microsoft, qui impose un concurrent, Internet Explorer, dans tous les ordinateurs qu'il équipe de son célèbre système d'exploitation.
+La domination de Netscape, un temps sans partage, fond comme neige au soleil.
+Les équipes de Netscape décident alors de tenter un coup de poker : arrêter de faire payer pour le navigateur Netscape et en ouvrir le code source.
+Nom de code : Mozilla.
+L'expérience a d'abord le goût de l'échec cuisant.
+« Un coup de tonnerre, qui n'a pas été compris », se remémore Tristan Nitot.
+En effet, le navigateur fonctionne mal (car il manque de large pans de code « propriétaire »), il « se fait écharper » par la presse et n'affiche pas correctement tous les sites Web, qui sont à l'époque optimisés pour Internet Explorer.
+Logiciel libre et entreprises
+A peu près au même moment, AOL rachète Netscape : « un choc des cultures », une « époque de merde », se rappelle aujourd'hui Tristan Nitot.
+Après quelques années, en 2003, constatant l'échec de son navigateur, l'entreprise américaine attaque Microsoft en justice et l'accuse d'avoir utilisé sa domination sur le marché des ordinateurs pour précipiter la mort de Netscape.
+Bilan de l'opération, AOL récupère 700 millions de dollars et se sépare de Netscape et de ses employés.
+Dont Tristan Nitot.
+A cette époque, Tristan Nitot a le moral « dans les chaussettes ».
+« On était à contre-courant, dans un univers où Internet Explorer représentait 95 % du marché.
+Développeur Web était devenu un métier pourri.
+C'était plein de failles de sécurité, de pop-ups...».
+Les employés américains créent une fondation pour poursuivre le travail sur Mozilla, qui se veut encore être une alternative à Internet Explorer.
+Les quelques rescapés de Netscape en France montent une association, dont Tristan Nitot devient le président : « Dans l'idée, on voulait être une filiale, mais à ce moment-là les Etats-Unis ne s'intéressaient pas à l'Europe.
+» Bénévoles, il se lancent alors dans une opération de promotion du navigateur en direction du grand public.
+Au bout de quelques temps, « avec deux enfants et un emprunt, je mangeais mon épargne et des nouilles ».
+Au moment où Mozilla donne naissance à Firefox, il s'apprête à jeter l'éponge, avant d'être rattrapé par la manche par Mozilla, qui lui propose de le salarier.
+Ce qu'il sera, en 2005.
+Il est ensuite bombardé président du versant européen de la fondation.
+Depuis, Tristan Nitot est devenu le visage de Mozilla et de Firefox.
+Pendant dix ans, il a été chargé de stimuler l'écosystème autour de ce navigateur, qui a ravi sa place de leader à Internet Explorer avant de céder la place à Chrome, de Google.
+Dans la « communauté du libre », faite de développeurs, d'activistes et d'entrepreneurs, on ne tarit pas d'éloges.
+« Tristan est une des personnes qui a sans doute fait le plus pour faire comprendre aux gens l'importance du logiciel libre.
+Il a une grande capacité à vulgariser et a un vrai don de communicant », assure Frédéric Couchet, fondateur et délégué général de l'April, une organisation de promotion du logiciel libre.
+Admirateur de Snowden
+Avant de quitter la tête de Mozilla, Tristan Nitot s'est lancé dans un nouveau projet : l'écriture d'un livre, qui se veut un manuel grand public contre la surveillance d'Internet et pour la protection des données personnelles.
+Cette question, parallèle et proche de la question du logiciel libre, le « préoccupe depuis longtemps ».
+Il se souvient d'avoir participé en 1999 à l'« Echelon day », du nom de ce système principalement américain d'écoutes électromagnétiques.
+Edward Snowden, à qui « il ferait bien une statue », a servi d'élément déclencheur.
+D'où ce livre, qui se veut « une explication, pour une prise de conscience ».
+Selon lui, les Français sont au fait des dangers mais souffrent d'une forme de « résignation ».
+En bon « libriste », son livre est open source : il le publie au fur et à mesure, chapitre par chapitre, sur son blog.
+Les commentaires vont l'aider à progresser vers la version finale.
+A ce stade, il ne sait pas encore s'il s'adressera à une maison d'édition ou s'il décidera de le publier en ligne.
+En 2012, l'arrivée de François Hollande donne naissance à la deuxième mouture du Conseil national du numérique (Cnnum), cette instance consultative placée auprès du gouvernement.
+Cette dernière s'ouvre très largement aux experts extérieurs, et une place est proposée à Tristan Nitot.
+« C'est un autre monde », sourit-il.
+Bien sûr, « les idées ont le temps de changer vingt fois avant d'être publiées au Journal officiel, mais on met des idées dans des entonnoirs, on aura contribué ».
+On insiste, on le taquine, on lui demande ce qu'un type comme lui peut bien faire dans un organe aussi officiel.
+Il nous reprend gentiment et assure « être écouté ».
+La veille de notre rencontre, il dînait justement avec Axelle Lemaire, secrétaire d'Etat au numérique, un dimanche soir, pour affiner les travaux du « Cnnum ».
+« Le Cnnum n'est pas un organe si officiel, c'est avant tout un groupe professionnel.
+Les choses qui motivent Tristan Nitot actuellement sont des enjeux clairement politiques.
+Sa présence n'est pas plus bizarre, au Cnnum, que celle de chefs d'entreprises ou de chercheurs en informatique », tempère Daniel Kaplan, délégué général de la Fondation Internet nouvelle génération, un de ses collègues du Cnnum.
+Cela ne l'a en tout cas pas convaincu d'entrer en politique.
+Les valeurs de la vie d'élu ne le tentent guère : « Je suis un gentil, c'est mon côté boy-scout, hippie.
+»

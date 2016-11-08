@@ -1,0 +1,33 @@
+L’énigme scientifique de la brume de café s’éclaircit
+La  brume  de café se présente comme une fine pellicule blanche à la surface.
+Vita/Tamagawa Coffee Club.
+C'est un mystère de la physique auquel, sans le savoir, nous sommes confrontés tous les jours.
+Il a été identifié il y a près d'un siècle par le physicien japonais Torahiko Terada dans... sa tasse de thé chaud.
+Celle-ci a donné son titre à un essai du chercheur (Chawan No Yu en japonais), publié en 1922, dans lequel Terada s'étonnait de l'incroyable palette de processus physiques qui prenaient vie dans sa boisson bouillante : convection, condensation, tourbillons, etc.
+Autant de phénomènes que l'on pouvait identifier à plus grande échelle dans la nature.
+Et parmi ceux-ci, une énigme, cette mince pellicule blanche, flottant à la surface de son thé, et que l'on retrouve aussi à la surface d'un café bien chaud, comme on peut le voir sur la photographie ci-dessus.
+Une énigme tenace à laquelle vient de s'attaquer une équipe de chercheurs japonais, dans une étude publiée il y a quelques jours par  Scientific Reports .
+Disons-le d'emblée, contrairement à ce que l'on pourrait imaginer, ce film blanchâtre qui, parfois, se fendille en un instant et se divise en petits continents, n'a rien à voir avec la nature de la boisson et ne constitue pas, par exemple, un résidu issu du chauffage du café ou du thé.
+Il est en réalité lié à l'eau très chaude et le café (ou le thé s'il est bien sombre) ne sert, de par sa couleur foncée, que de  révélateur  en raison du contraste qu'il offre.
+En 1971, le chimiste américain Vincent Schaefer avait émis l'idée d'une brume : la pellicule serait un assemblage de minuscules gouttes d'eau, trop grosses pour s'évader dans l'air sous forme de vapeur, mais trop petites pour contrer le mouvement ascendant causé par l'évaporation de surface.
+Finalement, les gouttelettes seraient... en lévitation à la surface du café.
+Pour en avoir le cœur net et comprendre ce qui se passe réellement dans la tasse, notre équipe japonaise a mis au point un dispositif expérimental simple : on verse de l'eau très chaude (de 60 à 90 C) dans un récipient et on regarde la surface au microscope tout en filmant son évolution.
+Pour éviter que la condensation ne se dépose sur la lentille, le récipient était transparent et la surface observée par dessous.
+Premier enseignement, la pellicule est bien constituée de petites gouttes d'environ 10 micromètres de diamètre (pour rappel un micromètre, ou micron, vaut un millième de millimètre).
+Comme on peut le voir sur l'image ci-dessous, extraite de l'étude, plus la température de l'eau est élevée, plus les gouttelettes sont nombreuses.
+Plus la température est élevée, plus les micro-gouttes sont nombreuses.
+Umeki et al./Scientific Reports.
+Le deuxième résultat de l'étude est la confirmation d'une partie de l'hypothèse émise par Vincent Schaefer : les micro-gouttes ne sont pas posées à la surface de l'eau mais lévitent bien juste au-dessus, à une distance comprise entre 10 et 100 micromètres.
+Au terme de ces premières observations, les chercheurs japonais ont été surpris de constater que les fractures de la brume se produisaient à une vitesse éclair, apparaissant bien plus vite que ce que leur caméra classique (30 images par seconde) pouvait enregistrer.
+Ils ont donc reproduit l'expérience avec une caméra rapide capable de capter jusqu'à 8 000 images à la seconde.
+A l'aide de cet instrument plus performant, ils ont découvert que ces fissures étaient provoquées par la chute dans l'eau d'une seule des micro-gouttes, qui en entraînait d'autres avec elle dans une sorte de cascade.
+Comme c'est fréquemment le cas en science, lorsqu'une expérience vise avant tout à regarder de plus près un phénomène, la meilleure résolution des images répond à certaines questions tout en en soulevant de nouvelles...
+Ainsi, les chercheurs nippons ne sont pas sûrs que l'explication de Schaefer sur la formation de la brume soit correcte.
+Pour eux, l'assemblage des gouttes selon un treillis évoque plutôt le fait que celles-ci sont électriquement chargées : la lévitation pourrait donc être due à un phénomène électro-statique.
+Dans cette hypothèse, l'effondrement d'une goutte, qui provoque les fissurations rapides de la pellicule, s'expliquerait par la disparition subite de sa charge électrique.
+Les auteurs vont jusqu'à émettre l'hypothèse que cette annihilation de la charge pourrait être provoquée par une rencontre avec une particule issue du rayonnement cosmique – on estime ainsi qu'au niveau du sol chaque centimètre carré reçoit en moyenne un muon, particule négativement chargée, par minute. 
+Ce scénario n'était évidemment pas testable lors de l'expérience mais il a le mérite, poétique, de relier notre tasse de thé ou de café matinal à l'immensité du cosmos.
+Au terme de l'étude, on s'aperçoit donc que, même si l'énigme de la brume de café s'est un peu éclaircie, elle continue de résister à la science.
+Comme le font remarquer les chercheurs japonais dans la conclusion de leur article,  une tasse de thé chaud continue de nous fournir d'intéressants phénomènes qui méritent un examen scientifique.
+Le phénomène que nous avons étudié ici peut être observé chaque jour et devrait avoir été remarqué par de nombreux chercheurs.
+Cependant, très peu de gens semblent avoir imaginé que des phénomènes aussi fascinants se produisent dans une tasse . Gageons que demain matin, au petit déjeuner, vous verrez un monde dans votre boisson chaude, comme par exemple le résumé miniature du couple océan-atmosphère...

@@ -1,0 +1,55 @@
+| Par Damien Leloup et Sarah Belouezzane
+Une fois la loi Macron bouclée, le gouvernement devra s’attaquer à un autre gros morceau : le numérique.
+Une tâche à laquelle s’est déjà attelée Axelle Lemaire, secrétaire d’Etat en charge du secteur.
+Le 4 février, la plate-forme de consultation en ligne mise en place pour recueillir des avis devait s’arrêter.
+L’occasion pour la ministre de faire le point sur les pistes de réflexion qui président à l’élaboration de la loi.
+Et plus généralement à la stratégie numérique du pays.
+ 
+Une élaboration collective
+« Notre ambition consiste à donner cinq ans d’avance à la France , pour faire de notre pays une république du numérique », explique Mme Lemaire qui indique que le secteur, créateur d’emplois, doit devenir une « priorité du gouvernement au service de tous ».
+Pour ce faire, le gouvernement présentera d’abord une stratégie numérique en mars, sur laquelle il s’appuiera pour peser sur les décisions adoptées en mai de cette année par l’ Union européenne .
+Le projet de loi viendra dans un second temps, et devrait être débattu en septembre.
+Pour l’élaborer, il a été décidé de réaliser un travail collaboratif.
+D’abord au sein du gouvernement : « Il y a déjà dix cabinets qui travaillent dessus, indique Mme Lemaire, chaque ministère fait des propositions en fonction de ses priorités et Matignon arbitre, il y a déjà eu de nombreuses réunions interministérielles. 
+» Les parlementaires ont quant à eux donné une première fois leur avis lors d’un débat d’orientation en janvier.
+Mais la véritable nouveauté du processus vient de la plate-forme de consultation en ligne qui invitait tout un chacun à donner son avis, à partager des documents… « Ça n’a pas attiré que les “usual suspects”, comme les lobbyistes ou les activistes, il y a eu aussi des associations et de nombreux citoyens », se réjouit Mme Lemaire.
+Enfin le Conseil national du numérique est lui aussi appelé à faire des propositions.
+ 
+Soutenir les start-up 
+Thème cher à Axelle Lemaire, le financement des start-up devrait à la fois faire partie de la stratégie numérique présentée en mars mais aussi du projet de loi.
+« Les jeunes entreprises innovantes doivent bénéficier , en Europe , de possibilités de financement aussi importantes qu’aux Etats-Unis », insiste-elle.
+Pour cela, la ministre veut voir par exemple se développer le financement par les grandes entreprises, qui pourrait passer , selon elle, de 250 millions d’euros aujourd’hui à un milliard d’ici 2017.
+Ou alors « un fonds de fonds » pan européens.
+Selon elle, les jeunes pousses devraient aussi avoir plus facilement accès à la commande publique et à celle des grands groupes.
+Elle se propose de lever certains obstacles fiscaux et administratifs.
+Les précisions viendront plus tard.
+Mais aucun développement n’est possible sans infrastructures dignes de ce nom.
+Mme Lemaire le martèle, la couverture fixe et mobile doit être égale dans toute la France.
+« Il y a un décalage entre les chiffres de couverture et le ressenti dans les zones blanches.
+Il faut réfléchir à un projet de financement, en collaboration avec les collectivités et les opérateurs pour les couvrir . 
+»
+Reste la question épineuse de l’optimisation fiscale pratiquée par les grands groupes.
+Celle-ci est préjudiciable pour les Etats mais aussi les start-up européennes qui font face à une concurrence déloyale.
+« Pour ce qui est de la fiscalité des géants du Net, il faut taper du poing sur la table », explique-t-elle.
+L’importance des données 
+Les données, estime Mme Lemaire, sont le nerf de la guerre, tant sur le plan économique que pour la modernisation de l’Etat.
+« Il faut penser données comme auparavant on pensait pétrole  », résume-t-elle.
+Le gouvernement envisage la création d’une nouvelle catégorie : les données « d’intérêt général », qui seraient donc publiques.
+Particularité de ce nouveau statut, il pourrait concerner des données produites par des sociétés privées – par exemple des entreprises de transport.
+Outre la question d’une éventuelle rémunération des société s ayant produit ces données, l’idée soulève quelques questions complexes liées au droit de la libre concurrence ou à la protection des données personnelles.
+Sur le volet de la vie privée , justement, le projet de loi évoque plusieurs pistes d’évolution pour la Commission nationale informatique et libertés.
+Le régulateur pourrait ainsi s’auto-saisir, mais devrait tenir compte dans ses décisions de « l’intérêt du développement technologique ».
+Un renforcement de son pouvoir de sanction – limité aujourd’hui à 300 000 euros d’amende, une somme dérisoire pour les grandes multinationales du Web – est également envisagée, mais sans chiffre ou modalités précises à ce stade.
+Le projet comporte cependant une mesure qui pourrait inquiéter bien davantage les grandes entreprises du numérique : la création d’une forme d’action de groupe contre les violations du droit des données personnelles.
+Si elle est mise en place, elle permettrait à tous les utilisateurs français de Google , Yahoo! ou Facebook de se regrouper pour attaquer ces entreprises – avec à la clef des procédures très coûteuses.
+Suggérée dans son rapport annuel par le Conseil d’Etat, cette possibilité semble à Mme Lemaire « particulièrement appropriée dans un monde où beaucoup d’usagers font face à un acteur central très puissant ».
+Un volet sécurité en suspend 
+Les pistes de travail du projet de loi ont été élaborées avant les attentats terroristes de janvier.
+Depuis, plusieurs voix se sont élevées au gouvernement pour demander un encadrement plus strict des réseaux sociaux , accusés par le premier ministre Manuel Valls et le ministre de l’intérieur de ne pas agir assez contre les messages d’incitation à la haine ou faisant l’apologie du terrorisme.
+Bernard Cazeneuve a annoncé qu’il se rendrait aux Etats-Unis ces prochaines semaines pour « sensibiliser » les grandes sociétés américaines à ces questions.
+Pour Mme Lemaire, qui assure avoir l’appui de l’ensemble du gouvernement sur ce point, « le cadre législatif et réglementaire est apte à répondre aux enjeux de sécurité mais doit être mieux appliqué : la priorité est au renforcement des moyens humains et matériels. 
+» Les procédures doivent, quant à elles, être améliorées, juge Mme Lemaire.
+« Est-ce que le ministre de l’intérieur va devoir se rendre , à chaque fois qu’il y a un problème, dans la Silicon Valley ?
+Non, il faut qu’il y ait un espace de dialogue en France sur ces questions. 
+»
+Il n’est cependant pas sûr que le projet de loi comporte un volet portant sur la sécurité – ces sujets pourraient plutôt rejoindre le futur projet de loi sur le renseignement, sous le patronage du ministère de l’intérieur.

@@ -1,0 +1,37 @@
+Les étiquettes des produits alimentaires diront-elles ce que nous mangeons ?
+Le Monde |
+| Par Mathilde Damgé
+Des notes sur les aliments pour mieux faire ses courses ?
+Alors que la loi santé est discutée mardi 31 mars à l'Assemblée, des logos de différentes couleurs, selon leur qualité nutritionnelle, pourraient faire leur apparition sur les produits industriels.
+Au grand dam des professionnels du secteur , qui ont dénoncé un « simulacre de dialogue » quand Marisol Touraine, ministre de la santé, a lancé le 26 mars une concertation sur le sujet.
+L'Association nationale des industries alimentaires (ANIA) a regretté un projet « simpliste et stigmatisant ».
+Concrètement, il s'agit de mettre en place des logos de cinq couleurs (vert, jaune, orange, rose, rouge), elles-mêmes liées à des notes A, B, C, D et E, prenant en compte différents paramètres comme la teneur en sucre, en lipides, en graisses saturées et en sel.
+Des éléments jugés « défavorables » (en terme d'apports nutritionnels) par rapport aux aliments « favorables » que sont les fruits, les légumes, les protéines et les fibres.
+Contre la malbouffe
+Ces logos, qui ne seraient pas obligatoires, permettraient de lutter contre le marketing abusif et du même coup contre la malbouffe et l'obésité, selon les partisans de la transparence des étiquettes.
+Parmi eux, Open Food Facts , sorte de Wikipédia de l'alimentaire créée en 2012 par un pionnier français de l'open data, l'accès libre aux données.
+Stéphane Gigandet, l'artisan de cette plateforme collaborative, justifie son projet à l'aide de cette comparaison :
+« Avez-vous consulté la note énergie de votre frigo avant de l'acheter ?
+Regardez la note nutritionnelle de ce que vous mettez dedans.
+»
+L'informaticien, aidé de militants participant au projet, a appliqué la formule préconisée dans le rapport du professeur Serge Hercberg, directeur de recherche à l'Inserm et professeur de nutrition à l'université de médecine Paris-XIII, aux produits présents dans leur base, du moins ceux pour lesquels un tableau suffisamment complet figure sur l'emballage.
+Ils ont ainsi déterminé la note de plus de 10 000 produits alimentaires, et présenté sur leur site, comme dans l'exemple présenté ci-dessous qui compare les différents apports nutritionnels des yaourts :
+Pour comparer d'autres aliments, il suffit de remplir les champs de recherche sur cette page librement accessible ou de consulter l'annuaire des produits répertoriés par l'association (en cliquant sur les notes).
+Open Food Facts propose également d'aborder ces données de manière ludique avec le programme « Combien de sucres » .
+Avec un téléphone mobile, il est possible de décrypter les étiquettes dans les supermarchés en allant sur l'application gratuite d'Open Food Facts (sur iOS ou Android ) et en scannant les codes-barres, à condition d'avoir une connexion Internet.
+Sans connexion, le même décryptage est possible sur Android avec la technologie de reconnaissance visuelle (intégrée dans l'application Open Food Facts).
+Données contre positions de principe
+Une démarche qui est loin de plaire aux industriels concernés.
+« Une telle mesure de scoring nutritionnel viendrait s'opposer au modèle alimentaire français basé sur le plaisir, la diversité et la qualité des produits, ainsi que sur les traditions culinaires et le repas structuré », affirme l'ANIA.
+« L'industrie est farouchement contre, reconnaît Stéphane Gigandet, créateur d'Open Food Facts.
+Mais ce qui est intéressant, c'est que maintenant qu'on a des données, les citoyens peuvent s'inviter dans le débat et s'appuyer sur des faits alors que l'industrie a plutôt des positions de principe.
+»
+La formule adoptée par le Pr Hercberg correspond à la formule du score nutritionnel de la Food Standards Agency (FSA) du Royaume-Uni.
+Elle a toutefois été adaptée à la France : les fromages peuvent être plus gras et les noix ne sont pas comptabilisées comme des fruits, par exemple.
+« L'équilibre alimentaire d'un individu ne peut pas se réduire à une pastille de couleur sur un produit », ajoute encore le représentant de l'industrie.
+En septembre, Carrefour a pourtant sorti de sa manche des pictogrammes de couleur verte, bleue, orange et violette, en forme de pyramide inversée.
+Chaque couleur est associée à une fréquence d'utilisation (« trois fois par jour », « deux fois par jour », « une fois par jour » et « de temps en temps »).
+Le rouge, trop répulsif pour les consommateurs, est exclu.
+Un système d'ailleurs repris par la Fédération du commerce et de la distribution (FCD) , qui vante « une approche graphique mieux comprise par les consommateurs ».
+De l'éco, du décryptage et une pincée de data Suivre Aller sur la page de ce journaliste Suivre ce journaliste sur twitter
+Agroalimentaire et alimentation

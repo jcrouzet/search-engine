@@ -1,0 +1,11 @@
+06.02.2015 à 10h28
+Facebook va financer le projet de chiffrement des courriels GPG
+Facebook, le célèbre réseau social , et Stripe, start-up de paiement sur Internet, ont décidé de verser 50 000 dollars par an au projet GNU Privacy Guard (GPG).
+Ce projet est responsable du code informatique derrière la plupart des logiciels de chiffrement des e-mails.
+Utilisé quotidiennement par des milliers d' entreprises , de gouvernements et de particuliers, il fait figure de référence absolue en matière de chiffrement car extrêmement résistant , y compris aux agences de renseignement dotées de puissants moyens.
+Jusqu'à présent, la survie du projet GPG reposait essentiellement sur des dons de particuliers, ce qui rendait sa situation extrêmement précaire .
+Il ne possédait même plus de développeur à plein temps, en raison de ses difficultés financières, comme l'expliquait Propublica dans un article publié le 5 février.
+C'est à la suite de cet article que Facebook et Stripe ont décidé de financer l'outil.
+On a également appris après cet article que la Fondation Linux avait donné 60 000 dollars au projet.
+Par ailleurs, GPG a recueilli près de 60 000 dollars de dons d'internautes en quelques heures .
+Pixels

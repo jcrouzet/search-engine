@@ -1,0 +1,46 @@
+Les députés approuvent un système de surveillance du trafic sur Internet
+Le Monde |
+16.04.2015 à 04h07
+| Par Morgane Tual
+C’est dans un hémicycle quasiment vide qu’une trentaine de députés se sont prononcés, dans la nuit de mercredi 15 à jeudi 16 avril, sur la mise en place de « boîtes noires », un dispositif controversé visant à surveiller le trafic sur Internet.
+Examiné depuis lundi à l’assemblée nationale, le projet de loi sur le renseignement compte renforcer la surveillance en ligne, en passant notamment par ce dispositif, approuvé par 25 députés contre 5 à l’issue de débats houleux.
+Le principe : contraindre les fournisseurs d’accès à Internet (FAI) à « détecter, par un traitement automatique, une succession suspecte de données de connexion » pouvant correspondre à des schémas typiquement utilisés par les terroristes.
+En pratique, cela consisterait à installer chez les FAI une « boîte noire » surveillant le trafic.
+Le contenu des communications ne serait pas surveillé, mais uniquement les métadonnées : origine ou destinataire d’un message, adresse IP d’un site visité…
+Un dispositif contesté par de nombreuses organisations, qui dénoncent la mise en place d’une surveillance massive des internautes, en analysant très largement les données des Français à la recherche de quelques individus seulement.
+Voir notre visuel interactif : La galaxie des opposants au projet de loi
+« Boîte de Pandore »
+« La boîte noire, c’est la boîte de Pandore de ce projet de loi », a assuré Aurélie Filippetti dans l’Hémicycle.
+« On nous dit que les masses de données qui vont transiter seront uniquement des métadonnées.
+Mais elles contiennent encore plus d’informations sur la vie privée de nos concitoyens ! 
+(…) Et il y a un paradoxe à dire que ces données vont être anonymes, alors qu’elles vont servir à identifier des terroristes. 
+»
+Une accusation dont s’est défendu le gouvernement dans l’hémicycle.
+« Les traitements automatisés repèrent des comportements suspects, non pas des personnes pré-identifiées », a souligné Jean-Yves Le Drian.
+« C’est dans un deuxième temps que les services pourront avoir accès à l’identité des personnes. 
+»
+Certains députés ont aussi pointé du doigt les conséquences « économiquement néfastes » de ces boîtes noires, comme l’écologiste Isabelle Attard, pour qui « les entreprises françaises du numérique verront leurs clients étrangers déserter car ils n’auront plus confiance ».
+La semaine dernière, sept grands hébergeurs français avaient fait connaître leur opposition au projet, affirmant qu’il allait les pousser « à l’exil » pour ne pas perdre leurs clients.
+En réponse, le gouvernement a proposé quelques heures avant le vote un nouvel amendement supposé apaiser les hébergeurs.
+Adopté, il permet à ces derniers d’effectuer eux-mêmes la séparation entre « les métadonnées et les contenus ».
+Il précise également que la procédure d’urgence, permettant de se passer de l’avis préalable de la future Commission de contrôle des techniques de renseignement (CNCTR), ne pourra s’appliquer dans ce cas.
+Commission de surveillance élargie
+C’est d’ailleurs cette commission qui a occupé l’autre partie de ce troisième jour de débats.
+Comment sera composé cet organisme chargé de contrôler cette surveillance ?
+La discussion s’est cristallisée autour de la place des parlementaires au sein de la commission.
+Initialement composée, dans le projet de loi, de 9 membres, dont 4 parlementaires, la CNCTR a été renforcée à l’issue des débats de 4 personnes.
+Dans un amendement commun avec l’UMP, le rapporteur du texte, Jean-Jacques Urvoas, a proposé d’élargir la commission à 13 membres : 3 députés, 3 sénateurs, 3 membres du Conseil d’Etat, 3 magistrats de la Cour de cassation et un représentant de l’Arcep (Autorité de régulation des communications électroniques et des postes).
+Le ministre de l’intérieur Bernard Cazeneuve s’est félicité de l’adoption de cet amendement : « Il vaut mieux de bons compromis républicains à de mauvaises divisions ».
+Par ailleurs, un amendement imposant la parité entre hommes et femmes au sein de la CNCTR a également été adopté par les députés.
+Cette commission remplacera l’actuelle Commission de contrôle des interceptions de sécurité (CNCIS).
+Toute demande de renseignement – sauf cas spécifiques urgents – émanant des services sera relayée par le ministre de tutelle (défense, intérieur, finances) auprès de la Commission, qui donnera un avis consultatif a priori.
+Celle-ci disposera d’un pouvoir d’enquête et pourra réclamer des informations et documents classifiés et rendra un rapport d’activité annuel.
+Le gouvernement a néanmoins éludé tout au long des discussions les questions plus techniques, posées, à plusieurs reprises, par quelques députés, parmi lesquels Laure de la Raudière (UMP).
+« Où allez-vous placer votre sonde sur les réseaux de communication ? 
+», « Comment allez-vous rendre les algorithmes plus performants ? 
+», « Allez vous mettre en place le deep packet inspection ? 
+».
+Bernard Cazeneuve a fini par répondre à cette dernière question, martelée à plusieurs reprises par la députée : « Nous n’utiliserons en aucun cas cette technique », qui consiste à inspecter en profondeur toutes les données qui transitent dans les communications.
+Plusieurs députés ont aussi réclamé qu’une liste précise du type de métadonnées collectées par les boîtes noires soit clairement définie.
+En vain.
+Morgane Tual

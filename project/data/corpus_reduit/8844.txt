@@ -1,0 +1,41 @@
+Loi renseignement : les députés et le « sens de l’Etat »
+Le Monde |
+17.04.2015 à 12h10
+| Par Matthieu Suc
+Sans surprise, les députés devraient adopter, le 5 mai, lors d’un vote solennel, le projet de loi relatif au renseignement, dont l’examen s’est achevé, jeudi 16 avril à l’Assemblée nationale.
+Le groupe socialiste a annoncé qu’il voterait pour, l’opposition UMP et UDI a laissé entendre qu’elle ferait de même.
+Le débat dans l’hémicycle a révélé la différence entre « ceux qui ont le sens de l’Etat et ceux qui parfois ne l’ont pas », a jugé le premier ministre, Manuel Valls, jeudi.
+Ce projet de loi, défendu par le premier ministre en personne et porté par le président de la commission des lois, le socialiste Jean-Jacques Urvoas, a pour but de définir les missions et de sécuriser la pratique des services secrets, qui jusqu’ici exerçaient une partie de leurs activités de renseignement en dehors de tout cadre légal.
+Décidé dans son principe en juillet 2014, il a été accéléré après les attentats de janvier au nom de la lutte antiterroriste.
+Lire aussi : Les critiques de la CNIL contre le projet de loi sur le renseignement
+Malgré de vifs débats sur quelques points et des accusations de « loi liberticide » lancées au début de l’examen, l’union nationale a largement prévalu sur ce texte qui réunit au-delà des clivages politiques habituels, la principale opposition se situant à l’extérieur de l’hémicycle.
+Le défenseur des droits, les syndicats de magistrats et la commission nationale de l’informatique et des libertés, les associations de défense des droits de l’homme, des acteurs de l’économie numérique se sont alarmés de la légalisation de techniques rendant possible la surveillance de masse.
+« Imsi catcher »
+L’exécutif s’est donc employé à rassurer les opposants et à démentir l’existence de toute surveillance de masse… sans modifier substantiellement le texte.
+Le gouvernement et le rapporteur ont ainsi lâché du lest à l’occasion de la création de la commission nationale de contrôle des techniques de renseignement (CNCTR), l’autorité administrative indépendante chargée du contrôle des pratiques des services, élargissant de neuf à treize le nombre de ses membres.
+Les députés ont également voté un amendement déposé par M. Urvoas créant un statut de lanceur d’alerte protégé pour les agents de renseignement qui voudraient dénoncer des agissements illégaux de leurs services.
+Pas de concession en revanche sur les huit missions des services de renseignement, dont la définition brasse très large et va bien au-delà de la lutte contre le terrorisme.
+Les services pourront ainsi placer sous surveillance toute personne dans le cadre de la prévention de « violences collectives de nature à porter atteinte à la forme républicaine des institutions ».
+« Donc lors de Mai-68 ou des grandes grèves de 1995, les services auraient été habilités à espionner », s’alarme le député UMP Pierre Lellouche, inquiet que « ce texte tombe un jour dans de mauvaises mains ».
+Pas de modifications non plus concernant les techniques de surveillance que les services de renseignement pourront mettre en œuvre.
+Les agents pourront, pour « les seuls besoins de la prévention du terrorisme », recueillir les données techniques de connexion de « personnes préalablement identifiées comme présentant une menace (…) en temps réel sur les réseaux des opérateurs ».
+L’usage controversé des « Imsi catcher », ces dispositifs permettant de capter toutes les communications dans un rayon donné, a été adopté.
+« Boîte de Pandore »
+Le débat s’est révélé beaucoup plus âpre à propos des « boîtes noires », ce dispositif de détection des menaces terroristes par la mise en œuvre d’un algorithme chargé de repérer automatiquement une « succession suspecte de données de connexion » directement sur le réseau des opérateurs.
+Les députés ont voté plusieurs amendements proposés par le gouvernement à l’issue d’un entretien avec des représentants d’hébergeurs Internet qui avaient fait part de leurs craintes sur ce dispositif – et menacé de s’exiler hors de France.
+Les opérateurs qui le souhaitent pourront désormais effectuer eux-mêmes la séparation des métadonnées – les détails techniques liés à l’appel ou au SMS – et des contenus.
+Enfin, ce dispositif est rendu provisoire jusqu’au 31 décembre 2018, date à laquelle le gouvernement devra conduire son évaluation.
+L’hébergeur de données OVH s’est dit satisfait et a retiré ses menaces de délocalisation.
+Lire aussi : Des moyens accrus pour les services spéciaux
+Malgré ces concessions, plusieurs élus ont fait part de leurs inquiétudes.
+« La boîte noire, c’est la boîte de Pandore de ce projet de loi », assure la socialiste Aurélie Filippetti.
+« On nous dit que les masses de données qui vont transiter seront uniquement des métadonnées.
+Mais elles contiennent encore plus d’informations sur la vie privée de nos concitoyens ! 
+» « Il ne s’agit pas de techniques de prélèvement de masse mais, au contraire, de techniques de ciblage », rétorque Bernard Cazeneuve, le ministre de l’intérieur.
+« Nous utilisons ces formules mathématiques pour prendre seulement ce dont nous avons besoin sur le flux. 
+»
+Par ailleurs, l’Assemblée a voté un amendement du gouvernement qui crée un fichier regroupant les personnes condamnées ou poursuivies pour des faits de terrorisme.
+Les durées contenues dans ce fichier seront conservées au maximum pendant vingt ans pour les majeurs, dix ans pour les mineurs.
+Pendant dix ans, les personnes concernées seront tenues de déclarer leur adresse tous les trois mois dans un service de police et de gendarmerie, ainsi que « tout déplacement » à l’étranger.
+Enfin, la ministre de la justice, Christiane Taubira, qui s’opposait à un amendement incluant le bureau du renseignement pénitentiaire à la communauté du renseignement et lui permettant de procéder à des écoutes des détenus et des sonorisations des cellules, a été mise en minorité par une coalition gauche-droite.
+Officiellement, le gouvernement appuyait la démarche de la garde des sceaux, mais ce sont des proches de Manuel Valls qui ont manœuvré pour faire voter ce point et Bernard Cazeneuve n’a apporté qu’un faible soutien à sa collègue.

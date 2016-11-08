@@ -1,0 +1,24 @@
+6 janvier 2015 , par Pierre Barthélémy
+Les cycles solaires jouent-ils sur notre longévité ?
+Parmi les nombreux facteurs environnementaux qui influent sur notre santé et notre existence, un est tellement flagrant qu'on aurait presque tendance à l'oublier : le Soleil.
+L'énergie que prodigue notre étoile est mère de toute vie sur Terre et l'on ne dressera pas ici la longue liste de ses bienfaits.
+Rappelons en revanche que la lumière solaire n'est pas anodine : le rayonnement ultraviolet qu'elle contient, s'il est indispensable à la synthèse de la vitamine D,  peut être nocif , provoquant cancers de la peau et graves problèmes oculaires (pour plus de détails, on lira ce rapport international sur les effets des UV sur la santé , en anglais).
+Or, ce rayonnement ultraviolet  n'est pas égal dans le temps et il suit notamment les cycles d'activité du Soleil, longs de onze ans .
+Les variations des UV que l'on mesure d'un minimum à un maximum sont modestes mais, étant donné la dangerosité de ces longueurs d'onde, une équipe norvégienne vient de se demander, dans une étude intrigante publiée ce mercredi 7 janvier dans les  Proceedings of the Royal Society B , si l'on pouvait retrouver l'impact des cycles solaires sur la longévité et la fertilité des humains.
+Pour ce faire, ces biologistes ont exploité une base de données originale courant sur deux siècles : les registres de deux paroisses norvégiennes, toutes deux situées à la même latitude, l'une sur une île côtière, l'autre à l'intérieur des terres.
+On peut y trouver des informations (date de naissance, de décès, profession, nombre d'enfants) concernant plus de 9 000 personnes nées entre 1676 et 1878.
+Partant de l'idée que le facteur de stress environnemental que sont les UV avait le plus d'influence lors du développement intra-utérin, les chercheurs ont ensuite examiné le  destin démographique  des individus suivant qu'ils étaient nés lors d'un maximum d'activité solaire ou pendant une période calme.
+Ils ont également tenu compte, dans leur analyse, du statut socio-économique des sujets.
+Les résultats obtenus sont d'autant plus étonnants qu' une précédente étude réalisée sur le même thème en 2009 mais avec une méthodologie différente n'avait pas détecté d'effet significatif : les biologistes norvégiens assurent pour leur part que les individus de leurs cohortes nés pendant un maximum solaire avaient en moyenne une espérance de vie inférieure de 5,2 ans à celle des personnes nées durant un minimum d'activité de notre étoile.
+L'écart est énorme et il se justifie en partie par le fait que la mortalité infantile est plus élevée, notamment chez les filles, pour les enfants nés lors des pics d'activité solaire.
+Comment expliquer le phénomène ?
+Y a-t-il un lien de cause à effet et donc plus qu'une corrélation ?
+Les auteurs de l'étude ont surtout exploré la piste physiologique et avancent comme principale hypothèse le fait que les ultraviolets sont capables de dégrader la vitamine B9 , essentielle pour le bon développement embryonnaire, la fabrication ou la réparation de l'ADN (entre autres).
+Par ailleurs, les UV peuvent aussi altérer la double hélice de l'ADN.
+De plus, souligne l'article, les populations scandinaves à la peau claire sont moins protégées contre les actions nocives des ultraviolets.
+Le scénario consiste donc à dire que les grossesses menées pendant les maxima solaires aboutissent à la naissance d'individus plus fragiles en raison des attaques cellulaires des UV.
+Les chercheurs n'excluent néanmoins pas un autre type de lien de cause à effet, passant par le régime alimentaire, et il est dommage qu'ils n'aient pas creusé cette piste davantage.
+J'ai ainsi retrouvé une étude israélienne qui s'est intéressée au lien possible entre l'activité solaire et... le prix du blé  en Angleterre de 1260 à 1720 mais aussi dans les Etats-Unis du XXe siècle, lien passant par un impact météorologique des maxima solaires sur les récoltes.
+Ce travail montre que les hausses soudaines du prix du blé, élément de base de l'alimentation, suivent grosso modo les cycles de onze ans du Soleil.
+On pourrait donc très bien imaginer que la  fragilité  décelée par l'étude norvégienne chez les bébés nés lors des pics d'activité solaire s'explique par des restrictions et carences alimentaires subies par leurs mères durant les grossesses et les périodes d'allaitement.
+Comme l'ont appris les recherches historiques sur la taille des humains , on sait en effet que, lors des disettes ou pendant les périodes de tension sur les prix de la nourriture, la priorité était donnée aux hommes dans la distribution des aliments au sein des foyers...

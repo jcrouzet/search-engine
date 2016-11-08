@@ -1,0 +1,34 @@
+Détecter les séismes avec nos smartphones ?
+Après le séisme du 12 janvier 2010 à Port-au-Prince (Haïti).
+Khalid Mohtaseb.
+Quel est le point commun entre la Californie, le Mexique, les Alpes, l'ouest de la Turquie, le centre de la Chine, Taïwan et le Japon ?
+Toutes ces régions sont régulièrement secouées par des séismes et toutes bénéficient de réseaux d'alerte aux tremblements de terre.
+Ce qui signifie, par contraste, que les autres zones fortement sismiques du globe en sont dépourvues.
+De la cordillère des Andes au Caucase, de l'Iran à l'Indonésie, de l'Himalaya à la Nouvelle-Zélande, « la plupart des régions du monde ne reçoivent pas d'alertes sismiques principalement en raison du coût qu'implique la construction de réseaux scientifiques de surveillance » des failles et des mouvements du sol, résume Benjamin Brooks.
+Dans une étude publiée le 10 avril par la toute nouvelle revue Science Advances , ce chercheur à l'U.S.
+Geological Survey (USGS) et huit collègues américains proposent une solution pour le moins originale afin de pallier ce manque : détecter presque instantanément un tremblement de terre grâce au GPS inclus dans les smartphones que de plus en plus d'humains possèdent, ajoutant ainsi à ces appareils déjà multi-tâches une fonction de capteur sismique nomade...
+L'idée est belle.
+Encore fallait-il la mettre à l'épreuve pour vérifier sa solidité.
+C'est ce qu'ont fait ces chercheurs en procédant en trois étapes.
+La première a, très simplement, consisté à tester des téléphones du commerce pour s'assurer que leurs qualités techniques et la précision de leur système de positionnement par satellite étaient suffisamment bonnes pour que les appareils détectent de manière fiable un faible déplacement du sol. 
+Une fois cette étape passée, les auteurs de l'étude ont simulé un puissant tremblement de terre, de magnitude 7, le long de la faille de Hayward, qui traverse la baie de San Francisco en Californie .
+Cette faille est en effet un bon cas d'école en raison de la population nombreuse (et bien équipée en smartphones) qui l'entoure.
+Et aussi parce que cet accident géologique a de bonnes « chances » de faire bientôt parler de lui étant donné qu'il provoque d'importants séismes tous les 140 ans en moyenne et que le dernier remonte à... 1868, il y a 147 ans.
+Tout l'enjeu de l'expérience consistait à déterminer combien de téléphones portables seraient nécessaires pour détecter le séisme virtuel et s'ils seraient capables de le faire assez vite pour pouvoir donner l'alerte au reste de la région puisqu'une onde électromagnétique voyage beaucoup plus vite qu'une onde sismique.
+Il fallait tenir compte du fait que certains smartphones seraient éteints, ou hors d'atteinte du réseau ou bien qu'ils bougeraient avec leurs propriétaires.
+Mais si, d'un seul coup, un nombre important de téléphones situés dans un même secteur signalaient en même temps un même déplacement d'au moins 5 centimètres dans la même direction, cela indiquerait la survenue d'un séisme.
+La simulation a montré qu'avec la participation de 0,2 % de la population locale, soit environ 4 700 personnes, ce séisme pourrait être détecté en seulement 5 secondes, soit assez vite pour lancer une alerte vers les grandes villes que sont San Francisco et San Jose.
+La troisième et dernière expérience a été une reconstitution à partir de données enregistrées lors d'un tremblement de terre réel et de triste mémoire, celui qui s'est déclenché en mer à l'est du Japon le 11 mars 2011.
+On se rappelle que ce séisme ultra-violent (magnitude 9) a provoqué un tsunami dévastateur au terrible bilan : 18 000 morts et disparus, sans compter la catastrophe nucléaire de Fukushima.
+Dans ce cas de figure particulier d'un séisme en mer, l'efficacité des smartphones est forcément moindre puisqu'il faut attendre que l'onde sismique touche la côte.
+Il aurait fallu au mieux 77 secondes au système pour détecter l'événement, un délai insuffisant pour prévenir les autres villes côtières de la survenue du tremblement de terre.
+Mais cela aurait néanmoins été assez rapide pour joindre Tokyo avant que l'onde sismique ne la gagne et, surtout, cela aurait suffi pour lancer une alerte au tsunami plusieurs minutes avant que l'onde fatale ne submerge la côte.
+Selon les auteurs de l'étude, on peut donc monter un système de détection et d'alerte sismiques fiable avec un échantillon de smartphones relativement restreint.
+Ainsi que le résume un de ces chercheurs, Thomas Heaton (California Institute of Technology), « il y a trente ans, il fallait des mois pour reconstruire une image grossière des déformations créées par un tremblement de terre.
+Cette nouvelle technologie permet d'en donner une image quasiment instantanée avec une meilleure résolution. 
+» Heaton et ses collègues insistent aussi sur le fait que les personnes vivant dans les zones à risque n'auraient rien à dépenser pour l'installation de ce réseau de détection sismique collaboratif.
+Encore faudrait-il qu'elles acceptent de participer à cette collecte permanente de données...
+Malgré l'originalité de ce travail, il faut lui apporter un autre bémol : la limitation du système.
+De l'aveu des chercheurs, seuls les séismes de magnitude égale ou supérieure à 7 pourraient être détectés via le GPS des smartphones actuels.
+Or, certains tremblements de terre de magnitude inférieure peuvent créer de terribles dégâts.
+Cela a par exemple été le cas à Christchurch (Nouvelle-Zélande) lors du séisme du 22 février 2011 (magnitude 6,3), qui avait causé la mort de 185 personnes.

@@ -1,0 +1,12 @@
+Google dévoile Chromebit, une clé pour transformer un écran en PC
+Le Monde |
+01.04.2015 à 14h00
+Google a dévoilé mardi 31 mars un nouveau produit capable de transformer n'importe quel écran en ordinateur.
+Chromebit ressemble à une grosse clé USB, de la taille d'un cigare, équipée de Chrome OS, le système d'exploitation de Google.
+Branchée en HDMI à un écran de télévision par exemple, elle permet d'effectuer les mêmes tâches que sur un PC classique : rédiger des documents, envoyer des e-mails ou encore surfer sur Internet.
+L'objet, qui doit être mis en vente cet été pour moins de 100 dollars, dispose d'une sortie HDMI et, à l'autre extrémité, d'un port USB permettant de le connecter à une souris ou à un clavier.
+Chromebit peut aussi se connecter en Bluetooth à d'autres périphériques et dispose du Wi-Fi.
+Il est équipé d'un processeur Rockchip RK3288, de 2 Gb de RAM et de 16 Gb de mémoire.
+Chromebit ressemble à Chromecast, une clé similaire présentée en juillet 2013 , qui se branche directement sur une télévision et qui, grâce à sa connexion Wi-Fi, permet de « streamer » des vidéos issues du Web ou de la musique.
+Google n'est pas le seul à se lancer sur ce genre de projets.
+Intel a également annoncé le lancement de l'Intel Computer Stick, un objet similaire équipé de Windows 8.1.

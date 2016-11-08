@@ -1,0 +1,86 @@
+Cultures Web
+A Bletchley Park, l'histoire secrète de l'invention de l'informatique
+Le film « The Imitation Game » retrace les années qu'y a passées le mathématicien Alan Turing, spécialiste du décryptage des communications allemandes pendant la deuxième guerre mondiale.
+Le Monde |
+| Par Martin Untersinger (Bletchley, envoyé spécial)
+Lorsqu'on arrive au petit matin près du manoir de Bletchley Park (Angleterre), occupé un temps par le mathématicien Alan Turing, il ne reste aucune trace de Benedict Cumberbatch et du tournage du film Imitiation Game .
+En revanche, on croise beaucoup de personnes âgées venues visiter ce qui est désormais un musée à la gloire des « casseurs de code », qui ont réussi à décrypter les communications allemandes pendant la seconde guerre mondiale.
+Au-delà de la sortie d'un film consacré au sujet, la fréquentation du lieu tient au nouveau statut d'Alan Turing, désormais considéré comme un inventeur génial de l'ordinateur moderne, après les excuses officielles du gouvernement, en 2009, et du pardon royal accordé en 2013 – Turing avait été condamné à un traitement hormonal en 1952 en raison de son homosexualité.
+Lire : Alan Turing, l'interminable réhabilitation d'un génie
+En passant de l'ombre à la lumière, Turing a emmené Bletchley Park dans son sillage.
+Au tout début de la seconde guerre mondiale, 56 brillants membres des meilleures universités du Royaume-Uni (mathématiciens, linguistes, etc.) avaient été dépêchés dans ce manoir victorien au goût architectural douteux pour préparer l'affrontement avec l' Allemagne nazie. 
+Enigma
+Leur but : décrypter la machine utilisée par le IIIe Reich pour ses communications radio, un engin cryptographique sophistiqué baptisé Enigma.
+Cet appareil, qui ressemble à une grosse machine à écrire dans un étui en bois, comporte trois rotors dotés chacun de 26 circuits électriques, un pour chaque lettre de l'alphabet.
+A chaque pression sur une touche, un courant électrique parcourt les trois rotors et vient allumer une petite ampoule sur le dessus de la machine qui illumine une lettre, la « transcription » de celle qui vient d' être tapée.
+Au fil de la saisie du texte, les rotors pivotent à un rythme préétabli, de sorte qu'une même lettre tapée au début et à la fin d'un message ne sera pas traduite de la même manière.
+Lire : Aux origines de la machine de chiffrement Enigma
+Celui qui reçoit, en morse, le message crypté n'a qu'à configurer la machine de la même manière que son correspondant et à taper le texte qu'il reçoit.
+En retour s'allument les lettres tapées à l'origine par l'émetteur du message.
+Le problème pour celui qui tente de décrypter le message est immense : les possibilités de positionnement initial des rotors sont extrêmement nombreuses.
+Les Britanniques et les Français la pensent inviolable, jusqu'à ce que trois mathématiciens polonais, à la veille de l'invasion de leur pays par la Wehrmacht, leur dévoilent une technique permettant, en exploitant plusieurs failles de la machine et les erreurs des Allemands, de briser le chiffrement d'une bonne partie des messages.
+Dans les mois qui précèdent le début de la guerre, les arm ées allemandes modifient certaines caractéristiques de leurs machines Enigma qui réduisent à néant les avancées des scientifiques polonais.
+Alors que la menace allemande se fait de plus en plus sentir , la tâche incombe donc aux « professeurs » de Bletchley Park de percer le secret d'Enigma.
+Les plus brillants cerveaux du pays
+Ils y parviendront, en grande partie et au prix d'un effort colossal et d'avancées sans précédent dans l'histoire de l'informatique.
+Les seuls cerveaux réunis à Bletchley Park ne suffisent évidemment pas.
+Alan Turing s'emploiera donc à démultiplier le cerveau humain avec une machine.
+Poursuivant les travaux des Polonais, Alan Turing et les autres mathématiciens construisent donc un appareil destiné à passer en revue extrêmement rapidement les différents paramètres possibles d'Enigma.
+Son nom ?
+« La bombe ».
+Elle est pourtant plus proche du gros réfrigérateur que de l'explosif.
+Sur son flanc, des dizaines de bobines tournent sur elles-mêmes pour passer en revue les différents paramètres possibles d'Enigma.
+Lorsque la machine et son bruit semblable à plusieurs milliers d'aiguilles qui s'entrechoquent s'arrêtent, une opératrice – 75 % des Britanniques présents à Bletchley Park sont des femmes – note la combinaison possible et vérifie si elle permet de déchiffrer les messages du jour.
+Plusieurs exemplaires de cette « bombe », prototypes des ordinateurs modernes, fonctionneront simultanément à Bletchley Park.
+De la « bombe » au « Colosse »
+Plus tard pendant dans la guerre sera même construit à Bletchley Park le premier véritable ordinateur électronique moderne, Colossus.
+Il s'attaquera avec succès à Lorenz, l'appareil utilisé par Hitler pour communiquer avec ses plus proches généraux, pourtant plus robuste qu'Enigma.
+Grâce à ces machines révolutionnaires pour l'époque, les Britanniques ont collecté de précieuses informations sur la stratégie et les mouvements des nazis.
+Les historiens estiment qu'ils ont largement contribué à accélérer la victoire des Alliés et sauvé des millions de vies.
+Jusqu'à une date relativement récente, cet épisode, pourtant l'un principaux actes de naissance de l'informatique et une des clés de la seconde guerre mondiale, était totalement inconnu.
+Lorsqu'on en demande la raison au docteur Joel Greenberg, mathématicien et historien de Bletchley Park, la réponse fuse : « le secret !
+»
+L'effort entrepris par les mathématiciens de Bletchley était tellement crucial que ce qui s'y passait n'était connu que d'une petite poignée de très hauts responsables britanniques.
+Tous les renseignements issus des « codebreakers » étaient frappés du sceau « ultra », plus confidentiel encore que « top secret », un niveau de protection créé spécialement pour Bletchley.
+Tous ceux qui y travaillaient, y compris les responsables de la cantine, étaient soumis à l'Official Secret Act, un texte drastique qui leur interdisait toute allusion à leur activité, et ce, en théorie, jusqu'à leur mort.
+Le secret était tel que les 8 500 personnes qui y travaillaient au plus fort de la mobilisation ne savaient pas exactement ce que faisaient leurs collègues.
+Même les plus proches parents des mathématiciens impliqués ne savaient rien, pour certains jusqu'à leur lit de mort.
+Et pour cause : il fallait à tout prix que les Allemands ignorent l'existence et les succès de Bletchley Park.
+Pour ce faire , les Britanniques se sont même efforcés de faire croire que les informations cruciales obtenues via leurs casseurs de codes leur parvenaient par des moyens plus traditionnels, quitte à inventer , dans des messages destinés à tromper les Allemands, de faux réseaux d'espions dans toute l' Europe .
+Plus tard, avec la guerre froide, c'est la crainte des espions soviétiques qui a contribué à garder le silence sur les activités du manoir – dont l'existence et les premiers succès étaient pourtant connus de Staline.
+Ce secret n'a pas empêché les connaissances acquises à Bletchley Park de se diffuser après-guerre.
+Les Britanniques ont partagé avec les Américains le design des « bombes » et de « Colossus », ce qui leur a permis d' améliorer considérablement ce dernier.
+A la fin de la guerre, les mathématiciens sont retournés dans leurs universités et, pour certains, ont continué leurs travaux, sans pouvoir dire où et pourquoi ils avaient tant progressé.
+Le secret s'effrite un peu en 1974 avec la parution de l'ouvrage de Frederick William Winterbotham, The Ultra Secret, levant quelque peu le voile sur les activités de Bletchley Park.
+Mais jusqu'à 1982 et la parution de The Hut Six Story, de Gordon Welchman – un mathématicien qui a joué, aux côtés de Turing, un rôle majeur dans le décryptage des codes Allemands –, les informations concernant Bletchley Park sont généralistes et fragmentaires, explique M. Greenberg.
+De l'ombre à la lumière
+L'obscurité qui recouvre cette période de l'histoire britannique s'est donc dissipée peu à peu.
+Ces dernières années, c'est même une pleine lumière qui se déverse sur le manoir victorien.
+Bletchley Park attirait en 2006 moins de 50 000 personnes par an.
+En 2014, ils ont été cinq fois plus nombreux à venir visiter les installations réhabilitées telles qu'elles existaient au tournant de l'année 1941.
+Le temps a passé depuis qu'en 1991, des historiens locaux ont réinvesti les lieux, quasiment délabrés et jusqu'ici vaguement utilisés par le gouvernement.
+Ce n'est même qu'au mois de mai, à l'issue d'un chantier de rénovation à 8 millions de livres , que le musée s'est doté d'un visage moderne.
+Créé en 1994, il vivait jusqu'alors de manière « précaire », concède-t-on aujourd'hui.
+Le retour en grâce, largement justifié, d'Alan Turing n'est pas étranger à son succès.
+« En décembre, le mois de la sortie de The Imitation Game au Royaume-Uni, le nombre de visiteurs a énormément augmenté », explique Iain Standen, le PDG de Bletchley Trust, l'organisation à but non lucratif qui gère le site.
+De quoi se féliciter et se rassurer quant à la pérennité des installations, financées notamment par Google , British Aerospace, le fabricant d'antivirus McAfee ou la loterie britannique.
+Mais les dirigeants du musée ne veulent pas trop dépendre de l'aura, forcément périssable, d'Alan Turing.
+« Nous rappelons volontiers qu'Alan Turing n'était qu'une personne sur près de 10 000 et que Bletchley Park ne représente qu'une partie d'un individu aux multiples facettes, explique encore M. Standen.
+C'était un travail de groupe ».
+Il s'agit donc de « raconter les histoires des autres héros méconnus » qui ont accompagné celui qu'on présente un peu vite comme le seul inventeur de l'ordinateur moderne.
+Difficile de lui donner tort : qui connaît Dilly Knox, John Jeffreys, Peter Twinn ou encore Gordon Welchman, qui ont pourtant été aussi importants dans les progrès réalisés à Bletchley que Turing lui-même ?
+Les pionniers de l'analyse des métadonnées
+Si Alan Turing était responsable du décryptage des messages interceptés de la marine allemande, Bletchley Park ne se limitait pas à cette seule activité, abonde M. Greenberg.
+Ce dernier explique ainsi que les ingénieurs de Bletchley Park sont des pionniers de l'analyse de trafic.
+« Pour moi , c'est encore plus important que les avancées en matière de cryptographie », avance l'historien.
+Chaque utilisateur allemand d'Enigma disposait d'identifiants uniques.
+Les analystes de Bletchley se sont organisés de manière à pouvoir suivre précisément quel responsable parlait à qui, quand et où.
+Une excellente manière de surveiller l' armée allemande.
+« Cela ressemble beaucoup aux métadonnées d'aujourd'hui », explique M. Greenberg.
+Autre innovation développée à Bletchley : le stockage de données.
+A l' aide de petites fiches perforées traitées par des machines automatisées, qui servaient à organiser les informations recueillies dans les messages allemands décryptés, les experts de Bletchley ont pu faire des rapprochements inédits.
+Ainsi, au cours de la guerre, ils ont décodé un message allemand indiquant qu'un gradé de la Wehrmacht allait se rendre dans une ville du sud de l'Italie.
+Isolée, cette information ne vaut rien.
+Mais grâce à leur ingénieux système, ils retrouvent un ancien message, datant de plusieurs mois, qui leur permet de découvrir que ce gradé était en réalité responsable de l'établissement de bases aériennes allemandes.
+Et que les Allemands s'apprêtent donc à en installer dans le sud de l' Italie .
+Bletchley avait donc abouti à construire l'équivalent – très spécialisé – d'un véritable moteur de recherche...

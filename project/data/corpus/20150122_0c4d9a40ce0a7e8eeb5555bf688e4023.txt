@@ -1,0 +1,32 @@
+| Par Emmanuelle Jardonnet
+Le projet « Prison Map » gagne en visibilité, or rendre visible la prison est tout son propos.
+Son concepteur, Josh Begley, 30 ans, est un « data artist » et depuis peu journaliste pour The Intercept, un magazine en ligne créé il y a près d’un an pour présenter les documents sur la NSA révélés par Edward Snowden, et qui est spécialisé dans les enquêtes sur la surveillance globale par les Etats-Unis.
+L’élaboration de cette œuvre numérique remonte à 2012, lorsque le New-Yorkais était encore étudiant en « télécommunications interactives » à New York University (NYU).
+Si elle attire l’attention aujourd’hui, c’est qu’elle sera présentée en février à New York dans le cadre d’une exposition intitulée « Prison Obscura », s’intéressant à la représentation des prisons américaines.
+Méga-système carcéral
+Josh Begley a le don de rendre saillants les sujets sensibles, ceux sur lesquels les autorités américaines tentent de se faire discrètes.
+Son goût pour la transparence paradoxale, à la fois légale et clandestine, l’amène à trouver dans les données accessibles une façon de rendre compte d’une réalité dérangeante.
+C’est ainsi qu’il s’est intéressé au méga-système carcéral américain.
+L’artiste est parti du constat qu’il est très difficile de disposer d’informations sur le sujet, alors même que les Etats-Unis détiennent le record mondial du taux d’emprisonnement, avec 2,2 millions de personnes derrière les barreaux en 2012, soit près d’un Américain sur cent (0,7 %).
+C’est ce décalage entre un phénomène massif et un vide de représentation globale qui lui a donné l’envie de montrer le paysage de l’univers carcéral par un assemblage exhaustif de photos.
+« Qu’est-ce que cela implique d’avoir 5 000 ou 6 000 personnes enfermées au même endroit ?
+A quoi ressemblent ces espaces carcéraux ?
+Comment transforment-ils leur environnement naturel (ou sont-ils transformés par lui ) ? 
+», sont parmi les questions qu’il souhaitait soulever .
+Omniscient
+Pour réaliser sa collecte photographique, l’auteur s’est basé sur des travaux rassemblant les données géographiques des prisons.
+Un travail minutieux qui a permis de recenser et situer les prisons fédérales et d’Etat, les prisons locales, les centres de détention et les établissements à gestion privée.
+Soit au total 4916 établissements pénitentiaires, dont les images satellite ont été collectées sur Google Map à travers le pays.
+Josh Begley en a sélectionné 700 spécimens permettant de visualiser cette composante de la société américaine dans un hypnotique patchwork de vues aériennes sur lequel il est possible d’agrandir chaque photo.
+Cet angle de vue inédit et omniscient sur les déclinaisons architecturales et l’organisation spatiale des prisons a une suite.
+En 2014, Josh Begley a en effet fait le lien, dans son travail, entre le taux d’incarcération de chaque Etat américain et du reste du monde .
+Le graphique (intitulé « States of Incarceration: The Global Context » ), s’il est moins esthétique que « Prison Map », est tout aussi saisissant : on y visualise la masse carcérale par ordre décroissant, avec 37 Etats américains devançant individuellement tous les pays.
+Puis le reste des 50 Etats américains s’intercale avec les pays les plus répressifs, au premier rang desquels Cuba , le Rwanda , la Russie , le Salvador , l’ Azerbaïdjan , le Panama et la Thaïlande .
+Le champion toutes catégories est la Louisiane (1351 détenus pour 100 000 habitants), tandis que l’Etat américain ayant le taux le plus bas est le Vermont (254), loin devant la France (98).
+Chaque attaque par drone notifiée par un « push »
+Ces deux projets s’inscrivent dans le cadre d’une collaboration artistique avec le Prison Policy Initiative (PPI), un think tank s’intéressant à la politique publique américaine sur la question de la justice criminelle et de ses dérives.
+Cette association, qui mène de nombreuses recherches, fait régulièrement appel à des artistes.
+Josh Begley avait d’ailleurs créé un autre graphique pour eux en 2012 sur la privation des droits civiques ( « Disenfranchisement info graphic » ), qui montrait que les Etats qui ont exclu le plus de personnes du droit de vote ont été les plus décisifs dans l’élection présidentielle de 2012.
+Le travail de Josh Begley avait eu un large retentissement début 2014, lorsqu’il avait lancé Metadata+ , une appli d’ iPhone qu’ Apple a fini par publier après deux ans de refus, et dont le principe est de produire une notification « push » pour chaque frappe américaine par drone.
+L’artiste numérique a également mis en place son corollaire sur Twitter : le compte Dronestream , qui référence chacune des attaques signalées dans la presse depuis 2002 (avec à chaque fois un bilan des morts et des blessés).
+La série « Prison Map » sera exposée dans le cadre de l’exposition « Prison Obscura » , conçue par Pete Brook, à l’école d’ arts appliqués Parsons à New York, du 5 février au 17 avril.

@@ -1,0 +1,11 @@
+Adblock Plus retiré du magasin d'applications d'Android
+Le Monde |
+• Mis à jour le
+19.03.2015 à 18h02
+C'est un nouvel épisode dans les rapports complexes entretenus par Google et les bloqueurs de publicités en ligne : le plus connu d'entre eux, Adblock Plus, a été retiré du magasin d'applications pour les téléphones Android.
+Une « décision unilatérale », selon l'éditeur d'Adblock Plus , qui encourage ses utilisateurs à installer directement son application depuis son site.
+Le géant du Web a laconiquement expliqué que ces applications contrevenaient à ses conditions d'utilisation.
+Adblock Plus est un petit logiciel bloquant l'affichage des publicités.
+Seules les publicités jugées « acceptables » – pas trop intrusives – s'affichent pour les utilisateurs de ce programme.
+Mais les critères d'acceptabilité, théoriquement établis pas les utilisateurs, peuvent également être contournés par les éditeurs qui choisissent de… payer.
+Google n'a jamais confirmé avoir accepté de payer les sommes demandées par Adblock Plus, mais ses publicités ont continué cette année de s'afficher pour les utilisateurs du programme, y compris lorsqu'elles semblaient en contradiction avec les « règles de la communauté ».

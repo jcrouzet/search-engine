@@ -1,0 +1,35 @@
+25.03.2015 à 17h20
+| Par Morgane Tual
+Microsoft a annoncé mardi 24 mars, sur un blog , que le nouveau navigateur sur lequel il travaillait représentait le « futur », reléguant Internet Explorer (IE) au second plan, vingt ans après sa création.
+Il n'en fallait pas plus pour que la Toile déclare le célèbre navigateur comme mort, l'enterrant, sans doute, un peu trop tôt.
+IE est effectivement très mal en point et ne se relèvera pas des choix de Microsoft.
+Mais le navigateur respire toujours et a encore quelques années devant lui, avant de disparaître définitivement des écrans.
+Explications.
+Microsoft a-t-il annoncé la fin d'Internet Explorer ?
+Pas exactement.
+En tout cas, ce ne sont pas les termes utilisés par Kyle Pflug, chef de projet du futur navigateur, qui a détaillé l'avenir d'IE sur le blog.
+On savait déjà que Microsoft travaillait sur un nouveau navigateur, présenté sous le nom de code « projet Spartan ».
+Il deviendra le navigateur par défaut de Windows 10, dont la sortie est prévue cet été.
+Les développeurs étaient repartis de zéro pour créer un nouveau moteur de rendu, censé équiper Spartan, mais aussi IE...
+Or, Microsoft vient de changer d'avis : le nouveau moteur équipera « exclusivement » Spartan.
+IE, quant à lui, n'évoluera plus structurellement.
+Internet Explorer 11 ne sera donc plus mis à jour, et restera donc sans changement majeur depuis Windows 8.1.
+Néanmoins, il sera toujours distribué avec Windows 10.
+Pourquoi ne pas supprimer purement et simplement IE ?
+Parce qu'il reste un navigateur encore très utilisé.
+Malgré une chute spectaculaire ces dernières années, dépassé par Chrome, le navigateur de Google, et quasiment rattrapé par Firefox, IE demeure le deuxième navigateur le plus utilisé au monde.
+Plus d'un internaute sur dix l'utilise encore.
+Impossible, donc, de s'en débarrasser d'un coup.
+De plus, Internet Explorer est massivement utilisé par les entreprises.
+Ces dernières sont nombreuses à avoir développé des outils internes sur IE, à l'époque – pas si lointaine – où ce navigateur était archi-leader sur le marché.
+S'il disparaissait de Windows 10, il y a fort à parier que les entreprises rechigneraient à s'équiper de ce nouveau système d'exploitation.
+Microsoft n'a donc pas intérêt à supprimer, dans l'immédiat, Internet Explorer.
+Dans ce cas, pourquoi ne pas avoir fait de Spartan une énième version d'IE ?
+IE pâtit d'une réputation détestable, dont Microsoft cherche dorénavant à se distancier clairement.
+Le navigateur, jugé lent et moins respectueux des standards du Web que ses concurrents, a donné pendant des années des cheveux blancs aux développeurs de sites, obligés de doubler leur code spécialement pour IE, alors qu'il était compatible avec tous les autres navigateurs.
+Malgré les évolutions, plutôt bien accueillies, que Microsoft lui a apportées ces dernières années, cela n'a pas suffi à endiguer sa chute dans les usages des internautes.
+Plutôt que de s'acharner, Microsoft préfère faire table rase du passé et repartir à zéro avec Spartan, grâce à un nouveau moteur et un nouveau nom.
+A quoi va ressembler Spartan, le nouveau navigateur de Microsoft ?
+Spartan a « été construit pour la nouvelle génération du Web », assure Kyle Pflug.
+Il devrait, cette fois, être compatible avec les nouveaux standards du Web et proposera de nouvelles fonctionnalités, comme l'annotation de pages Web ou encore « une expérience de lecture sans distraction ».
+Il intégrera aussi l'assistant vocal Cortana, déjà présent sur Windows Phone, l'équivalent du Siri d'Apple.

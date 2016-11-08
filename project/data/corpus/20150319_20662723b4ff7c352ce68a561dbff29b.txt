@@ -1,0 +1,707 @@
+Horaires, sites et méthodes d’observation de l’éclipse de Soleil du 20 mars
+Troisième chapitre du feuilleton consacré à l’éclipse de Soleil observable vendredi matin en France métropolitaine.
+Montage des différentes phases de l’éclipse partielle de Soleil visible en Europe le vendredi 20 mars 2015 dans la matinée.
+Pour réaliser ce montage, j’ai utilisé des images du Soleil obtenues avec un filtre solaire lors d’une précédente éclipse.
+Je les ai orientées pour montrer l’aspect du disque solaire toutes les 10 minutes entre 9 h 10 m et 11 h 50 m (heure légale en France métropolitaine) et je les ai disposées sur une image de la tour Saint-Jacques à Paris.
+Selon votre position géographique en France, le croissant de Soleil sera plus ou moins mince au moment du maximum – la Lune occultera 66 % du diamètre solaire à Ajaccio et près de 85 % à Brest – mais la séquence que vous pourrez suivre aura sensiblement la même inclinaison.
+Le Soleil se situera à une trentaine de degrés au-dessus de l’horizon sud-est au maximum de l’éclipse.
+Images et montage : Guillaume Cannat
+ 
+À présent que vous savez comment se produisent les éclipses de Soleil et que vous connaissez le déroulement détaillé de celle du vendredi 20 mars , voici toutes les informations pratiques dont vous aurez besoin pour réussir vos observations.
+Ce billet étant plutôt long, vous pouvez accéder directement à la partie qui vous intéresse en cliquant sur les liens suivants :
+Les horaires et la grandeur du phénomène en France
+Les méthodes d’observation du Soleil en toute sécurité
+Le Soleil est le seul astre de la voûte céleste dont l’observation peut s’avérer dangereuse si on ne respecte pas quelques règles de base.
+Nos yeux sont très sensibles aux infrarouges, aux ultraviolets et aux intenses luminosités, ils peuvent donc être blessés, voire définitivement altérés par une observation directe du Soleil sans protection ou avec une protection inadéquate.
+Appliquez systématiquement ces 2 règles :
+- ne regardez jamais le Soleil directement à l’œil nu, qu’il soit partiellement éclipsé ou non !
+- vérifiez toujours que l’instrument dans lequel vous vous apprêtez à observer le Soleil est équipé d’un filtre adéquat !
+Voici une liste, non exhaustive, de filtres dangereux car ils laissent passer trop de rayonnement solaire et qu’il ne faut pas utiliser pour observer le Soleil : lame de verre passée à la bougie ; un ou plusieurs CD ; filtre neutre photographique en verre ou en gélatine ; deux filtres polarisants croisés ; filtre improvisé avec des négatifs de films argentiques couleurs ou N B ou avec des radiographies ; filtre solaire visser dans l’oculaire d’un instrument, proscrire notamment tous les filtres marqués « SOLEIL » ou « SUN » parfois livrés avec les lunettes astronomiques ; lunettes de soleil, même plusieurs paires ; emballages alimentaires argentés et, par précaution, tous les filtres qui ne sont pas réputés sûrs !
+De vieilles lunettes spéciales « éclipse » pliées ou altérées, un CD, un négatif argentique ou une radiographie, plusieurs paires de lunettes de soleil, voilà autant de moyens qu’il ne faut en aucun cas utiliser pour l’observation du Soleil.
+Guillaume Cannat
+ 
+Lepithec
+Voilà à présent quelques moyens simples pour admirer le Soleil sans aucun danger : lunettes spéciales « éclipse », filtre de soudeur de grade 14 (Viséclipse/Sol-Obs 14), sténopé, méthode par projection, filtre solaire pleine ouverture, instrument solaire avec filtre H-Alpha.
+Je précise que tous ces filtres et toutes ces méthodes permettent l'observation du Soleil sans danger en temps normal, hors éclipse.
+J’ai pioché, avec son autorisation, quelques dessins dans la bande dessinée L’éclipse du 20 mars de Lepithec.
+Je vous conseille de la lire intégralement sur son blog ou de la télécharger en pdf ( bd-eclipse-2015-lepithec ), car elle vraiment remarquable, humoristique et précise.
+Lunettes spéciales « éclipse » et Viséclipse
+Lors de chaque phénomène important impliquant le Soleil, la plupart des grands magazines de vulgarisation scientifique et les associations importantes diffusent gratuitement ou vendent pour une somme modique des lunettes équipées de filtres solaires répondant aux normes de sécurités européennes.
+Si vous avez le choix, privilégiez celles dont les filtres sont en polymère noir - aspect du plastique - qui donnent une image plus nette que celles dont les filtres sont formés de plusieurs couches de Mylar argenté ou doré ; ces dernières sont aussi sûres, mais les images sont un peu moins précises.
+Le Viséclipse intègre un verre de soudeur de grade 14 qui protège parfaitement du rayonnement solaire.
+Il est plus onéreux que des lunettes, mais il se conserve sans limite de temps et peut donc être utilisé à d'autres occasions.
+Guillaume Cannat
+Si vous n’avez pas de lunettes et que les stocks disponibles sont épuisés, voici d’autres méthodes qui permettent d’observer l'image du croissant solaire sans danger.
+Cliquez sur les dessins de Lepithec pour les afficher en grand format.
+Sténopé
+Notre environnement est plein de sténopés naturels ou artificiels – des petits interstices entre deux feuilles ou deux branches, les mailles d’un gros pull, un chapeau de paille, les mains que l’on croise, une écumoire, etc. – qui permettent de voir le croissant du Soleil.
+Vous pouvez également créer un sténopé aisément avec une boîte à chaussures ou une boîte de céréales en perçant un petit trou sur une face avec une épingle et en l’orientant vers le Soleil pour que l’image du croissant apparaisse sur la face opposée, ou bien en projetant l’image sur un écran plus lointain pour qu’elle soit un peu plus grande.
+Lepithec
+  Vincent JACQUES
+Projection
+Les lunettes et les télescopes sont souvent livrés avec un petit écran de projection qui s’accroche à l’aide d’une potence sur le porte-oculaire.
+Cela permet d’obtenir une image de l’ensemble du Soleil d’environ 10 centimètres de diamètre que l’on peut regarder sans danger (pensez à bien fermer le chercheur de votre instrument).
+Si vous n’avez pas d’instrument, vous pouvez vous procurer le Solarscope, un appareil qui reproduit ce principe d’observation par projection.
+Lepithec
+ 
+Mylar ou Astrosolar
+Pour admirer l’avancée de la Lune en détail avec des jumelles, une lunette ou télescope, vous pouvez acquérir dans les magasins spécialisés du Mylar ou de l’Astrosolar.
+Ces deux matériaux se présentent sous la forme d’un film de résine couvert d’un dépôt d’aluminium.
+Celui-ci réfléchit 99,99 % du rayonnement solaire et protège efficacement vos yeux.
+La souplesse de ce film vous permet de le fixer simplement devant les objectifs de vos jumelles ou à l’entrée du tube optique de votre instrument (chercheur compris).
+Attention !
+Certains emballages alimentaires ressemblent à du Mylar/Astrosolar, mais ils n’en ont pas la qualité et ne doivent surtout pas être utilisés pour observer le Soleil.
+Guillaume Cannat
+Filtre pleine ouverture
+Le filtre pleine ouverture permet d’observer à forts grossissements et de réaliser des vidéos ou des photographies détaillées.
+Il se fixe devant l’objectif, donc à un endroit où il ne s’échauffe pas plus que s’il était posé sur une table au soleil, et il ne peut donc en aucun cas éclater.
+Le prix d’un tel filtre est conséquent puisqu’il est réalisé en verre optique recouvert de fins dépôts métalliques, mais il a l’avantage de ne pas s’abîmer, ce qui n’est pas le cas de l’Astrosolar ou du Mylar.
+Remarquez, sur l’image, le cache fixé sur le chercheur de l’instrument pour éviter les accidents.
+Guillaume Cannat
+ 
+Instrument H-Alpha
+Je signale enfin l’existence d’accessoires et d’instrument astronomiques spécialement conçus pour l’observation solaire.
+Ils sont équipés d’un filtre qui ne laisse passer qu’une infime fraction du rayonnement de notre étoile.
+Ce filtre est centré sur la raie principale de l’hydrogène (raie H-Alpha) et permet d’observer longuement sans aucun danger la chromosphère solaire avec ses taches, ses protubérances et ses filaments.
+La vision du limbe lunaire sombre avançant devant un océan d’or aux vagues surchauffées est somptueuse !
+Meade/Coronado
+Lepithec
+Les sites d’observations dans toute la France métropolitaine
+Il n’y a pas vraiment de bons ou de mauvais sites pour observer cette éclipse partielle de Soleil.
+Du moment que le Soleil est visible dans le ciel et que vous disposez du matériel d’observation nécessaire, tout va bien !
+La seule contrainte sera d’ordre météorologique, mais les prévisions disponibles à ce jour semblent plutôt favorables pour une large partie du territoire.
+Si vous n’avez pas de lunettes spéciales « éclipse », si vous ne souhaitez pas bricoler un petit système de projection comme indiqué au début de ce billet, vous pourrez vous rendre sur l'un des nombreux sites ouverts au public vendredi matin.
+Les Observatoires des sciences de l’Univers et leurs laboratoires CNRS qui couvrent une grande partie du territoire français organiseront notamment des manifestations à l’occasion de l’éclipse dans les villes suivantes : Meudon, Orsay, Saint-Quentin-en-Yvelines, Toulouse, Grenoble, Lyon, Nice, Orléans, Montpellier, Strasbourg, Besançon, Bordeaux et dans les régions Centre et Poitou-Charentes.
+Vous pouvez connaître le détail des actions envisagées sur le site web du CNRS en suivant ce lien .
+De nombreux planétariums, parcs à thèmes et centres de culture scientifique organisent également des rendez-vous pour le public, comme au planétarium de Vaulx-en-Velin , au planétarium Galilée de Montpellier qui prévoie une grande observation publique sur la place de la Comédie , ou à la Cité de l’Espace à Toulouse où l’image du Soleil éclipsé, prise à l’observatoire du pic du Midi, sera diffusée en direct sur grand écran.
+Enfin, comme lors des Nuits des étoiles estivales, l’Association française d’astronomie et les clubs de passionnés des étoiles se sont mobilisés pour vous permettre d’observer l’éclipse partielle de Soleil du vendredi 20 mars dans de bonnes conditions et en toute sécurité.
+Des dizaines de sites seront ouverts gratuitement au public dans toute la France,  découvrez-les en cliquant sur la carte ci-dessous.
+AFA
+Horaires et grandeur de l’éclipse partielle en France métropolitaine
+Vous trouverez ci-dessous les horaires précis de l’éclipse partielle pour une centaine de villes réparties sur l’ensemble du territoire.
+Les valeurs indiquées pour la ville la plus proche de votre site d’observation seront correctes à 1 ou 2 minutes pour vous.
+Ces horaires ont été calculés par l’ Institut de mécanique céleste et de calcul des éphémérides (Imcce) et ils sont donnés ici en heure légale pour la France métropolitaine (TU + 1 heure).
+Le début de l’éclipse partielle correspond à l’instant du 1er contact entre le disque solaire et le disque lunaire ; il se produit à l’ouest du Soleil.
+Dans la pratique, sauf si vous observez avec un télescope correctement filtré et un fort grossissement, vous ne constaterez la présence de l’encoche arrondie du limbe lunaire que 1 à 2 minutes après le 1er contact.
+Le maximum correspond pour chaque ville à la fraction maximale du diamètre solaire que la Lune occulte.
+Pour Agen, par exemple, la Lune occulte 75,9 % du diamètre apparent du Soleil.
+La hauteur du Soleil au-dessus de l’horizon sud-est est indiquée au moment du maximum.
+La fin de l’éclipse partielle correspond au 4e contact, l’instant où le disque lunaire se détache du disque solaire.
+Horaires en heure légale
+Début de l’éclipse partielle à 9 h 13 m
+Maximum de l’éclipse partielle à 10 h 19 m
+Fraction occultée par la Lune du diamètre solaire : 0,759
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 30 m
+Ajaccio
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,657
+Hauteur du Soleil au-dessus de l’horizon sud-est : 39
+Fin de l’éclipse partielle à 11 h 37 m
+Albi
+Début de l’éclipse partielle à 9 h 14 m
+Maximum de l’éclipse partielle à 10 h 21 m
+Fraction occultée par la Lune du diamètre solaire : 0,744
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 32 m
+Alençon
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,826
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 36 m
+Amiens
+Début de l’éclipse partielle à 9 h 24 m
+Maximum de l’éclipse partielle à 10 h 30 m
+Fraction occultée par la Lune du diamètre solaire : 0,832
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 41 m
+Angers
+Début de l’éclipse partielle à 9 h 17 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,817
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 34 m
+Angoulême
+Début de l’éclipse partielle à 9 h 15 m
+Maximum de l’éclipse partielle à 10 h 21 m
+Fraction occultée par la Lune du diamètre solaire : 0,785
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 32 m
+Annecy
+Début de l’éclipse partielle à 9 h 21 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,745
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 40 m
+Arras
+Début de l’éclipse partielle à 9 h 25 m
+Maximum de l’éclipse partielle à 10 h 31 m
+Fraction occultée par la Lune du diamètre solaire : 0,834
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 42 m
+Auch
+Début de l’éclipse partielle à 9 h 13 m
+Maximum de l’éclipse partielle à 10 h 18 m
+Fraction occultée par la Lune du diamètre solaire : 0,751
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 29 m
+Aurillac
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,758
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 34 m
+Auxerre
+Début de l’éclipse partielle à 9 h 21 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,793
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 40 m
+Avignon
+Début de l’éclipse partielle à 9 h 17 m
+Maximum de l’éclipse partielle à 10 h 24 m
+Fraction occultée par la Lune du diamètre solaire : 0,724
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 35 m
+Bar-le-Duc
+Début de l’éclipse partielle à 9 h 24 m
+Maximum de l’éclipse partielle à 10 h 32 m
+Fraction occultée par la Lune du diamètre solaire : 0,796
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 43 m
+Bastia
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,664
+Hauteur du Soleil au-dessus de l’horizon sud-est : 39
+Fin de l’éclipse partielle à 11 h 39 m
+Beauvais
+Début de l’éclipse partielle à 9 h 23 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,827
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 40 m
+Belfort
+Début de l’éclipse partielle à 9 h 24 m
+Maximum de l’éclipse partielle à 10 h 32 m
+Fraction occultée par la Lune du diamètre solaire : 0,766
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 44 m
+Besançon
+Début de l’éclipse partielle à 9 h 23 m
+Maximum de l’éclipse partielle à 10 h 30 m
+Fraction occultée par la Lune du diamètre solaire : 0,766
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 42 m
+Blois
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,806
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 37 m
+Bobigny
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,817
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 40 m
+Bordeaux
+Début de l’éclipse partielle à 9 h 13 m
+Maximum de l’éclipse partielle à 10 h 19 m
+Fraction occultée par la Lune du diamètre solaire : 0,777
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 30 m
+Bourg-en-Bresse
+Début de l’éclipse partielle à 9 h 21 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,757
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 39 m
+Bourges
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,791
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 37 m
+Caen
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,839
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 37 m
+Cahors
+Début de l’éclipse partielle à 9 h 14 m
+Maximum de l’éclipse partielle à 10 h 21 m
+Fraction occultée par la Lune du diamètre solaire : 0,758
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 32 m
+Carcassonne
+Début de l’éclipse partielle à 9 h 13 m
+Maximum de l’éclipse partielle à 10 h 20 m
+Fraction occultée par la Lune du diamètre solaire : 0,731
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 31 m
+Cergy-Pontoise
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,821
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 40 m
+Chambéry
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,741
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 39 m
+Charleville
+Début de l’éclipse partielle à 9 h 25 m
+Maximum de l’éclipse partielle à 10 h 33 m
+Fraction occultée par la Lune du diamètre solaire : 0,813
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 44 m
+Chartres
+Début de l’éclipse partielle à 9 h 21 m
+Maximum de l’éclipse partielle à 10 h 27 m
+Fraction occultée par la Lune du diamètre solaire : 0,817
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 38 m
+Châteauroux
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,792
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 36 m
+Chaumont
+Début de l’éclipse partielle à 9 h 23 m
+Maximum de l’éclipse partielle à 10 h 31 m
+Fraction occultée par la Lune du diamètre solaire : 0,786
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 42 m
+Clermont-Ferrand
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,766
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 36 m
+Colmar
+Début de l’éclipse partielle à 9 h 25 m
+Maximum de l’éclipse partielle à 10 h 33 m
+Fraction occultée par la Lune du diamètre solaire : 0,769
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 45 m
+Créteil
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,815
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 40 m
+Digne
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,715
+Hauteur du Soleil au-dessus de l’horizon sud-est : 36
+Fin de l’éclipse partielle à 11 h 37 m
+Dijon
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,776
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 41 m
+Draguignan
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,704
+Hauteur du Soleil au-dessus de l’horizon sud-est : 37
+Fin de l’éclipse partielle à 11 h 37 m
+Épinal
+Début de l’éclipse partielle à 9 h 25 m
+Maximum de l’éclipse partielle à 10 h 32 m
+Fraction occultée par la Lune du diamètre solaire : 0,777
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 44 m
+Évreux
+Début de l’éclipse partielle à 9 h 21 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,828
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 39 m
+Évry
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,812
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 40 m
+Foix
+Début de l’éclipse partielle à 9 h 12 m
+Maximum de l’éclipse partielle à 10 h 18 m
+Fraction occultée par la Lune du diamètre solaire : 0,732
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 29 m
+Gap
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,724
+Hauteur du Soleil au-dessus de l’horizon sud-est : 36
+Fin de l’éclipse partielle à 11 h 38 m
+Grenoble
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 27 m
+Fraction occultée par la Lune du diamètre solaire : 0,737
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 38 m
+Guéret
+Début de l’éclipse partielle à 9 h 17 m
+Maximum de l’éclipse partielle à 10 h 24 m
+Fraction occultée par la Lune du diamètre solaire : 0,781
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 35 m
+La Roche-sur-Yon
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 21 m
+Fraction occultée par la Lune du diamètre solaire : 0,811
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 32 m
+La Rochelle
+Début de l’éclipse partielle à 9 h 15 m
+Maximum de l’éclipse partielle à 10 h 21 m
+Fraction occultée par la Lune du diamètre solaire : 0,801
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 31 m
+Laon
+Début de l’éclipse partielle à 9 h 24 m
+Maximum de l’éclipse partielle à 10 h 31 m
+Fraction occultée par la Lune du diamètre solaire : 0,818
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 42 m
+Laval
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 24 m
+Fraction occultée par la Lune du diamètre solaire : 0,826
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 35 m
+Le Mans
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,819
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 36 m
+Le Puy
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 24 m
+Fraction occultée par la Lune du diamètre solaire : 0,749
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 36 m
+Lille
+Début de l’éclipse partielle à 9 h 25 m
+Maximum de l’éclipse partielle à 10 h 32 m
+Fraction occultée par la Lune du diamètre solaire : 0,837
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 43 m
+Limoges
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,780
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 34 m
+Lons-le-Saunier
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,762
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 41 m
+Lyon
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 27 m
+Fraction occultée par la Lune du diamètre solaire : 0,753
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 38 m
+Mâcon
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,761
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 39 m
+Marseille
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,709
+Hauteur du Soleil au-dessus de l’horizon sud-est : 36
+Fin de l’éclipse partielle à 11 h 35 m
+Melun
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,810
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 40 m
+Mende
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,744
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 34 m
+Metz
+Début de l’éclipse partielle à 9 h 26 m
+Maximum de l’éclipse partielle à 10 h 33 m
+Fraction occultée par la Lune du diamètre solaire : 0,793
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 45 m
+Mont-de-Marsan
+Début de l’éclipse partielle à 9 h 12 m
+Maximum de l’éclipse partielle à 10 h 18 m
+Fraction occultée par la Lune du diamètre solaire : 0,762
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 28 m
+Montauban
+Début de l’éclipse partielle à 9 h 14 m
+Maximum de l’éclipse partielle à 10 h 20 m
+Fraction occultée par la Lune du diamètre solaire : 0,751
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 31 m
+Montpellier
+Début de l’éclipse partielle à 9 h 15 m
+Maximum de l’éclipse partielle à 10 h 22 m
+Fraction occultée par la Lune du diamètre solaire : 0,725
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 33 m
+Moulins
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,776
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 38 m
+Nancy
+Début de l’éclipse partielle à 9 h 25 m
+Maximum de l’éclipse partielle à 10 h 33 m
+Fraction occultée par la Lune du diamètre solaire : 0,787
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 44 m
+Nanterre
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,818
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 40 m
+Nantes
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 22 m
+Fraction occultée par la Lune du diamètre solaire : 0,820
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 32 m
+Nevers
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 27 m
+Fraction occultée par la Lune du diamètre solaire : 0,784
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 38 m
+Nice
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,700
+Hauteur du Soleil au-dessus de l’horizon sud-est : 37
+Fin de l’éclipse partielle à 11 h 38 m
+Nîmes
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,726
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 34 m
+Niort
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 22 m
+Fraction occultée par la Lune du diamètre solaire : 0,799
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 32 m
+Orléans
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 27 m
+Fraction occultée par la Lune du diamètre solaire : 0,806
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 38 m
+Paris
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,817
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 40 m
+Pau
+Début de l’éclipse partielle à 9 h 11 m
+Maximum de l’éclipse partielle à 10 h 17 m
+Fraction occultée par la Lune du diamètre solaire : 0,752
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 27 m
+Périgueux
+Début de l’éclipse partielle à 9 h 15 m
+Maximum de l’éclipse partielle à 10 h 21 m
+Fraction occultée par la Lune du diamètre solaire : 0,774
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 32 m
+Perpignan
+Début de l’éclipse partielle à 9 h 13 m
+Maximum de l’éclipse partielle à 10 h 19 m
+Fraction occultée par la Lune du diamètre solaire : 0,718
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 30 m
+Poitiers
+Début de l’éclipse partielle à 9 h 17 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,798
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 34 m
+Privas
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,738
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 36 m
+Quimper
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 21 m
+Fraction occultée par la Lune du diamètre solaire : 0,846
+Hauteur du Soleil au-dessus de l’horizon sud-est : 28
+Fin de l’éclipse partielle à 11 h 30 m
+Rennes
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,833
+Hauteur du Soleil au-dessus de l’horizon sud-est : 29
+Fin de l’éclipse partielle à 11 h 34 m
+Rodez
+Début de l’éclipse partielle à 9 h 15 m
+Maximum de l’éclipse partielle à 10 h 22 m
+Fraction occultée par la Lune du diamètre solaire : 0,748
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 33 m
+Rouen
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,833
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 11 h 39 m
+Saint-Brieuc
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 23 m
+Fraction occultée par la Lune du diamètre solaire : 0,845
+Hauteur du Soleil au-dessus de l’horizon sud-est : 28
+Fin de l’éclipse partielle à 11 h 33 m
+Saint-Lô
+Début de l’éclipse partielle à 9 h 20 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,843
+Hauteur du Soleil au-dessus de l’horizon sud-est : 29
+Fin de l’éclipse partielle à 11 h 36 m
+Saint-Étienne
+Début de l’éclipse partielle à 9 h 19 m
+Maximum de l’éclipse partielle à 10 h 26 m
+Fraction occultée par la Lune du diamètre solaire : 0,751
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 37 m
+Strasbourg
+Début de l’éclipse partielle à 9 h 27 m
+Maximum de l’éclipse partielle à 10 h 35 m
+Fraction occultée par la Lune du diamètre solaire : 0,774
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 46 m
+Tarbes
+Début de l’éclipse partielle à 9 h 11 m
+Maximum de l’éclipse partielle à 10 h 17 m
+Fraction occultée par la Lune du diamètre solaire : 0,748
+Hauteur du Soleil au-dessus de l’horizon sud-est : 32
+Fin de l’éclipse partielle à 11 h 28 m
+Toulouse
+Début de l’éclipse partielle à 9 h 13 m
+Maximum de l’éclipse partielle à 10 h 19 m
+Fraction occultée par la Lune du diamètre solaire : 0,744
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 30 m
+Tours
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,807
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 35 m
+Troyes
+Début de l’éclipse partielle à 9 h 23 m
+Maximum de l’éclipse partielle à 10 h 30 m
+Fraction occultée par la Lune du diamètre solaire : 0,797
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 41 m
+Tulle
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 22 m
+Fraction occultée par la Lune du diamètre solaire : 0,768
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 11 h 33 m
+Valence
+Début de l’éclipse partielle à 9 h 18 m
+Maximum de l’éclipse partielle à 10 h 25 m
+Fraction occultée par la Lune du diamètre solaire : 0,739
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 11 h 37 m
+Vannes
+Début de l’éclipse partielle à 9 h 16 m
+Maximum de l’éclipse partielle à 10 h 22 m
+Fraction occultée par la Lune du diamètre solaire : 0,833
+Hauteur du Soleil au-dessus de l’horizon sud-est : 29
+Fin de l’éclipse partielle à 11 h 32 m
+Versailles
+Début de l’éclipse partielle à 9 h 22 m
+Maximum de l’éclipse partielle à 10 h 28 m
+Fraction occultée par la Lune du diamètre solaire : 0,818
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 11 h 39 m
+Vesoul
+Début de l’éclipse partielle à 9 h 24 m
+Maximum de l’éclipse partielle à 10 h 31 m
+Fraction occultée par la Lune du diamètre solaire : 0,772
+Hauteur du Soleil au-dessus de l’horizon sud-est : 34
+Fin de l’éclipse partielle à 11 h 43 m
+ 
+Quelques villes proches (horaires en TU)
+Barcelone
+Début de l’éclipse partielle à 8 h 11 m
+Maximum de l’éclipse partielle à 9 h 16 m
+Fraction occultée par la Lune du diamètre solaire : 0,702
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 10 h 27 m
+Bruxelles
+Début de l’éclipse partielle à 8 h 27 m
+Maximum de l’éclipse partielle à 9 h 34 m
+Fraction occultée par la Lune du diamètre solaire : 0,831
+Hauteur du Soleil au-dessus de l’horizon sud-est : 31
+Fin de l’éclipse partielle à 10 h 45 m
+Genève
+Début de l’éclipse partielle à 8 h 22 m
+Maximum de l’éclipse partielle à 9 h 29 m
+Fraction occultée par la Lune du diamètre solaire : 0,750
+Hauteur du Soleil au-dessus de l’horizon sud-est : 35
+Fin de l’éclipse partielle à 10 h 41 m
+Londres
+Début de l’éclipse partielle à 8 h 24 m
+Maximum de l’éclipse partielle à 9 h 30 m
+Fraction occultée par la Lune du diamètre solaire : 0,869
+Hauteur du Soleil au-dessus de l’horizon sud-est : 29
+Fin de l’éclipse partielle à 10 h 40 m
+Luxembourg
+Début de l’éclipse partielle à 8 h 27 m
+Maximum de l’éclipse partielle à 9 h 34 m
+Fraction occultée par la Lune du diamètre solaire : 0,801
+Hauteur du Soleil au-dessus de l’horizon sud-est : 33
+Fin de l’éclipse partielle à 10 h 46 m
+Madrid
+Début de l’éclipse partielle à 8 h 04 m
+Maximum de l’éclipse partielle à 9 h 08 m
+Fraction occultée par la Lune du diamètre solaire : 0,727
+Hauteur du Soleil au-dessus de l’horizon sud-est : 30
+Fin de l’éclipse partielle à 10 h 18 m
+Reykjavík
+Début de l’éclipse partielle à 8 h 37 m
+Maximum de l’éclipse partielle à 9 h 37 m
+Fraction occultée par la Lune du diamètre solaire : 0,975
+Hauteur du Soleil au-dessus de l’horizon sud-est : 13
+Fin de l’éclipse partielle à 10 h 39 m
+ 
+Rendez-vous demain pour le chapitre 4 :
+Suivez l’éclipse de Soleil du vendredi 20 mars 2015 en direct sur le web 
+Guillaume Cannat (pour être informé de la parution de chaque nouvel article, suivez-moi sur  Twitter , sur  Facebook  ou sur  Google+ )

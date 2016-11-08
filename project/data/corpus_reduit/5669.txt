@@ -1,0 +1,50 @@
+ResearchKit, la « révolution » médicale d'Apple, a aussi ses limites
+Le Monde |
+11.03.2015 à 15h31
+| Par Morgane Tual
+L'annonce est passée relativement inaperçue.
+Lundi 9 mars, à l'occasion de la dernière keynote d'Apple, les projecteurs se sont surtout tournés vers la montre connectée de la marque , éclipsant quelque peu le lancement de ResearchKit , un projet ambitieux destiné à faire avancer la recherche médicale.
+Objectif : permettre aux équipes de scientifiques de recueillir d'importantes masses de données médicales grâce aux iPhones des patients.
+« Avec des centaines de millions d'iPhones utilisés à travers le monde, c'est une opportunité pour Apple de permettre aux gens de participer et de contribuer à la recherche médicale », explique Jeff Williams, le vice-président des opérations d'Apple, dans un communiqué .
+« ResearchKit donne à la communauté scientifique l'accès à une population mondiale et diversifiée et à des moyens inédits de collecter des données.
+»
+Research kit est en fait un « framework », c'est-à-dire un outil permettant aux chercheurs de créer facilement des applications sur mesure.
+Six ont déjà été créées par de prestigieux centres de recherche, comme par exemple MyHeart Counts , développée par Standford Medecine et l'université d'Oxford.
+L'application recueille des données sur l'activité physique des utilisateurs et leur mode de vie, afin de déterminer l'impact sur la santé cardiaque.
+Des études de grande ampleur
+« Notre objectif est d'en faire la plus grande étude jamais réalisée mesurant l'activité physique et la santé cardiovasculaire », explique au Monde.fr
+l'un des concepteurs de cette application, Michael V.
+McConnell, cardiologue à Standford.
+Pour lui, ResearchKit représente « un grand pas pour la recherche », notamment car « nous pouvons atteindre beaucoup plus de personnes ».
+Les autres applications déjà disponibles concernent l'asthme, Parkinson, le diabète ou le cancer du sein.
+Les données sont recueillies via l'iPhone, capable, par exemple, de compter le nombre de pas effectués dans la journée, ou à travers des objets connectés au téléphone, permettant entre autres de mesurer le rythme cardiaque.
+Ces applications collectent également des informations par le biais d'exercices, par exemple de dextérité pour l'application consacrée à Parkinson, ou demandent à l'utilisateur de répondre simplement à des questions sur son alimentation ou son poids.
+En plus de transmettre des informations aux chercheurs, ces applications se veulent également pratiques pour leurs utilisateurs, en leur donnant des conseils en fonction des données recueillies.
+« Je ne pense pas que ce soit une révolution »
+En France aussi, les potentialités offertes par ce nouvel outil intéressent.
+Guy Fagherazzi, chercheur en épidémiologie à l'Inserm et organisateur d'un colloque en 2016 sur les applications et objets connectés en recherche médicale, réfléchit déjà à la façon de l'intégrer à ses recherches.
+« Si c'est bien utilisé, cela peut avoir un énorme potentiel », explique-t-il, tout en modérant les propos d'Apple, qui prétend vouloir « révolutionner » la recherche : « Je ne pense pas que ce soit une révolution, c'est simplement la suite logique de la numérisation actuelle de la recherche.
+»
+Aujourd'hui, pour étudier le diabète, son équipe envoie régulièrement des questionnaires à des dizaines de milliers de personnes.
+« Un dispositif très lourd et très lent, car la plupart des questionnaires sont toujours en papier ».
+Il peut parfois s'écouler deux ou trois ans entre l'envoi du questionnaire et le traitement des informations.
+« Ce type d'application permettrait de recueillir des données de façon quasi instantanée, on pourrait avoir une photographie de l'état de santé de toute une population en un instant.
+» Autre potentiel intéressant :
+« Aujourd'hui, recueillir des données sur 10 millions de personnes, c'est impensable.
+Si cela devient possible, si 10 millions de personnes suivent de façon assidue leur glycémie et tout un tas d'informations sur leur alimentation et leur activité, cela pourra être très informatif. 
+»
+La fiabilité des données en question
+Malgré son potentiel, ResearchKit soulève aussi beaucoup de questions et d'inquiétudes.
+A commencer par le respect de la vie privée et la sécurité des données.
+Qui pourra les consulter ?
+Pour désamorcer les critiques, Apple assure ne pas y avoir accès et, pour prouver sa bonne foi, a décidé de rendre le code de ResearchKit open source, c'est-à-dire transparent et consultable par tous.
+Guy Fagherazzi, quant à lui, pointe une autre limite : la fiabilité des données recueillies.
+« Pour le moment, on n'a aucun recul, on ne sait pas ce que ça vaut par rapport à un suivi classique.
+Nous militons pour qu'un organisme indépendant mène des études de validation.
+Mais ça prendra du temps. 
+» Mal utilisé, l'iPhone peut potentiellement transmettre des données inexactes.
+L'utilisateur peut aussi se servir de l'application en dilettante, ce qui fausse le suivi.
+Les personnes sans pathologie qui utilisent des applications enregistrant leur activité physique, par exemple, abandonnent régulièrement au bout de six mois, souligne le chercheur.
+Enfin, le support lui-même interroge sur la représentativité des données obtenues.
+Uniquement disponibles sur iPhone, les applications développées avec ResearchKit laissent de côté les utilisateurs d'autres modèles de téléphones, mais surtout… ceux qui ne disposent pas de smartphones.
+Les informations qui arriveront aux chercheurs concerneront donc principalement des personnes aisées, disposant donc d'un meilleur accès à la santé.

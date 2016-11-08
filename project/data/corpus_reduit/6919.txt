@@ -1,0 +1,21 @@
+Plusieurs Airbus victimes du phénomène de givrage de sondes en 2014
+Le Monde |
+| Par Guy Dutheil
+ 
+Après les sondes Pitot, qui avaient été mises en cause dans l’accident de l’Airbus A330 du vol Air France Rio-Paris, le 31 mai 2009, au dessus de l’Atlantique, des Airbus auraient à nouveau été victimes de phénomènes de givrage de sondes à la fin de l’année 2014.
+Cette fois, ce sont les sondes d’incidences, celles qui mesurent l’écoulement des filets d’air sur les ailes qui sont en cause et non plus les sondes Pitot qui enregistrent la vitesse de l’avion.
+A la fin 2014, selon nos informations, Airbus a aussitôt émis un Operations Engineering Bulletin (OEB) 48 et un Operations Engineering Bulletin 49, des bulletins d’alerte opérationnelle après deux problèmes de givrages des sondes d’incidences qui ont affecté un A321 de la Lufthansa et un autre Airbus d’une compagnie asiatique.
+Des alertes destinées aux personnels de maintenance.
+L’avionneur européen a aussi envoyé, simultanément, un « flight operation transmission » (FOT), un bulletin d’alerte destiné cette fois aux personnels navigants.
+Airbus tient à rappeler que c’est la première fois qu’un tel incident survenait alors que l’A320 est entrée en service en 1988, il y a plus de vingt-cinq ans.
+Le 5 novembre 2014, un Airbus A321 de la Lufthansa qui effectuait la liaison entre Bilbao (Espagne) et Munich s’est mis brutalement en piqué alors qu’il venait tout juste d’atteindre son altitude de croisière quelques minutes après son décollage.
+En pratique, les sondes ont givré lors de la montée de l’appareil et sont restés bloquées lorsque l’avion a atteint son altitude de croisière.
+Ce givrage des sondes a trompé les automatismes de l’Airbus qui se sont immédiatement déclenchés pour faire piquer l’avion et lui éviter de décrocher.
+Débrancher les procédures automatiques
+Les procédures automatiques de l’Airbus, trompées par les informations erronées qui leurs parvenaient des sondes, croyaient que l’avion étaient toujours en phase de montée.
+Les pilotes de la Lufthansa ont eu toutes les peines du monde à récupérer les commandes de l’avion.
+Il leurs a fallu débrancher les procédures automatiques pour continuer leur route en pilotage manuel.
+Selon Airbus, les OEB émis après les deux incidents sont des « retours d’information ».
+« A chaque fois qu’il y a un problème, nous partageons l’information avec toutes les compagnies aériennes qui ont des Airbus dans leur flotte », fait savoir l’avionneur européen.
+Selon lui, plusieurs dizaines d’OEB sont émis par Airbus chaque année.
+Toutefois, si un givrage des sondes pouvait expliquer, en partie, la descente soudaine et assez rapide de l'Airbus de la Germanwings (environ 3000 pieds par minute, soit 1 000 mètres), cela ne dit rien sur le silence radio de plus de huit minutes qui a été observé par l’avion jusqu’à son crash dans les Alpes-de-Haute-Provence.

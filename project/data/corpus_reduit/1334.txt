@@ -1,0 +1,31 @@
+| Par David Larousserie
+Qui ne souhaiterait pas stocker deux fois plus d’images sur son téléphone ou son appareil photo ?
+La solution viendra peut-être d’un nouveau format de compression, BPG (Better Portable Graphics), rendu public début décembre 2014 par un jeune ingénieur télécoms français, Fabrice Bellard, sur son site.
+Ce dernier a cofondé en 2012 Amarisoft, une entreprise qui fabrique des réseaux télécoms 4G à bas coût pour faciliter les tests des opérateurs.
+Mais il n’est pas un inconnu dans le monde de l’imagerie car il est à l’initiative du logiciel de compression/décompression de vidéos , FFMPEG, que beaucoup de lecteurs vidéo d’ordinateurs ou de téléphones utilisent, dont le célèbre VLC.
+Le nouveau format qu’il a élaboré divise par deux environ la taille d’une image par rapport à la norme dominante actuelle, JPEG, avec la même qualité.
+Il a aussi l’avantage de prendre en compte la transparence, contrairement à JPEG.
+Il peut aussi servir à des « images animées » comme le permet le format GIF.
+« J’ai fait ça comme un loisir.
+Pour montrer que c’était possible ! 
+», témoigne l’ingénieur.
+Fabrice Bellard n’a pas inventé une nouvelle technique mathématique pour compresser les images, mais il a utilisé des briques existantes.
+Notamment la nouvelle norme de compression vidéo, HEVC/H.265
+de 2013, qui double l’efficacité par rapport à la précédente, H.264/MPEG-4.
+Or un film étant toujours une succession d’images fixes, cette nouvelle technique contient en fait un module pour compresser les images.
+Ce dernier est plus efficace que JPEG, dont il s’inspire, et qui réduit la taille d’une image par un procédé proche de la transformée de Fourier, c’est-à-dire la décomposition d’un signal en une somme de fonctions mathématiques .
+Techniques de prédictions
+Parmi les améliorations de JPEG contenues dans HEVC/H.265,
+il y a par exemple un découpage par blocs de différentes tailles, alors que JPEG travaille sur des morceaux de taille identique.
+Des techniques de « prédictions », permettant d’économiser quelques bits, ont aussi été ajoutées.
+« Il y a plusieurs petites améliorations qui, mises ensemble, conduisent à une compression plus efficace », résume Fabrice Bellard, qui les a donc introduites dans un format dédié.
+Autre avantage, ses programmes de codage et de décodage peuvent être écrits dans le langage JavaScript, et donc intégrés facilement à des navigateurs Web.
+« L’initiative est intéressante et il a eu le mérite d’être le premier à l’avoir fait », remarque Mickaël Raulet, de l’entreprise Ateme , qui commercialise des encodeurs HEVC.
+Il n’est cependant pas simple de prédire l’avenir de BPG.
+« JPEG est toujours très populaire », rappelle Peter Schelkens, porte-parole du comité international JPEG, qui normalise le format du même nom et qui travaille plutôt à des extensions de JPEG qu’à l’amélioration de la compression elle-même.
+L’extension vedette n’a ainsi pas été détrônée par Webp, développé par Google ou par JPEG XR de Microsoft .
+A ces difficultés s’ajoute l’éternelle controverse sur les protections intellectuelles et les brevets.
+HEVC est en effet protégé (tout comme le MP3 pour la musique), et, de facto, BPG ne peut formellement être utilisé gratuitement, même si les logiciels de décodage et encodage écrits par Fabrice Bellard sont distribués avec des licences libres.
+Néanmoins, si HEVC se développe pour la vidéo, alors les divers fabricants de téléphones, ordinateurs, projecteurs… auront tout intérêt à ce que leurs processeurs soient modifiés pour réaliser directement les calculs nécessaires à la diffusion de cette norme, sans recourir à des logiciels, forcément plus lents.
+Cette inclusion dans le hardware bénéficierait alors directement à BPG.
+ 

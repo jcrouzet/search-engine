@@ -1,0 +1,52 @@
+La réalité virtuelle en six questions
+Le Monde |
+02.03.2015 à 19h45
+| Par William Audureau
+La Game Developper Conference (GDC) de San Francisco, le plus grand salon professionnel annuel du jeu vidéo, a ouvert ses portes, lundi 2 mars.
+L'édition 2015 devrait très largement porter sur les casques de réalité virtuelle en tous genres, du Morpheus de Sony à la gamme SteamVR de Valve, en passant par l'inévitable Oculus.
+C'est peu dire que ces dispositifs sont à la mode : l'industrie des nouvelles technologies ne jure plus que par eux et ce, paradoxalement, alors qu'aucun modèle n'est encore véritablement disponible pour le grand public.
+La réalité virtuelle, qu'est-ce que c'est ?
+C'est l'ensemble des technologies permettant d'immerger complètement l'utilisateur dans un monde fictif (film, jeu vidéo, univers 3D virtuel...).
+Les périphériques concernés ont tous en commun de se présenter sous la forme de casque occultant : l'idée est de couvrir tout le champ du regard avec un affichage panoramique au plus près des yeux.
+Avec les progrès de la technologie, il est également possible de déplacer sa tête et son regard à 360 dans un monde virtuel, d'effectuer certains gestes par la reconnaissance de mouvements, et parfois, de se déplacer sur quelques mètres autour de soi, tant dans la réalité que dans l'univers parallèle proposé par le casque.
+Lire : Réalité virtuelle, réalité augmentée, holographie : quelles différences ?
+Mais... à quoi ça sert ?
+Potentiellement, à tout comme à rien.
+La réalité virtuelle offre avant tout un niveau d'immersion inédit dans un jeu vidéo, puisque le joueur ne se trouve plus face au jeu, mais entouré par celui-ci.
+Elle permet ainsi de se projeter entièrement dans des mondes imaginaires, univers peuplé de dragons ou espace intersidéral, ou de parcourir les cieux à la manière d'un oiseau.
+Autant de « voyages » inaccessibles au commun des mortels.
+Lire : Ce que la réalité virtuelle peut changer dans les jeux vidéo
+Mais elle est également un outil professionnel très pratique pour la formation, que ce soit pour l'entraînement au vol ou à la chirurgie, domaines dans lesquels elle offre une mise en situation poussée, tout en minimisant les dangers liés à l'échec.
+Monde fictif oblige, personne ne vous en voudra si vous sectionnez malencontreusement l'aorte lors de l'opération de l'appendice de votre cobaye virtuel.
+Plus généralement, la réalité virtuelle offre de nombreuses possibilités pour le divertissement : films à 360 en « cinémasphère » , clips musicaux englobants , visites virtuelles de musées... sont quelques-unes des mille et une applications imaginables. 
+Quels sont les principaux modèles disponibles ?
+Les casques de réalité virtuelle les plus ambitieux et les plus médiatiques en sont encore au stade de projet.
+Le plus emblématique, l'Oculus Rift, a été lancé et financé en 2012 sur Kickstarter, une plate-forme de financement collaborative, sur laquelle il a récolté 2,4 millions de dollars.
+Depuis, le projet a été racheté par Facebook pour 2 milliards.
+Plusieurs prototypes successifs ont été diffusés mais son prix et sa date de sortie commerciale ne sont toujours pas connus.
+Dans le sillon de l'Oculus Rift, d'autres entreprises ont annoncé leur propre projet : Sony prépare le Morpheus , Valve un standard SteamVR – une plate-forme de jeu vidéo – dont HTC a annoncé dimanche le premier ambassadeur, Microsoft a révélé en janvier Hololens , un hybride réalité virtuelle-réalité augmentée, tandis que Samsung commercialise déjà ses Gears, qui permettent de transformer certains terminaux mobiles en écrans stéréoscopiques, tandis que vient d'être annoncé un nouveau projet, Virtuix, qui permet de se déplacer autour de soi.
+S'agit-il d'une révolution technologique ?
+En réalité, non.
+Le concept a au moins soixante ans : dès 1955, Morton Heilig, considéré comme le pionnier du genre, imaginait dans un article sur le cinéma du futur un « sensorama », sorte de borne de diffusion composée d'un écran stéréoscopique et de mécanismes pour diffuser souffle d'air et arômes en direction de l'innocent utilisateur, même si la technologie n'avait rien d'informatique à l'époque.
+Depuis, sous diverses formes, la réalité virtuelle a donné lieu à plusieurs essais commerciaux, essentiellement dans les années 1980 et 1990.
+Mais qu'ils s'appellent Tomytronic 3D (1983), Virtuality (1991) ou Virtual Boy (1995), ils ont tous connu de cuisants échecs.
+A cela, deux explications possibles : certains estiment que le concept même de réalité virtuelle est trop anxiogène pour convaincre le grand public ; d'autres jugent que le handicap est purement technique, et que la technologie n'était pas encore mûre.
+Pourquoi ce regain d'intérêt soudain pour la réalité virtuelle ?
+Les raisons sont nombreuses, quoique toutes convergentes.
+Commercialement, le marché des smartphones et des tablettes est arrivé à maturité, et les géants de l'électronique grand public cherchent un nouveau relais de croissance.
+Ce n'est d'ailleurs pas tout à fait un hasard si le premier casque compatible avec SteamVR a été annoncé au Mobile World Congress, un salon de téléphonie mobile.
+D'un point de vue industriel, l'explosion du marché des smartphones a justement permis de faire chuter les prix de tous les composants essentiels à un casque de réalité virtuelle : écran léger très haute définition, accéléromètres, gyroscopes, etc.
+Le savoir-faire est par ailleurs proche, ce qui explique là aussi pourquoi des géants de la téléphonie comme HTC et Samsung se soient déjà positionnés.
+Enfin, des entreprises comme Valve et Facebook, chacune à leur manière, cherchent à imposer le nouvel écosystème de demain, celui qui servira de point d'entrée à tous les jeux vidéo, à tous les divertissements, voire de manière plus générale, à toutes les applications.
+Facebook croit notamment à la réalité virtuelle comme moyen d'offrir des publicités ciblées plus efficaces, car intégrées à un monde plus immersif.
+Le succès de ces casques est donc garanti ?
+Pas forcément.
+Si ceux-ci jouissent d'une cote vertigineuse auprès des amateurs de jeux vidéo, de nombreuses restrictions existent encore.
+Techniques, pour commencer : si l'image n'est pas assez fine et les clignotements trop nombreux, les maux de tête sont garantis ; à l'inverse, pour avoir une image tellement propre et naturelle qu'elle trompe le cerveau, il faut davantage de puissance, et potentiellement des appareils plus lourds, plus chers, ou qui chauffent davantage à l'usage.
+Par ailleurs, d'un point de vue pratique, la réalité virtuelle se cherche encore l'équivalent de la souris pour l'informatique : une interface aisée à prendre en main, qui permette de se déplacer dans un univers complexe entièrement en 3D.
+Une sacrée gageure, sauf à utiliser une manette de jeux vidéo bardée de nombreux boutons.
+Voir : Quand le casque Oculus Rift fait hurler de peur
+Enfin, les casques de réalité virtuelle ne sont pas ce qu'il y a de plus engageant : encombrants et d'une esthétique contestable, ils ont par ailleurs les défauts de leur qualité.
+A trop plonger l'utilisateur dans un monde virtuel, ils le coupent aussi de la réalité qui l'entoure.
+Les plates-formes de partage de vidéos devraient vite regorger de florilèges d'accidents domestiques, et on attend avec impatience le premier casque de réalité virtuelle rembourré, pour protéger des collisions contre les murs.
+William Audureau

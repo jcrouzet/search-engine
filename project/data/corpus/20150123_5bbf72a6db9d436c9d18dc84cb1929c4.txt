@@ -1,0 +1,55 @@
+Cultures Web
+« moot », le plus connu des internautes anonymes, quitte 4chan
+Christopher Poole a fondé et porté à bout de bras le site 4chan, forum anonyme qui frôle parfois l'illégalité.
+Onze ans après, il s'en retire, mais continue à défendre la liberté et l'anonymat sur Internet.
+Le Monde |
+23.01.2015 à 18h09
+| Par Julie Carriat
+Christopher Poole, le créateur du site 4chan, a annoncé qu'il prenait sa « retraite », après plus de dix ans comme administrateur principal du site.
+A 26 ans, il souhaite « passer à autre chose », a-t-il affirmé sur son blog .
+Depuis la création de 4chan, en 2003, le lycéen amateur de code est devenu un entrepreneur défenseur de l'anonymat sur Internet.
+Tout a commencé en 2003 : âgé de 15 ans, Poole vit chez ses parents dans la banlieue de New York.
+Adolescent qui quitte rarement son écran d'ordinateur, il apprend à programmer et passe du temps sur les forums de discussion sous le pseudonyme de « Moo », qui deviendra ensuite « moot ».
+Il tombe alors sur un « imageboard » japonais, 2chan, forum où les conversations se font par le biais d'images.
+Fasciné par le format et la rapidité de la conversation, il récupère le code-source du site, disponible librement, et lance 4chan (le 3 était déjà pris).
+Il envoie le lien de sa version anglophone de 2chan à une vingtaine d'amis (virtuels), et en publie l'adresse sur un forum.
+Le site deviendra une pépinière de phénomènes Web qui déferleront ensuite sur des sites plus populaires : les LolCats , notamment, y naissent.
+Les images de mangas, discussions sur la pop- culture japonaise, y fleurissent de manière anarchique aux côtés de contenus plus illégaux : pédopornographie, provocations racistes ou appels à des attaques informatiques.
+Lire aussi: 4chan, wizardchan, 8chan : le guide des forums anonymes les plus populaires du Web
+ANONYMAT, « RICKROLLING » ET SOLITUDE
+L'interface de 4chan est ultra-simple : quelle que soit la thématique, la page a le même style dépouillé.
+Toutes les 24 heures environ, les commentaires et posts du jour précédent sont intégralement effacés : « Tout ce qui est dit sur 4chan est oublié le lendemain », résume son créateur .
+Le site n'a aucune archive, et n'importe qui peut poster n'importe quoi sans s' inscrire .
+Seul un pseudonyme est requis, et par défaut, c'est souvent le même pour tout le monde : « anonymous ».
+Ce n'est pas un hasard si le collectif de hackeurs « Anonymous » a pris forme dans les pages de 4chan.
+Parmi les canulars le plus marquants nés sur 4chan, le piratage en 2009 de la liste des cent personnalités les plus influentes du magazine Time, dans lequel « moot » se retrouve premier.
+Autre blague : le « rickrolling », pratique qui consiste à poster un lien apparemment relié au débat dans un forum, et qui redirige en réalité vers cette vidéo d'un chanteur des années 1980.
+A partir de 2005, le site prend de l'ampleur et « moot » se retrouve, seul, à la tête d'un monstre qu'il lui faut gérer avec des moyens réduits.
+Personne, hors ligne, n'est au courant que l'adolescent est à la tête de 4chan.
+Ses parents, auxquels il préfère cacher l'existence d'un site qui héberge du contenu « adulte », se désolent de le voir passer ses nuits devant son ordinateur et rater ses cours.
+Sa mère l'accompagne pourtant en voiture dans des dépôts-vente acheter des serveurs de seconde main pour héberger le site.
+En 2008, « moot » a presque 20 ans.
+Son site aussi a grandi : il compte 30 millions de visiteurs uniques, 2,4 milliards de pages vues en un an, selon ses propres estimations.
+4chan pèse tellement lourd que, la même année, l'anonymat de « moot » prend fin.
+Christopher Poole rompt son silence et donne des interviews à Time et au Wall Street Journal .
+« UN HOBBY, PAS UN BUSINESS »
+Ceux qui préparaient déjà le portrait d'un Mark Zuckerberg 2.0 sont déçus : en dépit de ses millions d'utilisateurs, 4chan ne rapporte rien.
+Difficile d' attirer des marques pour faire de la publicité quand leur nom peut vite se retrouver aux côtés d'images douteuses quand elles ne sont pas illégales.
+De plus, le site est gratuit et sollicite, avec ses quantités d'images, beaucoup de bande passante – et donc de frais.
+En 2007, à 19 ans, Christopher Poole se retrouve endetté.
+Aujourd'hui, il dit avoir œuvré pour que le site « rentre dans ses frais » avant d'en laisser la gestion à d'autres collaborateurs.
+Devant les difficultés à monétiser le trafic de 4chan, « moot » a fait quelques tentatives de sites « propres ».
+Le dernier en date, Drawquest, était une plate-forme de dessin sur tablettes et iPhone , principalement utilisée par des adolescentes.
+Elle a fait faillite en 2014.
+Chez les utilisateurs de 4chan, certains dépassent allègrement toute légalité.
+Depuis 2006, plusieurs personnes ont ainsi été arrêtées pour avoir téléchargé des images pornographiques sur un des sous-forums les plus extrêmes.
+Des menaces d'attentats ont été diffusées, la plupart s'avérant, après arrestation, être de mauvaises blagues.
+Anonymes mais pas complètement invisibles, certains utilisateurs ont été trahis par leurs adresses IP, qui ont permis à la police de remonter jusqu'à eux – insensible à toutes les demandes de retrait de contenus, « moot » a cependant ponctuellement accepté de fournir des informations à la police .
+Sous la pression, Poole avait décidé en 2006 de mettre en place davantage de modération des messages, avec des « hommes de ménage » bénévoles désignés parmi les utilisateurs en plus des modérateurs de l'équipe.
+Pour autant, face à la masse des usagers, l'équipe ne contient pas toutes les dérives, comme on a pu le voir récemment avec la diffusion de photos de plusieurs actrices américaines .
+Mais Christopher Poole défend inlassablement la liberté de ses forums, évoquant l'utilité d'espaces sur Internet où « relâcher la pression ».
+Pour « moot », l' avenir d'Internet réside donc dans ces espaces anonymes, contrairement aux projets menés par Facebook ou Google . « Notre identité en ligne n'est qu'une seule de nos multiples facettes, pourquoi vouloir tout associer? 
+», déclarait t-il dans une vidéo de 2011.
+Plus récemment, il disait sur son blog s' éloigner des réseaux sociaux .
+Mais, il le concède volontiers, on pourra toujours le croiser comme un simple anonyme sur 4chan.
+Julie Carriat

@@ -1,0 +1,39 @@
+| Propos recueillis par Martin Untersinger
+Le site The Intercept révélait vendredi 20 février que les espions américains et britanniques avaient piraté l’entreprise franco-néerlandaise Gemalto.
+Ils ont mis la main sur des millions de clés de chiffrement, leur permettant de lire les conversations cryptées.
+L’eurodéputé allemand Jan Philipp Albrecht (Verts), vice-président de la commission des libertés civiles, de la justice et des affaires intérieures, et spécialiste des questions numériques, revient sur ce piratage d’ampleur.
+Quelle est votre réaction face aux révélations concernant le piratage de millions de cartes SIM fabriquées par le franco-néerlandais Gemalto ?
+Jan Philipp Albrecht : J’ai été incroyablement surpris.
+Je pense que c’est un comportement excessif de la part des agences de renseignement anglaise et américaine, et qui ne peut en aucun cas se justifier.
+Comment jugez-vous les réactions officielles à cette affaire ?
+La seule réaction appropriée aurait dû être une condamnation immédiate par les chefs d’Etat des pays concernés.
+Je n’ai rien entendu jusqu’à présent.
+Ce qui est absurde, car c’est un acte d’agression en droit international.
+Les chefs d’Etat pensent encore que l’agression doit nécessairement être militaire.
+Mais non, ce piratage est un acte d’agression.
+Je suis d’autant plus surpris de l’absence de réaction que cela survient au sein même de l’Union européenne, et de mon point de vue de député européen, c’est la première fois depuis la création de l’Union qu’on assiste à un acte d’agression entre membres !
+Au-delà de cette condamnation, comment devraient réagir les Etats membres ?
+Nous parlons de l’implication d’un service de renseignement d’un Etat membre, prouvée par des documents.
+Tous les Etats membres de l’UE devraient pousser le pays en question, ici le Royaume-Uni, à entamer immédiatement une enquête.
+Le gouvernement doit se pencher sur cette violation des principes fondateurs de l’Union, et des principes constitutionnels britanniques.
+Il devrait aussi y avoir une décision des chefs d’Etat, c’est-à-dire du Conseil, pour qu’ils fixent des standards légaux contraignants concernant les activités des agences de renseignement à l’intérieur de l’UE.
+Depuis le début des révélations Snowden, aucune décision n’a été prise.
+Le fait qu’aucun Etat n’ait même essayé prouve qu’ils ont complètement renoncé à leurs responsabilités.
+Cela révèle une faille importante de l’Union européenne : un Etat membre peut faire ce qu’il veut sous prétexte de sécurité nationale.
+C’est une guerre froide à l’intérieur de l’UE.
+Est-ce que les gouvernements auraient davantage réagi si le piratage avait été commis par la Chine ou la Russie ?
+Je ne suis pas sûr.
+Je pense que ce manque de réaction vient de l’effet de sidération produit par les révélations Snowden.
+Depuis plus d’un an et demi, nous avons eu scandale après scandale, sans réaction des gouvernements.
+Mais après plus d’un an de débat diplomatique avec les Etats-Unis, nous devons vraiment nous pencher sur ce qu’il se passe dans l’Union européenne.
+Les électeurs américains élisent le gouvernement américain, ils s’en occupent.
+Nous, Européens, votons pour ces gouvernements, nous devons maintenant nous en occuper.
+Qu’est-ce qui peut être fait, au niveau politique, pour éviter des piratages comme celui dont a été victime Gemalto ?
+Il y a des choses à faire pour protéger nos infrastructures, notamment instaurer plus de responsabilité.
+Si nous accroissons la responsabilité des entreprises pour certaines violations de la vie privée ou failles de sécurité, cela va inciter ces entreprises à renforcer la sécurité de leurs systèmes, et à mieux résister aux autorités du monde entier, à s’assurer que leurs demandes sont légalement motivées.
+Le Parlement a-t-il prévu de se saisir de cette affaire ?
+Le Conseil européen – les Etats membres – va être questionné.
+Nous réfléchissons à donner une suite à la commission d’enquête sur la surveillance de masse qui a travaillé d’octobre 2013 à mars 2014.
+Nous réfléchissons aussi à un nouveau rapport, car jusqu’à présent aucune des recommandations que la commission a formulées n’a été suivie, ni par la commission ni par le Conseil.
+Nous allons pousser en ce sens, mais le Parti populaire européen bloque.
+Le public devrait savoir que les Tories britanniques, les conservateurs français, la CDU et la CSU allemandes bloquent toute enquête sur ces activités.

@@ -1,0 +1,38 @@
+« TouchTone », le jeu qui tacle la NSA
+Le Monde |
+25.03.2015 à 16h08
+| Par Benjamin Benoit
+Imaginez.
+Vous, citoyen lambda américain, êtes contacté par les services de renseignement pour un travail.
+Vous avez accès à des bribes de conversations captées par la NSA, l'agence de sécurité américaine.
+A chaque lecture, on vous donne le choix : ce que vous avez sous les yeux doit-il être transmis aux autorités ?
+Saurez-vous déceler les menaces sérieuses ?
+Ce sont les questions posées par le jeu TouchTone, sur iOS.
+« Dénoncez ce que vous résolvez »
+TouchTone mélange puzzles et jeux narratifs.
+On y aborde en filigrane de nombreux thèmes d'actualité : la paranoïa, le terrorisme, les écoutes, mais aussi la misogynie dans l'industrie du jeu. 
+« Plus je faisais des recherches sur Snowden et la NSA, plus je me disais qu'il fallait que je fasse quelque chose.
+Je n'ai pas pu m'empêcher d'y jeter d'autres bribes d'actualités », explique Mike Boxleiter, designer du jeu, au site The Verge .
+Le joueur est confronté à des choix moraux, en plus d'adopter une posture voyeuriste sur les « dossiers » qu'il gère.
+Le jeu présente une agence de surveillance prête à tout, rude, exagérément patriote et qui vous force souvent la main.
+Vous voulez infiltrer les données d'un entrepreneur iranien de la Silicon Valley ?
+Pas de problème, « le boulot est déjà à moitié fait ».
+TouchTone est passé d'un projet de niche à un jeu bien complexe et politisé.
+Mike Boxleiter et Greg Wohlend, concepteurs d'un premier jeu qui avait fait un flop commercial, ont voulu passer à autre chose en participant à une Game Jam – concours mondial où on doit concevoir un jeu en un week-end.
+Ils en ont tiré le cœur de TouchTone, encore sans scénario et sans propos.
+Il aura fallu deux ans pour concevoir le reste, non sans crainte : Apple n'était pas prompt à mettre en valeur les applications autour de la politique, mais TouchTone n'a reçu aucun traitement de défaveur de la part de l'éditeur.
+Simple... comme un Rubik's cube
+Concrètement, le principe du jeu est simple : pour intercepter des conversations et des mails, il faut progresser dans un réseau qui rappelle les cartes d'un Super Mario.
+Chaque niveau correspond à un puzzle.
+Des signaux de différentes couleurs sont à reconnecter en utilisant des miroirs et autres éléments qui les dupliqueront.
+On ne peut pas changer la position de l'émetteur ou du récepteur du signal, mais on peut déplacer les éléments censés le dévier, sur un plan quadrillé, exactement comme dans un Rubik's cube : tout se déplace en même temps sur la même ligne ou sur la même colonne.
+Le jeu devient rapidement compliqué, intègre des éléments supplémentaires et agrandit rapidement le nombre de signaux à relier et la taille du terrain.
+Il faut savoir raisonner sur plusieurs plans et anticiper ses mouvements.
+Le jeu ressemble aux phases de puzzles de Watch_Dogs, avec qui il partage les mêmes problématiques.
+Ce dernier de TouchTone, qui rappelle aussi Papers, Please, est un excellent simulateur de poste-frontière entre deux pays pseudo-soviétiques.
+Lire aussi :  Watch Dogs, les nouveaux chiens de garde
+Les ventes du jeu, disponible pour trois euros sur iOS, sont assez modestes en France.
+Le site spécialisé App Annie le situe dans le top 500 des ventes au 21 mars dans l'Hexagone.
+En revanche, il était le même jour le sixième jeu de puzzle du marché américain et y rentrait dans le top 100 général.
+Une différence logique, pour un jeu non-traduit et fortement scénarisé.
+Benjamin Benoit

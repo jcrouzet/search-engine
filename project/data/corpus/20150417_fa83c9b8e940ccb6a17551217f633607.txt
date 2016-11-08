@@ -1,0 +1,65 @@
+| Par David Larousserie
+ 
+On l’imaginait soucieux de parler de lui sur sa page Facebook, d’y poster ses photos, de partager à outrance des liens, d’augmenter le nombre de ses amis, de « liker » à tout va.
+Pourtant, la figure de l’internaute égocentré a vécu.
+Des sociologues et des informaticiens révèlent en effet que ce n’est vraiment pas l’usage dominant du réseau social aujourd’hui.
+Facebook sert plus à la conversation, en écrivant sur la page de ses amis, et à la veille passive, pour rester en contact avec son réseau, qu’à l’activité tous azimuts.
+Autre enseignement, les liens que partagent les cadres et les professions libérales sont fort différents que ceux que transmettent les ouvriers et les employés.
+Les premiers postent beaucoup plus de liens renvoyant vers des médias étrangers, alors que les seconds préfèrent les médias grand public.
+Plus de sites « culturels » pour les premiers, contre des sites plus « loisirs » pour les seconds.
+Facebook révèle donc beaucoup de nos préférences.
+Analyse de 12 700 pages Facebook
+Ces enseignements ne sont que les premières conclusions – provisoires – que viennent de révéler les membres du projet Algopol , lancé en décembre 2013.
+Un projet qui réunit notamment des chercheurs du Centre national de recherche scientifique (CNRS), de l’entreprise Linkfluence et de la division recherche et développement de l’opérateur Orange, Orange Labs ; l’ensemble étant financé par l’Agence nationale de la recherche.
+Lire aussi : Quand la recherche like Facebook
+Algopol repose notamment sur une application éponyme à installer volontairement sur son compte Facebook, qui donne accès aux chercheurs à certaines des données personnelles des utilisateurs (liste des amis, contenu de la page, activités diverses comme les likes, les partages de liens, etc.).
+Les 12 700 internautes qui ont répondu à l’appel des chercheurs ont pu, en retour, visualiser pour la première fois la géographie de leur réseau social : qui sont leurs amis proches, avec qui interagissent-ils le plus…
+Après anonymisation des données, sous contrôle de la CNIL, les chercheurs ont étudié pour la première fois l’activité réelle des internautes sur ce réseau.
+Trois profils d’utilisateurs
+Trois types d’utilisation et six profils, ont été déterminés.
+L’équipe les résume ainsi : publier chez soi, publier chez les autres, regarder sans publier.
+Dans la première catégorie se trouve l’archétype caricatural et finalement minoritaire, que l’équipe qualifie d’« égocentré » ou d’« ego-visible », et qui est le plus actif sur sa page personnelle.
+Ils représentent 15 % de l’échantillon.
+La seconde catégorie, plus jeune que la première, regroupe environ 30 % des participants et concerne les personnes qui écrivent davantage sur les pages des autres que sur la leur.
+« Facebook est pour eux une forme de chat », résume Dominique Cardon, sociologue à l’Orange Labs, qui, avec Irène Bastard, participe à cette recherche.
+Enfin, le groupe dominant est constitué des spectateurs et partageurs, comme les nomment les chercheurs.
+Ils ne publient guère sur leur page mais tiennent à garder un lien avec leur réseau social.
+Ils partagent aussi quelques liens.
+« C’est une passivité active et c’est un usage qui est trop souvent oublié lorsque l’on parle de Facebook », décrit Dominique Cardon.
+La cartographie des goûts de chacun
+Plus intéressant encore sans doute, l’étude présente aussi, pour la première fois, un aperçu des goûts de chacun, grâce à l’analyse des liens partagés.
+Sur des cartes sont positionnés les 600 noms de domaines le plus souvent partagés par les profils volontaires.
+La position de deux points sur la carte reflète le nombre de personnes en commun ayant partagé ces deux domaines.
+Ainsi, LeMonde.fr et Rue89 sont proches car les personnes ayant cité l’un ont aussi cité l’autre.
+En revanche, LeMonde.fr
+est éloigné de JeuxActu.com,
+car ceux qui citent le premier ne citent jamais le second.
+Plus précisément, un algorithme prend en compte ces 600 domaines et près de 270 000 partages, afin de répartir tous ces sites les uns par rapport aux autres.
+La carte obtenue fait apparaître des « régions », des agrégats de noms de domaine assez bien identifiables grâce à des couleurs différentes.
+En périphérie et en rouge, des médias étrangers de référence (le New York Times, le Guardian…) et des médias francophones (Canada, Belgique, Maghreb).
+A droite, en bleu, une sphère « loisir » (Youtube, Deezer, Dailymotion, Eurosport…), tandis qu’en vert, on distingue un ensemble « culture » (Les Inrocks…) proche d’une autre, en jaune, qualifiée plus spécifiquement de « culture geek » (Journal du Net, InternetActu…).
+Par ailleurs, deux régions médiatiques se distinguent : l’une « de gauche » en vert fluo, rassemblant Rue89, NouvelObs.com,
+Libération.fr
+mais aussi LeMonde.fr,
+Médiapart.fr, et dans laquelle on trouve aussi des médias alternatifs (Bastamag) ou le site de Jean-Luc Mélenchon.
+L’autre sphère, en orange, présente deux pôles : d’une part des médias économiques et/ou conservateurs (Les Échos, Le Figaro, Atlantico…) et des sites d’informations plus grand public (Europe 1, RTL, RMC…).
+À noter la présence singulière du site parodique d’information, LeGorafi.fr,
+entre « loisir » et « médias ».
+Pour agrandir, cliquer ici
+Les jeunes négligent les sites d’information classiques
+« C’est à notre connaissance la première carte du Web obtenue depuis les usages d’un réseau social.
+Auparavant ce genre de cartes était construit sur les liens hypertexte présents sur ces sites », souligne Dominique Cardon.
+Une fois cette carte obtenue, il est possible d’y accoler les typologies repérées ou les catégories socioprofessionnelles.
+Ce qui donne des nuages violets plus ou moins intenses dans les régions de la carte très « partagées ».
+Les professions libérales et intellectuelles partagent ainsi beaucoup de liens d’informations en provenance des médias de référence étrangers, mais peu issus de la sphère des médias grand public, contrairement aux ouvriers et employés.
+Ces derniers apprécient aussi les sites de mobilisation et de pétitions comme change.org,
+ou de loisirs (sport, vidéos…).
+Pour agrandir, cliquer ici
+Les « égo-visibles » partagent certes à tout va, mais finalement peu du côté des loisirs.
+Les jeunes qui publient sur les pages des autres négligent, eux, les sites d’informations classiques mais préfèrent les sites de l’espace « culture » et « loisir ».
+« Pour eux, Facebook n’est pas le carrefour de l’information », constate Dominique Cardon.
+L’étude n’est encore que préliminaire et les auteurs savent bien que leur échantillon est assez biaisé (même si grâce à 800 personnes représentatives tirées d’un panel du sondeur CSA, ils peuvent corriger certains défauts).
+Ils savent surtout que dans 15 jours, Facebook va modifier son fonctionnement, rendant inopérante l’application Algopol.
+« Nous aimerions bien que de nouveaux volontaires participent à cette enquête ! 
+», lance Dominique Cardon.
+Il manque des femmes, des plus de 30 ans et des ouvriers/employés.

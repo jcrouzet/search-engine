@@ -1,0 +1,57 @@
+Cultures Web
+A Berlin, des artistes contre la surveillance numérique
+Le festival Transmediale accueillait à Berlin du 28 janvier au 1er février de nombreux plasticiens et créateurs qui interrogent le rapport que nous entretenons avec les différentes manières dont nous sommes surveillés en ligne.
+Le Monde |
+04.02.2015 à 16h50
+| Par Marie Lechner
+Jamais Transmediale n'aura connu pareille affluence.
+Installé à la Haus der Kulturen der Welt, bâtiment situé dans le Tiergarten à Berlin et surnommé « l'huître enceinte » en raison de sa forme , le festival des cultures numériques qui a succédé au festival d'art vidéo créé en 1988 est devenu un rendez- vous international majeur des artistes, chercheurs et activistes du Web, attirant un public toujours plus large dans ses expos, ateliers et conférences.
+Prolongeant l'édition passée, plombée par les révélations d'Edward Snowden sur l'espionnage massif des citoyens par la NSA au nom de la lutte contre le terrorisme, le thème de cette année, « Capture All » – « enregistrez tout »), la devise de l'ancien directeur de la NSA – n'était guère plus optimiste.
+La surveillance des communications par les gouvernements (relancée avec l'attentat à Charlie Hebdo) n'est qu'une facette de la collecte illimitée et de l'exploitation systématique des données par les voraces mastodontes du Net.
+Facebook , qui a vu son bénéfice quasiment doubler en 2014, a mis à jour ses conditions d'utilisation vendredi, lui permettant d' améliorer encore le ciblage publicitaire de ses utilisateurs et d' affiner les informations les concernant, en suivant leurs mouvements non seulement à l'intérieur du réseau social mais également ailleurs sur le Web.
+Dans son poème de 1967 All Watched over by Machines of Loving Grace, cité à plusieurs reprises durant le festival comme pour prendre la mesure du fossé qui nous sépare des premières utopies du cyberespace nées dans la contre- culture hippie, Richard Brautigan décrit un paradis électronique, un écosystème autorégulé, où « les mammifères et les ordinateurs vivent ensemble dans une harmonie mutuellement programmée ».
+« J'aime penser (il faut qu'il en soit ainsi) à une écologie cybernétique où nous sommes libérés de tout travail, retournés à la nature, réunis avec nos frères et sœurs mammifères, sous la surveillance bienveillante des machines de grâce et d'amour.
+» A l'ère de l'anthropocène, de la crise écologique et de la surveillance généralisée, il semblerait que quelque chose ait mal tourné...
+All watched over... est aussi le titre d'une série documentaire qu'Adam Curtis a réalisé pour la BBC en 2011, où il montre comment les humains ont été progressivement colonisés par les machines qu'ils ont construites, depuis les technophiles années 1990 et la croyance fervente selon laquelle les ordinateurs et Internet permettraient de créer un monde plus démocratique, à l'avènement d'un nouveau type de capitalisme global piloté par des algorithmes.
+On retrouve ces thèmes dans World Brain , film-essai décliné en webdocumentaire de Stéphane Degoutin et Gwenola Wagon projet é en avant-première à Transmediale, qui interroge la place de l'homme au sein de ces systèmes de plus en plus automatisés.
+Les technologies n'ont fait depuis que renforcer leur étreinte, avec l'explosion du Big Data – les gigantesques corpus de données récoltées et analysées par entreprises et Etats.
+Le festival questionne cette logique du « capture all », consistant à aspirer les moindres parcelles de nos vies dans les datacenters hermétiques répartis autour du globe, livrées en pâture aux algorithmes.
+L'idéologie dominante voudrait que non seulement la productivité de l'économie, mais également celle des individus, soient éternellement optimisées, tandis que s'érodent les frontières entre travail et vie privée , comme le suggère l'impressionnante bannière tricotée de Sam Meech .
+PunchCard Economy confronte le slogan des huit heures (de travail, de loisir, de sommeil...), revendication historique des mouvements ouvriers, aux conditions des travailleurs du numérique.
+Punchcard Economy - making of from Sam Meech on Vimeo .
+Après avoir numérisé les connaissances, puis quantifié et marchandisé nos relations avec les autres (par nos clics, liens, « like », tweet, chat, etc.), les technologies dites « réflexives » s'apprêtent à investir un autre champ : notre relation à nous-même.
+La multiplication d'objets « wearable » (montres, bracelets...) portés à même le corps et mesurant nos données biométriques, et son lot d'applications ludiques de fitness ou de régime, permet désormais une forme d'auto-coaching promu par le mouvement quantified self qui vise à mieux se connaître pour mieux se changer (plutôt que de changer la société).
+Lire dans Nos émotions
+Mesurer les réactions du corps pour déceler nos émotions les plus intimes est aussi l'objectif de l' affective computing , domaine de la science informatique en plein essor sur laquelle s'appuie un nombre grandissant de start-up, comme le soulignait l'artiste et chercheuse en neuroscience Pinar Yoldas lors du débat  « Devices of affective surveillance » (« Objets de la surveillance affective »).
+Emanation du Media Lab du Massachusetts Institute of Technology, Affectiva a développé un logiciel capable d' analyser en direct les infimes nuances de nos expressions faciales et de déduire nos émotions à la lecture d'une vidéo en ligne via la webcam.
+Publicitaires et fournisseurs de services sont les premiers intéressés par cette détection qui permet d' ajuster ou de renforcer l'intensité des contenus proposés.
+Mais ses applications intéressent également la police , les assureurs, les employeurs...
+Affectiva dit avoir mesuré sept milliards de réactions émotionnelles à partir de 2,4 millions de vidéos de visages dans quatre-vingts pays.
+De quoi entraîner ses algorithmes lancés à la recherche de motifs permettant de prédire et d' influencer les comportements et affects à grande échelle.
+Sa concurrente , la firme californienne Emotient , propose elle de classer les photos en fonction des émotions.
+Le site promotionnel de RealEyes.it
+, qui se présente comme le « Google des émotions », prétend déceler les réactions « inconscientes » des utilisateurs.
+Son argument de vente est on ne peut plus clair : « Plus les gens ressentent, plus ils dépensent », faisant fi des questions éthiques comme : peut-on révéler les émotions des gens sans leur accord, et surtout qu'en est-il des erreurs d'interprétation ?
+L'une des préoccupations récurrentes exprimées durant le festival est cette foi excessive dans le pouvoir des algorithmes, dans leur efficacité et dans la totale transparence de la société des métadonnées.
+« Il y a cette idée que les big data donnent un accès direct à la réalité, qu'ils sont totalement objectifs, équitables, que la nature va parler par elle-même, sans transcription, sans médiation, institutionnelle ou politique », avance la juriste Antoinette Rouvroy.
+Des données privatisées
+ 
+Aujourd'hui, ces modèles prédictifs basés sur d'importants volumes de données se généralisent dans les domaine économiques, sociaux et politique , avec le risque d'une «  gouvernementalité algorithmique  », telle que décrite par Antoinette Rouvroy, soit « une stratégie de neutralisation de l'incertitude – et, en particulier, de l'incertitude générée par la spontanéité des comportements humains ».
+Or , ces boîtes noires que sont les algorithmes ont tendance à oublier leur propre biais , estime le philosophe et théoricien Matteo Pasquinelli, prenant pour exemple la finance haute fréquence, où les algorithmes « influencent le domaine précis qu'ils sont censés mesurer ».
+Face à cette impasse, les stratégies artistiques divergent : résister à la datafication ?
+Ou accélérer ses tendances ?
+Le designer Mushon Zer-Aviv prône l'obfuscation, « arme des faibles » avec le projet collectif Ad Nauseam , qui clique sur toutes les annonces publicitaires rencontrées en ligne afin « d' obscurcir le profil de recherche ».
+Refusant son statut de « data-esclave », l'artiste Jennifer Lyn Morone a fait de sa propre personne une entreprise, enregistrée au Delaware, auto-exploitant l'inté gralit é des données qu'elle génère (biologiques, intellectuelles, comportement offline, online...) pour en tirer profit, suggérant ironiquement que seule cette forme de « capitalisme extrême » permettrait de retrouver un peu de pouvoir sur ses données.
+D'autres initiatives (réunies au sein de la liste de diffusion off.networks)
+appellent à s' extraire du « cloud » en développant des réseaux offline.
+Quant à l'artiste américaine Heather Dewey-Hagborg, elle promet rien de moins que l'invisibilité.
+Connue pour ses portraits 3D d'anonymes qu'elle recompose à partir d'ADN trouvé dans un cheveu ou sur un mégot, elle présentait son nouveau projet , constitué de deux produits à vaporiser pour éliminer ses traces ADN.
+La recette est disponible librement sur la nouvelle plateforme biononymous.me,
+première pierre pour réclamer la protection de la vie privée biologique.
+En dépit de l'engagement de certains projets, on ne peut que constater l'asymétrie radicale de pouvoirs et de moyens entre les individus et ceux qui possèdent les infrastructures.
+Pour le critique superstar du Net, Evgeny Morozov, il est urgent de réinvestir le combat politique .
+Le problème, d'après lui, n'est pas la prolifération des données, mais le fait qu'elles sont aujourd'hui dans les mains d'entreprises privées.
+Par conséquent, « elles ne sont pas au service du bien commun mais de la maximisation des profits.
+Il faut réclamer la propriété de ses données et on ne peut le faire en tant qu'artiste, activiste ou hackeur.
+Il faut capturer le pouvoir, il faut aller se faire élire .
+»

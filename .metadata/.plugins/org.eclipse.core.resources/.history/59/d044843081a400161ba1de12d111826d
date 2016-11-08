@@ -1,0 +1,37 @@
+import java.io.*;
+import java.util.HashMap;
+
+
+public class Index {
+
+	
+// get term frequencies
+	
+	public void get_tf() throws IOException {
+		
+		
+	HashMap<String, Integer> hits = new HashMap<String, Integer>();
+		
+		// Appel de la méthode de normalisation
+		ArrayList<String> words = normalizer.normalize(file);
+		Integer number;
+		// Pour chaque mot de la liste, on remplit un dictionnaire
+		// du nombre d'occurrences pour ce mot
+		for (String word : words) {
+			word = word.toLowerCase();
+			// on récupère le nombre d'occurrences pour ce mot
+			number = hits.get(word);
+			// Si ce mot n'était pas encore présent dans le dictionnaire,
+			// on l'ajoute (nombre d'occurrences = 1)
+			if (number == null) {
+				hits.put(word, 1);
+			}
+			// Sinon, on incrémente le nombre d'occurrence
+			else {
+				hits.put(word, ++number);
+			}
+		}
+		return hits;
+	}
+
+}

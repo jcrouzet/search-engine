@@ -1,0 +1,78 @@
+17 mars 2015 , par Guillaume Cannat
+Qu’est-ce qu’une éclipse de Soleil ?
+Premier chapitre du feuilleton quotidien consacré cette semaine à l’éclipse de Soleil qui sera observable le vendredi 20 mars au matin en France métropolitaine.
+Le diamètre de la Lune est 400 fois plus petit que celui du Soleil, mais le Soleil est 400 fois plus loin de la Terre, si bien que ces deux astres présentent sensiblement le même diamètre apparent dans notre ciel et, dans certaines circonstances, le disque lunaire peut occulter partiellement ou totalement le disque solaire.
+Illustration : NASA/SDO/Lick Observatory/G.
+Cannat
+Comment la Lune peut-elle cacher le Soleil ?
+Le Soleil est une sphère gazeuse surchauffée de 1 392 000 km de diamètre.
+On pourrait aligner près de 110 fois la Terre pour aller d’un bord à l’autre du disque solaire.
+Grâce aux images quotidiennes fournies par les observatoires spatiaux comme SOHO ou SDO , nous pouvons admirer les taches sombres ou les protubérances qui apparaissent irrégulièrement sur notre étoile et la moindre de ces formations est bien plus grande que notre planète.
+Bref, le Soleil est réellement immense !
+La Lune, quant à elle, ne mesure que 3 476 km de diamètre, soit 400 fois moins que le Soleil.
+Mais, et c’est un « mais » vraiment important, elle se situe environ 400 fois plus près de nous que le Soleil : 380 000 km en moyenne au lieu de 150 millions de kilomètres.
+Le résultat de cette heureuse coïncidence est que le diamètre apparent de la Lune dans notre ciel est pratiquement identique à celui du Soleil : une trentaine de minutes d’arc, soit près de 0,5 ; l’ongle de votre auriculaire bras tendu couvre approximativement 1 sur le ciel.
+Dans certaines circonstances, cette similitude de diamètre apparent permet au disque lunaire d’occulter l’astre du jour.
+Variations des diamètres apparents
+La réalité physique est naturellement un peu plus complexe, car le diamètre apparent de la Lune et celui du Soleil varient.
+L’orbite de la Lune autour de la Terre n’est en effet pas un cercle parfait mais une ellipse et la distance de notre satellite passe de 356 410 km lorsqu’il est au plus près de la Terre – le périgée – à 406 740 km lorsqu’il est à l’apogée.
+Le diamètre apparent lunaire peut donc mesurer de 33,5 à 29,3 minutes d’arc.
+De la même manière, la dimension apparente du Soleil varie en fonction de la distance de la Terre qui parcourt une orbite légèrement elliptique.
+La distance de notre planète au Soleil est voisine de 147 millions de kilomètres au plus près du Soleil – le périhélie (début janvier) – et légèrement supérieure à 152 millions de kilomètres à l’aphélie (début juillet).
+Le diamètre apparent du Soleil peut ainsi mesurer entre 32,5 et 31,5 minutes d’arc.
+En comparant les valeurs possibles pour les diamètres apparents du Soleil et de la Lune, on constate aisément que, même si le disque lunaire passe exactement devant le disque solaire, son diamètre apparent peut ne pas être suffisant pour occulter intégralement le Soleil ; il se produit alors ce que l’on appelle une éclipse annulaire durant laquelle un anneau de la surface solaire reste visible et éblouissant autour du disque lunaire sombre.
+Le vendredi 20 mars, le diamètre apparent lunaire dépassera celui du Soleil et une éclipse totale sera bien au programme dans certaines régions de l’hémisphère Nord.
+La disparition future des éclipses totales…
+La simple condition de l’équivalence ou de la supériorité du diamètre apparent lunaire pour que se produise une éclipse totale de Soleil ne pourra bientôt – à l’échelle des temps géologiques – plus être satisfaite.
+Notre satellite s’éloigne en effet de nous à un rythme voisin de 3,8 cm par an.
+Sur cette base, on peut estimer que dans quelques centaines de millions d‘années – le chiffre de 640 millions d’années semble être une bonne approximation – le diamètre apparent lunaire ne sera plus jamais suffisant pour que la Lune occulte totalement le Soleil, et nos lointains descendants (!) ne verront plus que des éclipses annulaires.
+Une histoire d’alignement
+Le diamètre apparent de la Lune ou du Soleil n’est pas tout.
+Pour qu’une éclipse puisse se produire, il faut également que notre satellite passe juste devant le Soleil au moment de la Nouvelle Lune.
+Cela serait facile si le plan de l’orbite lunaire et le plan de l’orbite terrestre – le plan de l'écliptique – étaient confondus, c'est-à-dire, en simplifiant, si la Terre et la Lune roulaient comme des billes sur une immense table entourant le Soleil.
+Dans ce cas-là, notre satellite éclipserait le disque solaire à chaque Nouvelle Lune en « roulant » devant lui… ce qui n’est manifestement pas le cas.
+En fait, le plan de l’orbite lunaire autour de la Terre fait un angle moyen de 5,1 avec le plan de l’orbite terrestre autour du Soleil.
+La Lune « traverse » le plan de l'écliptique deux fois par orbite, mais elle n’est pas forcément à la Nouvelle Lune à ce moment et il n’y a donc pas nécessairement une éclipse.
+Pour les astronomes, les instants où la Lune passe dans le plan de l’écliptique sont appelés des nœuds : lorsqu’elle va du nord vers le sud, on dit qu’elle passe au nœud descendant et lorsqu’elle va du sud vers le nord, elle passe au nœud ascendant, nord et sud étant définis par rapport à l’orientation des pôles terrestres.
+La ligne qui joint les 2 nœuds de l’orbite lunaire est appelée judicieusement la ligne des nœuds et, pour qu’il se produise une éclipse, il faut que cette ligne pointe vers le Soleil lors de la Nouvelle Lune, ce qui arrive pratiquement tous les 173 jours.
+Pour corser le tout, la ligne des nœuds rétrograde d’un peu plus de 19 par an dans le sens des aiguilles d’une montre vu du nord du plan de l’écliptique.
+Il lui faut 18,6 années pour rétrograder d’un tour complet, ce qui entraîne l’apparition de cycles dans le rythme des éclipses.
+L’ombre de la Lune sur le globe terrestre ne mesure que quelques centaines de kilomètres d’envergure au maximum, il faut donc se trouver sur son passage pour admirer une éclipse totale de Soleil.
+Une éclipse partielle peut être observée jusqu’à plusieurs milliers de kilomètres de l’ombre.
+Cette image a été prise depuis la station spatiale Mir lors de l’éclipse totale de Soleil du 11 août 1999 qui était visible en France métropolitaine.
+CNES
+L’ombre de la Lune est petite
+Lorsque les conditions sont réunies, que le diamètre apparent de la Lune dépasse celui du Soleil et que la ligne des nœuds pointe vers l’astre du jour au moment de la Nouvelle Lune, il se produit une éclipse de Soleil partielle ou totale.
+Notre satellite n’est pas très grand et son ombre forme un cône effilé de près de 385 000 km de long, pratiquement la distance moyenne entre la Terre et la Lune.
+L’ombre lunaire à la surface du globe terrestre ne mesure donc que quelques centaines de kilomètres d’envergure au maximum.
+Pour voir une éclipse totale de Soleil, il faut impérativement se trouver dans l’ombre.
+Heureusement, en conjuguant les mouvements de rotation de la Terre sur elle-même et de révolution de la Lune autour de la Terre, l’ombre lunaire balaye généralement plusieurs milliers de kilomètres avant de perdre le contact avec le sol terrestre.
+Cela permet souvent, mais pas tout le temps, de trouver des régions favorables pour aller admirer de quelques secondes à quelques minutes d’obscurité en plein jour.
+De part et d’autre de la bande de totalité formée par le déplacement de l’ombre lunaire, il est possible d’observer une éclipse partielle : la portion du disque solaire éclipsée par le disque lunaire est alors d’autant plus petite que l’on s’éloigne de l’ombre.
+L’emprise de la zone de partialité peut atteindre plusieurs milliers de kilomètres de chaque côté de la ligne de centralité.
+Vendredi 20 mars 2015, l’ombre de la Lune va balayer les régions septentrionales de l’hémisphère Nord et une éclipse partielle sera visible jusqu’au tropique du Cancer.
+La longueur de l’ombre lunaire est sensiblement égale à la distance moyenne Terre-Lune, soit près de 385 000 km.
+Sur ce schéma, qui représente le couple Terre-Lune à l’échelle (1 mm = 1 000 km) vu du nord de l’écliptique à la fin de l’éclipse totale du vendredi 20 mars 2015, le cône d’ombre lunaire s’apprête à quitter la surface terrestre pratiquement au niveau du pôle Nord géographique.
+À cette échelle, le Soleil se situe à près de 150 m sur la gauche de la Lune.
+Illustration : G.
+Cannat
+Durée et fréquence des éclipses de Soleil
+Une éclipse de Soleil peut durer jusqu’à 4 heures entre le 1er et le 4e contact, c'est-à-dire du moment où le limbe lunaire rentre en contact apparent avec le Soleil jusqu’au moment où il s’en détache.
+Pour un observateur au sol, placé au centre de la zone balayée par l’ombre lunaire, la totalité, c’est-à-dire le laps de temps durant lequel l’ensemble du disque solaire est occulté par la Lune, ne peut théoriquement pas dépasser 7 minutes et 30 secondes pour les régions tropicales et 6 minutes et 10 secondes à la latitude de Paris.
+Les éclipses totales les plus longues se produisent lorsque la Lune et le Soleil passent simultanément au même nœud, que la Lune est au plus près de la Terre et que le Soleil est au plus loin de la Terre.
+Ces conditions optimales sont extrêmement rares : la totalité la plus longue sur les treize siècles passés et à venir se produira le 25 juin 2150, et elle ne durera « que » 7 min et 14 s !
+Il se produit entre 2 et 5 éclipses de Soleil par an (partielles, annulaires ou totales confondues).
+Dans un pays de la superficie de la France métropolitaine, on peut observer assez régulièrement des éclipses partielles de Soleil – prochaines les 20/3/2015, 10/6/2021, 25/10/2022, 29/3/2025 et 12/8/2026 –, mais plusieurs décennies peuvent s’écouler entre 2 éclipses totales ou annulaires.
+Au XXe siècle, la France métropolitaine n’a été balayée que 3 fois par l’ombre lunaire (17/4/1912, 15/2/1961 et 11/8/1999) et il faudra attendre la seconde moitié du XXIe siècle pour observer 2 éclipses annulaires (5/11/2059 et 27/2/2082) et 2 éclipses totales (3/9/2081 et 23/9/2090).
+Rendez-vous demain pour le chapitre 2 :
+Le déroulement de l'éclipse de Soleil du vendredi 20 mars 2015
+(suivez-moi sur  Twitter  pour être informé lors de la mise en ligne)
+Pour en savoir plus
+L’observatoire de Paris et l’Institut de mécanique céleste et de calcul des éphémérides ont publié un bref ouvrage à l’occasion de l’éclipse du 20 mars 2015.
+Il contient une multitude de graphiques et d’illustrations et il est accompagné d’une paire de lunettes spéciales « éclipse ».
+En librairie.
+Une éclipse en lumière, 64 pages, 14 x 21 cm, EDP sciences, 9,90 €
+ 
+Les revues mensuelles Ciel   Espace et Astronomie magazine consacrent un dossier complet aux éclipses de Soleil dans leur numéro de mars 2015 qui contient également une paire de lunettes spéciales « éclipse ».
+En kiosque.
+ 

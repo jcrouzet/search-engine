@@ -1,0 +1,74 @@
+Cultures Web
+Le mot de passe, espèce en voie de disparition
+Microsoft et Yahoo!
+viennent d'annoncer des alternatives aux mots de passe, jugés trop contraignants et peu sécurisés.
+Une tendance qui tend à s'imposer dans l'industrie numérique.
+Le Monde |
+19.03.2015 à 17h51
+| Par Morgane Tual
+« C'est un premier pas vers l'élimination des mots de passe.
+» C'est ainsi que Dylan Casey, un responsable de Yahoo!,
+a présenté, dimanche 15 mars, un nouveau système d'authentification, à l'occasion du festival SXSW .
+L'idée : transmettre un code simple et éphémère par SMS à l'utilisateur chaque fois qu'il souhaitera se connecter à Yahoo!.
+Ce qui lui évitera d'avoir à se souvenir d'un mot de passe complexe, qui lui sert souvent à se connecter à d'autres services.
+Découvrir les meilleurs moments du festival SXSW avec notre visuel interactif
+Deux jours plus tard, c'est Microsoft qui annonçait sur son site la naissance de Windows Hello pour le futur Windows 10, un dispositif permettant de dévérouiller son ordinateur ou son téléphone grâce à la reconnaissance faciale, de l'iris ou des empreintes digitales.
+Le mot de passe serait-il donc en train de disparaître ?
+Bill Gates l'avait déjà annoncé en 2004 , lors de la conférence RSA Security :
+« Il ne fait aucun doute qu'avec le temps, les gens se reposeront de moins en moins sur les mots de passe.
+Les gens utilisent le même mot de passe sur différents systèmes, [...] mais ils ne sont pas à la hauteur si vous voulez vraiment sécuriser quelque chose. 
+»
+« Ma vie numérique a été détruite »
+Quand leur utilisation s'est démocratisée, les usages informatiques étaient loin d'être les mêmes.
+Les mots de passe servaient généralement à s'identifier sur une machine unique, qui n'était reliée à aucun réseau.
+On ne les utilisait pas non plus pour se connecter à différents services, de sa messagerie aux réseaux sociaux, en passant par sa banque ou son téléphone.
+Si quelqu'un réussissait à pirater un mot de passe, les conséquences étaient rarement dramatiques car les données auxquelles il donnait accès étaient très limitées.
+La situation s'est renversée avec le développement d'Internet et les failles sont rapidement apparues : en plus de choisir des mots de passe trop faibles, les internautes ont tendance à utiliser tout le temps le même pour se connecter à différents services.
+Et lorsque ce n'est pas le cas, il suffit que l'un soit piraté pour que les autres soient corrompus.
+Lire : Comment choisir un bon mot de passe ?
+C'est ce qui est arrivé au journaliste de Wired Mat Honan, qui raconte dans un article comment sa « vie numérique tout entière a été détruite », après que des pirates ont réussi à obtenir son mot de passe Apple.
+Son compte Google a été supprimé, des messages racistes et homophobes ont été publiés sur son compte Twitter, et toutes les données de son iPhone, iPad et iMac ont été effacées.
+Si l'on ajoute à ces dangers la contrainte de se souvenir au quotidien de plusieurs codes, et le désagréable, et récurrent, oubli qui en résulte, le mot de passe apparaît de plus en plus dépassé.
+L'hypothèse de sa disparition revient régulièrement et fait souvent l'objet de moqueries : plus de dix ans après la prédiction de Bill Gates et malgré ses défauts, le mot de passe tient toujours bon.
+Néanmoins, son déclin vient de subir un gros coup d'accélérateur, poussé par des leaders du secteur, bien décidés à en finir les fameux avec « 123456 », « azerty » et autres « password ».
+Une bague Google
+Ces dernières années, les utilisateurs de téléphones se sont par exemple habitués à de nouvelles façons de déverrouiller leur terminal.
+Android a ainsi introduit un système de motif simple ( ou non ) à dessiner du bout du doigt pour remplacer le code à quatre chiffres.
+LG, de son côté, a déployé le « knock code », une série de tapotements qui peut s'effectuer n'importe où sur la surface de l'écran.
+Si ces gadgets empoussièrent le bon vieux PIN, il n'en reste pas moins qu'ils demeurent vulnérables aux mêmes failles : un coup d'œil derrière l'épaule suffit pour mémoriser le code et accéder au téléphone.
+De plus, tout comme « 0000 » et « 1234 » faisaient partie des codes pin les plus utilisés, certains motifs et « knock codes » sont également plus fréquemment utilisés, et donc piratables, que d'autres.
+« Nous pensons que les mot de passe ne sont plus suffisants pour la sécurité de nos utilisateurs »
+C'est pourquoi les entreprises du numérique planchent sur une révision complète des systèmes d'authentification, qui ne se baseront plus seulement sur la mémoire de l'utilisateur.
+C'est notamment le cas de Google.
+« Comme beaucoup dans cette industrie, nous pensons que les mots de passe [...] ne sont plus suffisants pour la sécurité de nos utilisateurs », annonçait son vice-président de la sécurité , Eric Grosse, dans un article de recherche publié en 2013.
+On y apprenait notamment que Google, qui incite ses utilisateurs à activer la « double authentification », dans laquelle le mot de passe est complété par un code envoyé par SMS, réfléchissait à un projet de bague contenant une petite clé USB pouvant servir à se connecter à un ordinateur et à des services en ligne.
+Ces clés de sécurité « physiques » font partie des pistes les plus sérieuses actuellement explorées pour remplacer le mot de passe.
+Ainsi, c'est l'objet, que l'utilisateur est seul à posséder, qui permet de l'authentifier.
+Le smartphone, qui ne quitte plus l'utilisateur, apparaît naturellement comme l'outil idéal pour développer ce type de dispositif.
+L'application Knock permet par exemple de déverrouiller son Mac avec un simple « toc toc » sur son iPhone.
+L'écueil est qu'il suffit de subtiliser cette clé physique afin de se faire passer pour l'utilisateur.
+Le corps, « un mot de passe absolu »
+Pour s'assurer que la personne qui tente de se connecter à un service est bien celle qu'elle prétend être, les entreprises se tournent vers une nouvelle « clé », difficile à voler ou à copier : le corps.
+Apple permet déjà d'accéder à son iPhone grâce à l'empreinte digitale.
+« Un mot de passe absolu », peut-on lire sur le site du constructeur.
+Samsung a aussi adopté la même technologie avec son Galaxy S5, permettant également de se connecter de cette façon à son compte Paypal.
+Et Windows 10 s'apprête à intégrer, en complément, la reconnaissance faciale et de l'iris.
+Afin de développer ces différentes techniques, les grands groupes du secteur se sont réunis dans l'alliance FIDO, dont la mission est de « changer la nature de l'authentification en ligne », selon son site Internet .
+Fondée en 2012, elle entend donc très clairement signer l'arrêt de mort des mots de passe traditionnels en créant un nouveau standard utilisable par tous.
+Google, Microsoft, Paypal, Samsung mais aussi Bank of America, Mastercard ou encore Visa y participent, pour « définir des mécanismes ouverts, évolutifs et interopérables ».
+Avec un absent notable : Apple, qui a développé de son côté son propre système d'authentification par empreinte digitale, loin d'être ouvert, comme à l'habitude de l'entreprise.
+Empreintes digitales piratées
+L'idée fondatrice de l'alliance FIDO est de pouvoir se connecter instantanément à plusieurs services en ligne grâce à une authentification unique.
+Celle-ci peut se faire par empreinte digitale, reconnaissance faciale ou de l'iris, à partir, par exemple, d'un simple smartphone.
+Pour protéger les données personnelles des utilisateurs, pas question, bien entendu, d'envoyer l'empreinte digitale aux différents services.
+C'est pourquoi FIDO se fonde sur le protocole « zero-knowledge proof » : le smartphone indiquera aux services en ligne que l'authentification a fonctionné, sans avoir à fournir d'informations sur l'utilisateur.
+C'est sur les standards de cette alliance que se basent Windows Hello et le Galaxy S5.
+Toutefois, en plus des inquiétudes légitimes relatives au devenir de ces données très personnelles, l'authentification biométrique s'avère loin d'être infaillible.
+Un simple moulage du doigt de l'utilisateur permet par exemple de tromper le Galaxy S5 .
+Idem pour l'iPhone 5S, berné par un autre procédé .
+Quant à la reconnaissance de l'iris, elle a elle aussi été mise en cause par le célèbre Chaos Computer Club qui, avec une simple photographie, a réussi à tromper le dispositif .
+Et que se passe-t-il si nos identifiants biométriques sont ainsi piratés ?
+Alors qu'un mot de passe volé peut facilement être remplacé, il n'en va pas de même avec l'index ou l'iris...
+Le piratage de nos identités pourrait alors prendre une tout autre dimension.
+De quoi faire passer la mésaventure de Mat Honan pour une petite promenade de santé.
+Morgane Tual

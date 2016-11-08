@@ -1,0 +1,85 @@
+| Par Alexandre Pouchard et Gabriel Coutagne
+Il en faut parfois peu pour enflammer Internet.
+Vendredi 27 février,  c'est une simple robe qui a déchaîné les passions : il y a ceux qui la voient bleu et noir, et ceux, plus nombreux encore, qui la voient blanc et or.
+Et puis ceux qui changent d'avis au cours de la journée.
+En réalité, la robe est bleue – mais n'apparaît pas forcément comme telle sur la photo, selon les individus.
+Au-delà de l'aspect anecdotique du cliché, l'épisode rappelle que tout le monde ne perçoit pas les couleurs de la même façon.
+Explications.
+ 
+Tout le monde ne perçoit pas la même chose
+De manière générale, l'œil humain est capable de percevoir ce qu'on appelle le spectre des lumières visibles .
+Cette amplitude correspond à un spectre de toutes les lumières comprises entre 390 nanomètres (nm), qui correspond au violet, et 780 nm, qui correspond au rouge.
+Mais tout le monde ne perçoit pas forcément exactement le même spectre :
+De plus, l'œil est constitué de photorécepteurs qui seront, selon les personnes, plus ou moins sensibles à la longueur d'onde et à l'intensité de la lumière qui parvient à la rétine. 
+L'information, transformée en signal électrique, remonte par le nerf optique et l'image est enfin recréée par le cortex.
+« Les couleurs sont  fabriquées  par le cerveau, rappelle Alain Sarlat, enseignant en colorimétrie à l'Ecole nationale supérieure Louis-Lumière.
+Les – bons – appareils photo sont bien meilleurs pour les capter. 
+»
+Mais l'âge, le sexe, l'éducation ou encore certaines pathologies ou l'hygiène de vie peuvent aussi faire varier l'appréciation des couleurs.
+ 
+La surexposition est « corrigée » naturellement par certains
+Disons-le tout de suite : dans le cas de la robe, le daltonisme n'a rien à voir.
+Les personnes atteintes de cette pathologie (qui toucherait environ 10 % des hommes dans le monde, mais très peu de femmes, le gène responsable étant porté par le chromosome X) ont plus de difficulté à distinguer les teintes rouges des teintes vertes.
+Cela ne joue donc pas dans la perception de la robe, qui n'est pas dans ces teintes-là.
+L'explication de la différence de perception tient probablement au fait que la photo soit surexposée, comme le montre le fond « brûlé ».
+Certaines personnes corrigent naturellement ce défaut, en effectuant une sorte de « balance des blancs » pour déterminer la couleur réelle de l'objet photographié (et voient donc la robe en bleu et noir), tandis que d'autres prennent la photo telle qu'elle est, très surexposée (et voient la robe en blanc et or).
+Nous avons réalisé plusieurs expériences avec la photo de la robe et mis bout à bout les différences de nuances.
+L'image la plus claire montre la robe, dont la surexposition a été accentuée sur un logiciel de retouche.
+Vient ensuite, à titre de comparaison, l'image qui circule sur internet.
+Vient enfin une version de l'image assombrie.
+La balance des blancs a également été neutralisée, ce qui révèle que la robe, était bien bleue au moment de la prise de vue.
+« Je crois que je vais passer le reste de ma vie à travailler sur ça. 
+»
+Elément troublant : certaines personnes ont d'abord vu la robe d'une couleur puis, quelques heures plus tard, d'une autre.
+D'abord blanc et or, puis bleu et noir, pour l'un des auteurs de ces lignes, l'inverse pour un journaliste du site américain Vice .
+A chaque fois, en regardant strictement la même image, sur le même écran.
+Pas vraiment d'explication à cela.
+« D'où viennent toutes ces différences de perception ?
+Je ne sais pas, a avoué le Dr Jay Neitz, chercheur en colorimétrie à l'université de Washington, interrogé par Vice .
+C'est l'un des exemples de différences de perception des couleurs les plus fascinants que je n'ai jamais vus.
+Je crois que je vais passer le reste de ma vie à travailler sur ça. »
+ 
+Mais au fait, qu'est ce qu'une couleur ?
+La couleur d'un objet dépend de trois éléments : la lumière qui l'éclaire, la nature physique de l'objet, et le récepteur qui l'observe.
+La lumière éclaire un objet qui, selon ses caractéristiques, va absober une partie de cette lumière et en réfléchir une autre.
+Cette lumière réféchie parvient alors à l'œil d'un observateur ou sur le capteur d'un appareil photo, pour être ensuite analysée.
+Une couleur n'existe pas de manière objective : elle n'existe que lorsqu'elle est perçue.
+ 
+Pourquoi la couleur varie entre le réel et la photo
+La température de couleur
+La température de couleur désigne la qualité chromatique de l'éclairage d'une scène.
+Son unité de mesure est le degré Kelvin (K).
+On parle de « température », car cette échelle de mesure adopte comme référent la teinte que prendrait un objet théorique (le « corps noir ») chauffé à différentes températures.
+Les températures de la plupart des sources lumineuses sont comprises entre 1500 K et 10 000 K.
+Une bougie aura une température de couleur qui tendra vers le rouge orangé (1 850 K) tandis qu'un flash électronique tendra vers le blanc bleuté (entre 5 000 et 6 500 K selon les fabricants).
+« Tous les objets changent de couleur lorsque l'on change le spectre de la lumière qui les éclaire », précise Baptiste Laborie, docteur ès sciences et spécialiste en colorimétrie.
+On adapte les appareils photo à ces conditions d'éclairage avec un paramètre bien connu : la balance des blancs.
+La nature du matériau
+Certains matériaux ont la particularité de pouvoir changer de couleur en fonction de l'angle d'incidence de la lumière.
+On parle de dichroïsme.
+Mais cela concerne surtout certains types de verres.
+Il arrive aussi que les couleurs de certains matériaux soient perçues comme identiques, dans certaines conditions d'éclairage, bien qu'ils soient différents.
+On parle alors de métamérisme .
+Certains matériaux sont par ailleurs conçus pour rendre visibles des lumières invisibles.
+Par exemple, le papier que l'on trouve dans toutes les imprimantes, ou certaines lessives, contient souvent des azurants optiques, qui absorbent la lumière ultraviolette – invisible – et la retransmettent dans le visible (avec une teinte blanc-bleu), favorisant l'impression de blancheur.
+Sans connaître la nature des tissus de la robe qui agite la Toile, il est cependant difficile de parler de ce phénomène.
+L'exposition
+Les appareils photo sont conçus pour pouvoir adapter leur exposition afin de pouvoir photographier et reproduire un objet théorique neutre reflétant 18 % de la lumière qu'il reçoit.
+On parle d'un gris neutre.
+Les appareils photo sont conçus par défaut pour produire une image rendant correctement ce gris neutre.
+Pour photographier une scène enneigée, il faut donc légèrement surexposer la scène pour que la neige paraisse blanche, là où l'appareil essaiera de la faire paraître grise.
+De la même manière, pour photographier un tas de charbon, ou une robe partiellement noire, il faudra sous-exposer légèrement la scène.
+Dans ce cas précis, le noir paraît ocre sans doute car l'image est surexposée.
+L'appareil photo, son optique et son capteur
+Selon les réglages, l'appareil photo peut produire une image très éloignée du rendu.
+Cela dépend de sa qualité de fabrication, de son âge, et de ses réglages.
+Par ailleurs, les appareils photo sont incapables d'enregistrer toutes les couleurs visibles de l'œil humain.
+Le traitement informatique de l'image
+Le traitement de l'image, au sein de l'appareil, ou dans un logiciel de retouche, peut faire varier le rendu de la scène.
+Il est possible de faire varier le rendu de la température de couleur, l'exposition, ou le rapport entre les couleurs.
+L'écran
+Comme pour un appareil photo, la qualité de fabrication de l'écran, de son âge, et de ses réglages peuvent faire varier le rendu d'une image.
+Les photographes ou les retoucheurs professionnels utilisent des écrans de haute qualité, calibrés, et conformes à l'utilisation de profils colorimétriques (les fameux profils ICC ), qui permettent d'afficher une image en prenant en compte les caractéristiques du dispositif de capture et celles du dispositif de rendu (l'écran lui même, ou une imprimante).
+Et comme l'appareil photo, les écrans sont incapables de reproduire toutes les couleurs visibles de l'œil humain.
+On parle d'ailleurs, concernant les couleurs que peut reproduire un écran, d' espace colorimétrique .
+Gabriel Coutagne

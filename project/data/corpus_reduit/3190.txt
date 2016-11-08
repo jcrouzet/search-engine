@@ -1,0 +1,33 @@
+Un logiciel espion pour iPhone suspecté d'être lié à Moscou
+Le Monde |
+| Par Olivier Dumons
+Gouvernements, ambassades, agences militaires, industrie de la défense et médias internationaux : ce sont les principales cibles d'une vague d'espionnage informatique sophistiquée, vraisemblablement initiée par des pirates russes, et baptisée « Pawn Storm », qui a débuté fin 2014.
+Les experts du cabinet de sécurité informatique Trend Micro ont repéré, le 4 février , l'existence de logiciels espion exploitant des failles des téléphones Apple , et qui constituent selon eux la « deuxième partie » de cette opération d'espionnage. 
+L'opération « Pawn Storm » avait d'abord visé en octobre les messageries accessibles par le Web, et plus particulièrement Outlook Web App de Microsoft , suivant une technique évoluée de phishing (hameçonnage, technique consistant à envoyer de faux e-mails pour piéger une personne).
+Les messageries Gmail ou Yahoo Mail n'étaient toutefois pas épargnées.
+Ont été notamment ciblés par ces attaques :
+l'agence américaine de mercenaires Academi (anciennement Blackwater) ;
+le département d'Etat américain ;
+des ministères de la défense, dont celui de la France ou de la Hongrie ;
+le SAIC (Science Applications International Corporation, fournisseur militaire du gouvernement américain) ;
+l'OSCE (Organisation pour la sécurité et la coopération en E urope) ;
+l'ambassade du Vatican en Irak ;
+des attachés et responsables militaires de plusieurs pays dont l'Irak, le Pakistan ou la Pologne ;
+plusieurs médias de radio-diffusion internationaux.
+IOS n'est plus épargné
+Depuis, des logiciels espion pour iPhone , baptisés XAgent et MadCap et à la programmation « avancée » selon Trend Micro, sont apparus.
+Ces programmes sont conçus spécifiquement pour fonctionner sous iOs.
+L'année 2014 aura en effet marqué un tournant dans la sécurité des mobiles : les applications malveillantes (« malwares », ou maliciels en français), historiquement beaucoup plus fréquentes sur le système d'exploitation mobile Android de Google , infectent maintenant les mobiles et tablettes d'Apple, même lorsqu'ils ne sont pas « jailbreakés ».
+Début novembre 2014, la société Palo Alto Networks avait annoncé la découverte du malware chinois Wirelurker , qui s'installe seul sur l'iPhone par la connexion USB d'un Macintosh infecté.
+Peu après, la société FireEye avait fait la démonstration d'une faille critique par SMS baptisée Masque Attack .
+De quoi faire déchanter les inconditionnels de la marque à la pomme, qui considéraient souvent qu'IOS était « sûr ».
+Madcap et Xagent, analysés par Trend Micro en début de mois, fonctionnent tous deux indifféremment sur iOs 7 et iOs 8.
+Le premier, qui permet notamment d' enclencher à distance le micro pour enregistrer les conversations, a pris le nom – procédé déjà classique – d'un vrai jeu à télécharger (il n'est toutefois opérationnel que si l'iPhone est débridé – « jailbreaké »).
+Un enregistreur de données et de voix furtif
+Quant au second, plus virulent et plus élaboré, il est installé par l'utilisateur (grâce à la possibilité d' ouvrir une application provenant d'un développeur non identifié ), sans passer par l'App Store, en cliquant simplement sur un lien.
+Capable d' infecter aussi bien les iPhones et iPads débridés ou non, il varie suivant le système d'exploitation installé : il s'exécute en arrière-plan, est invisible pour l'utilisateur, et ne peut quasiment pas être arrêté sur iOs 7, alors que son icône reste visible et a du mal à redémarrer seul si on stoppe son exécution sur iOs 8.
+Une fois lancé, XAgent récupère et transmet l'ensemble des SMS, contacts, photos, données de géolocalisation, liste d'applications, de processus actifs, et état du Wi-fi.
+Il est également capable d' activer l'enregistrement audio à distance, de façon transparente.
+Selon Trend Micro, les serveurs de contrôle et de transfert pirates étaient toujours actifs début février lors de leurs derniers essais.
+La sophistication et le ciblage de ces programmes interpellent les analystes qui y voient la patte de pirates discrets et très bien organisés, et donc soutenus par un gouvernement.
+Les regards se sont tournés dès octobre vers un groupe russe baptisé APT28, qui sévirait depuis 2007 et serait, selon la société américaine de sécurité informatique FireEye , une entité de hackeurs mercenaires bénéficiant d'un « sponsor gouvernemental, plus spécifiquement d'un gouvernement situé à Moscou ».

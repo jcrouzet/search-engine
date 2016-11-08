@@ -1,0 +1,16 @@
+Deux réacteurs d'avion reproduits par impression 3D
+Le Monde |
+26.02.2015 à 08h30
+C'est la première fois que deux réacteurs d'avion ont pu être reproduits grâce à l'impression tridimensionnelle.
+Des chercheurs de l'université Monash de Melbourne, en Australie, ont fait la démonstration du potentiel de l'impression 3D pour imprimer du métal de haute qualité.
+L'équipe, qui a travaillé un an sur ce projet, a créé les moteurs en démontant pièce par pièce de vieux exemplaires et en scannant chaque composant.
+Les engins sont des répliques du moteur à turbines à gaz de l'équipementier aéronautique français Safran, qui fournit les avionneurs européen Airbus et américain Boeing.
+ « L'important, c'est la reconnaissance par les principaux fabricants et sociétés d'ingénierie comme Safran et Airbus que le matériel que vous pouvez concevoir en utilisant du métal imprimé est de qualité aéronautique », a déclaré Ian Smith, membre de l'équipe scientifique.
+« TECHNOLOGIE ASSEZ PERTURBATRICE »
+« C'est une technologie assez perturbatrice.
+Nous avons vu beaucoup de choses se passer dans le domaine du plastique et du polymère, mais ce qui est passionnant c'est que cela concerne maintenant des métaux et des métaux légers, comme le titane, le nickel et l'aluminium », a-t-il dit.
+Inventée dans les années 1980, l'impression 3D permet de produire couche par couche un objet solide, d'après un fichier 3D.
+Elle utilise un processus de fabrication additive, à la fois d'injection et de solidification de matière, plastiques ou métalliques.
+La technologie pourrait être utilisée pour construire rapidement et à moindre coût des prototypes et des composants sur mesure, estiment les chercheurs.
+Les imprimantes 3D de métaux pourraient également être utilisées dans l'industrie biomédicale pour créer des prothèses ou des équipements.
+L'un des moteurs est actuellement exposé à l'Australian International Airshow de Melbourne et l'autre se trouve à Toulouse, au siège de la société française Microturbo, spécialisée dans les turbines à gaz de petite puissance.

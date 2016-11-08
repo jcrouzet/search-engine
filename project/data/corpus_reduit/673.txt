@@ -1,0 +1,24 @@
+Série de piratages de sites par « pro » et « anti-Charlie »
+Le Monde |
+| Par Damien Leloup
+« #OPCharlieHebdo », pour « opération Charlie Hebdo », contre « OPFrance » et d’autres : plusieurs sites ont été victimes d’attaques informatiques, ces derniers jours, de la part de militants islamistes ou « anti-Charlie » d’une part, et de membres du réseau informel Anonymous disant vouloir « venger » Charlie Hebdo et les autres victimes des attaques terroristes de cette semaine.
+Dernier site touché : celui du mémorial d’ Oradour-sur-Glane , dont la page d’accueil a été remplacée par un message appelant la France à « aller se faire foutre » et signé « je suis muslim et je ne suis pas Charlie ».
+En fin de semaine, le site du mémorial de Caen avait, lui aussi, été victime d’un détournement de sa page d’accueil, revendiqué par le groupe pro-islamiste tunisien Fellaga team .
+Le ou les pirates sont parvenus à s’infiltrer dans un serveur géré par une société vannetaise, hébergeant plusieurs dizaines de sites, et à remplacer la page d’accueil de tous ces sites par son message de revendication.
+Vendredi, le groupe APoca-DZ, lui aussi islamiste, avait attaqué les sites de plusieurs mairies d’ Ile-de-France , vraisemblablement selon le même mode opératoire.
+Les attaques de ce type, menées par des pirates islamistes, sont relativement courantes : les pirates recherchent des sites n’ayant pas appliqué les mises à jour de sécurité récentes à la recherche d’une faille, sans nécessairement viser un site en particulier, et ils remplacent sa page d’accueil par un message de revendication.
+Elles touchent régulièrement des sites de PME ou de mairies.
+« OPCharlieHebdo »
+Dans la nuit, le groupe Anonymous, qui a lancé cette semaine une opération « anti-islamistes », a revendiqué la mise hors ligne du site ansar-alhaqq.net
+, un site de référence de propagande djihadiste.
+Le groupe a en revanche affirmé ne pas être à l’origine d’une attaque ayant touché ou-manger-halal.fr,
+qualifiant cette opération de « raciste ».
+Le collectif informel, dont chacun peut se revendiquer – certains groupes islamistes ont d’ailleurs participé à des opérations à l’initiative des Anonymous ces dernières années – a annoncé avoir lancé une opération baptisée « OPCharlieHebdo » visant à mettre hors ligne des sites djihadistes ou à publier des listes de comptes Twitter et de pages Facebook faisant l’apologie du terrorisme.
+Lire : Sur Internet, Anonymous contre les islamistes
+Cette opération a fait l’objet de nombreuses critiques, notamment au sein de la communauté s’intéressant à la sécurité informatique .
+Accusée de risquer de compliquer les enquêtes en cours, cette opération est aussi vivement critiquée parce qu’elle utilise le blocage de sites Internet comme « outil » de défense de la liberté d’expression.
+Le compte à rebours était un piège marketing
+Anonymous avait également démenti être à l’origine du site opcharliehebdo.com, qui affichait depuis quarante-huit heures une page affichant un compte à rebours sur fond de drapeau islamique.
+Très diffusé sur les réseaux sociaux , le site avait laissé craindre qu’il s’agissait d’une menace de nouveaux attentats.
+Ce dimanche, la page unique du site a cependant été mise à jour pour renvoyer vers le site de Rantic, une société de marketing spécialisée dans la vente de trafic Web.
+Cette entreprise, qui n'a pas d'existence légale, avait déjà été impliquée dans la création d'une fausse page de menaces contre Emma Watson , au moment de la publication de photos de célébrités nues.

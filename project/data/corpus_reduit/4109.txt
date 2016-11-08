@@ -1,0 +1,51 @@
+Adobe Photoshop fêtes ses 25 ans de retouches
+Le Monde |
+Image précédente Image suivante
+Lire le diaporama Mettre en pause Rejouer
+Adobe Photoshop a fêté jeudi 19 ses 25 ans en France.
+Le logiciel de graphisme prisé par l'ensemble des professionels de l'image n'a toujours aucun concurrent réel sur le marché de la retouche photo, et reste apprécié pour son ergonomie et son intuitivité.
+Retour sur une évolution intouchable.
+Un clic, une fonction
+Photoshop, logiciel de manipulation et de création d'image par excellence, fait partie de la suite Adobe, un ensemble de logiciels professionnels conçus pour interagir entre eux.
+On y trouve aussi InDesign (publication assistée par ordinateur), Premiere (montage vidéo), Audition (montage audio) et d'autres outils de création.
+Autrefois proposé à des prix pouvant atteidre plusieurs milliers d'euros, la suite est désormais proposée contre un abonnement allant de 12 à 60 euros par mois, selon les offres et les logiciels achetés.
+Tous sont reliés par le cloud et permettent de reprendre un travail sur un autre poste plus facilement.
+Entre la première sortie d'un logiciel s'installant via une succession de disquettes, et le programme actuel, quelques constantes subsistent. 
+Le mantra du logiciel ?
+Un clic, une fonction.
+La « boîte à outils » de base - sélectionner, déplacer, gommer, etc -, présente sur l'espace de travail à l'ouverture, n'a pratiquement pas changée en 25 ans.
+Comme le montre cette vidéo de promotion de la marque.
+Quasi-monopole
+Photoshop constitue actuellement presque à lui tout seul l'offre de programmes de retouches d'images : sa principale concurrence est issue du monde des logiciels libre de droits et gratuits, comme The Gimp , qui sont jugés moins efficaces.
+Comment garder ce monopole ?
+En pratiquant une stratégie d'aquisitions, propre aux grands pontes du monde de la high-tech américain : si un outil complémentaire ou concurrent émerge, il faut l'absorber.
+Une quarantaine d'outils extérieurs sont ainsi rachetés de 1990 à 2015.
+Adobe s'est notamment offert Dreamweaver, l'éditeur de code HTML (un language basique pour un site web) en 1997, un produit si populaire qu'Adobe a retiré son propre éditeur, Golive, du marché quelques années après cette acquisition.
+Puis il a acquis la suite Flash Macromedia en 2005.
+Historiquement Macintosh
+D'abord nommé Display, puis ImagePro, Photoshop a été créé en 1987 par Thomas Knoll, alors qu'il était doctorant en informatique à l'université du Michigan.
+Sur les conseils de son frère, il présente le produit à Adobe et Apple, qui décident de l'adopter : en avril 1989, Adobe signe un accord d'exploitation de licence avec les frères Knoll, et commercialise un an plus tard « Adobe Photoshop » sur Macintosh.
+Le logiciel restera toujours intimement lié à la marque à la pomme, même s'il s'est ensuite ouvert aux ordinateurs PC à partir de sa version 2.5, en 1992.
+A sa sortie en 1990, Photoshop 1.0 ressemble d'ailleurs au Paint bien connu des utilisateurs de Windows.
+Il tourne sur le « Système 7 », le système d'exploitation rudimentaire des ordinateurs Apple Macintosh, à l'époque blancs et cubiques.
+Quatre noms y sont crédités : Thomas Knoll, son frère et deux autres programmeurs.
+La version suivante, sobrement intitulée 2.0, nécessitait 4 mégaoctets de mémoire vive, un chiffre aujourd'hui dérisoire.
+C'est elle qui intègre le « tracé », encore appelé « courbe de Bézier », fonction bien connue des utilisateurs du logiciel : une fois maîtrisée, celle-ci permet d'efficacement détourer une forme géométrique complexe dans une image.
+Gommer les yeux rouges
+L'une des innovations majeures de l'histoire de Photoshop sort en  1994 : il s'agit des calques, une fonction permettant de raccourcir des manipulations demandant de nombreux éléments, et de superposer des images dans un ordre précis.
+Au préalable, les graphistes devaient conserver individuellement leurs élément : le gain de temps est donc considérable.
+Cette invention de Thomas Knoll deviendra fondamentale et sera régulièrement mise à jour, notamment dans la possibilité de modifier un groupe de calques deux ans plus tard.
+La version 3.0 est également la première à accueillir des tablettes graphiques.
+En 1996 apparaît la possibilité d'interagir avec les autres logiciels de la suite Adobe : maîtriser l'un d'entre eux permet désormais un apprentissage plus facile des autres.
+En 2001, Photoshop se soucie de l'intuitivité de son programme et craint la marginalisation des utilisateurs qui ne comprennent pas les outils avancés.
+C'est pourquoi sort Photoshop Elements en 2001 : surfant sur l'apparition des appareils photos numérique et au développement d'une culture de l'image sur Internet, il s'ouvre à un plus large public, Elements est destiné à des manipulations d'image simples et la retouche de photos.
+Elements gardera, pendant quatre ans, l'exclusivité d'une fonction bien pratique : gommer les « yeux rouges » des photos. 
+A partir de 2004, les nouvelles versions de Photoshop sont rebaptisées « Creative Suite ».
+Elles ciblent les ordinateurs Mac équipés du système d'exploitation OS X, qui marque lui-même un virage important dans l'écosystème de bureau Apple. 
+Depuis, Photoshop n'a cessé d'améliorer ses outils, devenant de plus en plus connu même au-delà du cercle des professionnels, et utilisé pour une large palette de motifs : retouches, communication, création, détournements humoristiques, mais aussi de désinformation politique.
+Certains sites, comme Worth1000 , proposent régulièrement des concours thématisés de retouches d'images.
+Une progression spectaculaire depuis la toute première image « photoshoppée » : la femme de Thomas Knoll, radieuse, sur une plage de Bora-Bora. 
+Photoshop turns 25: - 'Jennifer in Paradise': the first ever image to be edited in Photoshop.
+http://t.co/WhJTP0oGPG
+http://t.co/S0SJ3UCXRP
+— ISIK MATER (@isik5)

@@ -1,0 +1,92 @@
+Cultures Web
+On a testé pour vous... le Raspberry Pi, l'ordinateur miniature à 35 €
+Grâce à son prix microscopique, le Pi est la solution idéale pour découvrir Linux sans risques ou pour créer un lecteur multimédia de salon.
+Le Monde |
+27.02.2015 à 17h35
+| Par Nicolas Six
+Grâce à son prix microscopique (35 euros), le Pi est la solution idéale pour découvrir Linux sans risques ou pour créer un lecteur multimédia de salon.
+Il est également au cœur de projets ambitieux : borne d'arcade, domotique, robotique… Voyons ce que ce Pi de seconde génération a dans le ventre.
+Le Pi est un ordinateur complet, grand comme un paquet de cigarettes.
+Complètement nu, il offre ses circuits électroniques au regard, comme une invitation au bricolage.
+Grâce à ses douze prises, on peut y raccorder écran, souris, clavier, et divers composants électroniques.
+Le Pi serait parfaitement à sa place dans un garage californien, entouré d'étudiants, de fers à souder, et d'idées rafraichissantes.
+Mais comme il est simple à bricoler, il trouvera sa place chez n'importe quel passionné d'informatique.
+Nous avons testé la version fabriquée par RS Components.
+Le Pi a commencé sa carrière au début de 2012.
+Il s'est vendu à cinq millions d'exemplaires, un succès considérable dans le petit monde des bidouilleurs informatiques.
+Au début de février, un nouveau Pi a fait son apparition, profondément remanié.
+Ce « Pi 2 » était attendu avec impatience par les passionnés qui reprochaient au premier modèle sa lenteur.
+Jusqu'à présent, surfer sur Internet exigeait une patience d'ange, mais la Fondation Raspberry Pi promettait une amélioration spectaculaire, avec une vitesse six fois supérieure.
+Le double cœur du Pi a été remplacé par un quadruple cœur, et sa mémoire de travail a été doublée (1 Go).
+Le principal atout du Raspberry Pi est son prix.
+En théorie, il est facturé 35 euros.
+En réalité, mieux vaut tabler sur 45 euros.
+On est forcé d'ajouter deux petites dépenses : un boîtier pour l'abriter (5 euros) et une carte SD qui fait office de mémoire (5 euros).
+La facture peut grimper rapidement, car la tentation est grande d'ajouter une antenne WiFi (10 euros), une télécommande infrarouge (5 euros) ou un clavier sans fil (20 euros).
+Le Pi est livré sans clavier, ni souris, ni câble HDMI, ni alimentation.
+Heureusement, un vieux chargeur de smartphone suffit pour le nourrir.
+Le reste des accessoires traîne dans les placards de la plupart des geeks.
+Le Pi pour les nuls
+Que faire de cet ordinateur miniature, lorsqu'on a déjà un ordinateur ?
+Une des réponses tient en deux mots : découvrir Linux, le fameux logiciel libre qui concurrence Windows.
+Linux est une véritable utopie en marche, un logiciel gratuit, sûr, modifiable librement, amélioré par des bénévoles en permanence.
+Et Linux tourne comme un charme sur le Pi.
+La communauté des passionnés a bien travaillé : l'installation est plus simple que sur un ordinateur classique.
+Et surtout, elle est sûre : aucun risque de perdre des données ou de bloquer d'une manière ou d'une autre son ordinateur principal, même si l'on est débutant complet.
+lire : Créer son ordinateur sous Linux avec le Raspberry Pi 2
+Une fois Linux installé, on accède à un petit catalogue de logiciels libres.
+Des jeux, des logiciels de programmation, des applications photo, vidéo, son.
+Depuis 2013, la suite bureautique OpenOffice est même disponible.
+Mais tous les logiciels libres ne tournent pas sur le Pi : beaucoup n'ont pas été reprogrammés pour lui.
+La Fondation Raspberry Pi promet cependant une belle surprise dans les mois qui viennent : on pourra bientôt installer Windows 10 sur le Pi.
+Microsoft se charge actuellement de bâtir une version allégée et gratuite de son prochain logiciel central.
+Mais on peut s'interroger sur l'intérêt de cette opération.
+Le cœur du Pi 2 n'est guère plus puissant qu'un smartphone bas de gamme de 2012.
+Il paraît trop juste pour propulser Windows dans des conditions acceptables de confort et de rapidité.
+Un lecteur multimédia pour la TV
+Brancher le Pi prend une seconde, grâce à la prise HDMI de la TV.
+Il ne reste plus qu'à installer l'excellent logiciel multimedia gratuit XMBC, ce qui prend moins d'une heure.
+Le Pi devient alors un bon petit ordinateur de salon, particulièrement polyvalent, à un prix défiant toute concurrence.
+On peut visionner des séquences sur YouTube, lire de vidéos, télécharger des fichiers, lancer des diaporamas photo.
+La partie graphique du Pi — inchangée — lit les vidéos HD sans saccade.
+Les informaticiens chevronnés pourront relier le Pi au réseau pour accéder aux vidéos de l'ordinateur.
+Ou lui greffer une télécommande infrarouge.
+Ou encore lui connecter un smartphone, pour le piloter de leur canapé.
+Le Pi pour les créatifs
+Conçu pour les bricoleurs, le Pi est très populaire parmi les « makers », des passionnés qui mènent des projets ambitieux, mêlant son, vidéo, composants électroniques, moteurs… Lorsqu'on observe le Pi attentivement, on remarque trois prises intrigantes : GPIO, DSI et CSI.
+Elles servent à raccorder une webcam, un écran miniature, des boutons, des potentiomètres, des émetteurs-récepteurs à différentes fréquences radio, des moteurs.
+On peut même y raccorder des capteurs coûtant quelques euros : température, humidité, luminosité, proximité, accélérations, pression, fumée, sons… Le Pi est la plate-forme idéale pour lancer un projet mêlant électronique et informatique.
+Les possibilités sont presque infinies.
+Attention, le Pi est déconseillé pour mener à bien des projets très basiques.
+On lui préférera Arduino, un petit circuit imprimé plus rapide à programmer.
+Mais il est imbattable pour les montages ambitieux impliquant une programmation logicielle sophistiquée.
+Voilà pourquoi il est si populaire en robotique, en domotique, dans l'univers des installations artistiques… Les meilleurs projets menés avec un Pi demandent des jours de travail, quand ce ne sont pas des semaines.
+On en trouve des centaines sur Internet, souvent accompagnés de modes d'emploi en anglais.
+On peut essayer de les reproduire, ou pour les meilleurs d'entre nous, de les améliorer.
+Le Pi est une école formidable.
+Il permet aux grands passionnés de rattraper une partie de leur retard sur les bricoleurs précoces.
+On pense notamment au saint patron des « makers », Steve Wozniak, génial inventeur du Mac.
+A six ans, déjà, le petit Steve jouait avec les composants rapportés par son papa de Lockheed, la firme aérospatiale où il travaillait.
+Dans les années 1960, le Pi aurait été accueilli comme une merveille technologique.
+Quatre réalisations impressionnantes
+Faisons un tour d'horizon des projets les plus inspirants réalisés avec le Pi.
+Des joueurs passionnés se sont amusés à recréer une borne d'arcade vintage équipée d'un gros joystick, de deux boutons bien ronds, et de dizaines de jeux rétro venus tout droit des années quatre-vingt.
+Au cœur de leur création, on trouve un Raspberry Pi, sur lequel un logiciel spécifique a été installé : RetroPie OS.
+Un logiciel gratuit, en téléchargement libre.
+D'autres passionnés ont utilisé RetroPie OS pour transformer une vieille Game Boy en console portable couleur, en y greffant un écran tout neuf.
+Le tutoriel est disponible sur le site Instructables.com,
+où l'on trouve des dizaines de modes d'emploi consacrés au Raspberry Pi.
+Un papa a bâti un vaisseau spatial pour ses fils.
+Il a reconstitué un cockpit bardé de boutons, de potentiomètres, tapissé de deux cents LED, et de stroboscopes.
+Un énorme haut-parleur fait vibrer la navette comme si elle décollait.
+Un écran diffuse des vidéos historiques d'Appolo.
+Le génial papa a ajouté un bras robotisé pilotable de l'intérieur de la cabine, servant aux « réparations » extravéhiculaires.
+Au cœur de l'installation, on trouve un Raspberry Pi, capable d'orchestrer des scénarios de mission inspirés d'Appolo 13.
+Une réalisation si détaillée qu'elle laisse bouche bée.
+Un passionné de Retour vers le futur a imaginé un orchestre totalement fou, composé de cinq lecteurs de disquette et de deux disques durs.
+Leurs bruits habilement pilotés par le Pi produisent des notes étonnamment justes.
+Cet orchestre infiniment geek interprète le thème de Retour vers le futur avec brio.
+Un autre bricoleur un peu fou s'est inspiré de cette installation loufoque pour reproduire une chanson de Daft Punk, avec huit lecteurs de disquette.
+Le résultat est tout à fait bluffant : le son est rugueux, métallique, puissant.
+Une réussite impressionnante.
+Nicolas Six

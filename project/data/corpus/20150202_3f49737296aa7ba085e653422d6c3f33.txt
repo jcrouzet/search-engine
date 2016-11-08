@@ -1,0 +1,51 @@
+#IDARB : comment un tweet a accouché d'un incroyable jeu vidéo
+Le Monde |
+02.02.2015 à 18h52
+Tout a commencé avec un tweet :
+Where to go with this?
+I've started a new project, it draws a red box.
+Thinking platformer.
+#helpmedev http://t.co/YmdOBhXEXq
+— Mike Mika (@MikeJMika)
+« Que faire à partir de là ?
+J'ai commencé un nouveau projet , avec ce petit rectangle rouge.
+Je pense à un jeu de plates-formes.
+#AidezMoiADevelopper »
+Mike Mika est responsable du design chez Other Ocean Interactive, un studio de jeux vidéo canadien.
+Connu pour avoir hacké un vieux « Donkey Kong » pour permettre à sa fille de jouer avec Pauline, un personnage féminin, il publie ce tweet le 3 janvier 2014, sans savoir ce qu'il vient de déclencher .
+Dans un premier temps, relate Wired , pas grand-chose : peu d'internautes daignent lui répondre .
+Mais tout s'accélère lorsque Tim Schafer, cofondateur du studio Double Fine, et suivi par plus de 200 000 personnes sur Twitter , lui suggère cette idée :
+@MikeJMika I think the red box needs to make a critical choice, and the narrative branches from there.
+— Tim Schafer (@TimOfLegend)
+« Je pense qu'il faut que le rectangle rouge fasse l'objet d'un choix crucial, et le récit en découlera.
+»
+Sa popularité offre une certaine visibilité au projet, et les contributions, plus ou moins sérieuses, commencent à affluer .
+« Il faudrait pouvoir jouer avec un rectangle bleu aussi », « On pourrait peut-être louer des films avec le rectangle rouge ».
+Mike Mika s'inspire au fur et à mesure de ces idées et publie sur Twitter chacune de ses avancées.
+Un internaute lance le hashtag #IDARB , les initiales de « It draws a red box », phrase issue du tweet initial de Mike Mika, afin de rassembler toutes les idées des internautes.
+Le hashtag se propage et les idées se multiplient.
+« LES GENS ÉTAIENT SCOTCHÉS, TELLEMENT C'ÉTAIT STUPIDE »
+« Si nous recevions une idée, 10 minutes après nous étions en train de l'essayer, explique Mike Mika à Wired.
+Comme de l'impro.
+Les gens nous proposaient des idées, et on essayait de les interpréter et de les incorporer au jeu.
+»
+Celui-ci commence à prendre forme.
+Brandon Sheffield, un game designer, suggère d' ajouter une balle, que les joueurs pourront se passer ou s' arracher pour marquer des buts.
+Enthousiaste, Mika implémente l'idée.
+We added a ball to IDARB per suggestion and it's AWESOME!
+https://t.co/r7IwrPAajL
+— Mike Mika (@MikeJMika)
+En quelques mois, le jeu devient un patchwork délirant et frénétique, compilant de nombreuses idées plus ou moins absurdes et cohérentes.
+Avec un design et un gameplay très simples, il permet à deux équipes de quatre joueurs maximum de s' affronter , qui doivent marquer un maximum de buts.
+Mike Mika, qui a décidé de développer le jeu pour la Xbox One, est invité par Microsoft à le présenter à la Game Developers Conference de San Francisco, un rassemblement de créateurs de jeux indépendants.
+« Les gens étaient scotchés, tellement c'était stupide, confie-t-il à Wired.
+C'était un mélange si bizarre que ça donnait envie aux gens de jouer. 
+»
+Et le jeu prend une tout autre dimension une fois connecté à Twitch, un site permettant de retransmettre des parties de jeu vidéo en direct .
+Dans le cas de #IDARB, il permet aussi aux internautes d' intervenir dans la partie des autres en « envoyant » des éléments perturbateurs appelés « hashbombs » .
+En publiant le hashtag #light sur Twitch ou sur Twitter, les joueurs sont par exemple plongés dans le noir.
+Avec #bomb, la balle explose.
+#Reverse inverse les contrôles des joueurs et #Oktoberfest inonde le niveau… de bière.
+Il en existe ainsi plusieurs dizaines, rendant chaque partie totalement imprévisible, à la merci de l'humeur des internautes du monde entier.
+Un joyeux chaos, digne des meilleures créations d'Internet, disponible depuis le 30 janvier sur Xbox One. 
+Jeux vidéo

@@ -1,0 +1,42 @@
+#TheButton, le mystérieux bouton qui intrigue les utilisateurs de Reddit
+Le Monde |
+08.04.2015 à 09h53
+Le mercredi 1er avril, le site Internet américain Reddit a lancé un sujet de discussion un peu particulier.
+Les personnes se rendant sur reddit.com/r/thebutton
+peuvent voir s'afficher en haut de la page un rectangle portant la mention « the button ».
+Celui-ci est composé d'un compte à rebours de 60 secondes et il y est fait mention d'un nombre de participants.
+Que se passe-t-il une fois que le temps est écoulé ?
+Personne ne le sait encore, pour la simple et bonne raison que les utilisateurs enregistrés sur le site avant le 1er avril ont la possibilité, en appuyant sur un bouton dédié, de remettre le minuteur à 60 secondes.
+Jusqu'à présent, il s'est toujours trouvé un internaute pour cliquer et relancer le compteur avant qu'il n'arrive à zéro.
+Or, chaque utilisateur ne peut le faire qu'une fois seulement, le bouton se bloquant immédiatement après.
+Personne ne sait donc pour l'instant avec certitude ce qui pourrait se passer une fois que le temps sera écoulé.
+Hiérarchie des « redditors »
+Mais ce n'est pas tout.
+En fonction du temps restant dans le chronomètre au moment où les utilisateurs (appelés redditors) appuient sur le bouton, un petit point d'une couleur différente s'affiche à côté de leur nom.
+Si celui-ci est violet, cela signifie que le redditor a appuyé entre 52 et 60 secondes, s'il est bleu c'est qu'il a pressé le bouton entre 42 et 51 secondes.
+Puis viennent le vert, le jaune et finalement le rouge, ce dernier correspondant à un clic fait entre 0 et 11 secondes avant la fin.
+S'il était au départ très rare d'observer du bleu à côté des pseudonymes, c'est désormais beaucoup plus fréquent, les utilisateurs n'ayant pas participé se faisant de plus en plus rare.
+Une sorte de hiérarchie des utilisateurs du site est en train d'apparaître, les « violets »  étant tout en bas de l'échelle, car trop impatients.
+Ils représentent une masse non négligeable des participants à l'expérience.
+Le gris désigne ceux qui ont choisi de ne pas cliquer, ou ceux qui ont créé un compte après le 1er avril.
+Partisans des 59 secondes et fidèles du zéro
+Créé en 2005, Reddit est un site Internet regroupant de nombreuses communautés éparses, intéressées par des sujets aussi divers que les jeux vidéo, les chats mignons, la géopolitique mondiale ou l'athéisme.
+Friands de contenus originaux, les utilisateurs du site ont la possibilité de voter pour les sujets de discussion qu'ils préfèrent, leur permettant d'atteindre la page d'accueil dans certains cas et donc d'accéder à une importante visibilité : 135 millions de personnes visitent le site par mois.
+Il n'est pas rare de voir des redditors se faire la guerre sur des sujets qui semblent parfois dérisoires.
+Lire : Chatons, sexe, géopolitique : le « site de buzz » Reddit lève 50 millions de dollars
+Dans le cas du « bouton », des groupes se sont formés, chacun ayant une des motivations différentes.
+Il y a par exemple /r/59s , un rassemblement qui a pour but d'appuyer sur le bouton lorsque le compte à rebours est à 59 secondes tout pile et uniquement à ce moment-là.
+Les membres de  /r/antibutton , eux, cliquent dans le seul but de le faire disparaître.
+Quant au groupuscule nommé /r/holy0 , ses fidèles croient au pouvoir du zéro et s'attendent donc à une sorte de révélation lorsque le compte à rebours arrivera à sa fin.
+Ce ne sont là que quelques exemples parmi une myriade d'autres.
+Des mèmes et des graphes
+Reddit ne serait pas vraiment Reddit sans l'inventivité de ses utilisateurs lorsqu'il s'agit d'enrichir le flot de mèmes qui accompagne chaque phénomène de la sorte – comme lors de «  Twitch Plays Pokémon  ».
+Ainsi, un utilisateur nommé « Jixaw » a sous-titré et modifié un passage de la série d'animation japonaise « Attack On Titan ».
+Lire : Le mème, ou l'art du détournement humoristique sur Internet
+De la musique a aussi été composée spécialement pour l'occasion, notamment cette chanson écrite par le redditor ThePeoplesBard en l'honneur de tous ces « violets » qui se sont précipités sur le bouton.
+Différents outils permettant de suivre ce feuilleton ont été développés, notamment ce graphique actualisé en direct qui renseigne combien de temps s'est écoulé entre deux pressions sur le bouton avec les codes couleurs évoqués plus haut.
+Un plug-in pour Google Chrome permet sensiblement la même chose et peut même émettre des alertes selon certaines conditions paramétrables.
+Une page de Reddit est consacrée à toutes les théories qui sont échafaudées en ce moment même pour essayer d'expliquer les raisons qui ont mené le site à lancer cette expérience. 
+Pour se l'expliquer, certains font référence à la série télévisée « Lost » et au personnage de Desmond qui doit, toutes les 108 minutes, rentrer un code au fond d'une station souterraine sous peine de voir une catastrophe arriver.
+Guère rassurant.
+Xavier Eutrope

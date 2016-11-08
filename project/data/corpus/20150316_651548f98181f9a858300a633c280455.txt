@@ -1,0 +1,17 @@
+La NASA propose un logiciel gratuit pour l'aider à découvrir des astéroïdes
+Le Monde |
+16.03.2015 à 12h02
+Les astronomes amateurs vont désormais pouvoir contribuer aux recherches de la NASA.
+Celle-ci a dévoilé dimanche 15 mars, lors du festival South by Southwest (SXSWà Austin, au Texas, un logiciel permettant d'analyser des images du ciel et d'y détecter la présence d'astéroïdes.
+Suivez au quotidien les découvertes de nos journalistes au festival SXSW
+Un an plus tôt, au même festival, la NASA avait lancé un concours ouvert à tous, doté d'une récompense de 55 000 dollars (52 000 euros) pour ceux qui réussiraient à améliorer son algorithme de détection des astéroïdes.
+Quelques mois plus tard, c'était chose faite : grâce aux contributions des participants, le nouvel algorithme est capable de détecter 15 % d'astéroïdes de plus que le précédent et produit des données plus fiables.
+Au lieu de conserver cet outil pour elle, la NASA a décidé de le rendre accessible à tous, sur PC ou Mac et en « open source ».
+Intitulé « Asteroid Data Hunter » , ce logiciel, qui se veut simple d'installation et d'utilisation, permet à chaque astronome en herbe d'analyser les images de son propre télescope.
+Quand un astéroïde est détecté, le logiciel vérifie s'il a déjà été découvert et transmet les nouvelles trouvailles au Minor Planet Center, un centre financé par la NASA.
+Science participative
+En multipliant les données traitées, avec un outil plus efficace, la NASA espère augmenter de façon significative le nombre d'astéroïdes détectés, mais aussi repérer plus rapidement ceux qui pourraient représenter un danger pour la planète.
+Ce n'est pas la première fois que la science fait appel au grand public pour l'aider dans ses recherches.
+Dès 1999, le programme de Berkeley Seti@home permettait à chaque internaute de mettre à disposition la puissance de son ordinateur pour analyser les données d'un radiotélescope... afin de détecter une éventuelle trace de vie extraterrestre.
+Depuis 2007, l'application Galaxy Zoo propose aux internautes de classifier des galaxies à partir de photos prises par le télescope Hubble.
+Avec succès : l'année de son lancement, pas moins de 50 millions de classifications ont été réalisées par plus de 150 000 personnes.

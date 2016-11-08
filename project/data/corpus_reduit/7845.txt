@@ -1,0 +1,108 @@
+Cultures Web
+On a testé pour vous... les jeux en réalité virtuelle de l’Oculus Rift
+Du simulateur de montagnes russes à l'explorateur intergalactique, en passant par la balançoire perchée dans le ciel, la rédaction de Pixels a enfilé un casque de réalité virtuelle pour essayer les applications du futur.
+Le Monde |
+04.04.2015 à 13h54
+| Par Benjamin Benoit
+« Il ne faut pas forcer.
+Si tu ne te sens pas bien, il faut arrêter immédiatement.
+Je connais quelqu'un qui en a trop abusé sans faire de pause, il a été malade pendant trois jours. 
+» Nicolas, 28 ans, est auto-entrepreneur.
+Il vit entouré de boîtes en carton, d'accessoires de jeux et de périphériques compliqués.
+Et c'est avant tout un fan de réalité virtuelle...
+Il avoue avoir dépensé plusieurs milliers de dollars en appareils divers et projets de crowdfunding, dont les deux premiers prototypes de l'Oculus Rift, le plus emblématique des casques de réalité virtuelle.
+Il n'hésite pas à le présenter régulièrement à son entourage.
+Ce jour-là, je suis son nouveau cobaye.
+Voir aussi notre vidéo : HoloLens, Oculus Rift : que font les casques qui changent la réalité ?
+Nicolas m'installe dans un double mètre carré qui rappelle un siège de Matrix.
+Chaque membre est occupé.
+Pédales aux pieds, manette d'accélération à gauche, joystick à droite, et bientôt un Oculus sur le nez.
+Exactement comme dans le film Cyberpunk, mieux vaut avoir un camarade pour piloter les programmes à lancer, la vision du cobaye étant totalement limitée par les deux écrans.
+De l'aveu de mon démonstrateur du jour, l'installation sur ordinateur n'est pas intuitive.
+« C'est un prototype, c'est normal. 
+» En l'occurrence, il s'agit d'un Oculus DK2, disponible à la vente en ligne .
+Son premier modèle, trop rapidement obsolète, était un frein à l'immersion : une résolution moindre donc de plus gros pixels, des ralentissements, des contraintes techniques qui nuisaient fortement à l'expérience.
+Premières immersions
+Première impression : tout me semble flou.
+La phase de calibration de notre Oculus rappelle un test chez l'opticien.
+Une mesure entre les pupilles est nécessaire : un œil, puis l'autre, une petite gymnastique occulaire nécessaire pour aboutir à un affichage net des textes et de l'image.
+A un mètre de moi, posée sur une table, une caméra suit mes déplacements.
+Une fois l'ensemble calibré, me voilà catapulté dans un bureau virtuel.
+Je ne vois plus qu'un seul écran, sans aucun souci de luminosité, à l'inverse d'une séance de cinéma en trois dimensions.
+Etonnante impression, presque effrayante : celle d'être dans une bulle au point d'en oublier l'existence de mon environnement réel.
+Devant moi, je ne vois plus qu'une pièce blanche virtuelle, qui sert d'interface de lancement.
+Face à moi, des objets virtuels : une feuille de papier, un crayon et un château de cartes, tous décoratifs.
+Ce bureau n'est rien de plus qu'un fond d'écran virtuel qui va tester votre curiosité.
+En vrai, le risque est surtout de blesser son copilote.
+Commence alors une présentation de divers jeux représentatifs des capacités et du potentiel de l'Oculus.
+Je me retrouve alors dans Rollercoaster , un projet de simulation de montagnes russes développé par des étudiants.
+Les sensations sont épatantes.
+Comme pour la majorité des jeux sur Oculus, on peut regarder derrière soi et profiter d'une vision à 360 degrés.
+On oublie vite l'absence de ses propres genoux quand on regarde en bas.
+La toute première immersion est mémorable, même si l'effet s'estompe au bout de trois ou quatre descentes seulement.
+Le cerveau s'habitue vite.
+Un cran au dessus dans le genre des manèges virtuels : Cyberspace .
+Cette fois, me voilà dans une balançoire géante au dessus d'une ville évoquant Paris, à plusieurs centaines de mètres du sol, et sur des distances surréalistes.
+Je me cramponne littéralement à mon siège.
+Chaque retour de balancement est très violent, je m'imagine le vent dans les cheveux.
+La sensation de grande vitesse et de mouvements virtuels est bien rendue et éprouvante.
+On me réserve même une petite surprise : une éjection en pleine accélération, suivie d'une chute hyperréaliste sur deux cent mètres.
+Une sirène d'ambulance retentit quand le programme s'arrête.
+Sentiment de surprise, et un léger haut-le-cœur teinté d'un soupçon de rancœur vis-à-vis de mon guide, qui s'est bien gardé de m'avertir.
+Cyber mal de mer
+« C'est là qu'on va voir si tu es vraiment sensible aux mouvements. 
+» Effectivement, le malaise est à son summum avec Windlands.
+Dans ce jeu de plate-forme, le joueur doit utiliser deux types de grappins pour se balancer à la manière de Spider-Man.
+L'expérience est intéressante mais vite écœurante.
+«  Vanguard V » est un jeu adoptant une autre approche de détection de mouvements pour limiter ces effets secondaires : on doit faire progresser un personnage sur un rail virtuel dans l'espace.
+On détruit les ennemis et déplace le personnage en bougant la tête et le champ de vision.
+Très maniable, cette manière de jouer limite au mieux les potentielles nausées.
+A ce stade, je dois arrêter l'expérience régulièrement.
+« Certaines personnes sont plus sensibles au  motion sickness , une forme de mal des transports, que d'autres, explique-t-il.
+Il y a une différence entre tes sens et ce que perçoit l'oreille interne, mais cette fois, c'est l'inverse, puisque tu ne bouges pas.
+Ton cerveau interprète. 
+» Et effectivement, le malaise persiste et est proportionnel à la longueur de la session de jeu.
+Heureusement, les jeux peuvent aussi être plus relaxants.
+En théorie, du moins.
+Dans Nekolus , je suis coincé dans une pièce avec un nombre variable de chats ou, vu leurs dimensions, de petits tigres.
+Miaulements constants et essaims de félins géants rendent l'ensemble étrangement anxiogène.
+Une erreur de manipulation « bloque » la détection de mouvements et fixe soudainement le champ de vision : le cerveau panique et envoie des sensations de mal-être nouvelles.
+C'est aussi ça, l'Oculus Rift.
+Les plus terre à terre peuvent toujours jouer au jeu de camions Eurotruck Simulator 2 : moins dépaysant, il a le même but, mais à travers l'Europe.
+La réalité virtuelle permet de regarder plus simplement à gauche et à droite avant de s'engager sur une voie, par exemple.
+Une activité plus relaxante et tout aussi addictive : pourquoi vivre la joie des longs trajets en autoroute si on peut les simuler à la maison ?
+Dans l'espace, exploration et éducation  
+Hors des démos purement fondées sur les sensations ou les expériences, Titans Of Space est un bon exemple de jeu au potentiel éducatif.
+Toujours sur des rails virtuels, il m'emmène en balade à travers notre système solaire, et explore quelques étoiles au-delà.
+On saute de planète en planète, les échelles sont régulièrement changées pour mettre les distances et les ordres de grandeur en perspective.
+Même sa conclusion, apocalyptique, est instructive.
+Où trouver ces jeux ?
+«  Tout se trouve sur [le site participatif] Reddit .
+La communauté est très active. 
+» Un vivier en anglais où développeurs et possesseurs du kit échangent créations et impressions.
+On peut également trouver un répertoire de jeux et démos jouables sur le site officiel Oculus Share.
+Il classe les jeux selon « confort » et compatibilité avec les différents modèles : DK1, DK2 ou ou GearVR, accessoire en partenariat avec Samsung pour les mobiles Galaxy Note 4.
+Vient enfin le test que j'attendais le plus : Elite : Dangerous .
+Ce jeu d'exploration spatiale, sorti en fin d'année dernière, vous permet de naviguer à travers la voie lactée depuis le cockpit d'un vaisseau.
+Un simulateur de promenade dans l'espace, en somme, à jouer en écoutant la radio ou son podcast favori, tant l'exploration est lente et se prête à une activité de fond.
+L'Oculus Rift sert juste à voir autour de soi, le pilotage se fait au son au clavier, à la manette, avec un joystick, ou encore avec des pédales.
+Pour la première fois, j'y joue sans voir mes mains, pourtant reproduites dans un cockpit à l'écran.
+De chaque coté, un pad et deux pédales en bas.
+En regardant à mes pieds, je peux me voir en combinaison spatiale.
+En tournant la tête, les panneaux de commandes indispensables se déclenchent tout seuls.
+Machine à laver géante
+J'ai la chance de déjà connaître le jeu, qui est peu évident à appréhender.
+Avec ses dizaines de boutons à mémoriser, ce Flight Simulator de l'espace demande une importante gymnastique mentale, qui devient encore plus difficile avec le casque de réalité virtuelle, celui-ci vous empêchant de voir ce qu'il y a sous vos mains.
+Il faut également se déplacer – dans l'espace – pour s'approcher des textes qui s'affichent à l'écran.
+Etonnant sur le papier, mais cohérent dans le contexte.
+Encore une fois, j'oublie la réalité autour de moi : je suis en train de manœuvrer dans l'espace, concentré sur mon décollage de la station orbitale.
+A défaut du sentiment de poussée, l'impression de vitesse est réelle.
+En revanche, dès que je joue mal, comme en phase d'approche, c'est la catastrophe.
+Le vaisseau se met à virevolter en tout sens, me faisant perdre tous mes repères sensoriels.
+Trop de sensations fortes, trop de roulis tridimensionnel : l'Oculus Rift donne l'impression d'être enfermé dans une machine à laver géante.
+Définitivement, il faut arrêter.
+Nicolas voit mon teint ; il est inquiet.
+Pour certains, l'Oculus Rift est une expérience dont on ne sort pas indemne.
+Plusieurs heures après, Nicolas me ramène en voiture.
+Le mal de mer est toujours présent ; il ne s'estompera qu'au bout de trois bonnes heures.
+Benjamin Benoit

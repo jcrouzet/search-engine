@@ -1,0 +1,32 @@
+Partir et revenir : un vol spatial expérimental pour l’Europe
+Le Monde |
+| Par David Larousserie
+Mercredi 11 février, l’ Europe va tenter de rejoindre le cercle fermé des pays capables de ramener des véhicules spatiaux sur Terre depuis l’espace.
+Elle testera plus précisément la rentrée dans l’atmosphère de l’« IXV » (Intermediate eXperimental Vehicle), un véhicule cylindrique, sans aile mais pilotable, d’environ 2 tonnes pour 5 mètres de long.
+Ce module expérimental est construit par l’entreprise franco-italienne Thales Alenia Space sous l’égide de l’Agence spatiale européenne (ESA).
+A 14 heures (heure de Paris ), une fusée Vega, la plus petite de la famille des lanceurs d’Arianespace, lancera l’« IXV » depuis Kourou, en Guyane , pour un vol d’une heure et quarante minutes, qui verra l’engin atteindre quasiment l’orbite de la station spatiale internationale (plus de 400 kilomètres d’altitude) avant de retomber sur Terre et de s’abîmer sous son parachute dans le Pacifique, à plus de 2000 kilomètres des côtes du Mexique .
+Les ingénieurs entendent tester plusieurs aspects de l’engin lors de ce vol si particulier, dont la résistance de la structure à la rentrée dans l’atmosphère.
+A la vitesse de quelque 7,5 km/s, la température atteindra les 1 700 C sur la coque ; des conditions impossibles à étudier sur Terre.
+Une matrice de céramique contenant des fibres de carbone est censée tenir le choc et protéger l’habitacle.
+Le système de navigation sera aussi particulièrement suivi car c’est la première fois qu’un tel engin volera.
+Sans aile, il dispose seulement de quatre tuyères et de deux volets arrière inclinables pour maintenir sa trajectoire.
+Une mauvaise inclinaison peut soit désintégrer la capsule, soit la faire tomber au mauvais endroit.
+Au total , 300 capteurs équipent le prototype pour enregistrer le comportement du véhicule, sa trajectoire et les conditions de l’environnement. 
+« Nous testons plusieurs premières, comme la forme de l’engin, ses matériaux de protection, le guidage.
+Nous avons tout fait pour la réussite de ce vol, mais c’est expérimental, alors… », rappelle Giorgio Tumino, le chef de la mission pour l’ESA.
+La suite, dans le cadre du programme PRIDE (Program for Reusable In-orbit Demonstrator in Europe) déjà voté, dépendra du succès de ce premier vol à 150 millions d’euros et de l’analyse des différents paramètres.
+Les premières applications ne sont pas décidées et pourraient concerner soit des missions de retour d’échantillons depuis des planètes ou des astéroïdes, soit du rapatriement d’équipement depuis la Station spatiale internationale (ISS).
+Pour accueillir des passagers, le véhicule devra nécessairement être modifié.
+Plus lourd et volumineux, il ne pourra alors être envoyé en orbite par une fusée Vega mais plutôt par la future Ariane 6.
+Il est aussi prévu que l’atterrissage ne se fasse pas en mer, ce qui empêche la réutilisation du véhicule, mais sur la terre ferme.
+Même en incluant celles qui disposent de missiles balistiques intercontinentaux, peu de nations maîtrisent les rentrées dans l’atmosphère.
+Pionniers avec le vol de Gagarine (1961), les Russes disposent des modules Soyouz, des capsules non pilotables, qui ont été maintes fois utilisés pour des aller-retour de la station spatiale ou de vols prolongés en orbite – et sont aujourd’hui le seul « taxi » disponible pour se rendre sur l’ISS.
+Les modules habités utilisés par les Chinois s’en sont inspirés.
+Vaisseaux commerciaux
+Les Américains, avec les vols lunaires puis les navettes spatiales, possèdent bien sûr aussi cette technologie, dont ils poursuivent le développement : ainsi, leur dernier modèle X37-B (pour Boeing) inhabité s’est posé sur Terre en octobre 2014 après quelque 670 jours en orbite.
+En décembre 2014, le futur vaisseau habité Orion de la NASA a aussi effectué une rentrée atmosphérique (sans passagers) pour tester son bouclier thermique et son système de parachute.
+Et côté commercial, la jeune société américaine SpaceX, fondée par Elon Musk, sait, elle aussi, traverser l’atmosphère sans encombre : mardi 10 février, son vaisseau cargo commercial s’est détaché de l’ISS pour plonger vers le large de la Californie avec du fret à son bord.
+En attendant la version habitée, le Dragon V2, qui, avec son homologue de Boeing, le CST-100, doit mettre fin à compter de 2017 à la dépendance des Etats-Unis envers la Russie pour l’accès à l’espace de leurs astronautes.
+L’Europe, elle, avait fait une première tentative avec le projet de navette Hermès qui a été abandonné en 1992.
+Son véhicule de transfert automatique (ATV), qui dessert régulièrement l’ISS, n’a pas été conçu pour regagner la Terre sain et sauf : dans quelques jours, le cinquième de ces vaisseaux construits s’embrasera dans l’atmosphère après avoir quitté la station.
+Une caméra embarquée filmera ses derniers instants, là encore pour mieux comprendre la physique de ce passage si délicat entre le vide spatial et notre atmosphère.

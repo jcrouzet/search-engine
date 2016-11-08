@@ -1,0 +1,26 @@
+La fin de Secret, l'application anonyme au succès éphémère
+Le Monde |
+30.04.2015 à 17h04
+| Par Xavier Eutrope
+L'application anonyme Secret va être abandonnée, seize mois seulement après son lancement, a annoncé son créateur mercredi 29 avril dans un poste de blog .
+Il y explique notamment que « Secret ne ressemble pas à la vision [qu'il] avait lorsque la société a été lancée », sans plus de précision.
+L'application a été créée par deux anciens employés de Google, David Byttow et Chrys Bader-Wechseler.
+Lancée il y a plus d'un an, elle avait connu un certain retentissement dans la Silicon Valley.
+Celle-ci permettait à un utilisateur de poster anonymement des messages que seuls peuvent voir ses « amis » ainsi que les « amis » de ces derniers.
+Ces contacts étaient piochés dans le carnet d'adresses de chacun des usagers de l'application, ce qui n'empêchait pas d'avoir une idée de l'identité des personnes derrière les messages anonymes.
+L'entreprise avait réussi à lever 35 millions de dollars au cours de sa courte existence.
+Son fondateur s'est engagé à rembourser les investisseurs qui avaient cru en la société.
+Une série de problèmes
+L'essor de l'application s'est rapidement heurté aux dérives rendues possibles par l'anonymat.
+De nombreux utilisateurs, essentiellement dans le secteur des nouvelles technologies, ont en effet utilisé l'application pour critiquer et diffuser des rumeurs à propos des entreprises de la Silicon Valley et de leurs employés .
+Lors d'une conférence donnée à SXSW en mars 2014 , M. Byttow avait réfuté cette critique en estimant que « [sur Secret], on ne voyait pas beaucoup d'agressions, si ce n'est aucune ».
+Lire aussi : Secret, Whisper : que trouve-t-on sur les nouveaux réseaux sociaux « anti-Facebook » ? 
+Cette réputation a collé à la peau de Secret et, en août 2014, les développeurs ont intégré un bouclier « anti-harcèlement ».
+Celui-ci devait bloquer tous les messages qui contenaient, en plus des menaces et des discours haineux, des informations privées comme des numéros de téléphone ou des adresses mails.
+Mais celui-ci s'est montré assez inefficace, comme l'ont montré des journalistes de Fortune .
+De nombreux problèmes de sécurité, concernant les données des utilisateurs, mettant en danger leur anonymat et leurs messages, ont été révélés.
+Selon le site spécialisé Wired , près de quarante-deux failles de sécurité ont été découvertes.
+A la fin 2014, l'application avait opéré un changement drastique de son allure minimaliste en rapprochant son design de son concurrent direct, Yik Yak.
+Une des raisons qui ont conduit, en janvier, Chrys Bader-Wechseler, le cofondateur, à quitter l'entreprise.
+Enfin, c'est aussi l'essoufflement de la croissance de l'application qui a pu précipiter la décision de son fondateur.
+Même si l'entreprise n'a jamais communiqué de chiffres, en un an, l'application a dégringolé de la 11e place des applications sociales les plus téléchargées à la 189e.

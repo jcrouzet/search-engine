@@ -1,0 +1,39 @@
+L'appli qui met votre fac ou école à portée de smartphone
+Le Monde.fr
+| 04.02.2015 à 20h15 • Mis à jour le 04.02.2015 à 20h15
+à partir de 1 €
+Partager
+Se retrouver un lundi matin devant un amphi fermé avec la mention « cours annulé » placardée sur la porte est une situation qui révulse chaque étudiant qui y a été déjà confronté.
+C'est notamment pour pallier cette incurie que Victor Wacrenier, 26 ans, et Antoine Popineau, 25 ans, deux anciens étudiants en ingénierie informatique de Supinfo, ont lancé l'application mobile Appscho.
+Son objectif ?
+Faciliter la communication entre les étudiants et leur établissement.
+« Nous nous sommes rendu compte que bien souvent passé le seuil de l'établissement, les étudiants perdaient le contact avec leur école, explique Victor Wacrenier, directeur de la start-up.
+Ils n'étaient plus tenus au courant des changements de planning, de salles ou des annulations de cours.
+» Appscho propose des notifications sur smartphone qui les prévient de tout changement de programme.
+Connectée à l'intranet de l'établissement, elle permet aussi à l'étudiant d'accéder à ses différentes fonctionnalités : messagerie électronique, conférences, événements et résultats d'examens.
+« L'intranet est le point de contact quotidien entre un étudiant et son école, explique Victor Wacrenier.
+Il s'y rend pour suivre ses cours, consulter son planning, ses notes, ses frais de scolarité, sa sécurité sociale.
+S'il tombe en panne, toute la scolarité s'arrête.
+Les administrations ne peuvent plus gérer les cours, ni communiquer efficacement avec les étudiants.
+Pourtant les systèmes intranet sont souvent lourds, peu pratiques et inaccessibles en itinérance.
+»
+UNE APPLICATION PAR ÉCOLE
+Sur l'interface épurée de l'application, les étudiants peuvent donc se connecter avec leur identifiant intranet. 
+« Nous n'avons pas vocation à perturber les habitudes des profs et des étudiants mais plutôt de faire le lien avec un nouvel outil informatique.
+» L'appli dispose aussi d'une partie accessible à tous, avec des informations pratiques sur l'établissement et ses formations, utiles aux étudiants qui souhaiteraient s'y inscrire.
+Victor Wacrenier ne connaît qu'un réel équivalent à leur projet, une application britannique nommée CampusM.
+« Contrairement au reste de la concurrence, on s'adapte à chaque école en adoptant leur logo, leurs couleurs, leur charte graphique et leur contenu », explique-t-il.
+Il n'y a donc pas qu'une Appscho mais une multitude de moutures.
+La jeune start-up s'adapte aux besoins de chaque établissement et l'appli finale porte le nom de celui-ci. 
+PLAN 3D ET RÉSERVATION DE LIVRES
+Lancé sur un coin de table en février 2014, le projet a bénéficié d'une bourse Google de 100 000 dollars et a été développé en collaboration avec l'ESCP Europe, où Victor Wacrenier a étudié avant d'intégrer Supinfo.
+400 étudiants du master European Business ont testé l'application entre septembre et décembre pour relever les bugs et soumettre des idées d'amélioration.
+« Nous avons déjà plusieurs concepts de nouvelles fonctionnalités à implémenter dans l'application », opine Victor : les plans 3D internes des établissements pour trouver sa salle de cours plus facilement, la géolocalisation de son prof dans le bâtiment, une option de chat en groupe de travail ou la réservation de livres de la bibliothèque.
+Les deux jeunes hommes ont déjà signé des contrats avec l'ESCP Europe et Supinfo, dont les applis seront déployées courant février.
+« D'ici juin, nous espérons avoir signé avec une dizaine d'établissements supplémentaires, soutient le directeur d'Appscho.
+Nous négocions aussi avec un conglomérat de 22 écoles.
+» Principalement des établissements privés, car « en termes de gouvernance et prise de décision, les démarches sont plus rapides que dans le public », précise son associé.
+Chaque établissement paiera entre 50 centimes et un euro par étudiant et par mois pour déployer sa version de l'application.
+Les étudiants pourront la télécharger librement sur iOS ou Android. 
+« Nous prévoyons une version Windows Phone au plus tôt pour la rentrée 2015, si la demande suit », assure Antoine Popineau.
+Matteo Maillard

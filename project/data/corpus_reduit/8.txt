@@ -1,0 +1,41 @@
+| Par Sandrine Cabut
+Le cancer, une histoire de malchance plus que d'environnement ou de mauvais gènes ?
+C'est la thèse étonnante de deux chercheurs américains, dont les travaux sont publiés dans la revue Science du 2 janvier .
+Selon les estimations de Cristian Tomasetti et Bert Vogelstein (Johns Hopkins Kimmel Cancer Center, Baltimore), les deux tiers de l'incidence des tumeurs malignes de l'adulte relèveraient essentiellement d’un mauvais hasard, rançon de mutations aléatoires survenant lors des divisions des cellules souches.
+Les facteurs de risque classiques ( tabac , alcool , alimentation, virus, polluants...) ou une susceptibilité génétique n’interviendraient que dans un tiers des cas.
+Des cancérologues français soulignent toutefois des limites méthodologiques : les cancers du sein et de la prostate, les plus fréquents, n’ont ainsi pas été étudiés.
+Les deux Américains sont partis d'un constat bien connu: l'incidence des cancers est très variable selon les organes.
+Ainsi, le risque de se voir diagnostiquer une tumeur maligne au cours de la vie est de 6,9 % pour le poumon ; 0,6 % pour le cerveau ; et seulement 0,00072 % pour les cartilages du larynx.
+Certes, écrivent-ils, les écarts sont dûs en partie à l’exposition à des substances cancérigènes ou à une susceptibilité génétique, mais cela n'explique pas tout.
+Pourquoi par exemple les cancers de l'intestin grêle sont-ils 20 fois moins fréquents que ceux du colon ou du rectum ?
+« Une maladie du vieillissement »
+Pour évaluer la part du hasard (effet stochastique) comparativement aux autres facteurs, les chercheurs ont pris en compte la dynamique de renouvellement des cellules souches dans les tissus.
+On peut en effet supposer que plus le nombre de divisions est élevé, plus le risque de mutations aléatoires et donc de cancer augmente.
+Le duo a sélectionné 31 cancers où ces données étaient disponibles, et les ont mises en regard de l'incidence de chaque tumeur au cours de la vie dans la population américaine.
+La corrélation entre le nombre total de divisions des cellules souches dans un organe donné et le risque de survenue d'un cancer dans ce même tissu s'est révélée très nette.
+Par exemple, les cellules souches du colon se divisent quatre fois plus que celles de l’intestin grêle, ce qui éclaire mieux la différence d’incidence de ces deux tumeurs.
+Finalement, les cancers ont été classés en deux groupes.
+Dans le premier, les 22 cancers (dont ceux du pancréas, les mélanomes, les tumeurs du poumon des non-fumeurs) où le rôle du hasard est prépondérant.
+Le deuxième correspond aux neuf tumeurs (cancers du côlon, du poumon des fumeurs…) où d’autres facteurs sont clairement impliqués.
+Même dans ce groupe, la dynamique de renouvellement des tissus joue un rôle « essentiel », les effets de l'environnement et de la génétique ne font que s' ajouter , insistent les auteurs.
+Pour les cancers du premier groupe, des mesures de prévention ont peu de chances d' être efficaces et il est préférable de miser sur le dépistage, proposent-ils.
+Inversement, la prévention se justifie dans les tumeurs où le rôle de l’environnement est avéré.
+Les causes exogènes de cancers, comme la pollution, l’alimentation surévalués ?
+« C’est une approche séduisante, et leurs graphiques sont impressionnants, souligne le professeur Fabien Calvo (Institut Gustave Roussy), directeur scientifique de Cancer Core Europe , qui fédère six centres européens de recherche sur le cancer.
+En fait, ces résultats confortent la théorie classique selon laquelle les cancers sont une maladie du vieillissement, puisque les risques sont proportionnels au nombre total de divisions des cellules souches.
+»
+Le docteur Fabrice Denis, cancérologue au Mans et chercheur associé à l'université de Rouen , est sur la même ligne.
+« Depuis quelques années, il y a beaucoup d'emphase sur les causes exogènes de cancers, comme la pollution, l’alimentation..., mais ces travaux confirment que ce sont avant tout des maladies des personnes âgées.
+Ils accréditent aussi l'idée que quand l'espérance de vie progresse rapidement, ce qui a été le cas chez l'humain qui a multiplié la sienne par trois en deux siècles, la biologie ne suit pas ».
+Cancers du sein et de la prostate pas pris en compte
+L’inventaire des gènes de prédisposition aux cancers – impliqués dans 5 % à 10 % des cas – est loin d’être terminé, notent cependant les spécialistes français.
+Surtout, les deux tumeurs les plus fréquentes (sein et prostate) n’ont pas été prises en compte dans l’étude, ce qui pourrait modifier le poids énorme du hasard (65 %, avec un intervalle de confiance large) avancé par les Américains.
+« Les estimations du nombre de divisions des cellules souches dans ces tissus ne nous semblaient pas fiables, justifie Cristian Tomasetti.
+Par exemple, pour les cancers du sein, ces données sont très controversées et dépendent des facteurs hormonaux.
+» Les causes de l’augmentation de ces tumeurs sont elles-mêmes sujettes à débat.
+Enfin, le rôle de produits cancérigènes tels le tabac reste majeur : pour le poumon, le risque « spontané » est multiplié par 70.
+Le tabac est impliqué dans 17 types de cancers, et il est responsable de plus de 20 % de la mortalité par ces maladies dans le monde.
+Une chose est sûre, les sciences mathématiques occupent une place croissante en cancérologie.
+Fabrice Denis et Christophe Letellier (CNRS, Rouen) ont ainsi récemment publié un modèle fondé sur la théorie du chaos, qui retrouve les différentes dynamiques des cancers en fonction des interactions entre les cellules tumorales et les autres cellules du patient.
+A la clé, des applications concrètes pour détecter précocement les rechutes.
+Des essais cliniques sont déjà en cours dans des cancers du poumon.

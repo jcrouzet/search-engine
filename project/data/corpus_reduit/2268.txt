@@ -1,0 +1,68 @@
+Au procès Silk Road, les coulisses de la vente en ligne de drogues
+Le Monde |
+30.01.2015 à 20h49
+| Par Julie Carriat
+Au procès , débuté le 13 janvier, de Silk Road, plus grand site de vente de drogue entre 2011 et 2013, les preuves s'accumulent contre son créateur Ross Ulbricht, qui plaide non-coupable.
+Saisis sur son ordinateur portable, un historique accablant de chats avec des employés de Silk Road et un journal intime détaillent les hauts et les bas du jeune entrepreneur de la drogue, et révèlent l'étrange fonctionnement d'un site à la pharmacopée exhaustive.
+Jeudi 29 janvier, un agent du FBI décrivait comment il était parvenu à suivre la route de 134 millions de dollars en bitboins jusqu'aux portefeuilles virtuels du jeune homme, sur son ordinateur portable.
+Après les tentatives de la défense de faire porter le chapeau de « Dread Pirates Robert » (DPR), administrateur du site, à d'autres anonymes du « Darknet », l'Internet anonyme fondé sur le réseau Tor, et notamment à l'ex « baron du bitcoin » français Mark Karpeles, les chances d'éxonérer Ross Ulbricht de toute culpabilité s'amenuisent.
+Il risque une peine de prison allant jusqu'à la perpétuité.
+Retour sur la « route de la soie » de Ross Ulbricht, d'après les éléments de l' enquête avancés par l'accusation, et publiés par Motherboard .
+AUTO-ENTREPRENEUR SOLITAIRE
+Au début, Ross Ulbricht est seul, il lance en quelques lignes de code un site où vendre des champignons hallucinogènes.
+Surpris par le succès, il se souvient dans son journal : « Répondre aux messages, faire passer les paiements, et réparer le code source contre des failles de sécurité récurrentes : j'avais très peu de temps libre.
+Dire qu'en plus j'avais une copine à l'époque. 
+»
+Très vite, les clients s'inscrivent et Ulbricht délègue à de nouveaux vendeurs la mise en vitrine de produits plus diversifiés.
+Le 1er juin 2011, le site américain Gawker révèle au grand public l'existence de Silk Road et les ventes s'envolent.
+La nécessité de s' entourer se fait sentir .
+Outre quelques employés sous pseudonyme formés à distance, il se trouve un mentor, Variety Jones (VJ), qui cultive son ambition et le met en garde contre d'importantes failles de sécurité dans le site.
+Ulbricht a parfois du mal à garder intact son secret.
+La lecture au procès du journal d'Ulbricht réserve des passages dignes des meilleurs soap operas.
+D'ailleurs, les droits d'un livre à paraître sur Silk Road ont déjà été rachetés par 20th Century Fox.
+Le 29 décembre 2012, il écrit :
+« Je suis allé en ville avec Ashley et Kelly.
+On a bu une bière, on s'est promenés dans les rues et au jardin botanique.
+Après je suis sorti avec Jessica.
+Au fil de la conversation, on est devenus sérieux.
+Je me suis senti obligé de lui révéler qui j'étais.
+C'était horrible.
+Je lui ai dit que j'avais “des secrets”.
+Elle est déjà au courant que je travaille dans les bitcoins (...).
+Je suis stupide.
+Tout le monde sait que je travaille sur un site d'échange de bitcoins (...).
+Ils en savent tous beaucoup trop.
+Et merde. 
+»
+« GANJA », CYANURE ET MARKETING
+Ulbricht, ou plutôt DPR, est à la tête d'un site qui propose une panoplie relativement complète de psychotropes : cannabis, cocaïne, héroïne, MDMA, stéroïdes, anti-dépresseurs et autres médicaments sous prescription médicale dérivés en drogues récréatives.
+Les vendeurs qui affluent sur Silk Road ont chacun leur spécialité, et leurs clients peuvent, après réception, noter sur cinq la marchandise, la rapidité de l'envoi, la discrétion de l'emballage des colis postaux.
+Dans la plupart des cas, l'argent des clients n'est encaissé qu'après réception.
+Un argument intéressant pour des consommateurs qui viennent du monde entier, et dont les commandes doivent passer les douanes.
+Parfois, la classification du site peine à absorber une offre qui dégénère.
+Comme le 11 mai 2012, où un administrateur signale à DPR : « On a un vendeur qui propose du cyanure… » Après quelques tergiversations (« Ce n'est pas une drogue », « Ça pourrait être mauvais pour l'image du site »), Ross Ulbricht se lance : « On va l'autoriser », après tout, « c'est le marché noir ! 
+».
+Un marché noir qui fonctionne comme sa lointaine inspiration légale, Amazon , avec des coups de communication et des promotions.
+Le 20 avril 2012, à 4 h 20 exactement, (420 est le chiffre symbole de la culture des fumeurs de cannabis), Ulbricht lance une opération promotionnelle, avec gratuité des commissions et « 420 cadeaux à gagner » pour les clients qui achètent de la « super ganja ».
+Manque de chance, l'heureux gagnant du grand prix de l'opération, 4 000 dollars en bitcoins, est un vendeur avec une sérieuse addiction à l'héroïne.
+L'apport soudain de liquidités rend difficile son sevrage, et sa gestion des ventes commence à s'en ressentir .
+« J'aurais dû réfléchir à deux fois avant de lâcher 4K sur un accro », regrette Ulbricht dans un chat avec Variety Jones, avant d'ajouter : « Si ça se trouve, la prochaine fois, on offrira trois mois en désintox. 
+»
+TUEURS À GAGES
+Il est d'autres problèmes que l'administrateur de Silk Road prend moins à la légère.
+En janvier 2013, Curtis Clark Green, 47 ans, père de famille de la banlieue de Salt Lake City et administrateur sur Silk Road depuis 2011, est arrêté par le FBI pour détention de cocaïne.
+Mis au courant, DPR craint ses révélations.
+Il engage les services d'un tueur à gages qui s'avère être un agent fédéral déguisé.
+Il demande à ce que l'on torture l'homme, puis il se ravise : il ordonne qu'on l'exécute.
+Les agents fédéraux lui enverront de fausses photographies.
+La même année, un autre indésirable apparaît : FriendlyChemist, un vendeur qui fait chanter DPR, menaçant de révéler les noms de ses employés.
+Cette fois, les tueurs à gages seraient issus des Hell's Angels.
+Au total , l'administrateur est accusé d' avoir commandité six meurtres.
+On ignore encore si aucun des six a été mené à son terme, la police des endroits visés n'ayant déploré depuis aucun meurtre.
+UNE JURISPRUDENCE ATTENDUE
+En dépit de la gravit é des charges de blanchiment d'argent et trafic de stupéfiants, les audiences abondent en échanges hauts en couleur.
+Comme le souligne le New York Times , le caractère technique du procès donne parfois lieu à des digressions étonnantes : la défense a exigé par exemple que les émoticônes soient lues à voix haute aux jurés pour mieux rendre le ton de certains échanges en ligne.
+Sur Twitter , une journaliste s'amuse de voir les témoins tomber des nues quand on leur demande d' expliquer des termes élémentaires de la culture geek.
+— Sarah Jeong (@sarahjeong) 23 Janvier 2015
+Dans la presse, certains soulignent l'importance pour la jurisprudence du procès Silk Road, qui va définir la marge d'action légale des services de police sur Internet, pour les cas de trafic de drogue mais aussi pour les autres utilisateurs du Web anonyme, opposants politiques ou lanceurs d'alerte.
+Julie Carriat

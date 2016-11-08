@@ -1,0 +1,28 @@
+21 janvier 2015 , par Pierre Barthélémy
+Irons-nous sur Mars en vaisseau-couchettes ?
+L' article ci-dessous vient de paraître dans  le deuxième numéro d'un nouveau magazine consacré à la recherche, Thinkovery   (148 p., 15 €), émanation papier du site  Thinkovery.com,
+dont j'ai déjà parlé ici et qui propose des vidéos où les scientifiques exposent leurs résultats de manière pédagogique .
+La rédaction a bien voulu me confier une chronique intitulée  L'imaginaire des sciences , dans laquelle je confronte la science-fiction à la réalité...  Je remercie Thinkovery de m'autoriser à reproduire ce texte.
+Quel point commun entre 2001, Odyssée de l'espace de Stanley Kubrick, Alien, le huitième passager de Ridley Scott et le plus récent Interstellar de Christopher Nolan ?
+Au-delà de la réponse évidente – la promenade spatiale –, ce qui relie ces trois films, c'est la manière dont les astronautes passent une partie du voyage : ils roupillent.
+Ou plutôt, ils hibernent.
+Etant donné les distances véritablement astronomiques qui séparent les différents corps du Système solaire ( sans parler des années-lumière qu'il faudrait parcourir pour se rendre autour d'autres étoiles ), il y a un véritable intérêt à ne rien faire pendant le parcours et la NASA, qui garde l'expédition vers Mars dans un coin de son agenda, l'a bien compris, qui envisage sérieusement de passer de la fiction à la réalité.
+Via son Institute for Advanced Concepts, l'agence spatiale américaine a ainsi confié à la société SpaceWorks l'étude d'un projet de voyage vers la Planète rouge – six mois pour l'aller, six mois pour le retour –, au cours duquel les astronautes seraient placés en biostase, quelque part entre sommeil et coma.
+A l'occasion du 65e Congrès international d'astronautique qui s'est tenu début octobre 2014 à Toronto, SpaceWorks a, par la bouche de l'ingénieur Mark Schaffer, fait le point sur l'avancée de ses travaux.
+L'idée consiste à placer les explorateurs spatiaux dans un état de torpeur en faisant baisser de 3 à 5C leur température corporelle, afin de réduire et de ralentir leur métabolisme.
+Rien de bien sorcier là-dedans puisqu'on s'inspire directement de pratiques médicales éprouvées depuis plusieurs années : « Des protocoles existent dans la plupart des grands hôpitaux pour induire une hypothermie thérapeutique chez des patients », a expliqué Mark Schaffer.
+La manœuvre est en général pratiquée chez les personnes ayant subi un arrêt cardiaque – afin de préserver leur encéphale le temps que le cœur reparte – ou un accident vasculaire cérébral, mais aussi chez les nourrissons dont le cerveau n'est pas assez oxygéné.
+Suite à l'accident de ski dont a été victime Michael Schumacher fin 2013, le CHU de Grenoble a ainsi eu recours à cette technique pour protéger le cerveau de l'ancien champion du monde de Formule 1.
+Simplement, dans le cadre de l'hypothermie thérapeutique, les patients ne sont maintenus que quelques jours dans cet état de torpeur.
+Or, comme le reconnaît Mark Schaffer, « pour des missions humaines vers Mars, il faudra repousser ce maximum à 90 ou 180 jours ».
+Le protocole présenté par SpaceWorks prévoit de refroidir les astronautes grâce au système RhinoChill de la société américaine BeneChill : un tuyau diffusant un produit réfrigérant est introduit dans la cavité nasale car seule une membrane la sépare du cerveau.
+En se diffusant, ce produit fait baisser la température de l'encéphale puis du reste du corps, le sang rafraîchi dans la matière grise gagnant ensuite tout l'organisme.
+Placées sous monitoring, les marmottes de l'espace seraient alimentées par intraveineuse et, leur système digestif se mettant lui aussi en sommeil, il faudrait uniquement récupérer leur urine.
+Un système robotisé activerait quotidiennement la stimulation électrique des muscles pour les empêcher de fondre pendant le voyage.
+C'est joli sur le papier mais SpaceWorks n'a pour l'instant pas précisé comment on validera l'innocuité du protocole « Belle au bois dormant » sur de si longues périodes...
+Ce que la firme américaine a en revanche calculé avec précision, c'est le bénéfice qu'il y aura à envoyer vers Mars des dormeurs dans un vaisseau-couchettes.
+Outre le fait qu'on ne risque pas d'avoir de disputes à bord, le gain de place et de poids qu'entraîne l'hibernation générale est considérable.
+Moins de mètres cubes, d'électricité, de nourriture : pour un équipage de quatre personnes, on pourrait ainsi économiser plus de 50 % de la masse du vaisseau et passer d'un gros « bidon » de 475 mètres cubes et de 41,3 tonnes à une structure de 105 m3 pour 19,8 t.
+Par ricochet, il faudrait aussi moins de carburant pour expédier tout ce matériel dans l'espace.
+Quand on sait que le prix du kilo mis en orbite tourne autour des 10 000 dollars, rabioter 20 tonnes revient à économiser quelque 200 millions de billets verts...
+Quant aux futurs explorateurs martiens, on leur conseillera juste de ne pas vexer le  taulier  informatique qui les surveillera : on se souvient que, dans 2001, Odyssée de l'espace, le superordinateur Hal fait une hécatombe parmi les membres d'équipage en désactivant leurs caissons d'hibernation.

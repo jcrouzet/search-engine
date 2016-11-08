@@ -1,0 +1,27 @@
+Comment initier les 4,3 milliards de néophytes à Internet ?
+Le Monde |
+17.04.2015 à 11h03
+| Par Xavier Eutrope
+Alors que les grandes entreprises du Web comme Facebook et Google essaient à tout prix de connecter les 4,3 milliards de personnes privées d'accès à Internet, au Pakistan, une start-up d'Islamabad a fait un pari légèrement différent.
+Pour son fondateur, Hassan Baig, être connecté ne suffit pas : il faut aussi savoir surfer, comme il l'explique au site TechinAsia.
+« De plus en plus de personnes ont soudain entre leurs mains leur premier outil numérique, comme un smartphone.
+Mais ces smartphones hébergent un système d'exploitation et des services qui ont été testés et conçus pour des personnes habituées aux technologies, comme vous et moi. Nous en sommes venus à la conclusion que les services embarqués par défaut sur les appareils n'étaient pas intuitifs pour ceux qui n'en ont jamais utilisés avant.
+»
+Is Google Usable?
+from Clubinternet on Vimeo .
+L'objectif de ClubInternet – c'est le nom de son entreprise – est donc d'apprendre aux personnes connectées à utiliser Internet.
+Elle a pour cela lancé un navigateur mobile permettant d'initier les néophytes, en expliquant comment surfer, comment s'inscrire, entre autres, à des réseaux sociaux et comment discuter via les systèmes de messagerie instantanée.
+Car souvent, les débutants n'ont eu en main que de vieux téléphones à clavier et ignorent comment se servir d'un moteur de recherche, base de la navigation en ligne.
+Le logiciel indique par exemple, avec un curseur, où l'utilisateur doit rentrer son texte pour effectuer une recherche.
+La première version du logiciel a été installée par défaut sur près de 25 000 appareils actuellement distribués au Pakistan, pays qui compte près de 162 millions de personnes non connectées.
+Barrières sociales et culturelles
+Cette initiative se révèle donc complémentaire de projets tels que  Internet.org
+, lancé en août 2013 par Mark Zuckerberg, PDG de Facebook.
+Sa société, accompagnée de poids lourds de la téléphonie mobile comme Samsung ou Ericsson, entend distribuer des téléphones à bas prix aux populations coupées d'Internet tout en leur permettant de se connecter à moindre coût.
+L'entrepreneur américain avait néanmoins affirmé en octobre dernier, à New Delhi, que les principaux obstacles empêchant l'accès à Internet dans le sous-continent étaient, selon lui, sociaux et culturels.
+4.3 billion people are #unconnected in the world, 80% of which live in just 20 countries.
+#ConnectingTheUnconnected #digitalliteracy
+— Club Internet (@ClubInternetco)
+4,3 milliards de personnes ne sont pas connectées dans le monde, 80 % d'entre elles vivent dans 20 pays seulement.
+Selon un rapport de l'institut McKinsey   Company paru en septembre 2014, 60 % de la population mondiale n'a pas accès à Internet, essentiellement par manque d'infrastructures, de moyens financiers, de formation, ou tout simplement par manque d'intérêt.
+Le Bangladesh, l'Ethiopie, le Nigéria, le Pakistan et la Tanzanie sont les pays les plus touchés.

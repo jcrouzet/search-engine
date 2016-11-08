@@ -1,0 +1,41 @@
+22 avril 2015 , par Pierre Barthélémy
+Cape d’invisibilité, es-tu là ?
+L'article ci-dessous vient de paraître dans  le troisième numéro d'un nouveau magazine consacré à la recherche, Thinkovery  (148 p., 15 €), émanation papier du site  Thinkovery.com,
+dont j'ai déjà parlé ici et qui propose des vidéos où les scientifiques exposent leurs résultats de manière pédagogique .
+La rédaction a bien voulu me confier une chronique intitulée « L'Imaginaire des sciences », dans laquelle je confronte la science-fiction à la réalité...  Je remercie Thinkovery de m'autoriser à reproduire ce texte.
+Dans le film Harry Potter à l'école des sorciers, le jeune héros reçoit une cape d'invisibilité à Noël.
+Warner Bros Pictures.
+Lorsque, pour Noël 1991, à l'école de Poudlard, le jeune Harry Potter reçoit une cape d'invisibilité, il est loin de se douter que cet objet va inspirer des recherches dans un tout autre domaine que la sorcellerie, à savoir celui des métamatériaux.
+Le nom complet que leur donnent les spécialistes est « métamatériaux à indice de réfraction négatif » (NIM, d'après l'acronyme anglais de negative-index metamaterial).
+Tout le monde a eu affaire à la réfraction, notamment en plongeant dans l'eau un bâton bien droit : tout à coup, celui-ci semble se couder.
+Cette illusion est due au fait que la lumière change de direction en passant de l'air à l'eau, deux milieux qui n'ont pas le même indice de réfraction.
+Néanmoins, dans les deux cas, cet indice est positif.
+Avec un indice négatif, qui n'existe pas dans la nature, la lumière est déviée de manière étrange.
+Si l'on imagine un poisson rouge plongé dans un bocal rempli d'un liquide à indice de réfraction négatif, au lieu d'apparaître un peu en avant de sa position réelle, comme c'est le cas avec l'eau, le poisson pourrait même apparaître au-dessus de la surface...
+Quel rapport avec la cape de Harry Potter ?
+Avant de répondre à la question, il faut se demander pourquoi on voit quelqu'un.
+Cela est dû à deux phénomènes.
+D'une part, la matière dont cette personne est constituée réfléchit la lumière incidente vers vos yeux.
+D'autre part, ladite matière bloque la lumière issue de ce qui est placé derrière.
+Comme il n'est pas question de rendre transparent le héros de J. K. 
+Rowling , la seule manière d'obtenir son invisibilité consiste à obliger les rayons lumineux qui arrivent sur lui – et ce quelle que soit leur provenance – à le contourner et à reprendre leur chemin une fois le détour fait, tout comme l'eau d'une rivière reprend son cours lorsqu'elle a passé le rocher qui perce à sa surface.
+La lumière incidente n'étant ni bloquée ni réfléchie, le jeune Potter est invisible.
+Ce tour de force optique est théoriquement possible grâce aux qualités si spéciales des NIM.
+Il suffirait pour cela de concevoir une cape rigide en forme de cloche, à la surface de laquelle serait disposé ou gravé un maillage doté de caractéristiques particulières : pour que cela fonctionne, il faut que la taille de la maille soit inférieure à la longueur d'onde du rayonnement électromagnétique qui l'atteint.
+Pas étonnant, dans ces conditions, qu'on ait d'abord obtenu un indice de réfraction négatif dans le secteur des micro-ondes, dont la longueur d'onde va du millimètre à plusieurs centimètres.
+Mais travailler avec la lumière visible représentait un tout autre défi car les longueurs d'onde en question vont de 780 nanomètres pour le début du rouge à 380 nanomètres pour la fin du violet.
+Pour rappel, un nanomètre vaut un milliardième de mètre.
+On n'est donc plus dans le registre de la dentelle mais dans celui, nettement plus délicat, des nanotechnologies.
+Des essais ont déjà eu lieu.
+Ainsi, en août 2008, deux équipes menées par Xiang Zhang (université de Californie, à Berkeley) annonçaient simultanément, dans les deux plus prestigieuses revues scientifiques mondiales, Science et Nature, avoir ouvert la voie avec deux NIM différents : le premier avait un nanotapis de fils d'argent , le second un nanofilet de pêche métallique .
+Mais il y avait un hic : ces dispositifs étaient minuscules tellement il s'avère ardu de tisser du nanométrique à grande échelle...
+Même si on parvenait à franchir cet obstacle, la cape d'invisibilité se heurterait à un autre problème : le matériau absorberait une partie de l'énergie lumineuse lui arrivant dessus.
+Ce qui se traduirait par une certaine opacité de la cape.
+Dans une étude publiée fin 2014 par Nature Communications , une équipe sino-américaine assure avoir trouvé une solution, en intégrant des diodes à son dispositif, pour « rebooster » la lumière.
+Mais ces chercheurs ne travaillent pour l'instant que dans le domaine des micro-ondes et pas dans celui du spectre visible.
+On est donc loin de maîtriser suffisamment les NIM pour parvenir à rivaliser avec M. Potter.
+Ces matériaux trouveront sans doute d'abord des débouchés en optique, avec notamment la promesse de microscopes à très haute résolution.
+Cependant, un indice prouve que l'invisibilité n'est pas qu'un fantasme.
+On le déniche au bas de chacune des trois études citées ici, dans l'espace réservé aux remerciements : pour leurs travaux, toutes ces équipes ont reçu des subsides du bureau de la recherche... de l'armée de l'air américaine.
+Les avions furtifs, c'est bien.
+Les avions invisibles, c'est mieux.

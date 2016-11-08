@@ -1,0 +1,14 @@
+import java.io.*;
+
+
+public class Index {
+
+	
+// normalize the index with Normaliser + tf calcul
+	
+	public void index_tf() throws IOException {
+		
+		
+	}
+
+}

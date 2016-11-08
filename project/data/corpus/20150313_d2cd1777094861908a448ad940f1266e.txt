@@ -1,0 +1,17 @@
+Google Code ferme ses portes au profit de GitHub
+Le Monde |
+13.03.2015 à 11h17
+Alors que l'avenir de Google+ semble de plus en plus incertain , l'entreprise américaine a annoncé jeudi 12 mars la fermeture d'un autre de ses services, Google Code.
+Destiné aux développeurs, qui y partagent leurs projets « open source », le site était de moins en moins utilisé, les professionnels lui préférant d'autres plates-formes comme GitHub.
+Les développeurs de Google eux-mêmes avaient abandonné Google Code, comme l'admet Chris DiBona, directeur de l'open source, sur le blog du projet :
+« Pour venir à la rencontre des développeurs là où ils sont, nous avons nous-mêmes migré près d'un millier de nos propres projets open source de Google Code vers GitHub.
+»
+Mais surtout, la plate-forme devenait de plus en plus contraignante à administrer :
+« Alors que les développeurs désertaient Google Code, une part grandissante des projets restants étaient une forme de spam.
+Ces derniers temps, la charge administrative a presque exclusivement consisté à gérer les abus.
+Après avoir analysé l'activité non abusive sur Google Code, il nous est apparu clairement que ce service n'était plus utile. 
+»
+Lancé en 2006, Google Code fermera définitivement ses portes le 26 janvier 2016.
+Il est déjà impossible d'y créer de nouveaux projets, et le 24 août le site passera en « lecture seule », c'est-à-dire qu'il sera possible d'accéder aux projets qui y sont hébergés, mais pas d'y contribuer.
+Pour faciliter la migration des derniers utilisateurs de la plate-forme, Google propose même un outil permettant d'exporter facilement ses projets vers GitHub.
+Google Code viendra donc, dans moins d'un an, s'ajouter à la longue liste des projets abandonnés par Google.

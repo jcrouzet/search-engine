@@ -1,0 +1,27 @@
+« Pacapong », le drôle de jeu qui mélange « Pong », « Pac-Man » et « Donkey Kong »
+Le Monde |
+01.04.2015 à 14h38
+| Par William Audureau
+Pac-Man en boule de ping-pong, des raquettes de Pong qui font feu contre des aliens de Space Invaders et le gorille de Donkey Kong qui surgit dans le final et arrose le tout de barrils ?
+C'est possible, dans le joyeux capharnaüm de Pacapong, un petit jeu vidéo amateur créé en quarante-huit heures le dernier week-end de mars, et qui fait depuis le tour des plus grands sites spécialisés.
+A l'origine de ce fourre-tout nostalgique délirant, Dick Poelen, webdesigner néerlandais de 31 ans.
+C'est à l'occasion de sa troisième Mini Ludum Dare – une compétition de développement en temps limité – qu'il a créé Pacapong. 
+« Je ne sais plus bien comment j'ai eu l'idée », admet le créateur.
+Cette 58e Mini Ludum Dare avait le jeu Pong pour thème.
+« J'ai commencé en utilisant le personnage de Pac-Man comme balle, et les Space Invaders m'ont semblé adaptés pour occuper le joueur à esquiver des attaques pendant que son adversaire déplace Pac-Man dans le labyrinthe.
+Donkey Kong m'a été suggéré par quelqu'un sur Twitter, et cela faisait parfaitement sens de pimenter les choses dans la dernière moitié de partie. 
+»
+10 000 téléchargements pour un jeu développé en quarante-huit heures
+Jouable à deux, le jeu est disponible ici sous la forme d'un fichier exécutable.
+A ce jour, il a déjà été téléchargé plus de 10 000 fois, un chiffre inimaginable pour ce genre de créations vouées à l'anonymat.
+« J'ai juste partagé une image sur Twitter et eu plein de réactions positives.
+Ça a explosé quand les sites spécialisés en ont parlé.
+C'est incroyable de voir comment ça s'est diffusé », s'extasie Dick Poelen.
+Faute d'avoir les droits sur les jeux qu'il détourne, il ne pourra commercialiser le projet, mais face à l'enthousiasme rencontré, le jeune homme émet quelques hypothèses pour rebondir.
+« Je pourrais juste remplacer les graphismes.
+Un petit robot à la place de Pac-Man, peut-être.
+Donkey Kong deviendrait un dragon cracheur de feu.
+Le système de jeu est assez unique tel qu'il est, donc il pourraît être gardé.
+Mais je suis sûr qu'il n'aurait jamais eu le quart de l'écho qu'il a rencontré sans ce mélange de quatre classiques.
+» 
+William Audureau

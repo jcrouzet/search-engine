@@ -1,0 +1,39 @@
+| Par Martin Untersinger
+« Un des plus gros vols bancaires de l'histoire.
+» C'est en ces termes grandiloquents que le New York Times décrit une attaque informatique très sophistiquée qui a permis à des pirates de voler plusieurs centaines de millions de dollars à des banques du monde entier.
+Le quotidien américain a révélé, quelques jours avant sa publication, un rapport établi par la firme russe de sécurité Kaspersky , qui a étudié ce groupe de pirates et leurs méthodes pendant plusieurs mois.
+300 millions de dollars dérobés
+Au total, une centaine de banques, principalement en Russie mais également aux Etats-Unis, en Allemagne , en Chine , en Ukraine , mais aussi en France , ont été visées.
+Une cinquantaine de banques auraient été attaquées avec succès, l'une d'elles perdant 7,3 millions de dollars.
+Aucune n'est nommée par Kaspersky.
+Au total , l'entreprise dit avoir la preuve que 300 millions de dollars ont été dérobés, mais explique que ce montant pourrait être trois fois supérieur.
+Cette attaque a débuté à partir de la fin de l'année 2013 et a connu un pic à la fin de l'été 2014.
+Les pirates faisaient parvenir à des employés de banques des e-mails les incitant à ouvrir une pièce jointe contenant un programme espion.
+Ce programme, nommé « Carbanak » par Kaspersky se déployait ensuite dans les systèmes informatiques de la banque.
+« Ils pouvaient voir ce qu'il se passait à l'écran, capter des sons depuis le micro », explique Anton Shingarev, de Kaspersky.
+Avec les informations ainsi collectées, les pirates ont pu identifier et infecter des cibles disposant de davantage de pouvoirs au sein des réseaux informatiques puis observer la routine et les procédures adoptées par ces derniers pour gérer les fonds.
+Distributeurs activés à distance
+Dans un second temps, en utilisant les outils internes dont il avaient compris le fonctionnement, les pirates viraient d'importantes sommes d'argent vers des comptes bancaires, principalement en Chine et aux Etats-Unis.
+Une autre méthode consistait à activer à distance des distributeurs de billets devant lequel attendait un complice.
+« On a vu des images de caméras de surveillance montrant des distributeurs faisant sortir de l'argent sans qu'il y ait le moindre contact physique , c'est très impressionnant », s'étonne M. Shingarev.
+Pour Kaspersky, cette attaque est d'une complexité inédite.
+« On assiste à une augmentation du niveau de sophistication des attaques purement criminelles.
+Dans le passé, seuls des gouvernements étaient capables de faire ça », précise M. Shingarev, qui explique cependant que cette attaque semble uniquement motivée par l'appât du gain.
+Autre élément notable aux yeux de l'expert : le programme a été développé par une équipe « organisée, encadrée » et a évolué tout au long de l'attaque : « Les pirates deviennent de plus en plus professionnels.
+»
+Guerre des noms
+Le virus « Carbanak » ressemble beaucoup à une autre attaque documentée par un concurrent néerlandais de Kaspersky, l'entreprise Fox-IT , à la fin de l'année 2014.
+Le virus portait un autre nom, « Anunak ».
+Les montants dérobés ne se recoupent pas parfaitement, tout comme les banques attaquées.
+Le modus operandi, lui, ne laisse aucun doute.
+« Le virus est le même », confirme-t-on chez Kaspersky.
+« C'est exactement le même virus, avec un nom différent », abonde Erik de Jong, expert chez Fox-IT.
+Pourquoi deux noms différents ?
+Anunak est en réalité le nom donné par les pirates eux-mêmes à leur virus.
+Le nom choisi par Kaspersky – « Carbanak » – est une contraction d'« Anunak » et de « Carberg », un groupe de pirates sur les vestiges duquel est née l'attaque détaillée par Kaspersky.
+Ces considérations étymologiques ne sont pas anodines.
+Sur le marché très porteur de la sécurité informatique , les entreprises en position d' analyser en profondeur des programmes informatiques ont tout intérêt que l'on relaie leurs trouvailles.
+Selon Kaspersky, les détails de cette opération sont prêts à être publiés depuis six mois, mais ont été gardés confidentiels dans l'attente du feu vert des autorités de plusieurs pays, Interpol et Europol, que l'entreprise a alertées, afin de ne pas mettre en péril des investigations.
+A Europol, on confirme que des enquêtes liées à cette attaque sont en cours.
+Par ailleurs, Kaspersky a sorti le grand jeu médiatique : une vidéo récapitulative , un accord de publication avec un des plus prestigieux quotidiens du monde, le tout alors que l'entreprise organise une grande conférence dédiée à la sécurité informatique .
+L'entreprise ne pouvait se permettre de « partager » sa trouvaille, même d'un simple nom, avec une entreprise concurrente.

@@ -1,0 +1,29 @@
+Amazon, un nuage déjà très rentable
+Le Monde |
+| Par Jean-Baptiste Jacquin
+« Ne dites pas à ma mère que je vends du nuage, elle me croit épicier. 
+» Jeff Bezos, le patron d’Amazon, est resté sur son quant-à-soi depuis des années.
+Jusqu’à ce jeudi 23 avril.
+Il a fait son coming out, après la clôture de la Bourse de New York, à l’occasion de la publication des comptes trimestriels de son empire.
+Pour la première fois, le groupe de commerce en ligne a dévoilé les chiffres de son activité de services informatiques à distance.
+Surprise, Amazon, qui nous a habitués à se développer sur des marchés en croissance sans nécessairement être bénéficiaire, révèle que sa division Amazon Web Services (AWS) gagne bien sa vie, et même très bien.
+Son métier est ce qu’on appelle le cloud computing (l’informatique dans les nuages).
+Elle propose aux entreprises de louer des capacités de stockage de données dans ses centres informatiques, des capacités de calcul sur ses serveurs ou encore des applications de bureautique et autres logiciels.
+Lancée en 2006, par celui qui était encore un libraire en ligne, comme un service complémentaire afin de rentabiliser les centres informatiques qu’il avait mis sur pied, AWS est aujourd’hui le premier opérateur mondial de services dans le cloud.
+Au premier trimestre, cette activité a représenté un chiffre d’affaires de 1,57 milliard de dollars (1,4 milliard d’euros), en croissance de 49 %.
+Lire aussi le post de blog : Amazon, maître contesté du nuage
+Les analystes qui traquent le moindre indice étaient parvenus à approcher cette donnée.
+En revanche, aucun n’avait imaginé que cette division dégage un bénéfice opérationnel de 265 millions de dollars.
+Sonner la charge
+Non seulement AWS affiche une croissance deux fois plus rapide que le reste d’Amazon, mais elle est la seule division à gagner de l’argent dans ces proportions, voire à en gagner.
+L’ensemble du groupe a réalisé un chiffre d’affaires trimestriel de 22,7 milliards de dollars (+15 %) et un résultat opérationnel de 255 millions (+ 75 %).
+Mais son résultat net est une perte de 57 millions.
+Lire aussi : Amazon en déficit, mais chouchou des marchés
+C’est donc cet à-côté qui permet désormais au mastodonte de rester en équilibre.
+Et de poursuivre sa folle croissance.
+Car, pour un commerçant de cette taille, afficher une croissance de 15 % tient tout de même de la prouesse.
+Mais, attention, au printemps, les nuages peuvent changer de couleur, de forme et de direction.
+Encore loin derrière le leader, les Google, Microsoft, IBM et autres HP ont sonné la charge.
+Amazon a reconnu avoir dû baisser à plusieurs reprises ses tarifs depuis un an pour répondre à la guerre des prix dans le nuage lancée par Google.
+Microsoft, dirigé depuis deux ans par un spécialiste du cloud – Satya Nadella avait lancé la plate-forme Azure –, a annoncé, également jeudi 23 avril, avoir doublé (+ 106 %) son chiffre d’affaires dans le secteur.
+La bataille pour le cloud va désormais pouvoir se jouer au grand jour.

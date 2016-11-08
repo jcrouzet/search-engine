@@ -1,0 +1,50 @@
+Informatique : quelles formations pour avoir un emploi ?
+Le Monde.fr
+| 07.03.2015 à 15h05 • Mis à jour le 09.03.2015 à 11h56
+à partir de 1 €
+Partager
+Travailler dans le numérique n'est pas le bouclier infaillible contre le chômage.
+Les dernières données publiées, vendredi 6 mars, par la direction de l'animation de la recherche, des études et des statistiques (Dares) indiquent qu'à la fin 2014, la France comptait 66 590 chômeurs dans les domaines de l'informatique et des télécommunications.
+Quant au taux de chômage dans les technologies de l'information, il n'est finalement pas si éloigné de la moyenne nationale, de 10 % au quatrième trimestre 2014.
+« Il atteint un taux de 9,2 % de demandeurs d'emploi de catégorie A (chômeurs sans aucune activité) et 13,8 % de demandeurs d'emploi toutes catégories confondues », souligne Régis Granarolo, président du Mouvement pour une union nationale et collégiale des informaticiens (Munci), la première association professionnelle du numérique.
+700 000 postes à pourvoir en Europe
+Le secteur est pourtant jugé particulièrement porteur.
+En janvier 2013, dans un communiqué, la Commission européenne estimait que 700 000 postes seraient à pourvoir en Europe dans le secteur de l'informatique et des télécommunications d'ici à 2015.
+Le Syntec, l'organisme qui représente les entreprises du numérique, parlait même de 900 000 postes sur la période.
+Sur le seul territoire français, c'est « 36 000 créations d'emplois nets à l'horizon 2018 » qui sont évoqués.
+De nombreux chômeurs donc... dans un secteur dynamique et à la recherche de main-d'œuvre.
+Ce paradoxe, le baromètre des métiers du numérique Cap-digital-Multiposting publié fin janvier l'expliquait par « un décalage entre l'offre et la demande ».
+En clair, les informaticiens sur le marché du travail correspondraient insuffisamment aux profils recherchés par les entreprises qui recrutent.
+Ecole de codeurs
+Mettant en avant cette inadéquation, Ionis éducation group, maison mère de l'école d'informatique privée Epitech, lancera le 13 avril une nouvelle formation : « Coding Academy ».
+L'idée est de proposer une formation rapide (20 semaines) de « codeur », au rythme éprouvant de 55 heures par semaine pour la somme de 4 900 euros.
+L'idée, assumée, est de mutualiser les ressources d'Epitech, qui délivre pour sa part un diplôme d'expert en technologies de l'information (bac + 5) reconnu par l'Etat, pour un coût annuel moyen de 7 940 euros : ses étudiants les plus avancés seront les tuteurs des apprentis codeurs de la « Coding academy » et les locaux de l'école d'informatique accueilleront les candidats de cette formation courte.
+Ce groupe n'est pas le seul à varier les types de formation comme les critères de sélection avec pour objectif affirmé de s'adapter au marché.
+Le 26 mars, l'école d'informatique 42 , fondée par Xavier Niel, fondateur d'Iliad-Free [actionnaire à titre individuel du groupe Le Monde] fêtera ses deux ans.
+A l'inverse des écoles d'informatique privées ou des universités, aucun diplôme n'est requis pour y tenter sa chance.
+La formation durant trois ans, ses étudiants ne sont pas encore sur le marché du travail.
+Une formation pour décrocheurs
+Alain Assouline, patron de l'agence de communication Les Argonautes, a lui lancé fin 2013 à Paris une école en développement informatique spécialisée sur les formations courtes, WebForce3.
+La raison ?
+« Je ne parvenais pas à recruter pour mon entreprise et je perdais des marchés faute de forces vives », témoigne l'homme d'affaires.
+Selon lui, les écoles traditionnelles d'informatique forment imparfaitement aux besoins du marché de l'industrie numérique : « Les entreprises ont besoin de travailleurs du code alors que les jeunes ingénieurs souhaitent rapidement évoluer vers des postes à responsabilité.
+» Il propose donc une formation accélérée de 3 mois, pour 3 300 euros.
+« Elle s'adresse aux décrocheurs, aux personnes en reconversion qui ne peuvent s'accorder une formation longue pour rejoindre le marché du travail », explique M. Assouline.
+Il assure que son concept fonctionne à plein , et que 85 % des étudiants des premières sessions ont obtenu leur « retour à l'emploi ».
+L'éclosion de ces nouvelles formations ne fait pas l'unanimité.
+« Les entreprises françaises sont fortement attachées aux diplômes, je suis dubitatif sur ce qui attend les élèves de l'école 42 et les  formations express qui ne délivrent pas de diplôme », estime Régis Granarolo, du Munci.
+Lui appelle plutôt, pour réduire le chômage dans le secteur, à renforcer la formation continue.
+Ouvriers spécialisés de l'industrie numérique
+Du côté des chefs d'entreprises, l'enthousiasme est également modéré.
+« Nous encourageons toutes les solutions qui offrent un emploi aux jeunes », avance Guy Mamou-Mani, président du Syntec numérique et coprésident du groupe informatique Open.
+« Toutefois, aucun des profils de formation rapide ne correspond à ceux que je cherche et je réfute cette tendance, en France, qui voudrait que les développeurs deviennent les nouveaux OS [ouvriers spécialisés] de l'industrie numérique.
+La meilleure protection contre le chômage, c'est de pousser le plus loin possible ses études.
+Ceux qui ne trouvent pas de travail sont des autodidactes ou des gens qui au long de leur carrière n'ont pas su mettre à jour leurs compétences.
+»
+Lire l'entretien avec Guy Mamou-Mani : « Il faut former au numérique du primaire au doctorat !
+»
+Côté cadres, l'emploi dans le secteur est jugé « dynamique », selon un rapport de l'Association pour l'emploi des cadres (APEC) d'avril 2013.
+L'entrée rapide sur le marché du travail est garantie pour ceux qui maîtrisent les dernières technologies de développement mobile, l'architecture cloud computing, le big data ou la cybersécurité.
+« 7 cadres sur 10 recrutés dans le secteur ont moins de six ans d'expérience, contre 1 cadre sur 2 pour l'ensemble des secteurs d'activité », souligne l'APEC.
+Si le secteur s'avère ainsi particulièrement accueillant pour les cadres débutants, le corollaire est moins réjouissant : ces technologies sont très évolutives et l'obsolescence les frappe aussi vite que les ingénieurs qui les maîtrisent.
+Eric Nunès

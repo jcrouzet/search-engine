@@ -1,0 +1,22 @@
+Le sparadrap qui recharge votre montre, Grand Prix Netexplo 2015
+Le Monde |
+| Propos recueillis par Laure Belot
+Le Grand Prix Netexplo 2015, désigné pour la première fois par le vote à parité des internautes et d’un jury international , a été attribué au projet sud-coréen Wearable Thermo-Element (WTE).
+Cette innovation est issue de l’Institut supérieur coréen de science et de technologie (Kaist), et Byung Jin Cho, professeur au département d’ingénierie électrique, en est le concepteur.
+Quel peut être l’usage de votre invention ?
+Les objets connectés, des montres intelligentes aux instruments de suivi personnel de santé [captant le nombre de pas, le pouls, les calories dépensées] vont se multiplier dans notre quotidien.
+Le WTE, que l’on peut placer par exemple dans le bracelet d’une montre, permet d’utiliser la chaleur corporelle pour recharger électriquement l’appareil.
+Actuellement, notre prototype permet de rallonger de 30 % le temps durant lequel l’appareil reste chargé.
+Comment cela fonctionne-t-il ?
+Transformer la chaleur en électricité n’est pas technologiquement une nouveauté.
+Certains de ces appareils ont déjà équipé des sondes spatiales à destination de Mars.
+Il s’agissait alors de produire de l’électricité à partir d’un petit générateur nucléaire interne créant de la chaleur car celle venant du soleil n’était plus suffisante.
+Mais jusqu’à présent, ces instruments étaient volumineux, lourds et ne pouvaient se poser que sur des surfaces planes.
+Nous avons réussi à placer cette technologie sur un support flexible qui s’adapte bien mieux aux sources de chaleur que nous rencontrons dans le quotidien.
+Nous finalisons le premier exemplaire test.
+Une vingtaine d’ entreprises dans le monde attendent ce produit pour le tester .
+Quelle autre application envisagez- vous  ?
+Environ 70 % de l’énergie utilisée par une voiture est transformée en chaleur et donc gaspillée.
+Certains constructeurs automobiles tels General Motors et BMW ont déjà tenté de placer des transformateurs chaleur-électricité dans leurs véhicules, mais la rigidité et le poids de ces objets posent problème.
+On pourrait très bien imaginer fixer notre innovation sur un pot d’échappement pour récupérer la chaleur et la transformer en électricité.
+Autre utilisation possible, les casques militaires : un système léger utilisant notre technologie pourrait transformer la chaleur en électricité puis en froid pour rafraîchir les soldats.

@@ -1,0 +1,23 @@
+La Sagrada Familia devrait pouvoir être achevée grâce aux imprimantes 3D
+Le Monde |
+| Par Emmanuelle Jardonnet
+Principale attraction touristique de Barcelone, la Sagrada Família est paradoxalement une basilique largement inachevée.
+L’édifice est pour ainsi dire en travaux depuis 133 ans, c’est à dire depuis la pose de sa première pierre, en 1882.
+Or, la BBC révélait il y a quelques jours que l’impression 3D de modèles structurels en plâtre devrait permettre d’enfin accélérer sa réalisation, prévue d’ici à 2026, soit un siècle après la mort de son architecte, Antoni Gaudi, renversé par un tramway en 1926.
+En réalité, cela fait quatorze ans que le processus de construction s’appuie sur des imprimantes en 3D, la technologie, qui existe depuis les années 1980, ayant été intégrée dès 2001 afin d’avancer plus rapidement dans la réalisation de prototypes pour les éléments souvent problématiques à concevoir.
+« Quasiment impossible à dessiner »
+« A cause de la complexité des surfaces et des formes, travailler sur les dessins de Gaudi en 2D n’a aucun sens d’un point de vue architectural, [d’autant] que la plupart de son travail était déjà conçu de façon tridimentionnelle », explique l’architecte en chef ,Jodi Coll, cité dans ArtNetNews.
+« Antoni Gaudí a réalisé peu de dessins de la Sagrada Família, qui est de toute manière tellement complexe qu’elle est quasiment impossible à dessiner, en tout cas avec des projections architecturales normales », détaille pour sa part Peter Sealy, chercheur à l’école de design de Harvard cité par ArchDaily, site spécialisé en architecture.
+« Ce qu’il a laissé derrière lui à sa mort est un système géométrique de surfaces réglées (...) et une méthode de travail pour traduire ces géométries en des modèles de plâtre. 
+»
+Les imprimantes 3D stéréolithographiques utilisent de la poudre afin de créer, en quelques heures, des prototypes couche par couche, aboutissant à un matériau similaire à du plâtre, permettant aux artisans de retravailler facilement les modèles à la main pour une approche la plus fine possible.
+Béton coulé dans des moules imprimés en 3D
+Le chercheur rappelle que beaucoup des modèles de Gaudi ont été détruits par les insurgés lors de la guerre civile espagnole (1936-39), « mais les fragments qui ont survécu peuvent désormais être numérisés en utilisant les scanners en 3D », explique-t-il encore.
+Ainsi, « les intentions de Gaudi en termes de design peuvent être reproduites a posteriori à partir de ces modélisations, qui peuvent alors être utilisées pour redévelopper des modèles – la façon de travailler dans l’atelier de Gaudi continue, mais désormais avec des impressions en 3D des modèles en plâtre –, et pour la fabrication, avec des pierres découpées par des machines, et du béton coulé dans des moules réalisés à l’échelle 1:1 par des impressions en 3D.
+Ce n’est pas rien ! », déclare encore le chercheur.
+Une vidéo en trois dimensions (ci-dessus) réalisée par la fondation qui gère le projet à partir de dons privés, montrait il y a deux ans les étapes restant à parcourir, et dévoilait le visage de la basilique dans sa version finale.
+On y découvrait les douze tours dédiées aux apôtres et son point culminant, à 170 mètres de haut, avec la tour de Jésus qui doit être édifiée en son centre, et aussi l’impressionnante ultime façade, destinée à devenir l’entrée principale de l’édifice.
+La Sagrada Familia était à l’origine un projet de l'architecte Francisco de Paula, avant que Gaudi ne prenne les rênes du chantier, en 1883.
+A sa mort, seulement un quart de l’édifice était achevé.
+L’architecte catalan avait laissé des maquettes et des plans, dont la plus grande partie a disparu dans un incendie au cours de la guerre civile espagnole.
+C’est à cause de cet incendie, en plus des difficultés techniques et de financement, que le chantier a été retardé pendant des décennies .

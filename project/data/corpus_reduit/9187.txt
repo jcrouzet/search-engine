@@ -1,0 +1,22 @@
+Le gouvernement américain fait pression sur la Silicon Valley contre le chiffrement des données
+Le Monde |
+22.04.2015 à 16h06
+| Par Morgane Tual
+Le bras de fer entre les autorités américaines et les grandes entreprises du Web sur le chiffrement des données des internautes se poursuit.
+Mardi 21 avril, le secrétaire à la sécurité intérieure, Jeh Johnson, a plaidé contre ces pratiques lors d'une conférence sur la cybersécurité à San Francisco.
+« L'impossibilité d'accéder aux informations chiffrées pose des questions de sécurité publique », a-t-il expliqué dans son discours , après avoir demandé de « l'indulgence » auprès des acteurs de la Silicon Valley présents dans la salle. 
+« La course vers un chiffrement de plus en plus profond, en réponse aux demandes du marché, pose de vraies difficultés pour la sécurité intérieure et le respect de la loi.
+(...) Le chiffrement rend plus difficile pour votre gouvernement de débusquer une activité criminelle et une potentielle activité terroriste. 
+»
+Jeh Johnson en a profité pour annoncer l'ouverture prochaine d'un bureau du département de la sécurité intérieure dans la Silicon Valley, pour « renforcer nos liens ».
+Apple et Google prônent le chiffrement
+En 2013, les documents rendus publics par Edward Snowden faisaient état d'un « accès direct » de la National Security Agency (NSA) aux serveurs de plusieurs géants du Web, dont Apple et Google.
+L'ensemble des entreprises épinglées tentent depuis de réparer les dégâts provoqués par les révélations du lanceur d'alerte.
+Une tendance qui ne plaît guère au gouvernement américain, et qui explique cette prise de position.
+Apple a par exemple annoncé en septembre que sur les appareils utilisant son système d'exploitation iOS 8, les « données personnelles telles que des photos, des messages écrits (et même des pièces jointes), le courrier électronique, les contacts, l'historique des appels, le contenu iTunes, des notes et autres alertes sont protégés par un mot de passe (...).
+En conséquence, il ne nous sera pas techniquement possible de répondre aux requêtes gouvernementales pour extraire les données des appareils fonctionnant avec iOS 8 ». La firme à la pomme a expliqué qu'elle ne pourrait donc pas « déverrouiller » des iPhone pour le compte des forces de police.
+Lire : Apple à l'offensive sur la protection de la vie privée
+Google, de son côté, a annoncé le renforcement du chiffrement des messages sur Gmail et expliqué que son système d'exploitation Android assurait depuis longtemps une protection similaire à celle présentée par Apple mais que, dans sa nouvelle version, l'utilisateur n'aurait pas besoin de l'activer.
+Le FBI avait alors sévèrement critiqué ces annonces.
+« Je crois profondément en la loi, mais je crois aussi que personne dans ce pays n'est au-dessus des lois », avait déclaré le directeur du FBI James Comey.
+« Ce qui m'inquiète ici c'est que des entreprises puissent délibérément faire la promotion de quelque chose qui mette les gens au-dessus des lois », avait-t-il fustigé, insistant sur le fait que les forces de l'ordre devaient pouvoir avoir accès au téléphone portable d'un kidnappeur d'enfant, par exemple, et à son contenu après l'obtention d'un mandat.

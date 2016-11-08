@@ -1,0 +1,59 @@
+Mobiles : la bataille de l’accès à de nouvelles fréquences s’ouvre
+Le Monde |
+| Par Sarah Belouezzane
+Le grand jeu de l’attribution de nouvelles fréquences aux opérateurs de mobile en France, dans la bande 700 MHz, jusqu’alors utilisée pour la diffusion de la télévision numérique terrestre, a commencé.
+Mardi 31 mars, l’Arcep, le gendarme des télécommunications, qui a conduit une consultation publique auprès des acteurs du secteur, a publié une note de synthèse posant les termes du débat.
+Ce document devrait servir de base pour définir les modalités d’attribution de ce spectre de fréquences qui doit permettre d’augmenter le débit des réseaux mobiles.
+Ce n’est, cependant, que dans un mois que celles-ci seront définitivement fixées conjointement par le gouvernement et l’Arcep.
+Le dépôt des offres par les opérateurs, selon le procédé des enchères, se fera en deuxième partie d’année.
+L’attribution définitive des fréquences aux opérateurs interviendra en décembre 2015.
+A quoi correspondent les fréquences 700 MHz ?
+Pour construire un réseau, les opérateurs de téléphonie mobile ont besoin de fréquences radio qui forment un spectre sur lequel sont émises les communications.
+Celui-ci fait partie du domaine public, c’est donc l’Etat qui en attribue des parties ou lots au terme d’enchères auxquelles les opérateurs sont appelés à participer.
+La vente des fréquences de la bande 700 MHz intervient quatre ans après celle des fréquences 800 MHz.
+Les fréquences basses, comme la tranche du 700 MHz, présentent un double avantage : elles permettent, d’une part, au réseau mobile de mieux pénétrer dans les immeubles, car les ondes traversent le béton.
+Elles sont donc précieuses, pour les opérateurs, en milieu urbain où la densité de bâtiments est importante.
+Elles sont, d’autre part, très utiles dans les zones peu denses, car elles permettent une bonne couverture grâce à un nombre limité d’antennes.
+Ces fréquences sont pour l’instant encore occupées par le secteur audiovisuel, qui s’en sert pour les émissions des chaînes de la télévision numérique terrestre (TNT).
+Elles ne devraient être libérées, sur décision de Matignon, que progressivement, entre le 1er décembre 2015 et le 1er juillet 2019.
+Qu’attend le gouvernement de cette vente ?
+L’enjeu est surtout financier.
+Le gouvernement espère tirer de cette vente aux enchères de fréquences 2,1 milliards d’euros au total.
+Cette somme est d’ailleurs déjà inscrite dans le budget 2015 au titre de la loi de programmation militaire.
+S’ils obtiennent, par exemple, chacun un lot équivalent, les quatre opérateurs en lice (Orange, SFR-Numericable, Bouygues Télécom et Free Mobile) devront donc débourser quelque 500 millions d’euros en fin d’année.
+Une somme non négligeable dans un secteur qui est entré dans un guerre des prix et vu ses marges fondre depuis l’arrivée de Free Mobile en janvier 2012.
+Quel est l’enjeu pour les opérateurs ?
+Confrontés à une consommation en données internet qui explose, les opérateurs ont toujours besoin de plus de spectre.
+Ce dernier est nécessaire pour assurer un service continu avec des débits toujours plus importants.
+« La consultation publique permet de confirmer la nécessité d’attribuer de nouvelles bandes de fréquences aux services de communications électroniques pour accompagner la croissance des usages sur les réseaux mobiles à très haut débit », indique la note de l’Arcep.
+Comme l’indique, le gendarme des télécoms, « l’attribution de la bande 700 MHz revêt une importance stratégique pour le déploiement de réseaux mobiles à très haut débit étendus et performants à court et moyen terme, ainsi que pour accompagner, à plus long terme, les futures innovations ».
+Comprendre : les fréquences 700 MHz sont parfaites pour le déploiement de la téléphonie mobile 4G, déjà entamé par les opérateurs.
+Et pour une technologie d’avenir comme la 5G, bien qu’il soit encore difficile à ce stade d’expliquer à quoi celle-ci ressemblera.
+L’Arcep indique par ailleurs que cette bande de fréquence sera facilement exploitable car elle a déjà été déployée dans d’autres zones géographiques (Asie, États-Unis).
+Les technologies existent donc déjà et certains utilisateurs sont même équipés de smartphones compatibles.
+Déployer de la 4G sur ce spectre ne devrait pas, comme l’indique l’institution, engendrer de trop grosses dépenses en recherche et développement.
+Pour les opérateurs, l’appel d’offres pour les fréquences 700 MHz est le dernier avant bien longtemps.
+Ils doivent donc s’assurer de récupérer des lots.
+C’est surtout vrai pour Free.
+Le groupe fondé par Xavier Niel (par ailleurs actionnaire à titre individuel du « Monde ») ne dispose à ce jour que de très peu de fréquences basses, pour l’instant uniquement dans la bande 900 MHz.
+Ce qui crée, selon l’Arcep, un déséquilibre avec ses concurrents.
+Quelles seront les modalités d’attribution ?
+C’est peut être le point le plus attendu par les opérateurs.
+Il n’est pourtant pas encore tranché dans la note publiée par l’Arcep, mardi soir.
+Pour le gouvernement et le gendarme des télécoms, il y a deux possibilités entre lesquelles il faudra choisir.
+Les autorités peuvent décider de tenir des enchères normales : plusieurs candidats déposent chacun une offre, la plus haute l’emportant.
+L’autre option consisterait à réserver un lot particulier à Free.
+Car, comme le rappelle l’Arcep, un opérateur ne peut être compétitif que s’il dispose d’un lot de fréquences basses, permettant une bonne couverture dans les zones denses.
+Toutefois, pour Orange, Numericable-SFR et Bouygues Telecom, garantir ainsi des fréquences préférentielles au quatrième entrant constituerait toutefois une distorsion de concurrence.
+Lire aussi : Orange ralentit la chute de son chiffre d’affaires
+Ils estiment en effet que Free a déjà eu la possibilité d’obtenir ce type de spectre lors des enchères pour les fréquences 800 MHz en décembre 2011.
+Mais qu’il a volontairement passé son tour.
+La somme proposée par l’opérateur avait, à l’époque, été jugée insuffisante.
+Par ailleurs, les concurrents pointent le fait que Free est l’opérateur le plus rentable d’Europe et qu’il n’a pas besoin d’aide pour se doter en fréquences.
+« Ils sont déjà là depuis trois ans, ce sont les seuls qui ne souffrent pas dans un contexte difficile, on ne peut plus considérer que ce sont de nouveaux entrants à aider », estime un concurrent.
+« Le gouvernement ne peut pas vouloir en tirer suffisamment d’argent et attribuer par défaut un lot à un opérateur, c’est contradictoire », insiste-t-il.
+Lire aussi : Free tire toujours profit de la guerre des prix
+Free balaie ces arguments .
+Le quatrième opérateur rappelle qu’à son arrivée sur le secteur Bouygues Telecom s’est vu accorder quelques avantages pour rattraper son manque de patrimoine de fréquences.
+Pour l’opérateur, les temps sont devenus plus durs et la consommation des abonnés en données rend le patrimoine de fréquences basses beaucoup plus important.
+ 

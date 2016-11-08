@@ -1,0 +1,54 @@
+L’homme et le poussin, unis par le nombre
+Le Monde |
+| Par Nathaniel Herzberg
+Quel est le point commun entre l’homme et le poulet ?
+Ils marchent sur deux pattes et leurs petits piaillent, c’est entendu.
+Mais au-delà de ça ?
+Deux articles publiés dans les revues Nature Communications et Science démontrent que, pour l’un comme pour l’autre, la maîtrise des informations quantitatives est profondément inscrite dans la structure du cerveau et largement indépendante de l’expérience.
+Commençons donc par l’homme.
+On sait depuis longtemps que, lorsqu’il évalue des quantités, l’être humain mobilise une aire spécifique du cerveau située dans le cortex pariétal (partie supérieure arrière de l’encéphale).
+De la même façon, l’usage du langage anime une autre zone, logée cette fois dans le lobe temporal gauche.
+S’il lit un texte, ou juste des portions de mots, une troisième zone se met en branle : une « boîte aux lettres », cachée au fond du sillon occipito-temporal latéral gauche, mise en évidence en 2000 par les Français Laurent Cohen et Stanislas Dehaene.
+Depuis 2013, on sait enfin que, juste à côté, à un centimètre de la précédente mais répliquée dans les deux hémisphères et même particulièrement visible à droite, se trouve une aire dite « de la forme des nombres ».
+C’est à cette dernière que s’est intéressée une équipe franco-israélienne en utilisant des sujets particulièrement précieux pour l’étude du cerveau : les aveugles.
+Depuis des années, le laboratoire d’Amir Amedi, à l’université hébraïque de Jérusalem, s’est fait deux spécialités : créer des instruments pour améliorer la vie des non-voyants et utiliser ces derniers pour mieux comprendre ce qui se cache dans la boîte crânienne.
+Il a ainsi pu montrer que le cerveau n’était pas un organe sensoriel (avec ses zones du toucher , de l’ouie, de l’odorat…) mais une machine à tâches et que, en particulier, le cortex visuel n’en était pas vraiment un.
+Grâce à une caméra qui transforme les images en sons, il a prouvé que les aveugles utilisaient les mêmes zones que les voyants lorsqu’ils percevaient les formes géométriques, les parties du corps, les lettres, les couleurs, même.
+Dans l’article publié le 23 janvier dans Nature Communications , il en fait de même avec l’aire de la forme des nombres.
+Aveugles de naissance
+Les aveugles recrutés par Amedi et son collègue Sami Abboud le sont de naissance.
+Nulle expérience visuelle, même ancienne, ne peut donc expliquer leur usage de cette zone spécifique.
+Pourtant, lorsque par l’intermédiaire de sa « caméra sonore » , il les confronte à des chiffres et qu’il observe l’image à résonance magnétique (IRM) de leur cerveau, la fameuse aire s’illumine.
+« C’est très encourageant dans une optique médicale : avec les bons instruments, on peut espérer faire revoir les aveugles puisque leur cerveau n’est pas atteint », se félicite Amir Amedi.
+Mais, au-delà, cette expérience livre des informations précieuses sur le traitement des nombres par le cerveau.
+Celui-ci n’est pas affecté par le code choisi : les chiffres romains – pourtant formés de lettres – provoquent la même réaction que les chiffres arabes.
+C’est donc bien à un tri lié à la nature de la tâche que s’attelle le cerveau.
+Un constat qui, mine de rien, ouvre un abîme de mystère.
+« Comment la reconnaissance des lettres ou celle des chiffres peuvent-elle avoir leur propre zone réservée dans le cerveau alors que ces concepts n’ont que quelques milliers d’années, ce qui est négligeable sur l’échelle de l’évolution ? 
+», s’interroge Amir Amedi.
+La réponse ?
+Les connexions.
+Toujours grâce aux IRM, les scientifiques ont montré que l’aire de la forme des chiffres était reliée à celle du maniement des quantités, et que la zone de reconnaissance des lettres l’était à celle du langage.
+« On vient au monde avec des compétences héritées de notre évolution, résume le neuroscientifique Stanislas Dehaene, professeur au Collège de France , notamment des connexions préétablies que le cerveau mobilise quand il est confronté, par exemple, aux chiffres.
+Pour confirmer l’hypothèse de façon certaine, il faudrait faire l’expérience avec des bébés.
+Ce n’est pas facile. 
+»
+Nourriture et cartes à jouer
+C’est là que le poussin entre en jeu.
+L’équipe de la psychologue Rosa Rugani, à l’université de Padoue n’a pas soumis le volatile à une IRM.
+Dans l’expérience présentée dans le numéro du 30 janvier de la revue Science , elle s’est contentée de proposer à des petits de trois jours un peu de nourriture.
+Dans un premier temps, les grains ont été déposés derrière une carte à jouer sur laquelle avaient été tracés cinq points.
+Dans la foulée, deux cartes identiques ont été proposées aux oisillons, une côté gauche, l’autre côté droit.
+Où aller chercher la nourriture ?
+Lorsque les cartes arboraient deux points, 70 % des oiseaux ont choisi la gauche ; quand huit points avaient été dessinés, la même proportion a opté pour la droite.
+Un résultat identique a été observé avec une première cible à vingt points, « encadrée » par deux autres à huit et trente-deux points.
+« Les poussins comptent de gauche à droite, comme nous », conclut, en souriant, Rosa Rugani.
+Le « comme nous » est un peu rapide.
+Chez les êtres humains, cette « ligne des nombres » est affectée par la culture .
+Stanislas Dehaene, qui a découvert et détaillé, dans une série d’expériences spectaculaires, cette spacialisation baptisée « effet Snarc », a aussi pu constater que les Arabes, qui écrivent chiffres et lettres de droite à gauche, inversent leur sens de perception des quantités.
+Il n’empêche : les macaques, les cassenoix d’Amérique (des corvidés) et les poules domestiques organisent les quantités de gauche à droite.
+Inné ou acquis ?
+« Mes poussins avaient trois jours, insiste Rosa Rugani.
+Je crois qu’on peut affirmer que la culture est secondaire.
+C’est bien un phénomène profond, inné, qui rassemble tous les vertébrés. 
+» Une même bosse des maths, en somme.

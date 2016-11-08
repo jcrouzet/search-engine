@@ -1,0 +1,40 @@
+Science : des gouttes qui se déplacent toutes seules
+Le Monde |
+| Par David Larousserie
+L’étrange ballet de ces gouttes multicolores, abandonnées sur un simple support de verre (mais très propre), est fascinant.
+Des points de couleur posés sur une plaque de verre se mettent soudain à bouger les uns vers les autres, fusionnent entre eux ou au contraire se collent et avancent comme un petit train.
+Un autre film montre comment des gouttes posées au hasard finissent par s’aligner toute seule sur une seule ligne.
+Un autre encore décrit des oscillations verticales ou des circulations quasi perpétuelles.
+Le tout sans aucune intervention extérieure.
+ 
+Mais quelle force mystérieuse agit sur ces simples gouttelettes ?
+En même temps que ces drôles d’arabesques, l’équipe de Manu Prakash à l’université de Stanford propose une explication dans la revue Nature du 12 mars.
+Si ce n’était que des gouttes d’eau, elles s’étaleraient sur le support.
+De même si ce n’était que du propylène glycol (un alcool bien connu des vapoteurs puisqu’il est le composant principal des liquides des cigarettes électroniques).
+En revanche, un mélange des deux (50-50 par exemple) ne s’étale pas et forme une goutte stable.
+Première surprise.
+Et première explication des chercheurs, qui permet ensuite de comprendre aussi pourquoi ces gouttes s’attirent.
+Comme les bords de la goutte sont plus fins que son centre, l’eau s’y évapore plus (et plus vite que le propylène glycol).
+Sa concentration baisse et du même coup la force qui « tient » en général la surface (et qui par exemple fait qu’un trombone peut flotter).
+Celle-ci, aussi appelée tension de surface, est donc différente entre le bord et le sommet.
+Ce déséquilibre va finalement dans le sens d’une traction du liquide des bords vers le centre : une goutte se forme.
+La clé est toujours dans l’évaporation périphérique.
+Deuxième surprise : lorsque deux gouttes sont proches, elles s’attirent.
+La clé est toujours dans l’évaporation périphérique.
+Les bords des deux gouttes se faisant face sont le siège d’une évaporation de l’eau.
+Un petit nuage de vapeur se crée au-dessus de l’espace entre les gouttes.
+Mais ceci a pour effet de limiter l’évaporation au niveau des bords par rapport aux extrémités opposées, non touchées par le nuage de vapeur.
+Un nouveau déséquilibre de force apparaît qui tire les deux gouttes l’une vers l’autre.
+Armé de ce mécanisme, les chercheurs ont imaginé toutes sortes de configurations.
+L’une d’elle leur a été suggérée par un des experts ayant relu leur article.
+Au lieu de rapprocher deux gouttes sur un même support de verre, ils en ont rapproché deux sur des plaques superposées.
+Lorsque les deux gouttes se retrouvent l’une au-dessus de l’autre, une « lentille » apparaît et un texte placé en dessous devient visible !
+Un pré-brevet a été déposé.
+La découverte a été faite par hasard, en voyant que des gouttes se formaient en essayant de nettoyer une surface avec de l’eau.
+Le responsable de l’équipe, Manu Prakash, est un habitué d’expériences étonnantes.
+Il a ainsi imaginé un microscope pliable, le foldscope .
+Il a expliqué comment un échassier faisait monter l’eau en claquant son bec .
+Il a aussi réalisé des circuits logiques avec des microcanaux dans lesquels circulent des bulles .
+Signalons aussi une autre manière de contrôler des gouttes sur une surface, en les gravant, comme sur cette expérience réalisée à l’ESPCI.
+Ou encore ces « marcheurs » sur un liquide :
+ 

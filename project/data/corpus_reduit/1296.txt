@@ -1,0 +1,11 @@
+Début de mea culpa de la NSA
+Le Monde |
+| Par Yves Eudes
+Par petites touches, la NSA confirme la véracité des révélations faites par Edward Snowden et par les médias américains en 2013.
+Dans un article publié en janvier 2015 par la revue mathématique américaine Notices, Michael Wertheimer, directeur de la recherche de la NSA, reconnaît que l'agence a tenté d' imposer à la communauté internationale l'usage d'un algorithme de cryptographie piégé : son générateur de nombre aléatoire composant les clés de chiffrement contenait une porte dérobée qui permettait de prévoir les chiffres générés, et donc de casser facilement des clés réputées inviolables.
+Lire : Comment la NSA tente de percer les remparts de sécurité sur Internet
+S'adressant à la communauté des mathématiciens américains, M. Wertheimer se livre à un début de mea culpa inhabituel : « Rétrospectivement, la NSA aurait dû cesser de promouvoir l'algorithme dual EC_DRBG dès que les chercheurs en sécurité ont découvert la possibilité d'une porte dérobée. 
+» Puis il qualifie de « regrettable » la décision de continuer à soutenir l'usage de ce générateur faussement aléatoire.
+Pour l' avenir , il affirme que « nous serons plus ouverts et plus transparents à propos de nos contributions à l'élaboration de normes cryptographiques ».
+Cela dit, en matière de collecte d‘informations personnelles et de respect de la vie privée des citoyens, M. Wertheimer réaffirme que la NSA est presque irréprochable : « Les algorithmes de la NSA éliminent approximativement 99,998 % des données auxquelles elle a accès… Après ce processus de filtrage, les données restantes doivent remplir des conditions très strictes avant d' être sélectionnées pour traitement et analyse.
+»

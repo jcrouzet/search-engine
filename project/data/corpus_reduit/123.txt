@@ -1,0 +1,13 @@
+Le site de TF1 piraté, les données de 2 millions de personnes dérobées
+Le Monde |
+• Mis à jour le
+03.01.2015 à 10h24
+Des pirates informatiques ont exploité une faille dans le site de TF1 pour pirater les données de près de deux millions de personnes, a révélé vendredi 2 janvier le site ZatazMag , spécialisé dans le questions de sécurité informatique .
+L'attaque a visé précisément l'espace « abonnement presse » du site, qui permet de s' abonner à plusieurs titres de presse.
+« Il s'agit d'un service géré par un tiers », a précisé la direction technique d'eTF1 à ZatazMag.
+LES DONNÉES SERONT « SÛREMENT REVENDUES »
+Les pirates ont notamment récupéré sur les bases de données du site des adresses e-mail et des mots de passe, dont ils ont fourni des captures d'écran en guise de preuve.
+Ils affirment également avoir dérobé des RIB.
+« Les données que nous détenons (…) seront sûrement revendues », ont -il déclaré à ZatazMag.
+Rapidement alertée, l'équipe technique de TF1 a réparé la faille dans l'heure.
+Pixels

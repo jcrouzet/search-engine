@@ -1,0 +1,45 @@
+2014, une année en grand format
+Partager facebook twitter google + linkedin pinterest
+2014 une année en grand format
+La fin d'un logiciel, le début d'un nouveau format, la découverte d'un lectorat avide de prendre son temps, de surfer sans se presser… En un an, LeMonde.fr
+a produit une centaine de “Grands Formats”, ces récits et reportages au long cours, véritablement multimédias, dont chaque maquette est un prototype.
+Quand la mort d’un logiciel ouvre de nouvelles perspectives technologiques
+Produit emblématique du fabricant Adobe, le logiciel Flash a longtemps été la pierre angulaire de la création multimédia sur les réseaux.
+En 2012, Adobe l'abandonne, notamment pour rentrer dans le rang d'une production qui se tourne vers le HTML 5 et la création de contenus pour les mobiles.
+Mais s'il y a une conséquence que personne ne prévoyait à la disparition de Flash, c'est celle du développement d'un nouveau style graphique dans nos navigateurs.
+A l’époque, la communauté des webdesigners, forte d'un million de membres, avait unanimement critiqué l'abandon de Flash, décision qui avait suscité une véritable guerre de tranchées entre défenseurs et adversaire de ce logiciel.
+Force est de constater que la même communauté a su s'adapter et renouveler nos modes de navigation, en exploitant les capacités natives des navigateurs.
+La principale évolution s'est incarnée dans l'usage du “scroll” de navigation, la molette incrustée dans les souris.
+Ce potentiel historique, a priori figé dans son usage, est devenu un important vecteur d'animation, d'ergonomie et de créativité.
+L’émergence de nouvelles pratiques éditoriales
+Cette évolution technologique s’est doublée, simultanément, d’une évolution éditoriale qui prenait le contre-pied de dix années de pratiques journalistiques sur le Web.
+Après s’être concentrés sur le traitement immédiat de l’information, les sites de presse ont découvert le pouvoir du slow journalism et du longform.
+Cette vague initiée en presse traditionnelle par des revues comme XXI, Usbek   Rica, We Demain avec un succès imprévu, a atteint le Web.
+C'est le New York Times qui avait ouvert la voie avec Snowfall, en décembre 2012.
+Ce projet inédit a été considéré par les observateurs comme “le futur du journalisme” mais très rapidement décrié car gourmand en ressources humaines.
+Il concrétisait l'observation que les articles longs attiraient une véritable audience dans un écosystème qui privilégiait le snackable content (contenu instantané).
+Le longform venait de trouver sa place sur les sites de presse, avec un lectorat suffisamment conséquent pour que Google fasse évoluer son algorithme en adjoignant à ses pages de restitution un pavé “in depth” (en profondeur) pour ce type d'articles.
+Le Web voit aujourd’hui se décliner ce concept avec des “pure players” de formats longs ( Ulyces , Ijsberg , Le Quatre Heures …) qui complètent l’offre croissante des sites de presse.
+C’est désormais par dizaines que l’on trouve des outils d’édition en ligne qui permettent, à qui veut s’en emparer, de créer des formats originaux ( Creatavist , Muse , Macaw , Storehouse , Racontr …).
+Nouvelles navigations, nouveaux problèmes
+Pour les sites de presse, le développement de ces formats longs, enrichis de contenus sur une pleine page, n’allait pas sans créer de problèmes.
+Tout d'abord, une navigation pleine page implique de s'extraire du “portique” dans lequel le site se déploie.
+Il n'est alors plus possible d'exploiter les habillages publicitaires classiques.
+Dans un autre registre, le format atypique oblige à repenser l'usage de la matière photographique.
+Il est difficile d'intégrer une photo de format portrait (vertical) dans une page qui s'adapte à un écran panoramique.
+Le même sort est réservé au format 4/3 qui reste le standard dans l'univers photographique.
+Le problème est insoluble et ne peut être que contourné en inventant des procédés qui permettront de respecter le travail des photographes sans pénaliser la créativité et l’animation de la page.
+Ecriture et nouvelles écritures
+Editorialement, l'écriture d'articles longs, souvent au-delà de 10 000 signes, implique certains ajustements formels pour dynamiser la lecture : extraction de citations, chapitrage, encadrés… La narration elle-même s'éloigne d'un style journalistique factuel pour s'appuyer sur l'image ou explorer des modes plus personnels, sans toutefois tomber dans les expériences d'écriture délinéarisée qui avaient été tentées à l'époque des webdocumentaires et qui ont été abandonnés.
+Dans l'écosystème bien particulier d'un site de presse en flux tendu, les projets de “Grands Formats” se positionnent dans une temporalité particulière.
+L'enquête réclame du temps, tout comme l'écriture.
+Il faut des médias, photos, vidéos, gifs animés, cartographies… qui ont un vocabulaire spécifique et supposent une narration plus ouverte et inventive.
+Faire évoluer l’enrichissement des articles
+Simultanément, l’acquisition des médias nécessaires à l’animation de la page est en pleine mutation.
+Les outils photo et vidéo contemporains ont ouvert des perspectives créatives qui questionnent l'exercice photographique traditionnel.
+Parallaxe (pour aller plus loin, lire l’article du NiemanLab , en anglais), vidéos image par image ( stop motion ), accélérée ( time-lapse ) ou prises par des drones, “still videos”, “tilt-shift” (par exemple ce film du défilé du 14 juillet )… sont autant de techniques que nous essayons de mettre en pratique.
+Derrière toutes ces évolutions techniques, se dessinent de nouvelles interactions humaines, qui font la part belle aux métiers pluridisciplinaires.
+Rédacteurs, photographes, vidéastes, designers et développeurs forment des équipes plus petites, agiles et éphémères, qui se rejoignent le temps d’un projet.
+Sur la centaine de “Grands Formats” que LeMonde.fr
+a produits en 2014, nous en avons sélectionné dix, afin de proposer, du fond des mers à la traversée du désert, un échantillon de la richesse de cette nouvelle expérience de journalisme multimédia.
+Vous pouvez aussi retrouver la totalité de la production sur la rubrique dédiée .

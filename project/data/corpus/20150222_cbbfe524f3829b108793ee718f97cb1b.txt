@@ -1,0 +1,60 @@
+22.02.2015 à 19h36
+| Par William Audureau
+Pour lire la suite de cet article, appuyez sur A.
+Dépêchez-vous : vous n'avez que quelques secondes, et si vous vous trompez de bouton ou tardez trop, vous aurez raté votre action.
+Peut-être que votre écran d'ordinateur tremblera, qu'une frappe atomique s'abattra sur vos géraniums, ou pire, que vous devrez retenter de lire à nouveau cet article. 
+Qu'est-ce qu'une séquence de QTE ?
+Concrètement, les « QTE », ou « Quick Time Event », pour événements en temps limités, sont des séquences de jeu vidéo filmées sous des angles cinématographiques (champ contre champ, plongée, contre-plongée...) plutôt qu'avec une caméra fixe dans le dos du héros, et qui ne demandent au joueur qu'une seule chose : appuyer sur le bouton qui apparaît à l'écran pour permettre à la scène de se poursuivre.
+Ces passages reposent presque exclusivement sur les réflexes.
+En cas d'échec, soit la séquence est à recommencer, soit la cinématique embraye sur une branche narrative peu reluisante : mort du héros, mise à mort de la princesse, ou promotion de votre collègue qui sent l'ail.
+Sont-elles si fréquentes ?
+De manière parsemée, oui.
+Même s'ils n'en connaissent pas forcément le nom, la plupart des amateurs de jeux vidéo d'action y ont forcément déjà été confrontés un jour ou l'autre.
+On en retrouve en effet dans un très grand nombre de titres à gros budget, de Call of Duty : Advanced Warfare à GTA V en passant par Assassin's Creed Unity et le dernier Tomb Raider, pour n'en citer que quelques-uns.
+De quand datent-elles ?
+Les QTE ne sont pas une nouveauté.
+Leur apparition remonte au jeu Dragon's Lair, en 1983, un jeu d'action entièrement pensé comme un dessin animé interactif.
+Sa réalisation est d'ailleurs confiée à un ancien de Disney, Don Bluth (Merlin l'enchanteur, Robin des bois, Peter et Elliott le dragon... ), qui signe des animations magnifiques.
+En contrepartie, les interactions du jeu sont limitées au strict minimum : appuyer sur le bouton indiqué pour que le dessin animé se prolonge, ou assister impuissant à une scène de mort du preux chevalier.
+Très cher à produire, ce genre de jeu disparaît pendant près de quinze ans. 
+Quels jeux les ont popularisées ?
+En premier lieu, le jeu d'aventure Shenmue, sur console Dreamcast, en 1999.
+C'est lui qui a introduit les QTE sous leur forme moderne, c'est-à-dire sous forme de séquence d'aération courte et dynamique, avec un bouton de couleur qui surgit à l'écran.
+Elles n'apparaissent qu'à certains moment du jeu, et le rythment.
+Considéré comme l'un des titres majeurs de l'histoire du jeu vidéo, il aura une influence directe sur toute la production moderne, de Resident Evil 4 à la série de jeux d'action God of War, deux titres qui ont étendu les QTE aux jeux d'action à grand spectacle.
+Existe-t-il des jeux entièrement constitués de QTE ?
+Oui.
+Le studio parisien Quantic Dream (Fahreinheit, Heavy Rain, Beyond: Two Souls) s'en est même fait une spécialité.
+Commercialisé en 2011, Heavy Rain en est le plus célèbre exemple : les QTE ne sont plus une aération, mais l'unique grammaire du jeu, de la première à la dernière minute.
+Un choix artistique assumé par son emblématique réalisateur, David Cage, intimement convaincu depuis ses débuts dans les années 1990 que le jeu vidéo doit se rapprocher d'un film interactif à embranchements, avec des actions adaptées à chaque situation, plutôt que des fonctions figées, comme sauter ou tirer.
+Dans Heavy Rain, il pousse le vice jusqu'à permettre de se laver les dents, ou cuisiner, des actions anodines mais qui, dans l'économie du jeu, permettent d'installer un rapport intime au héros avant que celui-ci ne plonge dans la dépression puis se lance à la poursuite d'un meurtrier.
+Pourquoi les créateurs de jeux y ont-ils recours ?
+Pour plusieurs raisons : parce qu'elles permettent de varier les situations, d'avoir plus de liberté en termes de mise en scène visuelle, de mettre en avant le jeu d'acteur dans certains cas, ou tout simplement, afin d'expérimenter de nouveaux formats narratifs.
+Néanmoins, chaque approche est différente.
+« J'ai toujours pensé que les mécaniques – par exemple, ce système qui consiste à ce que le jeu contienne des actions répétitives, que le joueur répète à l'envi – étaient une impasse.
+La vie est contextuelle, elle propose une infinité de choix, d'actions, de possibilités, elle ne se limite pas à des mécaniques répétitives », explique ainsi David Cage.
+Pour le directeur artistique de The Order : 1886, Ru Weerasuiya, il s'agit essentiellement de se rapprocher du septième art tout en gardant un pied dans l'interaction.
+« Ces scènes-là, si on ne les avait pas conçues sous forme de QTE, on en aurait fait des cinématiques, elles auraient été encore moins interactives.
+C'est une manière de prendre des risques, de faire tomber les barrières entre jeu vidéo et cinéma.
+»
+   Lire : Le riche parcours du designer de jeux Ru Weerasuriya
+Sont-elles populaires auprès des joueurs ?
+Le moins que l'on puisse dire, c'est qu'elles font débat.
+A petite dose, rares sont les joueurs à ne serait-ce que relever leur présence, et dans certains contextes, elles se justifient volontiers.
+Dans la série de jeux d'action God of War, elles apportent par exemple un souffle épique supplémentaire à des combats contre des ennemis déjà titanesques.
+Dans Assassin's Creed Unity, elles donnent à voir un duel de fines lames très chorégraphié sur les corniches de Notre-Dame.
+Elles apportent alors un plus en matière de rythme, d'adrénaline et de mise en scène.
+Ces scènes semi-cinématiques, souvent difficiles à réussir car impossibles à anticiper, donnent également lieu à nombre de prises de tête lorsqu'un joueur les découvre pour la première fois, sans connaître le temps dont il dispose ni l'enchaînement de touches qui va se présenter.
+« Mais j'appuie dessus.
+»
+Elles peuvent également donner lieu à des scènes gênantes ou ridicules.
+Dans Call of Duty : Advanced Warfare, dans une première scène étrange, l'aventure refuse de démarrer tant que le joueur n'a pas appuyé sur X pour se recueillir sur la tombe d'un soldat tombé au combat.
+Plus dérisoire, dans Heavy Rain, il faut réussir des QTE pour ouvrir chaque tiroir.
+Si le joueur échoue, le personnage qu'il dirige lâche la poignée en tremblant, et doit recommencer.
+Enfin, parce qu'elles réduisent l'interaction à son plus strict minimum, certains lui reprochent d'être le degré zéro du jeu vidéo, sa négation, voire, chez certains et dans des termes très forts, son « cancer ».
+De manière plus pondérée, comme l'analyse très calmement un joueur sur son blog , « le problème des événements en temps limité, c'est qu'aussi divertissants qu'ils soient en tant que nouveauté, ils parviennent à vous détourner d'un moment cinématographique tout en échouant à simuler une interaction de jeu vidéo ».
+Faut-il les supprimer ?
+Certainement pas : qu'on les aime ou qu'on les déteste, les QTE sont, sans conteste, un ressort comique formidable.
+Elles ont donné lieu à plusieurs mèmes, comme « Press X to Jason » (« Appuyez sur X pour 'Jasoner' », référence à une phrase absurde de The Heavy Rain.
+Leur grammaire a également envahi celui des Gif, ces images animées.
+William Audureau

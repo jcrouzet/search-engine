@@ -1,0 +1,23 @@
+Départementales : comment le FN bénéficie de la valse des étiquettes
+Le Monde |
+| Par Samuel Laurent
+Depuis dimanche, le Front national assure être le « premier parti de France » sur la foi des résultats du premier tour des cantonales.
+Un titre qui a été contesté mais qui s'appuie sur les étiquetages politiques des binômes de candidats.
+Pourquoi cet imbroglio ?
+Pour ces élections, une nouvelle règle a été mise en place : dans chaque canton se présentaient des binômes, un homme et une femme, qui n'avaient pas forcément la même étiquette politique.
+On pouvait associer un candidat UMP et une candidate UDI, une PS et un PRG, une PCF et un EELV...
+Présence éclatée des candidats 
+Pour y voir plus clair, le ministère de l'intérieur a donc décidé d'attribuer des étiquettes non pas à chaque candidat mais aux binômes : « union de la droite », « union de la gauche », socialistes, front de gauche...
+Evidemment, ce choix a fait des mécontents, parfois à juste titre.
+Le cas le plus emblématique est celui des élus communistes ou du parti de gauche, qui partaient souvent alliés aux écologistes d'EELV.
+Leurs listes étaient donc parfois classées comme « divers gauche », parfois « communistes », parfois « parti de gauche »...
+Le même scénario s'est joué à droite : les candidats de l'UMP faisaient souvent équipe avec l'UDI, mais aussi avec d'autres sensibilités politiques, « divers droite », « sans étiquette »...
+D'où une présence éclatée entre tendances UMP, « union de la droite », UDI ou « divers droite ».
+Lire : « Divers gauche » ou « union de la gauche », le flou des étiquetages agace les partis.
+Dans cette confusion, un seul parti a présenté sous la même étiquette, des binômes de candidats qui ont été rassemblés dans la même nuance : le Front national.
+Nous avons récupéré les étiquettes individuelles de chaque candidat parmi les 4 000 binômes qui se sont présentés dimanche.
+Dans la datavisualisation ci-dessous, ces étiquettes sont à droite ; le groupe de nuance auxquelles elles étaient rattachées par le ministère, à gauche.
+La taille des traits de couleur montre le nombre de candidats qui avaient cette étiquette.
+On le constate d'un coup d'œil : le FN était celui qui présentait, de loin, le plus de candidats étiquetés à son nom, quand les autres étaient bien plus dispersés.
+Là où il était complexe de compter les résultats de l'UMP, par exemple, puisqu'une bonne partie était comptée comme « union de la droite » voire « divers droite », ceux du FN étaient plus faciles à lire.
+Front de gauche 351

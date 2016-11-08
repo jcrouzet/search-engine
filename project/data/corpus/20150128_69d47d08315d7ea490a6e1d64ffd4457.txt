@@ -1,0 +1,34 @@
+Allociné ou Télérama vous diront où voir un film en ligne légalement
+Le Monde |
+| Par Alexandre Piquard
+ 
+Quand un ministère fait le vœu de promouvoir l’offre légale de films, de séries ou de musique, l’internaute ou le journaliste peuvent être un peu sceptiques.
+Leur reste en mémoire le souvenir d’initiatives passées – des portails ou des labels – dont le succès d’audience ne fut pas à la hauteur de l’ambition affichée : faire reculer le «  piratage  ».
+Bien conscients de ce travers, le ministère de la culture de Fleur Pellerin et le Centre national du cinéma (CNC) ont à leur tour dévoilé, mercredi 28 janvier, un dispositif qui se veut bien plus « pragmatique », puisqu’il se fonde sur les usages des internautes.
+Des sites partenaires plutôt qu’un « portail »
+Quand un internaute cherche à regarder un film en ligne, il est peu probable qu’il aille sur des sites comme http://www.offre-légale.fr
+, la base de données montée par la Hadopi , a estimé Julien Neutres, du CNC, chargé de ce projet .
+L’utilisateur va plutôt taper La Reine des neiges ou Gone Girl dans un moteur de recherche… le plus souvent Google .
+Et trouver en résultats l’annuaire Allociné (en première position quasiment tout le temps, selon la Culture), l’encyclopédie Wikipedia, des sites d’information comme Télérama.fr
+ou Première.fr et aussi… des sites de téléchargement illégal .
+L’idée du CNC et du ministère est de prendre acte de cette réalité du référencement et de nouer des partenariats avec des sites puissants pour y placer la liste des plateformes qui proposent le film en vidéo à la demande (à l’achat en téléchargement ou en location ou encore par abonnement).
+Allociné (9 millions de visiteurs uniques par mois selon Nielsen/Net Ratings), Premiere (3 millions), Télérama (2 millions) et Sens critique (2 millions) sont les quatre premiers partenaires.
+D’autres sont souhaités.
+12 services référencés…
+Concrètement, sur la fiche d’un film, ces sites ont intégré un bouton « Voir ce film en ligne » et un espace sous la fiche.
+Si l’on clique dessus, on obtient la liste des éditeurs qui proposent l’œuvre.
+Et son prix, pour 10 des 12 éditeurs qui participent à l’initiative, soit la plupart des grandes plateformes légales de France  : Canalplay , France Télévisions Pluzz VàD , MyTF1VOD , Orange Vidéo à la demande et Orange cinéma séries , Arte , Vidéofutur , Filmotv , Montparnasse VOD , Wuaki.tv et Imineo .
+Ils sont présentés « dans un ordre aléatoire », précise-t-on.
+… mais pas Netflix ou iTunes
+Précision importante : Netflix, le fameux service américain de vidéo à la demande par abonnement, et iTunes, la plateforme de vidéo à l’achat d’ Apple , ne sont pas référencés.
+Car Fleur Pellerin et le CNC ont fait le choix politique de ne promouvoir que les services qui respectent le système français de soutien à la création, en se soumettant au décret Smad  : celui-ci les oblige notamment à promouvoir dans leur catalogue 60 % d’œuvres européennes et 40 % d’œuvres françaises, et surtout à consacrer 15 % de leur chiffre d’affaires à des œuvres fabriquées par des producteurs européens.
+Question « d’exemplarité », pour la ministre : « cliquer, c’est aider à créer », a-t-elle lancé mercredi.
+Outre le déploiement sur des sites partenaires, le dispositif est disponible sous la forme d’un « widget », une petite application qui permet à tout éditeur ou blogueur d’insérer sur son site les informations pour son site, comme il « embedderait » une vidéo de Youtube ou Dailymotion.
+Enfin, la base de données est disponible sous une forme plus classique à l’adresse vod.cnc.fr .
+Les séries télé intégrées « dans quelques semaines »
+Aujourd’hui, 10 000 films sont disponibles en vidéo à la demande, sur les 25 000 recensés dans la base créée par le CNC.
+Ce recensement se veut exhaustif et sera complété au fur et à mesure.
+Surtout, le dispositif devrait intégrer les séries télé « dans les prochaines semaines », puis les documentaires voire les courts-métrages, selon le ministère.
+Le budget de développement est de « quelques dizaines de milliers d’euros », selon la Rue de Valois.
+De plus, les sites partenaires ont reçu une « compensation » financière correspondant aux frais de développement technique et à une forme d’achat d’espace non publicitaire sur leur plateforme, à fort trafic.
+Son montant est bien inférieur au prix du marché, précise-t-on, sans toutefois donner de chiffres.

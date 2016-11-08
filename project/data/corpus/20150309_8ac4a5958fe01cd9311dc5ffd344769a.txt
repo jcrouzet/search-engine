@@ -1,0 +1,19 @@
+Deux personnes arrêtées après le vol d’un milliard d’adresses e-mail
+Le Monde |
+| Par Olivier Dumons
+Deux des trois principaux suspects de ce qui constitue « le plus large vol de noms et d’adresses courriel dans l’histoire d’Internet » selon Leslie R.
+Caldwell , une responsable du ministère de la justice américain, ont été arrêtés et mis en examen aux Etats-Unis.
+Entre février 2009 et juin 2012, huit fournisseurs de services de messagerie situés aux Etats-Unis ont ainsi été visités par deux pirates vietnamiens qui ont pu dérober près d’un milliard d’adresses e-mail, ainsi que des informations confidentielles sur ces sociétés.
+Viet Quoc Nguyen, 28 ans, et Giang Hoang Vu, 25 ans, se seraient alors tournés selon l’accusation vers le Canadien David-Manuel Santos Da Silva, 33 ans, président et directeur de la société montréalaise 21 Celsius Inc, pour faire tirer profit de ce piratage.
+Cette « agence de marketing expérimentiel » – comme elle est décrite sur sa page d’accueil – gérait notamment jusqu’en juillet 2012 Marketbay.com.
+Ce site de vente en ligne de logiciels et autres produits, qui a depuis arrêté ses activités , utilisait les adresses volées pour l’envoi de « spams » (courriers indésirables) afin de « rediriger de gros volumes de trafic vers les sites affiliés à Marketbay.com 
+», selon le communiqué de la justice américaine.
+Deux millions de dollars de chiffre d’affaires
+Les trois hommes, qui opéraient depuis le Vietnam, les Pays-Bas et le Canada, sont accusés d’avoir imaginé et mis en œuvre un gigantesque réseau de fraude informatique ayant rapporté « environ 2 millions de dollars […] entre mai 2009 et octobre 2011 » grâce à l’ensemble de ces opérations, précise Mme Caldwell.
+Car les pirates ne se sont pas contentés de voler des adresses e-mail, ils auraient également réussi à détourner les systèmes informatiques de certaines sociétés en avril 2011 (dont le texan Epsilon , l’un des leaders mondiaux du mail-marketing) pour envoyer leurs propres e-mails de spam.
+David-Manuel Santos Da Silva, arrêté le 12 février à l’aéroport de Fort Lauderdale (Floride) alors qu’il était en voyage d’affaires, clame depuis son innocence, mais a été inculpé vendredi par un grand jury de la cour fédérale d’Atlanta pour « participation à un complot en vue de blanchiment d’argent », puis emprisonné dans une prison fédérale à sécurité maximale à Atlanta (Géorgie).
+Selon Frank Pappas, son avocat, cité par Le Journal de Montréal , « il ne savait pas qu’il était sous le coup d’une enquête, sinon il se serait rendu pour s’expliquer ».
+Frank Pappas compte demander la remise en liberté de son client le 17 mars, dans l’attente du procès.
+Giang Hoang Vu, extradé aux Etats-Unis en mars 2014 après avoir été arrêté sur son lieu de résidence aux Pays-Bas en 2012, plaide coupable des accusations de fraudes informatiques.
+Il devrait connaître sa peine le 21 avril.
+Viet Quoc Nguyen est toujours recherché par la police.

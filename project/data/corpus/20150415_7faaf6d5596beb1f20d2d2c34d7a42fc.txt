@@ -1,0 +1,18 @@
+Piraté, France Télévisions a été victime d'une importante fuite de données
+Le Monde |
+15.04.2015 à 19h07
+France Télévisions a été victime mardi d'une importante fuite de données, orchestrée par des pirates informatiques, concernant plus de 100 000 de ses contacts, annonce mercredi 15 avril le groupe audiovisuel public :
+« Hier, un accès illégitime a eu lieu sur un service annexe de France Télévisions (...).
+Cet acte a entraîné la copie d'un nombre de données personnelles limitées (nom, prénom, adresse postale, email et ou téléphone). 
+»
+En revanche, « aucun mot de passe, aucune coordonnée bancaire n'a été concerné », assure le groupe, qui précise que « cette fuite de données est désormais terminée ».
+France Télévisions a mis en garde les utilisateurs touchés contre des risques de « phishing » (hameçonnage) et doit porter plainte vendredi.
+Ces données représentent moins de 1 % des 12 millions de contacts que France Télévisions possède dans ses bases.
+ Des données « laissées à l'air libre »
+Les fichiers récupérés par les pirates contenaient 19 000 demandes d'inscription à des jeux télévisés ainsi que 108 000 contacts datant de mars 2014, a expliqué à l'Agence France-Presse Stéphane Van Bosterhaudt, directeur technique à France Télévisions.
+Il reconnaît une « sécurisation insuffisante » malgré une « vigilance permanente ».
+Selon lui, « la copie de ces fichiers de données a été réalisée par le groupe [de pirates] Linker Squad ».
+C'est le site spécialisé Next INpact qui a alerté France Télévisions mardi matin, après avoir constaté le piratage, comme il le détaille dans un article :
+ « Pour arriver à leur fin les pirates n'ont pas eu besoin d'user de stratagème et a fortiori d'avoir recours à une cyberattaque : une simple URL suffisait en effet pour récolter les données laissées à l'air libre.
+»
+L'objectif de ce genre d'attaques est la revente de données, un but bien différent de l'intrusion subie il y a une semaine par TV5 Monde , à savoir la prise de contrôle pendant plusieurs heures des comptes Twitter, Facebook et du site de cette télévision par CyberCaliphate, groupe se revendiquant de l'Etat islamique.

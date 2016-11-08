@@ -1,0 +1,26 @@
+4,3 millions d'euros volés à une plate-forme d'échange de bitcoins
+Le Monde |
+06.01.2015 à 17h51
+Le butin est de 19 000 bitcoins, soit 4,3 millions d'euros environ : Bitstamp, l'une des principales plates-formes d'échange de bitcoins, a été victime d'un piratage et du vol d'une partie substantielle de ses réserves, a reconnu l'entreprise, qui a fermé son service depuis 48 heures.
+Le bitcoin est une monnaie virtuelle, anonyme et décentralisée.
+Acceptée par de plus en plus de services en ligne, elle peut être « minée » – obtenue petit à petit en faisant tourner de puissants ordinateurs – ou achetée en ligne.
+Plusieurs plates-formes d'échange, comme Bitstamp, permettent de convertir les bitcoins en dollars et euros, ou inversement d'en acheter .
+Le 4 janvier, Bitstamp a annoncé avoir été victime d'un piratage et suspendre « provisoirement » son service, et a demandé à ses utilisateurs de ne pas créditer les adresses utilisées précédemment de nouvelles sommes.
+« Les dépôts effectués jusqu'à présent sur le service sont pleinement garantis par nos réserves, et tous les dépôts qui seront faits sur de nouvelles adresses le seront également », affirmait alors l'entreprise.
+Entretemps, la société a dû reconnaître avoir perdu 19 000 bitcoins, soit un peu plus de 10 % de ses réserves, selon les estimations.
+Malgré les messages de la société promettant que la majeure partie des réserves du site sont en sécurité, l'annonce du piratage a eu un impact lourd sur le cours du bitcoin, passé en deux jours de 266 euros à 236, soit une chute de 12 % environ.
+Bitstamp n'est en effet pas n'importe quelle plate-forme d'échange : parmi les dizaines de services existants, le site est considéré comme le numéro deux ou trois du secteur.
+Un service qui a profité de la chute de Mt.
+Gox
+Ironiquement, Bitstamp s'est hissé parmi les plus grandes plates-formes d'échange à la faveur de la chute d'une autre, Mt.
+Gox, qui a fermé ses portes en 2013 en affirmant avoir subi un piratage massif.
+La plate-forme était à l'époque le leader incontesté du marché du bitcoin, dont elle contrôlait les deux tiers – près de 850 000 bitcoins avaient été volés dans ses réserves, selon l'entreprise, également suspectée d' avoir organisé sa propre faillite frauduleuse.
+La chute de Mt.
+Gox avait déclenché une chute brutale des cours, mais au bout de quelques mois, d'autres plates-formes avaient pris sa place et les échanges de la monnaie virtuelle avaient repris à haut niveau.
+Bitstamp, fondé par deux étudiants slovènes, s'était alors engouffré dans le vide laissé par la disparition de Mt.
+Gox.
+En quelques mois, la société contrôlait environ 10 % des échanges de bitcoins, et ses deux fondateurs devenaient millionnaires.
+Après la chute de Mt.
+Gox et pour tenter de rassurer ses utilisateurs, l'entreprise avait mis en place une forme d'audits indépendants, dont les résultats étaient rendus publics.
+En mai 2014, un ancien employé de Google avait conduit une inspection de leurs réserves, et confirmé que le service détenait plus de 183 000 bitcoins, soit environ 80 millions d'euros au cours de l'époque. 
+Bitcoin et monnaies virtuelles

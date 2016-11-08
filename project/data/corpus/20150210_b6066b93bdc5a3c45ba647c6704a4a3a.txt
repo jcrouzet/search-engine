@@ -1,0 +1,48 @@
+Les très protégés clients mystères de HSBC
+Le Monde |
+10.02.2015 à 11h44
+ 
+Au moment où il prenait la fuite au nez et à la barbe de la justice suisse , à la veille de Noël, en 2008, Hervé Falciani emportait avec lui la liste complète de tous les clients de la banque HSBC .
+Ou du moins le pensait-il.
+Les données obtenues par Le Monde et partagées avec l’ICIJ, le Consortium international de journalistes d’investigation, montrent qu’une petite partie des clients ont peut-être pu conserver leur anonymat malgré la plus importante fuite de données de l’histoire du secret bancaire.
+La raison est simple : leur identité n’a jamais été introduite dans le système informatique de la banque.
+Leur nom ne figurait que sur des feuilles de papier, abritées dans un coffre-fort.
+Sur les quelque 35 000 fiches client apparaissant dans les listings de la banque en 2007, normalement toutes nominatives, environ 130 n’indiquent le nom du bénéficiaire que sous forme d’initiales.
+C’est le cas de « Monsieur A.
+S. », par exemple.
+Citoyen français, son compte abritait l’équivalent d’un peu plus de 2 millions de dollars.
+Sa fiche client indique bien le nom de sa société offshore et précise qu’il était représenté par l’avocat genevois Marc Bonnant.
+Le champ indiquant l’identité du bénéficiaire contient ces mots en majuscule : « FORM A IN SAFE DG ».
+L’astuce du formulaire en coffre
+Cette note signifie que le fameux « formulaire A » – le document que les banques suisses sur lequel elles sont tenues de consigner le nom du bénéficiaire d’un compte – est soigneusement rangé dans le coffre, à l’étage de la direction générale.
+Interrogé par nos soins, Marc Bonnant a dit ne pas garder le souvenir d’un client aux initiales « A.
+S. ».
+« Le compte suisse à numéros, contrairement à ce que croyait le profane, n’avait rien d’anonyme, explique-t-il.
+Le terme signifiait simplement que, au lieu d’être accessible à n’importe quelle secrétaire subalterne, l’identité de son détenteur n’était connue que par quelques-uns.
+Le choix de cet accès restreint n’est d’ailleurs pas en soi une chose peccamineuse.
+Elle dépend de l’appréciation que peut faire la banque du caractère sensible de l’identité de son client.
+»
+En effet, cette astuce du formulaire en coffre ne viole aucune règle.
+« En observant les devoirs cités par la loi et la convention de diligence des banques, il est possible de tenir un compte désigné par un numéro ou un code », confirme Tobias Lux, porte-parole de la Finma (autorité suisse de régulation des banques).
+Il n’en demeure pas moins que cette pratique résonne comme une réminiscence d’une période que l’on croyait révolue depuis des décennies : celle où les banques suisses conservaient les noms de leurs client sur de grands registres de papier protégés dans des salles fortes.
+« A l’époque de la Republic National Bank d’Edmond Safra, raconte un ancien cadre, les noms des clients étaient enregistrés sur un ordinateur déconnecté du réseau, dans une salle bien gardée à l’étage de la direction.
+Seule trois personnes pouvaient y accéder .
+» Le directeur juridique s’y rendait en personne, une ou deux fois par semaine, pour effectuer les recherches demandées par la justice.
+La Republic National Bank a été rachetée par HSBC en 1999 pour 10,3 milliards de dollars, peu avant la mort d’Edmond Safra dans l’incendie de son appartement, à Monaco .
+L’introduction des premières lois antiblanchiment, en 2000, ont contraint les banques à élargir toujours plus le cercle des personnes autorisées à y accéder.
+Dès le milieu de la décennie, il n’était normalement plus possible d’ouvrir un nouveau compte sans entrer le nom du client dans le système informatique.
+Normalement.
+« Nous avions conservé une possibilité pour certains clients qui ne souhaitaient pas que les services administratifs chargés de l’ouverture des comptes puissent voir leur nom », explique l’ancien cadre.
+Le coup du formulaire dans le coffre a pu protéger certains clients après la fuite des données, mais ce n’est pas sûr.
+Curieusement, les fiches informatiques de ces clients mystères contiennent parfois tant d’informations personnelles qu’il est aisé de les identifier .
+C’est le cas de « A.
+G. », lui aussi contribuable français, dont l’adresse, rue du Foin, à Paris , est indiquée en toutes lettres.
+Ou encore de « H.
+S. P. », 130 millions de dollars au compteur.
+Une recherche sur Google à partir de son lieu d’origine et de sa date de naissance fait aussitôt apparaître la page Wikipédia consacrée à ce multimiliardaire « investisseur et philanthrope ».
+Cette pratique aurait cessé en 2008 avec l’arrivée d’un nouveau directeur général, Alexandre Zeller, formé chez Credit Suisse et issu d’une nouvelle génération de banquiers.
+Un collègue se souvient de l’étonnement du nouveau directeur général découvrant des piles de formulaires A dans le coffre de son bureau.
+« Avec les contrôles qui se multiplaient, notamment en matière de clients politiquement exposés, ce n’était plus tenable », conclut l’ancien cadre.
+Quand leurs noms ont été reportés dans le système informatique, Hervé Falciani avait déjà pris la poudre d’escampette.
+François Pilet (« L’Hebdo », Suisse)
+Économie

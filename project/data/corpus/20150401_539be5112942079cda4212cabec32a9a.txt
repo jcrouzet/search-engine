@@ -1,0 +1,33 @@
+Facebook accusé de pister les internautes, inscrits ou non
+Le Monde |
+• Mis à jour le
+01.04.2015 à 13h52
+Que Facebook traque les habitudes de navigation de ses utilisateurs, notamment pour vendre de la publicité ciblée, n'est pas nouveau.
+En revanche, un rapport publié mardi 31 mars assure que le site piste aussi les internautes déconnectés du réseau social... et même ceux qui n'y ont jamais été inscrits.
+Commandé par la Commission de la protection de la vie privée de Belgique et réalisé par des chercheurs de l'université de Leuven et de la Vrije Universiteit Brussel, ce document, dont une première version avait été dévoilée en février, affirme que Facebook viole ainsi la législation européenne.
+Les chercheurs montrent comment les « plug-in sociaux », comme les boutons « like », présents sur des millions de sites à travers le monde, sont utilisés pour traquer les internautes.
+« Quand un utilisateur logué sur Facebook visite un site contenant des plug-in sociaux, Facebook reçoit l'identifiant Facebook de l'utilisateur, l'identifiant de son navigateur et l'URL de la page visitée », précise le rapport.
+Même si l'utilisateur n'interagit pas avec ces plug-in, ceux-ci transmettent des informations à Facebook.
+« Quand un utilisateur de Facebook se déconnecte, Facebook continue de le tracer avec des cookies », souligne aussi le rapport.
+Un cookie est un petit fichier placé par un site Internet sur l'ordinateur d'un utilisateur pour collecter des données de navigation.
+Même si l'utilisateur se déconnecte de son compte ou le désactive, ces cookies continuent de le pister.
+Difficile de s'en débarrasser
+Plus grave : même les personnes qui ne disposent pas de compte Facebook sont concernées.
+Il suffit de consulter une page du réseau social, accessible sans inscription, pour que des cookies soient installés.
+Qui plus est, des sites utilisant des plug-in sociaux comme OKCupid, MTV ou MySpace ont, selon les chercheurs, placé des cookies Facebook sur les ordinateurs de leurs utilisateurs.
+Et visiblement, il serait difficile de s'en débarrasser.
+Les personnes souhaitant rapidement faire le ménage sont invitées par l'European Digital Advertising Alliance in the EU à se rendre sur ce site , qui permet d'échapper aux techniques de « traque » d'une centaine d'entreprises d'un seul coup.
+Mais surprise là encore : le rapport assure que Facebook place un cookie chez les personnes faisant appel à cette méthode.
+Selon les chercheurs, ces techniques violeraient le droit européen, qui stipule que l'installation de cookies doit faire l'objet d'un consentement préalable de l'utilisateur.
+Facebook dénonce des « inexactitudes »
+Facebook a contesté les conclusions de ce rapport qui, selon un porte-parole cité dans un communiqué, « contient des inexactitudes » :
+« Les auteurs ne nous ont jamais contactés, ils n'ont jamais cherché à clarifier les hypothèses sur lesquelles ce rapport est fondé.
+Ils ne nous ont pas non plus invités à commenter ce rapport avant de le rendre public.
+(...) Nous avons proposé de rencontrer les auteurs pour leur expliquer en quoi ce rapport est incorrect, mais ils ont refusé de nous rencontrer. 
+»
+S'il ne précise pas la nature des « inexactitudes » du rapport, un porte-parole du réseau social a expliqué à Business Insider que les données collectées par les plug-in sociaux n'étaient pas liées à la publicité ciblée.
+De leur côté, les auteurs de l'étude ont affirmé au Guardian n'avoir reçu aucune sollicitation de Facebook :
+« Jusqu'ici, nous n'avons pas été contactés par Facebook directement et n'avons pas reçu de demande de rendez-vous.
+Nous ne sommes pas étonnés que Facebook ait une vision différente de la façon d'appliquer les lois européennes sur la protection des données.
+Mais si Facebook pense que le rapport d'aujourd'hui contient des erreurs factuelles, nous serions heureux de recevoir toute remarque spécifique qu'il souhaiterait apporter. 
+»

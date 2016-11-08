@@ -1,0 +1,58 @@
+Télés connectées : un espion dans le salon ?
+Soupçonnés de mettre leurs utilisateurs sur écoute, les téléviseurs connectés collectent de grandes quantités de données personnelles.
+Le Monde |
+| Par Damien Leloup
+Les téléviseurs Samsung sont l'équivalent du télécran du roman 1984 : un objet de surveillance qui enregistre tout ce qui est dit dans une pièce et épie les faits et gestes des utilisateurs.
+C'est la comparaison que faisait, dimanche, Parker Higgins, militant de l'organisation de défense des libertés américaines EFF.
+Left: Samsung SmartTV privacy policy, warning users not to discuss personal info in front of their TV Right: 1984 http://t.co/osywjYKV3W
+— Parker Higgins (@xor)
+Depuis, un vent de panique s'est emparé de possesseurs de téléviseurs connectés de la marque sud-coréenne et d'une partie de la presse.
+La raison : une phrase figurant dans les conditions d'utilisation édictées par Samsung, qui précise que les services de commande à la voix existant sur ses téléviseurs peuvent être amenés à transmettre des conversations privées à un « service tiers » :
+« Nous vous signalons que, si les mots que vous prononcez contiennent des informations privées ou confidentielles, ces informations feront partie des données transmises à un tiers lorsque vous utiliserez le service de reconnaissance vocale. 
+»
+Glaçante, la phrase n'est pourtant pas une nouveauté : elle figure depuis longtemps dans les conditions d'utilisation des téléviseurs Samsung.
+Et on la retrouve également, presque mot pour mot, dans les conditions d'utilisation d'un téléviseur de la marque concurrente LG.
+Que signifie réellement ce jargon juridique ?
+Actif ou passif ?
+Pour le comprendre , il faut savoir comment fonctionnent les technologies de reconnaissance vocale.
+Qu'il s'agisse d'un téléphone Android ou iOS, d'une télévision, d'un ordinateur de bord dans une voiture , les objets dotés de cette fonctionnalité fonctionnent selon deux modes, actif ou passif.
+Dans le mode actif, il faut appuyer sur une touche pour indiquer à l'objet qu'il doit « écouter » ; dans le mode passif, l'objet « écoute » par défaut ce qui se passe autour de lui et déclenche une action s'il reconnaît une commande préenregistrée.
+La reconnaissance vocale est une technologie complexe, qui nécessite une importante puissance de calcul pour bien fonctionner et reconnaître correctement les mots prononcés.
+Dans la plupart des cas, les objets qui ont besoin de pouvoir reconnaître plus que quelques mots-clés utilisent la puissance de calcul de machines très rapides connectées à Internet, et non uniquement la puce du téléphone ou de la télévision.
+Les mots captés par l'objet sont donc transmis à distance à un serveur qui les analyse et renvoie sa conclusion à l'appareil.
+Pour fonctionner, ces services ont donc besoin de « transmettre des données à un tiers » – en l'occurrence, pour les téléviseurs Samsung, le leader mondial de la reconnaissance vocale, Nuance .
+Les données sonores transmises peuvent effectivement contenir des informations très personnelles, puisque la reconnaissance vocale « traite » l'ensemble de ce qui lui est transmis.
+La présence de ces termes dans les conditions d'utilisations est donc « normale » et s'apparente à un avertissement.  
+Accusé d' écouter les conversations de ses clients, Samsung a affirmé au Guardian qu'il n'enregistrait pas les sons captés par ses téléviseurs, et que les données sonores étaient uniquement « fournies à un service tiers durant une recherche de commande vocale ».
+Sollicitée par Le Monde, Nuance confirme qu'elle est bien destinataire de ces données vocales.
+« Nous n'utilisons ces données qu'à des fins d'amélioration de notre technologie.
+[...] Lorsque nous travaillons avec des entreprises tierces, un contrat garantit la confidentialité des données.
+[...] Nous ne vendons pas ces données à des fins de marketing ou de publicité », écrit Gretchen Herault, le responsable de la vie privée de la société.
+« Tempête dans un verre d'eau »
+Autant d'informations qu'il est parfois difficile d' appréhender dans les conditions d'utilisation de ces télévisions connectée.
+Clauses floues, langage juridique abscons, textes interminables et difficilement accessibles...
+Ces textes sont la plupart du temps incompréhensibles pour quelqu'un qui n'a pas des connaissances en droit ni la patience de les lire .
+En réaction, le Consumentenbond, l'équivalent néerlandais de l'UFC-Que choisir , a lancé l'an dernier une étude exhaustive sur les problèmes de vie privée posés par les téléviseurs connectés.
+L'organisation de protection des consommateurs a dressé un tableau comparatif des conditions d'utilisation de ces appareils, et le résultat est sans appel : celles de Sony ne font « que » six pages, tandis que celles de Samsung atteignent... cinquante-sept pages.
+« La polémique autour de Samsung est de l'ordre de la tempête dans un verre d'eau », explique-t-on au siège de l'organisation, interrogée par Le Monde sur le sujet :
+« Ces téléviseurs n'écoutent pas en permanence tout ce qui se passe dans la pièce – le problème le plus important, c'est que leurs conditions d'utilisation ne sont absolument pas transparentes et sont beaucoup trop longues. 
+»
+Dans le détail, le Consumentenbond note que la quasi-totalité des constructeurs ont inclus des clauses extrêmement larges et peu claires, voire illégales en droit européen.
+LG et Samsung ne précisent par exemple pas clairement quelles données sont collectées et dans quel but ; Sony l'explique clairement, mais ne dit pas qui collecte et conserve les données ; Panasonic est non seulement trop flou, mais exige aussi un paiement pour l'accès à ses données personnelles.
+Philips est le constructeur qui s'en tire le moins mal, selon l'étude : ses conditions d'utilisation sont certes longues, mais plutôt complètes et claires.
+L'entreprise reste cependant peu claire sur les types de tiers pouvant avoir accès aux données.
+Les analyses effectuées par le Consumentbond sur des modèles des cinq constructeurs montrent que ces derniers collectent de très nombreuses informations – chaînes regardées, nom du film en cours de diffusion, recherches effectuées...
+Prises isolément, ces informations peuvent sembler peu dangereuses pour la vie privée.
+Mais l'agrégation de ces « métadonnées » sur l'activité d'un téléspectateur permet, en définitive, d'en savoir beaucoup sur lui, ses goûts, ses habitudes – parfois plus que si la télévision « écoutait » réellement toutes les conversations autour d'elle.
+De vastes quantités de données personnelles collectées
+Pour le démontrer , un informaticien britannique, Jason Huntley, a décidé en 2013 de brancher un outil d'analyse de trafic sur la télévision LG qu'il vient d' acheter .
+Il découvre alors que l'appareil transmet au fabriquant une gigantesque quantité d'informations – comme les films qu'il regarde ou ses changements de chaîne.
+Plus ennuyeux encore, le téléviseur enregistre le nom de tous les fichiers présents sur les clés USB qui sont branchées dessus et envoie ces données aux serveurs de LG.
+A l'époque, M. Huntley publie un post de blog où il détaille ses découvertes ainsi que la réponse du constructeur, lequel estime que ces captations ne posent pas de problème puisque M. Huntley a accepté les conditions d'utilisation de sa télévision.
+Après une série d'articles très critiques à l'encontre de LG, le constructeur bloque la collecte de données – prévue notamment pour l'affichage de publicités ciblées.
+« Mais l'année dernière, LG a forcé ses utilisateurs à accepter de nouvelles conditions d'utilisation », explique au Monde Jason Huntley, avec des clauses très floues.
+« Les nouvelles conditions semblent les autoriser à collecter toutes les informations qu'ils recueillaient auparavant, y compris des informations sur des fichiers personnels hébergés sur des objets connectés au téléviseur.
+Cependant, lors de tests que j'ai effectués depuis, je n'ai pas trouvé de preuve qu'ils enregistrent effectivement ces informations.
+Je les soupçonne d'avoir prévu tous les cas de figure si à l' avenir ils décidaient d' activer de nouvelles collectes. 
+»
+Dans ses analyses, Jason Huntley n'a pas détecté de transmission suspecte ou non chiffrée de données vocales, mais il note que les constructeurs sont libres de changer de technologie de reconnaissance vocale ou de décider de transmettre ces données à d'autres partenaires, « ce qui augmenterait les chances que les données soient utilisées à mauvais escient ou volées ».

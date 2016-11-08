@@ -1,0 +1,24 @@
+Le groupe Equation, la bonne vieille boîte à outils de la NSA
+Le Monde |
+| Par Damien Leloup et Martin Untersinger
+Un groupe de haut niveau spécialisé dans les logiciels espions et dont les premières traces sont vieilles de plus de vingt ans : l'entreprise russe de sécurité informatique Kaspersky dresse, dans un rapport publié lundi 16 février , le portrait d'un mystérieux groupe Equation, auquel elle attribue la paternité de certains des plus puissants logiciels malveillants de ces dernières années.
+Tout désigne la NSA
+La NSA américaine n'est jamais citée dans le rapport.
+Pourtant la lecture de ce dernier laisse peu de doutes : selon Kaspersky, le « groupe Equation » aurait travaillé de manière rapprochée avec les équipes à l'origine de Flame et de Stuxnet .
+Or , on sait que ce dernier est l'œuvre de la NSA depuis une enquête du journaliste du New York Times David Sanger.
+Mieux : certaines failles inconnues du grand public ont été utilisées par ce groupe deux ans avant de se retrouver dans Stuxnet.
+Le signe d'une considérable avance technique ou, plus vraisemblablement, celui d'un ascendant hiérarchique.
+Fanny, un des logiciels espions développés par ce groupe aurait même servi à préparer le terrain pour Stuxnet.
+Regin , un autre programme, pour lequel la NSA fait figure de suspect numéro 1, reprend des éléments préalablement intégrés dans les programmes développés par le groupe Equation.
+Enfin, certaines des prouesses réalisées par le groupe correspondent exactement à certaines des capacités de la NSA décrites dans des documents exfiltrés par Edward Snowden et rendus publics ces derniers mois.
+La répartition géographique des cibles des différents programmes du groupe Equation pointe également du doigt une origine américaine : les pays les plus ciblés sont l' Iran , la Russie , le Pakistan et l' Afghanistan .
+Selon Kaspersky, plusieurs milliers, voire « dizaines de milliers », de machines auraient été victimes de ces différents logiciels, dans des secteurs allant de la recherche nucléaire à l'aérospatiale en passant par des médias et des théologiens.
+« Le groupe Equation sélectionne parfois ses victimes avec une précision chirurgicale », notent les chercheurs de Kasperksy.
+Haut niveau de sophistication
+La particularité de ce groupe, outre son ancienneté, concerne le niveau technologique des programmes qu'il conçoit : « plus nous enquêtons, plus nous comprenons à quel point nous en savons peu », reconnaît même Kaspersky.
+L'étude liste plusieurs vulnérabilités dites « zero day », c'est-à-dire des failles informatiques découvertes avant tout le monde et qui peuvent donc être exploitées sans risque jusqu'à leur découverte.
+Ces failles, rares et signes d'une grande sophistication, ont été utilisées par plusieurs des programmes attribués au groupe.
+Ce dernier est également capable d' altérer le code informatique fondamental utilisé par les disques durs de la plupart des grands constructeurs mondiaux – une fois la machine infectée, les assaillants ont un contrôle total sur ce qui s'y passe.
+Cet « exploit technique stupéfiant » selon Kaspersky, sans doute réalisable grâce à un accès physique à la machine à infecter , est vraisemblablement utilisé contre les cibles les plus prioritaires de la NSA et ne signifie pas que tous les ordinateurs du monde sont compromis.
+De même, le programme Fanny était capable dès 2008 de collecter des informations sur un ordinateur et le réseau auquel il appartenait, y compris lorsque aucun accès à Internet n'était disponible sur la machine, en infectant des clés USB.
+Les informations étaient alors stockées sur la clé et envoyées aux créateurs du logiciel malveillant lorsque la clé était insérée sur une machine connectée à Internet.

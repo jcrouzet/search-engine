@@ -1,0 +1,44 @@
+Jamais sans mon imprimante 3D, les « makers » changent la donne
+Le Monde |
+20.04.2015 à 14h15
+| Par Léonor Lumineau
+Imaginez, vous faites tomber votre tasse, elle explose au sol...
+Ce n’est pas grave !
+En quelques clics et grâce à votre imprimante 3D, vous en fabriquez une nouvelle à votre goût...
+Pour les « makers » (ceux qui fabriquent), cette -fiction est déjà une réalité.
+Grâce aux machines numériques et au partage d’informations au sein de la communauté, ces bidouilleurs du XXIe siècle entendent sortir de la consommation passive pour innover, fabriquer ou réparer eux-mêmes leurs objets, luttant ainsi contre l’obsolescence programmée et la standardisation.
+Lire aussi : Usine IO, l’atelier de fabrication numérique des entreprises
+Le mouvement est né aux Etats-Unis au début des années 2000 et découle de la mouvance hacker, liée à l’informatique.
+« L’essor de la modélisation numérique et de l’imprimante 3D fait la jonction entre un monde qui vient du logiciel libre et qui s’est importé dans celui de la production d’objets, avec les mêmes logiques d’open source », explique Jacques-François Marchandise, cofondateur et directeur de la recherche et de la prospective de la Fondation Internet nouvelle génération (Fing).
+Un festival à Paris
+« C’est l’addition du “do it yourself” et du Web 2.0 [Web communautaire et participatif dont le contenu est généré par les utilisateurs : forums, tutoriels, sites de notation, etc.] qui donne le “do it together” grâce à la technologie, l’open source, le partage, Internet et la communauté », ajoute Bertier Luyt, président fondateur du Fabshop, une entreprise spécialisée dans l’impression 3D personnelle, et organisateur de la première « Maker Faire » en France en 2013, le festival de la mouvance « maker », dont l’édition 2015 se déroulera à Paris les 2 et 3 mai prochains ( www.makerfaireparis.com
+).
+Cette mouvance englobe en fait une hétérogénéité de personnes aux intérêts différents.
+Pour Jean-Baptiste Roger, directeur de La Fonderie, agence numérique d’Ile-de-France, leur point commun est « d’être guidées par trois idées : la capacité d’agir sur la matière, le plaisir d’apprendre et l’échange et la transmission ». Se reconnaissent ainsi, dans le terme « maker », des bidouilleurs du dimanche, des techniciens passionnés d’innovation, des entrepreneurs, des étudiants...
+Leur outil phare est l’imprimante 3D.
+Inventées en 1984, ces machines deviennent désormais accessibles au grand public, tant en termes de coûts que de facilité d’utilisation.
+« D’autant plus qu’il y a beaucoup d’échanges sur le Net – forums, tutoriels, modes d’emploi – qui permettent d’apprendre à les utiliser rapidement », souligne Quentin Chevrier, cofondateur de Makery, un média en ligne spécialisé dans l’actualité des espaces collaboratifs, « fablabs », « maker-spaces » et autres « hackerspaces ».
+Ces derniers sont des ateliers de fabrication numérique où bricolent les « makers ».
+Leurs spécificités ou le profil de leurs utilisateurs peuvent varier, mais on y retrouve les mêmes machines : imprimante 3D, découpeuses et graveuses laser, fraiseuses numériques, etc.
+Des aides publiques
+Le nombre de « fablabs » (contraction de « laboratoires de fabrication ») double quasiment chaque année : selon le FabWiki, un site collaboratif consacré à ce réseau, il en existait 335 dans le monde en février 2015.
+En France, « il y en a environ 130 si on prend le mot au sens large, en allant du tout petit hackerspace obscur à l’atelier institutionna-lisé », estime Quentin Chevrier.
+Spécificité française : beaucoup de ces espaces qui ont commencé à se multiplier à partir de 2012 bénéficient de subventions publiques ou de collectivités, et de plus en plus d’universités ou d’écoles en créent en leur sein.
+L’« openlab » du Centre de recherches interdisciplinaires (CRI) hébergé par l’université Paris-Descartes et inauguré fin 2014, est l’un d’eux.
+Il est ouvert aux étudiants, citoyens, enseignants, entrepreneurs.
+« Mêler des gens qui travaillent sur des projets très différents favorise l’efficacité, car le principe est aussi d’être en open source sur les techniques et les compétences, explique Artémis Llamosi, cofondateur du lieu.
+Les gens qu’on a formés au départ à l’utilisation des machines ou des logiciels forment eux-mêmes les autres et collaborent spontanément sur la base de leurs idées.
+»
+Ce type d’espaces favorise aussi l’essor de start-up industrielles : « Ces machines coû-tent plusieurs dizaines de milliers d’euros, alors que là, l’idée est de louer.
+Cela permet aux start-up de faire des prototypes et de passer des prototypes aux produits plus rapidement », explique Quentin Chevrier.
+« Auparavant, le processus de production industrielle était hors de portée des petits entrepreneurs.
+Mais la miniaturisation et la chute des prix entraînent la fin du privilège des industriels », assure Bertier Luyt.
+Nouvelle génération
+En France notamment, une nouvelle génération de « makerspaces » consacrés aux jeunes entrepreneurs a vu le jour, comme le souligne le rapport publié par la Direction générale des entreprises (DGE) en avril 2014 « Etat des lieux et typologie des ateliers de fabrication numérique » ( www.entreprises.gouv.fr/secteurs-professionnels/etat-des-lieux-et-typologie-des-ateliers-fabrication-numerique-fab-labs
+).
+Accessibles sur abonnement, ils donnent accès aux membres – créateurs de start-up, petites et moyennes entreprises et parfois grands groupes en quête d’innovation – aux machines, à l’espace de travail, à la communauté et à l’expertise de l’équipe encadrante.
+Le mouvement « maker » interroge ainsi l’industrie traditionnelle.
+Certains acteurs le surveillent d’ailleurs de près.
+Des entreprises comme General Electric ou Ford aux États-Unis, Renault, Seb, Air Liquide ou Alcatel-Lucent dans l’Hexagone, ont même ouvert des « fablabs » internes réservés à leurs salariés, ingénieurs ou non.
+L’idée : favoriser l’innovation, mais aussi le bien-être de leurs employés.
+Léonor Lumineau

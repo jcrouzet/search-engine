@@ -1,0 +1,35 @@
+Levée de fonds record pour la start-up française Sigfox
+Le Monde |
+| Par Isabelle Chaperon
+Après Deezer, le site d’écoute de musique, et BlaBlaCar, le leader du covoiturage, le cercle restreint des start-up tricolores ayant franchi la barre des 100 millions de dollars (88 millions d’euros) lors d’une levée de fonds privée, accueille un nouveau champion.
+Sigfox, entreprise toulousaine dont l’ambition est de déployer un réseau mondial de transmission dévolu aux objets connectés, a annoncé, mercredi 11 février, avoir rassemblé un tour de table de 100 millions d’euros.
+« Nous aurions pu lever beaucoup plus.
+Nous avons refusé des investisseurs.
+Il fallait trouver le bon curseur », explique Ludovic Le Moan, le directeur général, qui a cofondé Sigfox en 2011, avec Christophe Fourtet – « le Mozart de la radio », selon son associé.
+À l’époque, les deux partenaires ont l’idée de miser sur la technologie utilisée par les sous-marins lors de la seconde guerre mondiale, afin de bâtir un réseau de transmission adapté au futur marché, estimé à 150 milliards d’objets connectés : à savoir un réseau fonctionnant avec des coûts de communication très bas et une consommation énergétique limitée permettant une plus grande autonomie des alarmes, compteurs et autres capteurs.
+« Course contre la montre »
+La start-up, qui couvre déjà 2 millions de km2 en France , en Espagne ou au Royaume-Uni , veut taper vite et fort.
+« Nous sommes engagés dans une course contre la montre », martèle M. Le Moan.
+Objectif : être le premier à bâtir un réseau mondial sur lequel puissent se brancher des partenaires, assureurs, énergéticiens ou société s de télésurveillance.
+De sorte que cet écosystème devienne incontournable et coupe l’herbe sous le pied à tout autre acteur.
+« Nous pouvons créer un opérateur de l’Internet depuis l’ Europe  », s’enthousiasme M. Le Moan, qui vise une entrée en Bourse en 2016.
+« Ce tour de table composé d’investisseurs historiques, d’opérateurs télécoms, de partenaires industriels et d’un groupe financier américain va nous permettre d’accélérer notre déploiement », insiste Anne Lauvergeon, l’ancienne patronne d’ Areva et présidente de Sigfox depuis avril 2014.
+Le français compte ainsi sur l’opérateur de télécommunications espagnol Telefonica pour l’aider à s’implanter en Amérique latine.
+« Le coréen SK Telecom et le japonais NTT DoCoMo vont nous ouvrir les portes de l’Asie.
+Il y a là-bas un public friand d’objets connectés », précise Mme Lauvergeon, avant de poursuivre : « Les États-Unis jouent un rôle particulièrement important dans notre développement.
+Nous sommes les seuls à être autorisés, à ce stade, à déployer notre réseau. 
+»
+D’où l’entrée d’Elliott Management Corporation, le fonds du financier américain Paul Singer , ennemi juré de l’ Argentine , qui gère plus de 23 milliards de dollars d’actifs.
+Installer le réseau en solo
+Par ailleurs, M. Le Moan attend « un effet d’entraînement » lié au soutien de grands partenaires, comme GDF Suez , Air Liquide et Eutelsat : « Ce qui est important maintenant est d’augmenter le nombre d’objets connectés. 
+»
+Tous ces nouveaux investisseurs ont souscrit à l’augmentation de capital aux côtés des financiers « historiques », les fonds Partech, Elaia, iXO Private Equity et la banque publique Bpifrance, qui avaient déjà apporté 27 millions d’euros au toulousain.
+Le montant de la valorisation n’est pas précisé.
+À l’origine, Sigfox avait envisagé de réunir 50 millions d’euros.
+Il a finalement préféré engranger le double afin de se donner la flexibilité financière d’installer son réseau en solo.
+Hormis en France, Sigfox a limité jusque-là ses investissements en s’associant à des partenaires – Abertis en Espagne ou Arqiva au Royaume-Uni – qui financent le déploiement.
+Mais cela prend environ six mois pour nouer de tels accords : trop long pour M. Le Moan.
+« Aux États-Unis, nous allons commencer seuls, quitte à signer des partenariats ensuite. 
+» Des réflexions sont aussi en cours en Allemagne et en Italie .
+Enfin, pour conserver le maximum de souplesse, Sigfox n’a placé que 81 millions d’euros et conserve une « option de surallocation » de 19 millions pour faire rentrer de nouveaux partenaires stratégiques au capital.
+L’ouverture vers l’ Afrique et le Moyen-Orient pourrait être privilégiée.

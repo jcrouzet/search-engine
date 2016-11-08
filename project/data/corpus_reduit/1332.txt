@@ -1,0 +1,32 @@
+Le diesel n’est pas seul responsable de la pollution automobile
+Le Monde |
+| Par Laetitia Van Eeckhout
+Alors que la municipalité parisienne doit présenter son plan antipollution début février et programmer une sortie du diesel, une étude à paraître d’Airparif révèle que les moteurs ne sont pas seuls en cause dans la pollution liée au trafic automobile .
+Selon l’Observatoire de la qualité de l’air en Ile-de-France , 41 % des particules fines en suspension (PM10) émises par le trafic routier francilien viennent de l’abrasion des pneus, du revêtement routier et des freins.
+Au cours d’une table ronde sur les effets du diesel sur la santé et l’environnement , organisée le 14 janvier par la commission du développement durable du Sénat, la question des émissions de particules générées par l’abrasion a fait irruption dans le débat, à la surprise de bien des présents qui découvraient cette source de pollution pourtant bien réelle.
+Le freinage responsable de 20 % des particules du trafic routier
+Selon une évaluation réalisée en Allemagne par l’Institut de génie de l’environnement de l’université technique de Berlin, la seule usure des plaquettes de freins représenterait 20 % de l’ensemble des particules émises par le trafic routier.
+A chaque fois que l’on presse la pédale de frein, les frottements entre les plaquettes et le disque rejettent une importante quantité de particules fines.
+L’Institut de sciences appliquées (INSA) de Lyon estime que l’usure des plaquettes produit 20 000 tonnes de poussières par an en France .
+Pour un véhicule type Renault Scénic, le freinage engendre une production d’environ 30 milligrammes (mg) de particules par kilomètre parcouru.
+A titre de comparaison, la norme Euro 6 , qui s’appliquera à tous les véhicules neufs à compter du 1er septembre 2015, limitera à 5 mg/km la masse de particules émises par les diesels, et 4,5 mg/km celle des moteurs essence, soit six fois moins.
+Même les voitures électriques ne peuvent être considérées comme propres : sur ce type de véhicule, les freins sont certes moins sollicités, mais ils libèrent eux aussi des particules.
+Effets nocifs sur la santé
+Ainsi paradoxalement, si l’usure des plaquettes de freins, indispensable à un freinage de qualité, est un gage de sécurité, elle peut aussi avoir des effets nocifs sur la santé.
+D’autant que les poussières issues du freinage sont au moins aussi dangereuses que celles des particules issues des pots d’échappement.
+Principalement constituées de noir de carbone et de métaux lourds hautement toxiques − cuivre, cadmium, baryum, nickel, chrome, manganèse, plomb, zinc…−, elles peuvent engendrer des inflammations, des crises d’asthme, des bronchites chroniques , voire sur le long terme des cancers.
+Ces particules fines ou très fines – leur taille pouvant aller jusqu’à quelques nanomètres –, peuvent en effet pénétrer en toute aisance dans les alvéoles pulmonaires et les bronches.
+« Les particules de freins peuvent se montrer très agressives.
+Elles accroissent le phénomène inflammatoire des bronches et endommagent leur revêtement cellulaire intérieur, explique Michaël Riediker, directeur du groupe Particules et santé à l’Institut universitaire romand de santé au travail (IST) de Lausanne ( Suisse ), qui a mené des études sur les effets cardiovasculaires des particules selon leur source. 
+La paroi interne des poumons est constituée d’un épithélium, c'est-à-dire d’un tissu composé de cellules étroitement jointes, à l’image d’un dallage.
+Or les particules de freins provoquent un phénomène oxydatif qui va rompre l’étanchéité entre ces cellules.
+»
+Sujet émergent en Europe et en France
+Les Etats-Unis ont commencé à prendre la question en main, et six Etats – Californie, New-York, Washington, Rhode Island, Oregon et Hawaï – ont adopté une loi qui limitera à compter de 2020 à 5 % maximum le taux de cuivre dans les plaquettes de frein, et programme sa disparition pour 2025.
+En Europe, le sujet commence à peine à émerger .
+Dans le cadre de son programme de recherche 2014-2015, baptisé Horizon 2020 , la Commission européenne a lancé un appel à projets dans le domaine des « transports intelligents, écologiques et intégrés » pour développer des méthodes de limitation de ces émissions issues de l’abrasion, avec un objectif de réduction de 50 %.
+En France, l’Agence de l’environnement et de la maîtrise de l’énergie (Ademe) a elle aussi inscrit la question des particules hors pot d’échappement dans son appel à projets Cortea 2015 sur la connaissance, la réduction à la source et le traitement des émissions dans l’air .
+Cet appel à projets comporte notamment un volet de recherche de solutions technologiques pour réduire les émissions liées au freinage ou les rendre moins nocives.
+Une première PME, Tallano Technologie, vient même de lui soumettre une solution : celle-ci a mis au point une miniturbine aspirante qui collecte les particules de freins sortant des plaquettes.
+Néanmoins, pour les pouvoirs publics, « les gaz d’échappement demeurent la question prioritaire », reconnaît Gilles Aymoz, responsable du service qualité de l’air à l’Ademe.
+Alors que le diesel a été classé comme cancérogène par l’Organisation mondiale de la santé en 2012 , en France, les deux tiers du parc de véhicules privés ne sont pas équipés de filtres à particules.

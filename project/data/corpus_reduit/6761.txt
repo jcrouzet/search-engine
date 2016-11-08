@@ -1,0 +1,74 @@
+Mauvaises manipulations et autres « bêtises »
+Le Monde |
+23.03.2015 à 18h59
+« Faites des bêtises, mais faites-les avec enthousiasme. 
+» A cette citation de Colette que j’affectionne particulièrement, je rajouterai qu’en sciences il faut tout de même bien choisir ses bêtises !
+Les manipulations de résultats en recherche clinique régulièrement dénoncées ces dernières années dans la presse biomédicale internationale relèvent plus de la fraude que de la bêtise, même si l’enthousiasme y était sans doute bien présent.
+Pourtant les mauvaises manipulations ordinaires existent.
+Prenons l’exemple de domaines qui me sont familiers : les neurosciences cognitives, la neuro-imagerie ou encore la neuro-ingénierie.
+Des études récentes pointent du doigt le manque de fiabilité, allant dans certains cas jusqu’à la défaillance de la méthodologie et des résultats publiés.
+Une étude de la revue Nature Reviews in Neuroscience (Button et al.
+2013) révèle que la majorité des résultats publiés en neurosciences ne seraient pas fiables, car ils ne respectent pas un critère, pourtant fondamental en recherche scientifique, celui de la reproduction des résultats.
+L’origine du problème est souvent la taille de l’échantillon, autrement dit un nombre de participants trop faible pour générer des résultats fiables et reproductibles (problème de puissance statistique).
+Ah, la statistique !
+Cette joyeuse et mystérieuse passerelle entre observations expérimentales et interprétations scientifiques.
+Dernière étape de la chaîne d’analyse et but ultime de toute étude scientifique, l’évaluation de la signification statistique des résultats est le maillon faible, victime des plus belles bêtises.
+Dans une étude récente publiée dans Journal of Neuroscience Methods (Combrisson et al., 2015) , nous décrivons un autre exemple de mauvaise pratique statistique qui concerne plus particulièrement le domaine du décodage cérébral.
+Au croisement entre neuroscience cognitive et intelligence artificielle, le principe du « brain decoding » est l’utilisation des signaux cérébraux pour prédire ou inférer le contenu de nos processus cognitifs les plus secrets, tels que nos perceptions ou nos intentions.
+Comment fait-on pour lire les pensées d’une personne uniquement en se servant de l’activité de son cerveau ?
+Le principe de l’apprentissage supervisé est simple : nous entraînons dans un premier temps un algorithme informatique (le classifieur) à différencier les signatures cérébrales spécifiques à plusieurs types de comportements ou d’états cognitifs, en lui présentant les signaux cérébraux associés à chaque classe.
+Cette phase d’entraînement est suivie par la phase de test, durant laquelle nous évaluons la performance de notre classifieur sur des signaux qu’il n’a pas vus lors de l’entraînement.
+Le taux de réussite obtenu par la classification sur ces données cérébrales de « test » est un pourcentage qui représente la précision du décodage.
+Le bon sens, et les vieux souvenirs de cours de probabilités, voudrait qu’on dise qu’un bon décodage est un décodage qui dépasse le niveau de la chance
+Le bon sens, et les vieux souvenirs de cours de probabilités, voudrait qu’on dise qu’un bon décodage est un décodage qui dépasse le niveau de la chance.
+Ainsi, pour classifier deux états cognitifs, par exemple l’intention d’une personne de bouger sa main droite ou la gauche, nous sommes face à un problème à deux classes.
+Un classifieur qui n’aura rien appris aura une performance parfaitement aléatoire : il se trompera une fois sur deux.
+Le seuil de chance qu’une bonne classification doit dépasser est donc 50 %.
+En théorie.
+Car ces niveaux de chances (50 % pour un problème à 2 classes, ou 25 % pour 4 classes) n’ont un sens qu’en présence d’un grand nombre d’échantillons.
+Faite l’expérience vous-même.
+Jouez à pile ou face en lançant une pièce 10 fois de suite.
+Théoriquement, le seuil de chance vous prédit d’avoir pile 5 fois sur 10 (50 %), mais vous ne seriez pas étonné si vous obteniez pile 7 fois sur 10 (70 %).
+Est-ce pour autant une indication que votre pièce est truquée ?
+Bien sûr que non.
+Il s’agit là d’un phénomène bien connu, celui des faibles tailles d’échantillons.
+Si vous organisez un énorme lancer de pièces simultané avec 1 million de participants partout dans le monde, tous connectés sur Internet, le pourcentage des lancers ayant donné pile s’approchera cette fois beaucoup plus du seuil attendu de 50 %.
+Le seuil de chance varie en fonction du nombre d’échantillons, et les seuils théoriques ne sont valables que pour un nombre infini d’échantillons.
+Cette observation est bien entendu connue et bien prise en compte dans le domaine de l’apprentissage statistique.
+En revanche, et c’est tout l’enjeu de notre étude récente, de nouveaux domaines de recherche multidisciplinaire empruntent aujourd’hui des méthodes issues de l’intelligence artificielle (comme l’apprentissage supervisé).
+Quelquefois sans connaissance approfondie des limitations et des règles de bonne conduite méthodologique associées.
+C’est le cas parfois des recherches sur le décodage cérébral et, plus largement, les interfaces cerveau-machine.
+Nous avons ainsi montré, à l’aide de simulations numériques et d’enregistrements de l’activité cérébrale, qu’il est possible d’atteindre des taux de classification de 80 % ou plus, sans qu’il y ait en réalité de différence entre les classes !
+Ces résultats, et le rappel de la bonne conduite statistique qui permet d’éviter des interprétations erronées, agitent un drapeau rouge.
+En particulier, je pense que les méthodes de décodage neuronal qui s’appuient sur l’entraînement d’un algorithme de classification sur une partie des données et l’évaluation de sa performance sur le reste des données (par exemple, la validation croisée) peuvent créer chez les étudiants ou chercheurs fraîchement embarqués sur une étude de décodage cérébrale l’impression d’avoir affaire à un outil qui leur permet de s’affranchir d’une évaluation statistique rigoureuse.
+Il s’agit là, bien sûr, d’une bêtise qu’il vaudrait mieux éviter avec enthousiasme !
+La croissance exponentielle de la quantité et la complexité des données auxquelles nous faisons face aujourd’hui en neurosciences, en neuro-imagerie et en recherche clinique rendent le rapprochement avec le domaine de l’intelligence artificielle inévitable.
+Mais on voit bien le problème : c’est typiquement dans ces nouveaux croisements entre champs de recherches qu’émergent aussi des zones grises, où les règles de bonne conduite sont soit mal établies ou pas suffisamment maîtrisées par tous les intervenants.
+Je suis convaincu que pour bien profiter de l’apport de la fertilisation croisée entre disciplines de recherche, une rigueur supplémentaire est demandée afin de, au bout du compte, nous assurer d’accroître nos connaissances au lieu de les polluer par des observations erronées ou, pis encore, soulever de faux espoirs chez des populations de patients.
+Dans ce qui précède j’ai présumé l’innocence du pauvre chercheur qui se retrouve soudain en terra incognita, livré à lui-même à naviguer dans les eaux internationales avec une réglementation mal définie, pris au piège de la maudite multidisciplinarité.
+Mais venons-en maintenant au côté sombre, celui des pratiques méthodologiques frauduleuses.
+Dans sa forme la plus douce, cela se manifeste par la belle et poétique négligence intentionnée.
+Inutile ici de faire le procès de la fraude scientifique, mais je pense qu’il est intéressant de se reposer la question des motivations derrière le délit.
+La course vers la publication scientifique et, souvent par conséquent, la quête des résultats statistiquement significatifs en est pour bien quelque chose.
+Un résultat négatif est souvent considéré comme un échec, et sa publication s’avère être une mission bien compliquée.
+Cependant, la recherche scientifique et l’accroissement des connaissances s’alimentent aussi de résultats négatifs.
+Pouvoir valider ou rejeter des théories, des hypothèses ou même des outils méthodologiques, passe à mon sens par la publication de ce qui fonctionne mais aussi de ce qui ne fonctionne pas.
+Une étude qui n’arrive pas à reproduire les résultats d’une ou de plusieurs études publiées antérieurement sera malheureusement rarement publiée.
+Alors, à en croire l’étude citée plus haut sur l’ampleur de la non-reproduction des résultats en neurosciences, des résultats négatifs doivent s’accumuler et s’entasser dans les laboratoires à l’abri des regards.
+Et si on mettait en avant la rigueur méthodologique comme seule critère de validité d’une étude ?
+C’est le cas, par exemple, de la ligne éditoriale du journal PLoS One, qui préconise de faire vérifier la validité des méthodes par des experts et de laisser à la communauté scientifique la possibilité de juger de la pertinence et de l’impact des résultats une fois publiés.
+Cela étant dit, soyons clairs, la difficulté de valoriser l’absence de résultat statistiquement significatif, peut expliquer mais n’excuse en aucun cas certaines mauvaises pratiques scientifiques !
+En attendant un changement de mentalité de la part des éditeurs, mais aussi des chercheurs eux-mêmes, envers les résultats négatifs, la pression croissante pour fournir des résultats statistiquement significatifs s’accompagnera malheureusement de temps à autre de bêtises méthodologiques, commises par inadvertance ou par un enthousiasme mal placé.
+Si vous êtes chercheur en psychologie sociale, il vous est désormais possible d’échapper entièrement à ce dogme des résultats statistiquement significatifs.
+Le mois dernier, les éditeurs de la revue Basic and Applied Social Psychology (BASP) ont signé un éditorial (Trafimow   Marks, 2015) qui annonce l’interdiction pure et simple de publier des articles qui estiment la significativité statistique par des tests classiques, dits des valeurs P.
+Selon ce journal, la démarche habituelle de la statistique inférentielle (l’hypothèse nulle, tests de significativité, etc.) n’est simplement pas valide.
+Elle mènerait souvent à de fausses interprétations et serait, par conséquent, à l’origine de médiocrités scientifiques.
+La rupture est radicale.
+Cette décision d’abandonner les tests de significativité est actuellement très controversée au sein de la communauté scientifique.
+Cette démarche inédite a le mérite de relancer le débat et les questionnements sur les méthodes d’évaluation de la pertinence d’une observation scientifique.
+L’éditorial du BASP va jusqu’à affirmer que la fin du règne des valeurs P libérera le raisonnement créatif, un esprit qui a été, pendant trop longtemps, formaté par l’hégémonie des valeurs P.
+Mais restons quand même prudents : en statistique, tout comme en cuisine, la créativité peut nous réserver des surprises plus ou moins goûteuses !
+Comme dans tout domaine de recherche hautement spécialisé, le contrôle de l’intégrité et de la validité des méthodes utilisées en recherche neuroscientifique ne peut venir que de l’intérieur.
+Il en va donc de notre responsabilité, nous les chercheurs, vis-à-vis de la société et de nous-mêmes.
+Karim Jerbi est professeur au département de psychologie de l’université de Montréal.
+Sciences

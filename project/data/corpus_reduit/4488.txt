@@ -1,0 +1,29 @@
+Un algorithme capable d’apprendre à jouer aux jeux vidéo
+Le Monde |
+| Par Damien Leloup
+Une équipe de chercheurs du laboratoire Deep Mind de Google, spécialisé dans l’intelligence artificielle, est parvenue à créer un algorithme capable d’apprendre à jouer par lui-même à des jeux vidéo classiques.
+Baptisé « DQN », ce logiciel est parvenu à atteindre au moins 75 % du score d’un bon joueur humain dans vingt-huit des quarante-neuf jeux testés, selon les résultats de l’étude publiée ce mercredi par Nature .
+De très nombreuses intelligences artificielles sachant « jouer », parfois de façon optimale, à un jeu vidéo, existent déjà, mais elles se limitent en général à un seul jeu.
+Pour les élaborer, les programmeurs intègrent dans leur algorithme les règles du jeu, et parfois des décisions optimales.
+Les programmes d’échec évolués, par exemple, « connaissent » les règles du jeu, et ont accès à une base de données de parties.
+Leurs éventuelles capacités d’apprentissage n’entrent en jeu que dans un deuxième temps.
+DQN, à l’inverse, ne connaît pas les règles à l’avance.
+« [Le programme d’échecs] Deep Blue ou [l’intelligence artificielle championne de Jeopardy!]
+Watson sont des réussites impressionnantes, mais la différence-clé avec DQN, c’est qu’elles étaient en grande partie préprogrammées », expliquait Volodymyr Mnih , chercheur à Deep Mind et coauteur de l’étude, durant une conférence de presse mardi.
+« Ce que nous avons créé, c’est un algorithme capable d’apprendre directement de ses expériences – et donc plus proche de la manière dont les humains apprennent, et dont nos cerveaux construisent des modèles. 
+»
+L’Atari 2600 comme terrain de test
+Pour tester les capacités d’apprentissage de DQN, les chercheurs de Deep Mind se sont tournés vers un classique des années 1980 : l’Atari 2600, « la première console de jeux grand public élaborée ».
+Ces jeux « rétro » fournissent un environnement à la fois simple et complexe pour une intelligence artificielle : la faible résolution de l’écran limite le nombre de pixels à analyser, mais les jeux font appel à différents types de stratégie pour déterminer le meilleur « coup ».
+Pour déterminer la meilleure action à entreprendre, DQN s’appuie sur le compteur de score, présent dans tous les jeux de l’époque, et calcule quelle action, d’après son expérience, rapportera le maximum de points.
+Cette approche relativement basique, qui ne se fonde pas sur une découverte précise mais sur une combinaison innovante de technologies connues, a très bien fonctionné pour certains jeux – en affrontant le casse-brique Breakout, l’algorithme a su déterminer seul quelle est la stratégie optimale, à savoir attaquer d’abord les briques sur le côté de l’écran afin de pouvoir « coincer » la balle dans la zone du haut du jeu et accumuler le maximum de points en un court laps de temps.
+« C’est une très grande réussite – je n’aurais pas cru cela possible », estime Martin Butz chercheur en intelligence artificielle à l’université de Tübingen, où il travaille notamment sur le projet « Mario lives » , une intelligence artificielle capable de jouer à Super Mario World et de prendre conscience, d’une certaine manière, de son environnement.
+« Cependant, la manière dont DQN apprend n’est pas tout à fait équivalente à la manière dont procède le cerveau humain.
+Cet algorithme analyse des séquences de mouvements plus qu’il ne “comprend” le fonctionnement du jeu.
+»
+Pour certains titres, en effet, DQN n’a pas « compris » comment jouer véritablement au jeu.
+Sur des titres comme Ms Pac-Man – certes difficile y compris pour un bon joueur humain – l’algorithme est très loin d’égaler les scores d’un joueur humain.
+Le jeu de puzzle-aventure Montezuma’s Revenge s’est révélé le plus problématique pour DQN, et termine bon dernier du classement.
+Les chercheurs de Deep Mind le reconnaissent dans leur article : « Les jeux dans lesquels DQN excelle sont de nature très variée (...), mais les jeux demandant des stratégies de planification à long terme constituent toujours un défi majeur pour [les intelligences artificielles], y compris DQN. 
+» L’algorithme développé par Deep Mind n’est donc pas adapté à des jeux complexes et récents : il n’est pas encore capable d’analyser des environnements 3D riches ni d’établir des séquences de jeu très complexes, comme celles nécessaires pour finir des jeux d’aventure de type Zelda.
+Mais, avec du temps, l’équipe qui a créé DPN se dit confiante concernant les capacités de l’algorithme à découvrir des chemins plus sophistiqués, ce qui pourrait, à terme, avoir des applications dans l’imagerie médicale ou la conduite automatisée, par exemple.

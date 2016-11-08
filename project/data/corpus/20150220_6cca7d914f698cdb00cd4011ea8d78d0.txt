@@ -1,0 +1,15 @@
+La NSA et le GCHQ lisaient dans les cartes SIM
+Le Monde |
+• Mis à jour le
+20.02.2015 à 02h50
+La NSA et son homologue britannique le GCHQ ont pu intercepter des quantités « sidérantes » de communications en volant des clés de cryptage de cartes SIM.
+C'est ce qu'affirme The Intercept , site américain lancé par Glenn Greenwald, journaliste qui avait publié les révélations d'Edward Snowden, jeudi 19 février.
+Selon les informations du site, l'agence du renseignement américain a aidé le GCHQ britannique à rentrer dans les réseaux informatiques de fabricants de carte SIM pour dérober ces clés qui permettent de coder et décoder les communications.
+Gemalto, géant mondial du secteur a ainsi été infiltré.
+Lire aussi : La NSA, l'espion qui vous aimait
+« ENTRE 12 ET 22 MILLIONS DE CLEFS PAR SECONDE »
+« Le GCHQ, avec le support de la NSA, a puisé dans les communications privées » d'ingénieurs et d'autres salariés du groupe « dans de multiples pays », pour parvenir à dérober ces clefs, écrit The Intercept.
+« Il est impossible de savoir combien de clefs ont été volées par la NSA et le GCHQ, mais même en utilisant des hypothèses conservatrices, le nombre est sidérant », ajoute-t-il.
+La NSA par exemple était déjà capable en 2009 de « traiter entre 12 et 22 millions de clefs par seconde », pour pouvoir les utiliser plus tard au besoin pour écouter des conversations ou intercepter des mails, selon The Intercept.
+Dans un communiqué, Gemalto a indiqué qu'elle prenait « très au sérieux » les affirmations de The Intercept.
+« Nous allons consacrer toutes les ressources nécessaires (...) pour comprendre la portée de ces techniques sophistiquées utilisées pour intercepter les données sur les cartes SIM », a indiqué l'entreprise.

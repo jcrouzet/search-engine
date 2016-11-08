@@ -1,0 +1,8 @@
+| Par Hervé Morin
+L’agroalimentaire, l’ industrie , la pharmacie, le secteur de l’énergie, entre autres, font de plus en plus appel à des micro-organismes génétiquement modifiés pour produire des molécules dites d’« intérêt ».
+Deux études américaines, publiées jeudi 22 janvier dans le revue Nature, proposent des pistes pour leur interdire de survivre hors des laboratoires.
+L’idée des équipes de George Church (Harvard) et Farren Isaacs (Yale) a été d’introduire dans le génome de la bactérie E.
+coli des fragments d’ADN qui la rendent dépendante pour sa reproduction d’acides aminés qui ne sont pas disponibles dans la nature.
+Le Français Philippe Marlière, pionnier du « bioconfinement », salue ces résultats, mais note que « l'irréversibilité du confinement est loin d' être encore établie, aussi bien théoriquement qu'expérimentalement ».
+Didier Mazel (Institut Pasteur) estime lui aussi que l’hybridation avec des bactéries sauvages reste possible.
+Le confinement ultime passerait par la modification non pas de la séquence des « lettres » codées par l’ADN, mais des constituants mêmes de ce support de l’information génétique.

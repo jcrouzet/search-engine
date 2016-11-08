@@ -1,0 +1,45 @@
+Rosetta a trouvé de l’azote dans « Tchouri »
+Le Monde |
+| Par David Larousserie
+La comète 67P/Tchourioumov-Guerassimenko continue de livrer ses secrets mais plonge toujours les astronomes dans la perplexité.
+Pour la première fois, ils viennent de découvrir de l’azote moléculaire au voisinage d’une comète, comme l’équipe de l’instrument Rosina de la sonde européenne Rosetta en orbite depuis août 2014 autour de la comète l’explique dans Science du 19 mars .
+Ce gaz inerte très abondant dans le système solaire et qui constitue près de 80 % de l’atmosphère terrestre n’avait jamais été détecté sous cette forme.
+L’atome d’azote avait été repéré dans de l’ammoniac, de l’acide cyanhydrique ou d’autres composés, mais pas sous sa forme plus classique moléculaire à deux atomes, N2.
+« Nous apportons des données que nous n’avions pas », rappelle Bernard Marty du Centre de recherches pétrographiques et géochimiques (CNRS-université de Lorraine), cosignataire de l’article.
+« Nous étions dans l’attente de cette mesure », s’enthousiasme Pierre Hily-Blant de l’Institut de planétologie et d’astrophysique de Grenoble (CNRS-université Grenoble-Alpes, IPAG), non-signataire de l’article et spécialiste des nuages moléculaires des milieux interstellaires.
+C’est à partir de la matière de ces milieux que s’est constituée la nébuleuse protosolaire, large disque de matière autour du Soleil, dans lequel se sont formées les planètes.
+C’est cette histoire très primitive, il y a quelque 4,5 milliards d’années, que les astronomes essaient de déchiffrer en analysant le « fossile vivant » qu’est « Tchouri », témoin probable de cette époque.
+Et ce n’est pas simple.
+« Nous ne savons toujours pas où est passé l’azote originel »
+La quantité d’azote trouvée dans les émissions de la comète par Rosina est bien trop faible par rapport à ce qui était attendu.
+C’est même 25 fois moins que les quantités présentes dans la nébuleuse protosolaire primitive.
+Plus exactement, il s’agit du rapport de concentration entre l’azote moléculaire et le monoxyde de carbone (gaz très volatil également).
+« Cette mesure nouvelle est intéressante mais nous ne savons donc toujours pas où est passé l’azote originel, souligne Alexandre Fauve de l’IPAG.
+Le mystère s’épaissit. 
+»
+Plusieurs hypothèses sont possibles.
+Peut-être reste-t-il dans la comète une forme d’azote non encore détectée ?
+Ou bien, les comètes auraient pu relarguer l’azote aggloméré lors de leur formation, en laissant apparaître moins aujourd’hui ?
+Ou encore, les comètes n’auraient pas intégré autant de N2 qu’attendu ?
+« L’azote est un thermomètre de la formation des comètes »
+Dans leur article, les chercheurs penchent plutôt pour cette dernière hypothèse dont ils développent deux scénarios.
+L’intérêt est que leurs conclusions sont semblables : la formation des comètes s’est faite à très basses températures, environ -240,-220 C (mais au-dessus de -250 C).
+« L’azote est un thermomètre de la formation des comètes », résume Bernard Marty.
+Différents modèles et expériences en laboratoire montrent en effet qu’il est possible d’expliquer les taux d’azote mesurés par des processus thermodynamiques plutôt froids.
+L’un se passe au-delà de la nébuleuse primitive, dans le milieu interstellaire.
+La condensation de gaz froid sur du silicate crée de la glace dite amorphe (solide dont les molécules ne respectent aucun arrangement particulier) susceptible de piéger l’azote.
+L’autre se situe plus près du Soleil, dans la nébuleuse protosolaire.
+Il conduit aussi à une formation de glace de nature cristalline de type clathrate (glace composée de cages d’eau qui emprisonnent une molécule de gaz), fort différente de la première.
+Les comètes de la famille de « Tchouri » n’ont pu apporter d’azote à la Terre
+La différence peut sembler anodine au non spécialiste.
+« En réalité, cela change beaucoup de choses ! 
+», insiste Olivier Mousis du laboratoire d’astrophysique de Marseille (CNRS-université Aix-Marseille).
+Car ces deux scénarios racontent des histoires de nos origines assez différentes.
+« L’article ménage les deux hypothèses, mais je considère qu’en tenant compte des analyses précédentes sur la composition de l’eau de la comète, c’est la seconde qui est à privilégier », avance Olivier Mousis.
+La réponse, définitive (?) viendra peut-être prochainement avec des mesures, elles aussi très attendues, sur un autre gaz, l’argon, plus rare, mais dont la chimie est bien différente, entre les deux scénarios ci-dessus.
+« Tout cela est très excitant ! 
+», résume Lydie Bonal, autre membre de l’IPAG.
+En revanche, il semble désormais de plus en plus certain que les comètes de la famille de « Tchouri » n’ont pas apporté, par bombardement, autant de matière à la Terre qu’on pouvait le penser jusqu’à présent.
+En décembre 2014, la même équipe avait déjà conclu que l’eau liquide terrestre est de composition très différente de celle de « Tchouri », invalidant l’idée que l’eau de nos océans puisse venir d’une pluie de ces comètes.
+Ils concluent dans leur dernier article qu’il en est de même pour l’azote.
+Qu’en sera-t-il alors d’éventuelles molécules organiques prébiotiques que les chercheurs espèrent trouver sur la comète ?

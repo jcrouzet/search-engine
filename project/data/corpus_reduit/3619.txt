@@ -1,0 +1,33 @@
+Cybersécurité : Barack Obama tend la main à la Silicon Valley méfiante
+Le Monde |
+| Par Martin Untersinger
+Barack Obama a poursuivi son offensive sur le thème de la cybersécurité en paraphant, vendredi 13 février, un décret incitant les grandes entreprises à mieux partager les informations dont elles disposent sur les cyberattaques.
+Il a signé ce texte à l’occasion d’un forum organisé à l’université de Stanford par la Maison Blanche pour renforcer la coopération entre les entreprises et le gouvernement.
+Le décret prévoit la mise en place d’organisations destinées à recueillir et à mettre à disposition les informations permettant de contrer des attaques, à la fois entre entreprises, mais également avec le gouvernement.
+L’idée est qu’une entreprise victime d’une attaque puisse prévenir d’autres entreprises afin d’éviter que ces dernières soient piratées à leur tour.
+Partage d’informations
+Le texte définit « une série de normes communes afin que le gouvernement puisse partager des informations classifiées plus facilement, et faciliter la transmission aux entreprises de ces informations, nécessaires pour leur protection », a expliqué Barack Obama dans un discours à l’université de Stanford.
+Il a aussi rappelé l’omniprésence des attaques : « Des entreprises américaines sont visées, leurs secrets commerciaux, volés, leur propriété intellectuelle, bafouée.
+Ces attaques détruisent aussi des emplois.
+C’est aussi une menace sur l’économie américaine. 
+»
+« Le gouvernement ne peut pas tout faire seul, a-t-il poursuivi.
+Mais le secteur privé non plus, car le gouvernement possède les informations les plus fraîches sur les cybermenaces.
+Il faut que nous travaillions ensemble, comme de vrais partenaires. 
+»
+C’est le département de la sécurité nationale (ou DHS, pour Department of Homeland Security) qui sera à la manœuvre, et non l’Agence de sécurité nationale (NSA), pourtant responsable de la défense des intérêts du pays sur les réseaux, mais dont l’image a été écornée par les révélations d’Edward Snowden.
+Echaudée par le piratage dévastateur de Sony Pictures , l’administration Obama avait déjà présenté, en janvier, un projet de loi sur le sujet.
+Ce texte donnerait aux entreprises une immunité juridique en contrepartie du partage des informations avec les autorités.
+En l’absence de majorité au Congrès pour Obama, les négociations s’annoncent très complexes.
+Le texte reposant en grande partie sur le volontariat, l’administration aura besoin du soutien des géants de la Silicon Valley et des grandes entreprises technologiques américaines.
+Si Obama peut compter sur Intel , Apple ou American Express, présents à Stanford, ce sera plus compliqué dans le cas de Microsoft , Google , Facebook ou Yahoo!, qui ont tous les quatre boudé l’invitation du président .
+Des géants du Web méfiants
+Ces sièges vides – même si ces trois entreprises ont finalement envoyé leurs responsables de la sécurité – sont symptomatiques du désamour entre la Silicon Valley et Barack Obama, qui avait pourtant pu compter sur leur soutien pour son élection, en 2008, et sa réélection, en 2012.
+Deux sujets ont depuis tendu ces relations : les révélations d’Edward Snowden, d’abord, sur la surveillance menée par la NSA, qui ont été très dommageables pour ces entreprises, notamment hors des frontières américaines.
+Même si certaines révélations mettaient directement en cause les grandes entreprises américaines du Web, d’autres montraient que les espions américains n’hésitaient pas à s’attaquer à la sécurité de ces mêmes entreprises pour arriver à leurs fins.
+Depuis, elles ont mené un combat plus ou moins public pour réformer les textes qui encadrent les activités de la NSA, et jugent trop cosmétiques les changements apportés par l’administration, alors que dans le même temps un texte qui avait leur soutien a échoué à être adopté au Congrès .
+Ensuite, certaines des nouvelles fonctionnalités mises en place par Apple et Google ont été très sévèrement critiquées par des hauts fonctionnaires, notamment du FBI.
+Ces derniers ont par exemple accusé l’ iPhone de devenir le « téléphone préféré des pédophiles » .
+Ces entreprises craignent que le gouvernement, au motif de la lutte contre le terrorisme, n’interfère dans leur volonté de chiffrer les données de leurs utilisateurs afin de les mettre hors de portée des espions américains, un sujet crucial pour remporter des marchés à l’étranger.
+Barack Obama a d’ailleurs souligné à plusieurs reprises l’importance de la protection des donnes personnelles dans son discours.
+« Lorsque les gens utilisent Internet, ils ne devraient pas à avoir à renoncer à leur vie privée  », a-t-il par exemple déclaré, tout en annonçant également un projet de loi sur la protection des données des consommateurs.

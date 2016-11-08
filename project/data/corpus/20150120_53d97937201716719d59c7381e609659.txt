@@ -1,0 +1,44 @@
+Des papyrus antiques carbonisés déchiffrés à la lumière des rayons X
+Le Monde |
+• Mis à jour le
+20.01.2015 à 17h13
+Lire sans les ouvrir le contenu de livres vieux de plus de 2 000 ans, dont la surface est aussi noire qu’une feuille de journal brûlée dans un four à 330C...
+Depuis leur découverte en 1752 lors de fouilles archéologiques, aucune technique n’avait permis de déchiffrer sans tenter de les dérouler , l’intérieur des rouleaux de papyrus carbonisés d’Herculanum, ensevelis sous les décombres de l’éruption du Vésuve en 79.
+Jusqu'à ce qu'une équipe internationale ne les soumette au rayonnement synchrotron de l'ESRF, à Grenoble .
+Dans la revue Nature Communications du 20 janvier, elle décrit comment elle a commencé à faire parler ce trésor mutique .
+Il aura donc fallu plus de deux siècles de tentatives et de recherches, pour espérer enfin décrypter sans les détériorer l’ensemble de ces manuscrits –des traités philosophiques épicuriens essentiellement.
+Ils constituent la seule bibliothèque de l’Antiquité retrouvée complète à ce jour.
+Même les sables d’ Egypte , autre grand pourvoyeur de papyrologie littéraire grecque, n’ont jamais révélé de collection aussi conséquente.
+Au nombre de 1840 fragments dont la reconstitution pourrait représenter 600 à 1200 rouleaux selon les spécialistes, ces volumen ont été exhumés des vestiges de la villa de l’influent politicien Pison - le beau-père de Jules César .
+Ils datent pour les plus anciens du IIIe siècle avant J.C., jusqu’au premier quart du Ier siècle pour les plus récents.
+Herculanum était alors une chic station balnéaire de la baie de Naples, aujourd’hui engloutie sous 20 mètres de poussières volcaniques, où les grandes familles romaines prenaient quartier l’été et rivalisaient de chefs-d’œuvre artistiques à l’ombre de leurs palais saisonniers.
+Ces papyrii carbonisés ont d’abord été pris par les archéologues pour des morceaux de bois sans valeur, avant qu'ils ne réalisent leur nature véritable – possiblement grâce à l’umbilicus, la tige au centre des rouleaux.
+Les chercheurs depuis n’ont eu de cesse de tenter d’ouvrir les rouleaux de cette bibliothèque unique, longs de 3 à 15 mètres, et à les transcrire .
+A ce jour, plus de 400 d’entre eux –les moins abîmés - ont pu l’être, avec des techniques toujours plus ou moins destructives.
+Parmi les procédés mécaniques imaginés, le moins nuisible aura sans doute été la machine à déroulement par pesanteur mise au point par le père Piaggio, conservateur à la bibliothèque du Vatican spécialement dépêché à Naples en 1753, permettant jusqu’au début du XXe siècle l’ouverture millimètre par millimètre de plusieurs centaines de cœurs de rouleaux, encore étudiés aujourd’hui.
+Toutes les autres tentatives – de la technique d’ « écorçage » consistant à gratter les rouleaux couche par couche jusqu’au simple couteau de boucher pour disjoindre les spires-, ont réduit en écailles sinon complètement détruits ces spécimens uniques, et rompu l’unité de leurs corpus en un puzzle géant.
+Tant et si bien que les institutions gardiennes de ce trésor littéraire, la Bibliothèque nationale de Naples principalement, la British Library de Londres et l’Institut de France , étaient devenues particulièrement rétives à prêter leurs précieux exemplaires, échaudées par deux siècles d’expérimentations malheureuses.
+Avec le développement des techniques d’imagerie, les scientifiques planchent depuis près de 20 ans sur le moyen de scruter virtuellement les manuscrits.
+Eviter toute nouvelle perte
+L’enjeu consiste non seulement à éviter toute nouvelle perte, mais surtout à accéder au contenu des rouleaux « désespérés » –plus de la moitié de la bibliothèque classique d’Herculanum-, restés scellés et muets jusqu’à présent, en raison de l’agglomération et de la dé formation profondes de leurs spires sous la fournaise du volcan.
+L’utilisation de l’imagerie infra-rouge en particulier a permis à la fin des années 1990 des avancées considérables dans la lisibilité des manuscrits, en révélant le contraste infime entre l’encre fabriquée dans l’Antiquité à partir de noir de fumée et de gomme arabique, et la feuille de papyrus carbonisée, mais uniquement pour les couches déjà ouvertes.
+La solution pour pénétrer les couches invisibles des rouleaux sans même les effleurer pourrait donc avoir été trouvée par une équipe internationale de chercheurs issus du CNR italien, de l’ESRF, et du CNRS, composée de physiciens, de mathématiciens et d’historiens.
+Elle repose sur la lecture virtuelle de ces papyrus millénaires, en appliquant une technique non invasive d’imagerie par rayons X à contraste de phase, utilisée au synchrotron européen de Grenoble et jusqu’à présent essentiellement dédiée aux recherches physiques et biomédicales.
+Même le recours à une source conventionnelle comme la microtomographie aux rayons X, employée aujourd’hui en science des matériaux, en paléontologie ou en archéologie , n’y avait pas suffi : la différence d’absorption des ondes par l’encre et le support demeurait beaucoup trop faible pour être lisible.
+Des lettres hautes de 2 à 3 mm
+« Avec l’imagerie X en contraste de phase, il est possible d’obtenir une information supplémentaire décisive, 100 à 1 000 plus sensible que le phénomène d’absorption, -la différence d’indice de réfraction-, de l’ordre de quelques centaines de microns, entre les différents matériaux.
+C’est grâce à elle et à la surépaisseur de l’encre sur le papyrus que l’on a pu faire apparaître des lettres de l’alphabet grec hautes de 2 à 3 mm dans le cœur de la matière », explique Emmanuel Brun, co-auteur de l’article paru dans Nature Communications, mathématicien et chercheur à l’ESRF.
+Pour l’instant, seuls deux rouleaux mis à disposition de l’équipe par l’Institut de France, dépositaire de six volumes offerts à Napoléon Bonaparte par le roi de Naples en 1802, ont été imagés par cette technique sous une ligne de lumière du synchrotron grenoblois, en 5 heures à peine chacun...
+A titre de comparaison, une année était nécessaire à la machine du père Piaggio pour dérouler trois mètres de volumen.
+Pas de grands textes
+De quoi donner un coup d’accélérateur précieux à l’exploration des papyrus d’Herculanum… et espérer trouver des œuvres antiques aussi recherchées que les poèmes perdus de Sappho, les pièces disparues de Sophocle ou encore les textes évanouis des dialogues d’Aristote ?
+« La bibliothèque retrouvée sur le site à ce jour, majoritairement rédigée en grec ancien, et pour une centaine de rouleaux en latin, ne détient pas a priori de grands textes littéraires, poétiques ou historiques de l’Antiquité », précise Daniel Delattre, également co-auteur de l’article et papyrologue au CNRS, dont c’est le sujet de recherche depuis 30 ans.
+A travers ces textes inconnus pourtant, dont une partie des livres de De la Nature du philosophe Epicure -la principale découverte pour l’heure-, et les nombreux écrits d’un certain Philodème de Gadara, l’un de ses disciple, se révèle « une passionnante mise en abyme », affirme l’historien.
+« On y découvre des textes stoïciens complètement perdus, et la compilation inédite de textes de grands auteurs des IVe et IIIe avant notre ère tels qu’Aristote, Théophraste, ou Héraclide du Pont », précise Daniel Delattre.
+Un défi: reconstruire virtuellement le texte
+Le site d’Herculanum n’a pas livré tous ses secrets.
+Un troisième étage de la villa, situé au niveau de la mer et composant une partie des appartements du richissime maître des lieux, dont l’existence a été mise au jour dans les années 2000, attend le feu vert des autorités italiennes pour être exploré.
+D’ici là, l’équipe internationale, forte du premier succès, doit procéder à d’ultimes réglages sur les lignes du synchrotron grenoblois pour optimiser la sensibilité de sa nouvelle technique.
+Avant d’élucider cette passionnante énigme historique, un ultime défi –et peut-être le principal– doit aussi être relevé par les scientifiques : celui de l’analyse des données pour reconstruire virtuellement au moyen d’algorithmes la succession des lettres détectées par le faisceau au cœur des papyrus, ou comment le big data rattrape aujourd’hui la papyrologie... « Il y a plusieurs années de travail devant nous.
+On est au tout début de l’aventure », insiste Daniel Delattre, qui précise aussi que toutes les données seront en libre accès.
+Vidéo explicative (en anglais) :

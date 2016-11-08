@@ -1,0 +1,64 @@
+Des sondages à Google, qui peut prédire les résultats des élections départementales ?
+Le Monde |
+| Par Lucie Soullier
+Ils accompagnent les scrutins électoraux comme l’orage avant la tempête.
+Les sondages sur les intentions de vote des Français se succèdent à l’approche des départementales des 22 et 29 mars.
+Avec le Front national en tête, le plus souvent.
+Mais alors, à quoi bon voter ?
+Pourquoi ne pas calquer les résultats sur les travaux des sondeurs ?
+Pour une raison simple : les sondages ne sont pas des prédictions.
+« On l’écrit noir sur blanc sur tous nos rapports », soupire Frédéric Dabi, directeur général de l’IFOP.
+Les résultats peuvent donc venir les contredire.
+Lire le décryptage : Comment juger de la pertinence d’un sondage ?
+A quoi sert un sondage, si ce n’est à prévoir les résultats ?
+« C’est une information comme une autre, pour M. Dabi.
+Cela sert à établir un rapport de force à un moment donné. 
+» Autrement dit, plus on s’approche de l’élection, plus il a de chances de donner le bon résultat.
+Le sondage est d’autant plus fiable que l’échantillon est représentatif, les réponses des personnes interrogées devant ensuite être « redressées » en fonction des différences observées aux élections précédentes entre leurs réponses et les résultats réels.
+Les sondeurs ont donc besoin que vous alliez voter pour tenter de savoir ce que vous allez voter la prochaine fois.
+Vous suivez ?
+Le taux de chômage comme indicateur
+Des chercheurs en économie proposent une alternative qui permettrait de connaître la tendance d’un scrutin plus tôt que les sondages.
+Ni cartomancie ni lecture dans le marc de café, mais des modèles qui partent de l’idée que « les électeurs considèrent les élections comme un référendum sur la gestion des sortants », explique Christine Fauvelle-Aymar, maître de conférences à l’université de Tours.
+S’ils sont satisfaits, ils le reconduisent, sinon, ils votent pour l’opposition.
+Pour savoir comment les électeurs vont se comporter, ces modèles politico-économiques prennent en compte, outre les élections passées, le taux de chômage − reflet de la situation économique − et la popularité du pouvoir en place.
+Le « modèle de l’Iowa », développé par Mme Fauvelle-Aymar et Michael S. Lewis Beck, avait ainsi réussi à prévoir la défaite de la droite aux législatives de 1997.
+Maître de conférences à l’université Paris-Sud, Véronique Jérôme-Speziari a développé un modèle similaire avec Bruno Jérôme, également maître de conférences spécialiste en économie publique, qu’ils détaillent sur leur site ElectionScope .
+Appliqué aux départementales , il place l’opposition (droite, centre, FN) à 57,7 % des voix au premier tour, avec une marge d’erreur qui s’étale de 56,4 à 59 %.
+Le FN seul monterait à 26 %.
+Le couple de chercheurs s’est également risqué à une analyse par département, pronostiquant ceux qui vont basculer à droite, ceux qui resteront à gauche et ceux où le match sera serré.
+Résultat : le bleu domine.
+Quant aux prévisions par canton, n’y comptez pas.
+Ceux-ci ayant été modifiés, il faudrait reprendre les résultats des précédentes élections dans chaque bureau de vote pour recréer le passé sur les nouveaux cantons.
+Un casse-tête qui explique que personne ne s’y soit aventuré.
+Le facteur FN
+Mais cette méthode probabiliste fonctionne-t-elle vraiment ?
+Si l’exercice est salué, même par Frédéric Dabi, pour qui « tout travail d’analyse est un apport au débat politique », quelques critiques pointent ses limites.
+Pour Christine Fauvelle-Aymar, « aujourd’hui, le vote FN est trop fort pour le fusionner à la droite et considérer ces deux oppositions comme un bloc homogène.
+On est entré dans un système tripartite ».
+Or le modèle se base sur une hypothèse bipartisane : l’électeur reconduit la majorité ou la sanctionne en votant pour l’opposition.
+Un postulat qui reste défendable pour Véronique Jérôme-Speziari, car le FN n’est pas un parti de gouvernement et que « le bloc centre plus droite est encore plus fort que le FN ».
+Bruno Cautrès, chercheur du CNRS au Cevipof, le Centre de recherches politiques de Sciences Po, est quant à lui gêné par les variables locales oubliées, comme le nombre de binômes qui se présentent, les divisions à l’intérieur des camps, l’ancrage territorial des candidats…
+Mais « leur approche est intéressante en complément d’autres modèles explicatifs », soutient ce spécialiste des élections et du vote.
+Notamment car elle pointe l’aspect national d’une élection locale qui arrive, à quelques mois près, à la moitié du mandat de François Hollande.
+« Les électeurs, notamment de gauche dans ce cas, profitent des élections de mi-mandat pour sanctionner le pouvoir exécutif, mais reviennent dans leur camp à l’échéance nationale », précise-t-il.
+Un vote « sanction » dont la majorité avait déjà fait l’expérience aux élections municipale et européenne.
+Sur Twitter, « toute publicité est une bonne publicité »
+Ce qui « amuserait » Mme Fauvelle-Aymar, quant à elle, serait de créer un modèle qui tient compte de l’offre politique locale, du nombre de partis de droite et de gauche face au FN.
+« Si elle avait le temps », s’empresse-t-elle d’ajouter.
+Internet pourrait-il lui en faire gagner ?
+Des chercheurs s’intéressent depuis quelques années au potentiel de Google et des réseaux sociaux dans la prévision électorale.
+Des études qui paraissent biaisées d’avance.
+D’une part, car les internautes ne sont pas représentatifs de l’ensemble de l’électorat, et qu’il semble difficile de faire le tri entre les recherches sur Google, afin de déterminer lesquelles pèsent concrètement sur le vote.
+Il en va de même pour les propos ironiques sur Twitter.
+Pourtant, ces études donnent parfois les bons résultats.
+Des économistes de Glasgow avaient ainsi prédit , cinq jours avant le référendum de septembre 2014, que le oui à l’indépendance écossaise ne récolterait que 45 % des voix.
+Autre exemple : en 2010, des chercheurs de l’université de l’Indiana avaient prévu les résultats de 404 des 435 élections au Congrès américain.
+Et ce en se basant simplement sur un échantillon de 542 969 tweets mentionnant un candidat démocrate ou républicain.
+L’un d’eux, le professeur de sociologie Fabio Rojas, expliquait alors dans le Washington Post que ce qui importait n’était pas que les gens parlent du candidat en bien, mais simplement qu’ils en parlent.
+« Si les gens parlent de vous, même en mal, c’est un signal qu’un candidat est sur le point de gagner.
+L’attention accordée aux vainqueurs crée une situation dans laquelle toute publicité est une bonne publicité. 
+»
+Simple hasard ou potentiel réel de prédiction ?
+Reste à trouver un poulpe capable de dire à quelle étude se fier.
+Ou à attendre le 29 mars.

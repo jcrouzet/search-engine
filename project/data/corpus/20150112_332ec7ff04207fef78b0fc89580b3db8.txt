@@ -1,0 +1,39 @@
+Le cancer joue-t-il aux dés ?
+Le Monde |
+• Mis à jour le
+13.01.2015 à 10h35
+Le cancer serait-il dû au hasard et à la malchance ?
+C’est la thèse provocante développée dans la prestigieuse revue Science par deux scientifiques américains… du moins si l’on en croit les comptes rendus qu’en font les médias , et les réactions qu’elle suscite.
+Critiquant cet article dans Le Monde tout en passant largement à côté, la sociologue Annie Thébaud-Mony vient même à en conclure une nécessaire remise en cause de tout outil mathématique dans le domaine de la santé !
+Lire aussi : Non, le cancer n’est pas le fruit du hasard !
+Mais il suffit de lire l’étude elle-même pour comprendre que ce résumé est un contresens .
+Son objectif n’est pas d’expliquer pourquoi certains individus sont touchés par des cancers et pas d’autres, mais d’expliquer pourquoi certains organes sont bien plus souvent touchés par des cancers que d’autres.
+Par exemple, les cancers du colon sont 25 fois plus fréquents que les cancers de l’intestin grêle chez l’humain.
+Il est relativement établi qu’une cellule est particulièrement vulnérable à des mutations lorsqu’elle se divise (plus précisément lorsqu’elle duplique son ADN), et qu’une accumulation de ces mutations est cause de cancer.
+L’apport principal des auteurs est de donner une base quantitative à ces idées , et de montrer que les organes dont les cellules se divisent le plus sont les plus prompts à développer des cancers.
+Grave erreur d’interprétation
+C’est là où s’est introduite une grave erreur d’interprétation : l’étude ne prétend en aucun cas expliquer les deux tiers du nombre absolu de cancers, mais seulement deux tiers des différences de nombre de cancers entre différents organes.
+Le résultat est déjà extrêmement intéressant : on aurait en effet pu s’attendre à ce que la variation des fréquences vienne plutôt des différences de taux d’exposition des organes aux facteurs cancérigènes.
+Prenons un exemple simple.
+Le risque de cancer du colon est bien plus fréquent que celui de l’œsophage (5 % contre 0,5 % de risque).
+Ce que les chercheurs expliquent par leur modèle, c’est seulement le facteur 10 de différence entre les deux : il vient en partie du fait que les cellules du colon se divisent bien plus souvent.
+Les chercheurs ne prétendent pas, dans leur article, expliquer pourquoi l’incidence absolue du cancer est de 0,5 % dans l’œsophage.
+Imaginons à présent que colon et œsophage soient tout deux exposés identiquement à une substance cancérigène.
+Le risque de cancer augmentera bien sûr, mais tout en conservant un facteur 10 de différence – mettons, par exemple, à 1 % pour l’œsophage et 10 % pour le colon.
+Trois niveaux de confusion
+Rien n’empêche donc de diminuer chaque risque individuel, même si certains organes resteront plus fragiles que d’autres.
+Car l’étude n’ambitionne pas d’expliquer pourquoi nous allons avoir un cancer, mais seulement où nous avons le plus de chances de l’attraper.
+La confusion a été créée et entretenue à trois niveaux, tant par les scientifiques que par les journalistes
+Tout d’abord, il faut déplorer l’utilisation malencontreuse du mot « malchance » dans le résumé scientifique de l’article par ses auteurs.
+Il fait très probablement référence au fait que les mutations cancéreuses sont « aléatoires », au sens qu’il est presque toujours impossible de prédire à l’avance leur arrivée chez une personne donnée, à un moment donné, comme une conséquence directe d’une exposition donnée.
+Nous connaissons tous des fumeurs compulsifs qui ne développent pas de cancers, ou meurent d’autre chose, ce qui n’empêche pas qu’une exposition continue au tabac multiplie la probabilité de développer un cancer.
+Car au niveau de la statistique, c’est-à-dire sur une population tout entière, il n’y a pas de hasard, et la surmortalité des fumeurs est un effet du tabac et non de la « malchance ».
+Mais c’est malheureusement un exemple de mot trompeur, ayant un sens très différent pour les scientifiques et pour le grand public.
+Résumé grand public
+Ensuite, la confusion est amplifiée par le résumé grand public qu’écrit la revue Science.
+Le titre de l’article, « Les variations inter-organes du risque de cancer s’expliquent par le nombre de division », se transforme en « La malchance explique un beaucoup plus grand nombre de cancers ».
+Les auteurs entretiennent d’ailleurs souvent cette confusion dans leurs interviews sur le sujet, même s’il est difficile de déterminer à quel point ceci est conscient.
+Enfin, troisième étape, la majorité des médias reprennent le résumé grand public, avec des titres comme « Les deux tiers des cancers seraient dus au hasard », sans s’embarrasser de lire ne serait-ce que le titre de l’article scientifique, qui est lui sans ambiguïté.
+Cet emballement met en lumière une fois de plus la pression croissante exercée sur les chercheurs, revues et journalistes, pour publier et médiatiser le plus possible leurs résultats, souvent au détriment de la rigueur scientifique.
+De plus en plus de scientifiques de tous domaines s’inquiètent de voir la science devenir ainsi de moins en moins reproductible.
+Dans le cas présent, la confusion est particulièrement grave pour le grand public, car elle risque de mener à une déresponsabilisation des comportements individuels, mais aussi à un fatalisme mortel, sans base scientifique solide.

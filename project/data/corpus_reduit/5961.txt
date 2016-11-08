@@ -1,0 +1,31 @@
+« Bienvenue à Gattaca » sera-t-il bientôt réalité ?
+Image promotionnelle du film  Bienvenue à Gattaca , d'Andrew Niccol, avec la double hélice d'ADN.
+Columbia Pictures.
+Dans son film Bienvenue à Gattaca, Andrew Niccol décrit une société futuriste eugéniste, une sorte de Meilleur des mondes inégalitaire où la belle vie, les beaux postes et les beaux salaires sont réservés à une élite génétiquement triée sur le volet, issue d'embryons sélectionnés pour présenter un génotype le plus  parfait  possible.
+Affecté aux tâches les plus ingrates et vu comme un troupeau de quasi-sous-hommes, le vulgum pecus est constitué des humains dont la conception a été laissée au hasard.
+Ce thriller d'anticipation est sorti en 1997.
+Dix-huit ans plus tard, nous pouvons nous demander à quel point notre présent n'est pas le prélude à un Gattaca bien réel.
+Le quotidien britannique The Independent a en effet révélé, vendredi 13 mars, que des chercheurs de la Harvard Medical School, aux Etats-Unis, avaient essayé d'éditer le génome de tissus ovariens  de manière à corriger un gène, le BRCA1, qui, lorsqu'il a muté, prédispose au cancer du sein.
+Une tentative hautement symbolique car, jusqu'à présent, personne n'avait osé toucher au matériel génétique de cellules reproductrices humaines, à l'ADN d'un futur ovule ou à celui d'un spermatozoïde.
+Les résultats de ces travaux n'ont pas encore été publiés... et peut-être ne le seront-ils pas.
+En effet, dans une tribune parue dans la prestigieuse revue Nature  la veille de la révélation de The Independent, cinq chercheurs américains, conscients – ou sachant pertinemment... – que des expériences d'ingénierie génétique de ce genre avaient lieu, enjoignent leurs collègues du monde entier à faire une pause et à réfléchir ensemble aux conséquences de ces recherches.
+Pour résumer l'intention de cette tribune, disons qu'on est dans la crainte de l'apprenti-sorcier.
+Les auteurs écrivent que la modification du génome des gamètes ou des embryons humains peut avoir  des effets imprévisibles sur les futures générations.
+Cela la rend dangereuse et éthiquement inacceptable .
+Pour comprendre exactement de quoi l'on parle, il faut savoir que, depuis quelques années sont développés des outils capables d'intervenir sur l'ADN.
+Le dernier en date, connu sous le nom de technologie Crispr (du nom d'une famille de séquences génétiques qu'elle exploite, Clustered Regularly Interspaced Short Palindromic Repeats), est capable, avec une précision redoutable, d'intervenir sur une partie bien délimitée de la double hélice d'acide désoxyribonucléique et d'y faire de la dentelle, du couper ou du coller (ou les deux)...
+Voilà pourquoi l'on parle d'édition du génome car la technologie Crispr, qui fait intervenir un kit moléculaire complexe, s'apparente à un traitement de texte, à ceci près que les lettres auxquelles elle touche sont les quatre bases azotées de l'ADN, adénine, thymine, guanine, cytosine, plus connues sous leurs initiales A, T, G et C – à partir desquelles s'écrit le nom Gattaca...
+Depuis 2013, l'utilisation de cet outil explose chez les biologistes.
+Mais jusqu'à présent, ils ne s'en servaient que pour modifier l'ADN des cellules somatiques, c'est-à-dire toutes les cellules du corps à l'exception des cellules germinales.
+On a ainsi vu de nouvelles voies de recherche s'ouvrir pour le traitement du sida ou de la bêta-thalassémie , une maladie génétique de l'hémoglobine.
+En travaillant uniquement sur les cellules somatiques, on ne prend pas le risque, à terme, de transmettre une modification intempestive aux générations suivantes, ce qui serait en revanche le cas avec les cellules de la reproduction.
+En effet, malgré les incroyables perspectives qu'elle a ouvertes, la technologie Crispr est loin d'être fiable à 100 %.
+Il se peut ainsi que certaines cellules échappent au copier-coller, ce qui poserait un problème si l'opération était réalisée sur un embryon, doté de plusieurs cellules.
+Il se peut également que ces ciseaux génétiques coupent au mauvais endroit.
+Un peu comme si, dans votre logiciel de traitement de texte, vous souhaitiez remplacer tous les mots  pointe  par autre chose, en oubliant que cette chaîne de six caractères se retrouve aussi dans le mot  courtepointe ...
+Il faudrait donc pouvoir s'assurer, sur plusieurs générations, de la réussite totale de l'opération.
+En plus de ces risques techniques, la possibilité de modifier l'ADN dans les cellules germinales pour des raisons purement thérapeutiques (la correction d'une maladie génétique) ouvre la porte à des dérives eugénistes évidentes, à la confection d'embryons  à la carte , dotés des  meilleures  caractéristiques physiques, mais aussi éventuellement intellectuelles.
+Voilà pourquoi les auteurs de cette tribune appellent à un  moratoire volontaire  de tous les chercheurs du domaine afin, au minimum, de donner du temps à la réflexion et aux débats de bioéthique.
+C'est également une manière de ne pas attirer l'opprobre sur les outils d'édition génétique qui peuvent faire beaucoup pour guérir certaines maladies incurables.
+Le hic de l'histoire, c'est que non seulement il se trouvera toujours des apprentis-sorciers, mais que le moratoire en question n'est peut-être qu'une solution en trompe-l'œil, qui pourra d'une certaine manière être aisément contournée.
+On peut parfaitement imaginer aujourd'hui rectifier l'ADN dans des cellules de peau puis ( grâce à la technique des cellules pluripotentes induites ) transformer celles-ci... en gamètes.

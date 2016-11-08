@@ -1,0 +1,19 @@
+De nombreux sites de presse inaccessibles
+Le Monde |
+• Mis à jour le
+16.01.2015 à 10h56
+De très nombreux sites de presse français sont actuellement inaccessibles.
+Sont notamment touchés Mediapart, Slate, le Parisien, des sites de Radio France , L'Express, 20 minutes, Vanity Fair ou encore Gamekult.
+Sont également inaccessibles des sites professionnels, par exemple ceux du groupe Accor , d'Alinéa, de Thalys ou de Kiloutou.
+Joint par Le Monde, L'Express confirme que son site est coupé.
+C'est un problème qui concerne l'hébergeur de ces sites, Oxalide, ajoute-t-on.
+Oxalide a confirmé sur Twitter connaître un « incident sur son infrastructure ».
+Incident en cours sur notre infrastructure -nos équipes sont en cours de résolution
+— oxalide (@oxalide)
+Le blocage des sites laissait initialement supposer qu'ils ont pu être touchés par une attaque dite « de déni de service », qui consiste à saturer un site sous un grand nombre de connexions pour en bloquer l'accès.
+Mais, si plusieurs groupes de pirates informatiques ont menacé de mener des actions de « grande ampleur » contre des sites français ces derniers jours, aucune revendication ne semble avoir été publiée.
+Et si une attaque par « déni de service » peut facilement bloquer l'accès à un site, il est improbable qu'elle puisse bloquer l'ensemble des sites d'un hébergeur.
+L’incident est toujours en cours… Il touche le coeur de réseau.
+Les équipes sont en cours d’investigation.
+— oxalide (@oxalide)
+Pixels

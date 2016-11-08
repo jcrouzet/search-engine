@@ -1,0 +1,56 @@
+Affaire EADS : les implications de la décision du Conseil constitutionnel
+Le Monde |
+| Par Audrey Tonnelier
+Le cumul de poursuites pénales et administratives en matière boursière a été jugé non conforme à la Constitution par le Conseil constitutionnel, mercredi 18 mars.
+Véritable coup de tonnerre juridique, cette décision rend impossible la tenue du « procès EADS ».
+Dans cette affaire, sept dirigeants et ex-dirigeants du groupe européen d’aéronautique et de défense (rebaptisé depuis Airbus Group), dont l’ancien coprésident, Noël Forgeard, et son ancien numéro deux, Jean-Paul Gut, étaient soupçonnés de délit d’initiés ; deux actionnaires de référence de l’époque, les groupes Daimler et Lagardère, étaient aussi visés.
+La justice les soupçonnait de s’être enrichis indûment en vendant leurs stock-options, principalement en novembre 2005 et mars 2006, alors qu’ils auraient eu connaissance d’informations privilégiées quant aux difficultés des programmes A350 et A380 du groupe.
+Pourquoi le procès EADS n’aura-t-il pas lieu ?
+Les prévenus avaient déjà été jugés par l’Autorité des marchés financiers (AMF) en 2009.
+Cette dernière, à la surprise générale, les avait blanchis.
+Leurs avocats avaient alors posé aux Sages de la rue de Valois deux questions prioritaires de constitutionnalité (QPC) : en substance, il s’agissait de savoir si une procédure consistant à poursuivre une seconde fois les mêmes personnes pour des faits identiques était valable.
+Le Conseil constitutionnel a donc répondu par la négative.
+Le tribunal correctionnel de Paris, chargé du dossier EADS, n’a désormais plus d’autre choix que de constater l’extinction de l’action publique.
+La décision du Conseil constitutionnel était-elle attendue ?
+Non.
+La majorité des avocats, y compris dans le camp des prévenus, n’osaient rêver à une annulation pure et simple du procès.
+En France en effet, en matière boursière comme dans d’autres domaines (droit fiscal, ordres professionnels…), justice administrative et justice pénale coexistent.
+Ce fut le cas dans l’affaire des fausses factures d’Altran.
+En 2007, l’AMF avait infligé des amendes allant de 500 000 à 1 million d’euros à d’anciens dirigeants de cette société de services informatiques.
+Cela n’avait pas empêché le tribunal correctionnel de Paris de se saisir du dossier.
+Le 26 septembre 2014, cinq personnes ont été condamnées à des peines de prison avec sursis et à des amendes allant jusqu’à 2,5 millions d’euros pour des délits d’initié lors de l’offre publique d’achat (OPA) menée en 2003 par Alcan sur Pechiney.
+Or, elles avaient déjà été sanctionnées par l’AMF en 2008.
+Pourquoi le Conseil a-t-il tranché en ce sens ?
+Aujourd’hui, le principe du cumul des sanctions est de plus en plus régulièrement remis en cause.
+Le 4 mars 2014, la Cour européenne des droits de l’homme (CEDH) de Strasbourg avait rappelé (arrêt « Grande Stevens ») le principe du non bis in idem (« pas deux fois pour la même chose »), condamnant l’Italie dans une affaire de diffusion d’informations trompeuses sur le capital de Fiat.
+Cet arrêt de la CEDH a considéré que les prévenus, déjà sanctionnés administrativement par la Consob (l’AMF italienne), n’auraient pas dû l’être au pénal.
+Une nouvelle directive européenne sur les abus de marché a également repris, en avril 2014, ce principe du non bis in idem.
+Ces décisions faisaient figure d’épée de Damoclès pour la France.
+« Le Conseil constitutionnel a tiré les conséquences de la décision de la CEDH : il interdit le principe de la double poursuite, tout en limitant cette interdiction au droit boursier », apprécie Patrice Spinosi, avocat à la Cour de cassation, qui a défendu plusieurs personnes physiques dans le dossier EADS.
+Par ailleurs, seuls les non-professionnels sont concernés par cette décision.
+Pour les autres, le cumul des sanctions est toujours possible.
+La double poursuite est-elle interdite dans tous les domaines ?
+Non.
+En dehors des affaires boursières, une sanction disciplinaire pourra toujours faire l’objet de poursuites pénales.
+Les autres autorités administratives comme la Commission nationale de l’informatique et des libertés (CNIL), le Conseil supérieur de l’audiovisuel (CSA), ou l’Autorité de la concurrence…) ne sont pas concernées, de même que la sphère fiscale ou les ordres professionnels (médecins, avocats…).
+« Pour le grand public, procéder autrement aurait été incompréhensible », pointe un pénaliste.
+Exemple : un médecin dont la patiente serait décédée à la suite d’une erreur médicale pourra être jugé par son ordre (et le cas échéant radié), sans que cela l’exonère d’un procès au pénal.
+D’autres dossiers que celui d’EADS sont-ils concernés ?
+Une petite dizaine de dossiers boursiers sont actuellement en cours (Altran, Pechiney, Sacyr…) et sont donc potentiellement concernés.
+Le Conseil constitutionnel a donné au législateur jusqu’au 1er septembre 2016 pour élaborer une loi encadrant ces pratiques.
+Dans l’intervalle, c’est la première juridiction à se saisir d’un dossier (AMF ou justice pénale) qui le conservera, alors que jusqu’à présent, l’AMF pouvait transmettre au parquet les dossiers lui semblant relever de son ministère, tout en continuant en parallèle sa propre enquête.
+Les cas de doubles sanctions étaient cependant rares : moins de dix dossiers sur 300 depuis 2010.
+Comment faut-il faire évoluer la loi ?
+C’est toute la question.
+De part et d’autre, on a déjà commencé à plancher sur de possibles réformes.
+Un groupe de travail interministériel procède à un état des lieux de la jurisprudence, tandis que l’AMF doit rendre un rapport sur le sujet dans les prochaines semaines.
+Jusqu’à présent, le système dual possédait l’avantage de la rapidité : il faut en moyenne deux à trois ans à l’AMF pour constituer et instruire les dossiers, contre dix à douze années au pénal.
+« Cela tient à la spécialisation des enquêteurs de l’AMF et aux moindres possibilités de recours à chaque phase de l’instruction », explique un bon connaisseur de ces procédures.
+Les « pro-AMF » arguent qu’il ne s’agit pas, en l’occurrence, d’une justice au rabais.
+Depuis 2010, la commission des sanctions de l’AMF peut infliger des amendes allant jusqu’à 100 millions d’euros (contre 10 millions d’euros auparavant), contre 1,5 million au maximum au pénal.
+En revanche, l’AMF ne peut pas prononcer de peines de prison.
+De son côté, la justice pénale – et notamment le nouveau Parquet national financier créé en 2014 – possède un pouvoir d’investigation plus important : il peut par exemple perquisitionner sans autorisation.
+Mais sa lenteur lui fait perdre en efficacité pédagogique et dissuasive.
+Enfin, certains pointent les incohérences du système dual où deux enquêtes coexistaient : « Un prévenu a l’obligation de coopérer avec l’AMF, alors qu’au pénal, il a le droit de se taire », souligne Thomas Baudesson, avocat chez Clifford Chance et conseil d’Alain Flourens, un cadre d’EADS.
+Si l’idée de mettre en place une juridiction ad hoc est évoquée, la piste privilégiée semble être celle d’un « aiguillage » des dossiers, à l’image de ce qui se pratique au Royaume-Uni.
+Reste à savoir selon quels critères il se ferait, et qui, de l’AMF ou du parquet, prendrait la décision.

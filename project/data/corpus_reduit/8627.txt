@@ -1,0 +1,48 @@
+Le front anti-Google gagne du terrain en Europe
+Le Monde |
+15.04.2015 à 16h33
+La Commission européenne vient d'infliger un sérieux coup à Google, en l'accusant, mercredi 15 avril, d'abus de position dominante .
+L'entreprise américaine subit depuis quelques années de nombreuses attaques en Europe, sur ce front, mais aussi sur celui de la fiscalité, des données personnelles ou encore du droit d'auteur.
+Bruxelles voit rouge
+Google favorise-t-il, dans ses résultats de recherche, ses propres services de shopping au détriment de ceux d'autres entreprises ?
+C'est en tout cas ce dont l'accusent une trentaine de plaignants, soutenus depuis mercredi 15 avril par la Commission européenne.
+Celle-ci accuse le groupe d'avoir enfreint la loi antitrust.
+Parmi les plaignants, on trouve notamment Microsoft – pourtant plusieurs fois épinglé pour abus de position dominante – ou encore la plupart des grands fournisseurs d'accès à Internet français, réunis au sein de la Fédération française des télécoms.
+Parallèlement, plusieurs sénateurs de l'opposition ont déposé, jeudi 2 avril, un amendement au projet de loi Macron pour encadrer les pratiques des moteurs de recherche .
+Même si Google n'est pas explicitement cité dans le texte, une de ses auteures, Catherine Morin-Desailly, a expliqué au Monde que « nous avons la conviction que Google favorise ses propres services et nous estimons qu'il faut réguler cette situation, sinon les autres entreprises ne peuvent se développer ».
+Google avait été accusé des mêmes griefs aux Etats-Unis, mais la Federal and Trade Commission (FTC), chargée des questions de concurrence et de protection du consommateur, avait finalement blanchi l'entreprise en 2013.
+Retournement de situation le 20 mars dernier : le Wall Street Journal a révélé que les commissaires de la FTC avaient décidé de classer le dossier, alors même que ses experts recommandaient d'engager des poursuites.
+Le Sénat américain a donc décidé d'enquêter , notamment pour en savoir plus sur les liens entre Google et l'administration Obama, suspectée d'avoir fait pression sur la FTC.
+Lire : Margrethe Vestager, la commissaire qui s’attaque à Google
+Le sujet sensible des données personnelles
+La firme de Mountain View a aussi fort à faire concernant les problématiques liées au traitement des données personnelles.
+Ainsi, la CNIL (Commission nationale informatique et libertés) et cinq de ses équivalents européens sont en contentieux avec le moteur de recherche américain après une modification considérable de sa politique en matière de données personnelles en 2012.
+Mandatée par ses consœurs, la CNIL française lui a demandé « une information plus claire et plus complète » notamment sur la finalité de l'utilisation des données.
+Ces organismes lui reprochent notamment d'avoir croisé les données des utilisateurs de plusieurs services.
+La CNIL avait déjà sévi à l'encontre de Google, notamment en janver 2014.
+La firme américaine avait été condamnée à payer 150 000 euros pour un manque de clarté concernant sa politique de confidentialité.
+Le moteur de recherche avait dû en plus afficher le jugement sur sa page , une première.
+Autre élément qui pourrait nuire à google : la notion de « territorialité » des données, qui pourrait être adoptée fin 2015 par la communauté européenne.
+En clair, les données d'un citoyen français tomberont sous la loi hexagonale et ce, quelle que soit la localisation des serveurs abritant ces données.
+Les Etats en guerre contre l'optimisation fiscale
+Comment taxer efficacement Google sur ses profits ?
+C'est le casse-tête auquel sont confrontés de nombreux pays européens, agacés par « l'optimisation fiscale » pratiquée par la firme américaine – à l'instar d'autres géants du Web comme Apple, Facebook ou encore Amazon.
+Google a installé son siège en Irlande, où l'impôt sur les sociétés est fixé à 12,5 %.
+La France a tenté à plusieurs reprises d'instaurer une « taxe Google », pour l'obliger à payer un impôt en fonction des profits réalisés dans le pays.
+Mais aucune n'a jusqu'ici abouti.
+Paris a décidé de s'en remettre à des initiatives internationales.
+Et a ainsi poussé à l'adoption par l'Union européenne d'une directive selon laquelle, à partir du 1er janvier 2015, la TVA acquittée lors de l'achat d'une chanson ou d'un film via Apple ou Google sera payée dans le pays de l'acheteur.
+Le Royaume-Uni, quant à lui, a annoncé une prochaine taxe Google pour imposer à 25 % « les bénéfices générés par les multinationales sur leur activité réalisée au Royaume-Uni et qu'elles font sortir artificiellement du pays ».
+La « taxe google », cheval de bataille des éditeurs de presse
+L'affaire avait fait beaucoup de bruit en 2012 : les éditeurs de presse français s'étaient lancés dans un âpre bras de fer avec Google, exigeant que le moteur de recherche leur paie des droits, « voisins » du droit d'auteur, pour indexer leur contenu.
+Quelques mois plus tard, les négociations ont finalement abouti à la création par Google d'un fonds d'innovation numérique de la presse , doté de 60 millions d'euros.
+Si la France a ainsi renoncé à taxer Google sur l'indexation de contenu, l'Allemagne et l'Espagne, de leur côté, ont persisté.
+L'Espagne a adopté fin octobre une loi obligeant le moteur de recherche à rémunérer les médias dont il reproduit une partie des contenus, à partir du 1er janvier 2015.
+En signe de protestation, Google a décidé de fermer , le 16 décembre, son service d'actualités en Espagne, Google Noticias – sans que cela ne provoque de chute drastique des visites des sites de presse.
+Cependant, cette taxe ne s'applique toujours pas.
+Les détails de son application n'ont pas encore été rédigés, et doivent notamment fixer son montant.
+En Allemagne, un texte similaire avait été adopté en 2013, mais Google avait refusé de s'y soumettre et avait porté plainte.
+La justice ne s'est pas encore prononcée.
+Il faut dire que ces règles vont au-delà des normes européennes en matière de propriété intellectuelle.
+D'après la jurisprudence de la Cour de justice européenne, la reproduction d'un contenu, par un lien hypertexte ou un outil d'intégration, ne constitue pas une infraction au copyright.
+Malgré ces difficultés, les éditeurs italiens ont décidé, à leur tour, de réclamer leur propre taxe Google.

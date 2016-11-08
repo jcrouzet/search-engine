@@ -1,0 +1,47 @@
+On a testé pour vous... le premier téléphone Ubuntu
+Le Monde |
+| Par Damien Leloup
+Le système d'exploitation libre et gratuit Ubuntu dispose depuis quelques temps d'une version adaptée aux téléphones mobiles.
+Nous avons testé l'Aquaris E4.5 Ubuntu edition, le premier modèle grand public et bon marché équipé de ce système d'exploitation, conçu par l'espagnol BQ .
+Vendu 169 euros, ce téléphone est disponible pour l'instant uniquement lors de ventes éclair.
+Pour ce prix, il ne faut évidemment pas s'attendre à des capacités techniques hors norme : l'Aquaris est un smartphone élémentaire.
+Il n'est pas compatible 4G et dispose d'une mémoire de 8 gigaoctets uniquement (mais extensible avec une carte SD).
+Son appareil photo 5 mégapixels pêche en faible luminosité, et si l'écran propose un affichage très correct, son interface tactile n'est pas toujours très réactive.
+La batterie est elle aussi dans la norme : elle tient une journée en utilisation classique.
+Par rapport à d'autres téléphones dans la même gamme de prix, c'est donc surtout son système d'exploitation qui peut faire la différence.
+Ubuntu, du PC de bureau au mobile
+La version mobile d'Ubuntu, baptisée « Touch », reprend les mêmes parti pris que sa « grande sœur » – plus spécifiquement, Unity, l'interface proposée par défaut sur les versions d'Ubuntu pour PC.
+Unity, ce sont des choix assez radicaux : pas de bureau comme sur Windows, une barre latérale rassemblant les programmes courants, et une interface de recherche aboutie et très utilisée.
+La transition sur téléphone reprend ce concept : contrairement à Android ou IOS, Ubuntu mobile n'a pas d'écran d'accueil rassemblant les applications.
+Les logiciels fréquemment utilisés sont rassemblés dans une barre latérale, que l'on fait apparaître en glissant le doigt sur le bord de l'écran.
+Peu intuitif, le système reste efficace : on a rapidement accès aux applications, mais leur organisation demande un peu d'exploration dans les menus.
+En lieu et place de page d'accueil, Ubuntu mobile propose une sorte de série de pages, assez simple à organiser, où l'on peut afficher différents services : endroits intéressants à proximité, musique, actualités...
+Le principal défaut du système est qu'il ralentit la navigation.
+Son avantage : il permet de configurer comme on le souhaite ce qui s'affiche, et offre beaucoup plus d'espace que les classiques « widgets » des téléphones Apple et Google.
+Autre choix radical, l'Aquaris E4.5 ne comporte aucun bouton physique, et Ubuntu mobile ne propose pas non plus de boutons virtuels.
+L'intégralité de la navigation se fait donc sans bouton « arrière », comme sur la quasi-totalité des autres système d'exploitation.
+Très perturbant pour les habitués d'Android ou d'iOS, ce mode de navigation reste difficile à appréhender – là où Ubuntu propose sur PC une interface très simple, la version mobile offre plusieurs types de menus, selon que l'on fait glisser son doigt depuis le bas, le haut ou le côté de l'écran.
+Il faut quelques jours pour s'y habituer, et ce même si vous connaissez déjà bien Ubuntu.
+Le magasin d'applications d'Ubuntu Touch est encore lacunaire – la plupart des classiques sont disponibles, de Twitter au jeu Cut the rope, mais certaines grandes applications sont encore manquantes, comme Whatsapp.
+Pour beaucoup de services, il faudra utiliser l'interface Web, dans le navigateur d'Ubuntu, qui est assez classique mais fonctionnel – les applications Web conçues en Javascript et HTML 5 fonctionnent parfaitement – en attendant que les éditeurs créent des versions Ubuntu de leurs logiciels.
+Bon point, la configuration initiale du téléphone est simple et rapide – quelques minutes à peine.
+Malgré le long historique d'Ubuntu sur PC, cette version mobile reste encore « en cours de développement ».
+Les mises à jour sont très régulières, mais le système d'exploitation souffre encore de bugs gênants.
+Lors de notre test, plusieurs applications ont « planté » à différents moments, notamment lorsque plusieurs applications tournaient simultanément.
+L'avis de Pixels
+Retrouver Ubuntu et l'esthétique d'Unity
+Les multiples options de personnalisation
+Les mises à jour fréquentes
+On a moins aimé :
+La complexité de l'interface
+Les bugs trop courants
+On a très envie d'aimer ce premier Ubuntu Phone grand public – l'arrivée sur mobile de la version la plus populaire de Linux est un événement, dans un paysage où seul Firefox OS offrait jusqu'à présent une alternative sérieuse à iOS et Android.
+Malheureusement, les choix radicaux de l'interface rendent ce modèle assez difficile à conseiller pour des utilisateurs peu « bricoleurs », et pour les plus avertis, le manque de puissance de l'Aquaris 4.5 pourra être un frein important.
+C'est plutôt pour vous si :
+Vous adorez Ubuntu et attachez de l'importance au fait d'utiliser un logiciel vraiment « libre »
+Vous utilisez peu d'applications différentes
+Vous cherchez un téléphone bon marché
+Ca n'est pas pour vous si :
+Vous cherchez un téléphone très simple d'utilisation
+Vous êtes accro à des applications spécifiques qui ne figurent pas encore dans le magasin
+Vous cherchez un téléphone puissant, vous jouez beaucoup sur mobile

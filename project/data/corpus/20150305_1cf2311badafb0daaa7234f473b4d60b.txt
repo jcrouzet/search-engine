@@ -1,0 +1,18 @@
+Des mesures anti-drones à l'étude en France
+Le Monde |
+05.03.2015 à 16h53
+Après les survols de centrales nucléaires par des drones, en 2014, le gouvernement avait commandé au secrétariat général de la défense et de la sécurité nationale (SGDSN) un rapport pour proposer des mesures techniques et légales d'encadrement de ces objets volants.
+Selon les informations de La Croix, certaines des préconisations contenues dans ce rapport, remis à Manuel Valls en janvier, doivent être expérimentées d'ici à la fin du mois de mars, alors que de nombreux survols illégaux de Paris par des drones ont été signalés ces dernières semaines.
+Lire : Le survol de Paris par des drones embarrasse les autorités
+Elles concerneront aussi bien des outils de détection que de neutralisation – « brouillage, leurres, canons à eau, lasers », détaille La Croix.
+L'utilisation de la plupart de ces outils de neutralisation pose des questions complexes en zones urbaines, où le brouillage pourrait avoir des effets de bord inattendus sur d'autres appareils électroniques, et où l'usage d'armes, quelles qu'elles soient, pourrait s'avérer risqué. 
+Blocage géographique
+De leur côté, les constructeurs de drones ont accepté, depuis plusieurs mois, le principe de l'intégration de « zones interdites » directement dans le logiciel de gestion de leurs appareils.
+Les appareils équipés d'un GPS refuseraient ainsi de décoller dans les zones géographiques où il est interdit de les faire voler – agglomérations, environs d'installations stratégiques dont le survol est prohibé...
+Ces mesures techniques, demandée par plusieurs gouvernement dans le monde, semblent faire l'objet d'un consensus.
+Un appel à projets est en cours en France sur ce sujet.
+Malgré tout, certains états souhaitent aller plus loin.
+La chambre des Lords britannique a demandé la création d'un fichier recensant les propriétaires de drones, sur le modèle des registres des armes à feu.
+La chambre haute du Parlement souhaite également que tous les vols de drones puissent être tracés et enregistrés dans une base de donnée publique.
+Il n'est cependant pas certain que tous les pays de l'Union européenne souhaitent aller aussi loin dans l'encadrement de cette pratique, qui reste majoritairement un loisir.
+La France préférerait d'ailleurs passer par un accord européen sur le sujet plutôt que de légiférer nationalement – la SGDSN doit organiser fin mai à Paris un séminaire international consacré à la législation sur les drones.

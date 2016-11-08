@@ -1,0 +1,36 @@
+Trois pistes pour « mieux » taxer Google, Facebook et consorts
+Le Monde |
+09.03.2015 à 16h52
+| Par Anne Eveno
+La difficulté que rencontrent les Etats à taxer les entreprises du numérique fait consensus.
+L’Organisation de coopération et de développement économiques (OCDE) et la Commission européenne planchent chacune de leur côté pour corriger les failles du système fiscal européen et international.
+Mais le chantier est colossal, comme l’affirme le document réalisé par dix économistes à la demande de France Stratégie , un organisme placé auprès de Matignon, et remis lundi 9 mars à Axelle Lemaire, la secrétaire d’Etat au numérique.
+Issus des écoles d’économie de Paris et de Toulouse et de l’institut Mines-Télécom, ces économistes ont élaboré une sorte de boîte à idées, à la disposition du gouvernement.
+Ils lui suggèrent trois leviers possibles, à défaut de pouvoir obtenir rapidement une modification de la fiscalité des bénéfices des entreprises au niveau mondial.
+Modifier la fiscalité des bénéfices prendrait trop de temps
+« L’imposition du profit des entreprises réalisé au niveau national repose sur la présence d’un établissement stable (…).
+Ce critère, fondé sur la présence physique, n’est pas adapté à l’économie du numérique.
+Dès lors, une modification des règles de répartition du bénéfice mondial entre les différentes localisations doit être envisagée », écrivent les auteurs du rapport.
+Mais c’est pour souligner aussitôt qu’« une telle modification de la fiscalité des bénéfices passe par une refonte globale des conventions fiscales internationales, quelque 140 traités bilatéraux en ce qui concerne la France ».
+Par conséquent, « il ne peut donc s’agir que d’un objectif de long terme », relèvent-ils.
+Les experts sollicités par France Stratégie sont convaincus que la meilleure taxation serait celle qui serait assise sur les bénéfices.
+Mais ils reconnaissent aussi qu’une harmonisation européenne prendrait trop de temps.
+Lire aussi : Bruxelles détaille son « agenda numérique »
+Jouer sur les revenus publicitaires, l’activité de la plate-forme ou l’origine des revenus
+Même si une première mesure a vu le jour au 1er janvier, avec l’application en Europe de la TVA dans le pays du client d’un bien ou d’un service acheté sur Internet et non plus dans le pays du vendeur, la France entend aller plus loin et plus vite.
+Alors que Bercy expertise déjà l’idée – portée par la ministre de la culture, Fleur Pellerin – d’une taxe assise sur la bande passante, le gouvernement va pouvoir puiser dans la boîte à idées fournie par les économistes.
+Lire aussi : La taxe Internet qui oppose Paris et Bruxelles
+Ceux-ci défendent trois pistes principales, applicables à court terme :
+- instaurer une taxe sur les revenus publicitaires des entreprises, lesquels seraient appréhendés comme une approximation des profits générés dans un pays donné.
+- À défaut, mettre en place une taxe unitaire, fondée sur l’activité de la plate-forme, mesurée par le nombre d’utilisateurs sur le territoire (annonceurs ou internautes) ou par le flux de données échangées.
+- Différencier le taux d’imposition en fonction de l’origine des revenus.
+Il s’agirait d’appliquer « un taux plus faible pour les revenus produits par le simple accès au site [vente, recettes publicitaires liées à un mot-clé de recherche] que pour ceux générés grâce à des données stockées [revente de données sur les recherches à des tiers, stockage de données de vente pour une tarification ou une publicité ciblée] ».
+Lire aussi : Le Royaume-Uni veut instituer une « taxe Google »
+Créer des outils pour mieux mesurer l’activité de plates-formes
+Ces propositions se heurtent à au moins deux obstacles : le manque de données relatives à ces entreprises ; et le risque que, ainsi taxées, elles tentent de compenser l’impact de ces impositions en collectant de manière plus intensive des données, en instaurant des services payants ou en excluant des utilisateurs.
+Sur le premier point, le rapport préconise la création d’un nouvel appareil statistique.
+Il s’agirait de doter la puissance publique des moyens de mesurer les activités des entreprises visées, « en particulier en ce qui concerne les flux de données [flux aux points d’interconnexion des principaux acteurs, données collectées auprès des utilisateurs] et les flux monétaires [commerce électronique, revenus publicitaires, données douanières…] ».
+Sur le second sujet, les économistes suggèrent de fixer le taux de la taxe à un « niveau assez faible », non précisé, et de mettre en place « un seuil en deçà duquel l’entreprise ne serait pas taxée ».
+Dans l’entourage d’Axelle Lemaire, ce rapport est salué car « il permet d’éviter la petite musique du “on ne peut rien faire” ».
+Le gouvernement français devrait soumettre ces pistes de réflexion à ses partenaires européens.
+Anne Eveno

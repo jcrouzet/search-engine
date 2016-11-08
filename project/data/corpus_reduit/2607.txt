@@ -1,0 +1,46 @@
+Vers des bébés « à trois ADN » au Royaume-Uni ?
+Le Monde |
+| Par Paul Benkimoun
+Les parlementaires du Royaume-Uni devaient se prononcer mardi 3 février sur le projet d’autoriser une technique d’assistance médicale à la procréation destinée à prévenir la transmission de maladies génétiques d’origine maternelle.
+Familièrement baptisée fécondation in vitro « à trois parents », elle consiste à remplacer dans l’ovocyte devant être fécondé les petites structures appelées mitochondries, présentes dans toutes les cellules à qui elles fournissent l’énergie dont elles ont besoin.
+Certaines maladies sont en effet liées à des mutations affectant l’ADN des mitochondries.
+L’ensemble des mitochondries de l’embryon sont d’origine maternelle.
+Que sont les maladies mitochondriales ?
+Constituant des centrales à énergie permettant la synthèse des protéines et d’autres molécules, les mitochondries sont des structures présentes dans les cellules, à l’extérieur de leur noyau, dans le cytoplasme.
+Elles possèdent leur propre ADN, toujours hérité de la mère.
+Les mutations de cet ADN mitochondrial (ADNmt) sont responsables d’un ensemble de plus de 700 maladies métaboliques non curables à ce jour et pour certaines potentiellement mortelles dans l’enfance.
+Elles peuvent se manifester sur le plan neurologique, neuromusculaire, des atteintes ophtalmiques (neuropathie optique de Leiber), des anémies, de la surdité…
+Selon l’Autorité britannique sur la fécondation humaine et l’embryologie (HFEA), environ une naissance sur 5 000, et vraisemblablement une proportion plus importante de fœtus, présente une mutation de l’ADNmt.
+Toujours selon la HFEA, il est possible d’avoir un recours à un diagnostic pré-implantatoire, sélectionnant les embryons n’ayant que très peu de mutations de l’ADNmt, mais cela suppose d’avoir préalablement identifié la mutation en cause. 
+En quoi consiste la technique de remplacement des mitochondries ?
+Si le problème est lié aux mitochondries, se sont dit des chercheurs britanniques de l’université de Newcastle, remplaçons-les plutôt que de faire appel à un classique don d’ovocyte de la part d’une donneuse.
+L’idée était de conserver le patrimoine génétique maternel, porté par les chromosomes qui se trouvent dans le noyau cellulaire.
+Pour cela, les chercheurs ont eu recours à la technique du transfert nucléaire .
+Le procédé consiste à partir d’un ovocyte de la mère, contenant donc des mitochondries porteuses de la mutation incriminée.
+L’ovocyte est fécondé par un spermatozoïde paternel, puis, le noyau de l’œuf obtenu est prélevé.
+Un ovocyte provenant d’une donneuse, indemne de la maladie, a lui aussi été fécondé avant d’être débarrassé de son noyau.
+Le noyau d’origine maternelle est alors transféré dans l’ovocyte de la donneuse.
+L’œuf qui en résulte comporte donc un noyau recélant le patrimoine génétique de la mère et du père, et un cytoplasme dont les mitochondries contiennent l’ADN de la donneuse exempt de mutations.
+Au total , l’œuf fécondé sera donc porteur de trois ADN : dans le noyau de ses cellules, ceux des parents, et, dans les mitochondries, celui de la donneuse.
+Aux Etats-Unis, une demande d’autorisation d’un essai clinique utilisant cette technique a été soumis en février à la Food and Drug Administration.
+La FDA n’a pas encore rendu sa décision.
+Une technique sûre ?
+Dans un communiqué du 22 juillet 2014, annonçant le projet de loi gouvernemental autorisant le recours à la technique de remplacement de mitochondries, la HFEA précise que son panel d’expert, présidé par le Dr Andy Greenfield, avait clairement indiqué dans son rapport de juin 2014 qu’il « n’avait pas trouvé de preuve suggérant que le remplacement mitochondrial ne soit pas sûr et que de bons progrès avaient été accomplis au plan scientifique. 
+» Etudiant les données animales et humaines sur plusieurs années, le panel avait pris en compte les aspects de sécurité liés au transfert lui-même, les réactifs utilisés pour cette technique ainsi que les interactions entre le noyau et les mitochondries.
+A cette occasion, le Dr Andy Greenfield a déclaré : « Passer de la recherche à la pratique clinique implique toujours un certain degré d’incertitude.
+Si le parlement change effectivement la loi, la procédure régulatoire requise par la HFEA avant que le traitement soit proposé garantira, autant qu’il est possible de le faire, que le remplacement des mitochondries marche et est suffisamment sûr pour être proposé aux personnes atteintes de maladies mitochondriales sévères. 
+»
+Quelles sont les questions éthiques soulevées ?
+Si le parlement britannique adopte la modification de la loi de 2008 sur l’assistance médicale à la procréation pour autoriser le remplacement des mitochondries, la technique n’en sera pas pour autant immédiatement proposée.
+Comme toute technique à la pointe de la science, elle doit être encadrée par des dispositions réglementaires que la HFEA doit élaborer .
+Cette instance de régulation doit concevoir et mettre en œuvre une procédure, définissant notamment un cahier des charges pour les établissements qui seraient autorisés à la pratiquer .
+Des questions éthiques sont également soulevées à propos de cette nouvelle technique.
+Tout d’abord, le fait qu’elle entraîne une modification de ce que l’on appelle la lignée germinale, autrement dit les cellules participant à la fécondation (par opposition à la lignée somatique qui donne les autres cellules de l’organisme).
+Dès lors, cela signifie que l’ADNmt provenant de la donneuse va également être transmis à la descendance en plus de celui des deux parents.
+Le bénéfice - la non transmission de la mutation - est évident, mais cela peut susciter des interrogations.
+En particulier le caractère anonyme ou non du don de mitochondries (le don de gamète n’étant pas anonyme).
+Lors du congrès mondial de bioéthique, le 25 juin 2014 à Mexico, le Dr John Appelby, du centre d’éthique et de législation médicale du King’s College (Londres) a évoqué le fait que le don de mitochondries n’est pas susceptible d’influer significativement sur l’identité et les traits physiques des descendants, qui seraient donc peu enclins à s’enquérir de l’identité de la donneuse de mitochondries.
+Mais d’un autre côté, pourquoi refuser l’accès à une telle information, s’est-il interrogé.
+Des accusations d’eugénisme ont également été avancées comme dans d’autres techniques visant à éviter la naissance d’enfants porteurs de maladies graves.
+Mais, dans le cas du remplacement de mitochondries par transfert du noyau, il n’y a pas de sélection des embryons, avec élimination de ceux porteurs de la mutation de l’ADNmt.
+ 
