@@ -10,8 +10,8 @@ public class conversion {
 	
 	public static void main(String[] args) throws IOException {
 		
-	Integer a = 9842 ;
-	String i = Integer.toString(a,36);
-	System.out.print(i);
-	}
+	float a = (float) .6 , b = (float) .5 ;
+	 float c = a+b ;
+	 System.out.print( " c = " +c);
+}
 }

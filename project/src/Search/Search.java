@@ -34,7 +34,7 @@ public class Search {
 
 public HashMap<String, HashMap<String, Integer>> getweights throws IOException 
 {
-	 return null ;
+	 // j ai essayé d a pplique ce que j ai fait pour les poids d index sa marche pas 
 }
 }
 

@@ -1,0 +1,162 @@
+package index;
+
+
+
+
+
+import java.io.*;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
+
+import java.util.*;
+
+import tools.FrenchTokenizer;
+import tools.Normalizer;
+public class kkk {
+
+
+	public File corpus;
+	public Normalizer normalizer;
+	public File index_; 
+	public String query ;
+
+	public kkk (Normalizer normalizer, File corpus , File index_ , String query)
+	{
+		this.normalizer = normalizer;
+
+		this.corpus = corpus;
+		this.index_ = index_;
+		this.query = query ;
+	}
+	
+	public void  getIndex() throws IOException
+	{	
+		if (!index_.exists()) {
+			index_.createNewFile();
+		}
+		else {
+			   index_.delete();
+			   index_.createNewFile();
+		
+
+		FileWriter fw = new FileWriter(index_.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw);
+		
+		//  get the occurence of each term in each document
+		HashMap<String, HashMap<String, Integer>> tf = new HashMap<String, HashMap<String, Integer>>();
+		int NumberOfDocument = 0 ;
+
+		if (corpus.isDirectory()) {
+			// get all the files of the directory in order to Calculate of Tf (frequency terms)
+			String [] files_corpus = corpus.list();
+			ArrayList<String>words = normalizer.normalize(query);	
+			for (String file : files_corpus)
+			{
+		//System.out.print(file);
+	//	ArrayList<String>words = normalizer.normalize(query);
+		//System.out.print(words);
+				//The hash code is then used as the index at which the data associated with the key is stored. 
+				//the transformation of the key into its hash code is performed automatically.
+				//we use a hashset for no have  2 occurences of the term
+
+				HashSet<String> wordsInFiles = new HashSet<String>(words) ;
+			//	System.out.print(wordsInFiles);
+				for(String word: wordsInFiles)
+				{
+					word = word.toLowerCase();
+					//  word is null
+					if (word==null)
+					continue;
+						HashMap<String, Integer> value = tf.get(word); 
+
+						if(value == null) 
+							value = new HashMap<String, Integer>();
+							//The frequency(Collection<?>, Object) method is used to get the number of elements
+							//in the specified collection equal to the specified object.
+							// example: https://www.tutorialspoint.com/java/util/collections_frequency.htm
+							value.put(file, Collections.frequency(words, word));
+							tf.put(word,value);
+			//	System.out.print(word + "\t" + tf.get(word));
+			
+		
+						
+  }
+				
+			NumberOfDocument ++ ;
+			}
+		}
+	
+		Set<String> terms= new TreeMap<String, HashMap<String, Integer>>(tf).keySet();
+		for ( String term : terms)
+		{
+			//  Create a List of the documents and their occurences of the terms the value of tf is 
+			// a hashMap (Doc,occurence)
+
+			HashMap<String, Float> tfIdfs = new HashMap<String, Float>();
+			HashMap<String, Integer> documents_tf = tf.get(term);
+	
+
+			for(Map.Entry<String, Integer> document_tf : documents_tf.entrySet())
+			{
+
+				String document = document_tf.getKey();
+				Integer  term_Frequency = documents_tf.get(document);
+				System.out.print(term + term_Frequency);
+			Integer Df = documents_tf.size();
+						System.out.print(Df);
+				// truncate : for optimizing memory in the index 
+				
+		//Integer 	a =	Integer.parseInt("");
+				
+	///	Double tfIdf = Math.round(((double)term_Frequency  * Math.log((double)NumberOfDocument / (double)Df))*100.0)/100.0;
+		Double weight= (double)term_Frequency * Math.log((double)(NumberOfDocument / Df));
+		
+		BigDecimal tfIdf = new BigDecimal(weight);
+		tfIdf = tfIdf.setScale(2, RoundingMode.HALF_UP);
+		// Integer.toString
+			//	String substring = str.substring(Math.max(str.length() - 2, 0));
+	//	Integer.toString(a,36);
+		 // decimal to base 64 for the  document name ;
+		tfIdfs.put(Encoding.base62(Integer.parseInt(document.substring(0,document.length()-4))), tfIdf.floatValue());
+			
+		//tfIdfs.put(Integer.toString(Integer.parseInt(document.substring(0,document.length()-4)),36), tfIdf.floatValue());
+			}
+
+			//word + "\t" + tfidf.keySet().toString().replaceAll("[\\[\\] ]", "") + "\t" + tfidf.values().toString().replaceAll("[\\[\\] ]", ""));
+		//	bw.write(term + " _______  " +   tfIdfs.keySet().toString() + tfIdfs.values().toString().replaceAll("[\\[\\] ]", ""));
+		
+bw.write(term+ " " + tfIdfs.keySet().toString().replace(","," ") + " " + tfIdfs.values().toString().replace(","," ") + " \n");
+			
+
+		}
+	//	System.out.print(corpus.getAbsolutePath());
+
+		bw.close();
+
+	}
+		
+	}
+			
+	public static void main(String[] args) throws IOException {
+		 
+		
+		String StopWords = "/home/anonyme/search-engine/project/data/frenchST.txt";
+		File corpus = new File ("/home/anonyme/search-engine/project/data/corpus_reduit");
+    		Normalizer tokenizerNoStopWords = new FrenchTokenizer(new File(StopWords));
+	     	Normalizer normalizer = tokenizerNoStopWords;
+		String path_index = "/home/anonyme/search-engine/project/result_indexation/indlljr";
+	     	File index_ = new File(path_index);
+			String resquest = "charlie hebdo fatna ";
+		    kkk kkk =  new kkk (normalizer ,corpus , index_ , resquest);
+	
+		kkk.getIndex();
+		
+		
+	
+		
+	}
+
+
+
+}

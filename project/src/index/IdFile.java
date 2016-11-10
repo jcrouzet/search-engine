@@ -15,12 +15,14 @@ public class IdFile {
 	public static void main(String[] args) throws IOException {
 		 
 		
-		File f = new File("/home/amal/search-engine/project/data/corpus_reduit");
-		ArrayList<String> names = new ArrayList<String>(Arrays.asList(f.list()));
-		   Collections.sort(names);
+		File f = new File("/home/anonyme/search-engine/project/data/corpus_reduit");
+	//	ArrayList<String> names = new ArrayList<String>(Arrays.asList(f.list()));
+		
+		String [ ] names = f.list();
+		//   Collections.sort(names);
 		//   System.out.print(names.size());
 		
-		File file_id = new File("/home/amal/search-engine/project/data/file_id");
+		File file_id = new File("/home/anonyme/search-engine/project/data/file_id");
 		if (!file_id.exists()) {
 			file_id.createNewFile();
 		}
@@ -33,13 +35,14 @@ public class IdFile {
 		HashMap<String, String> id = new HashMap<String, String> ();
 		
 		int i = 0; 
-		for (i = 0 ; i<names.size(); i++)
+		for (i = 0 ; i< names.length ; i++)
 		{
 			
+			id.put((Encoding.base62(Integer.parseInt(names[i].substring(0,names[i].length()-4)))), names[i]);
 			
-			id.put(names.get(i), names.get(i).substring(0,names.get(i).length()-4));
+			id.put(names[i],Encoding.base62(Integer.parseInt(names[i].substring(0,names[i].length()-4))));
 			// System.out.print(names.get(i) + "\t" + id.get(names.get(i))  + "\n");
-			bw.write(names.get(i) + "\t" + id.get(names.get(i))  + "\n");
+			bw.write((Encoding.base62(Integer.parseInt(names[i].substring(0,names[i].length()-4)))) + "\t" + id.get((Encoding.base62(Integer.parseInt(names[i].substring(0,names[i].length()-4)))))  + "\n"  );
 
 		}
 		bw.close();

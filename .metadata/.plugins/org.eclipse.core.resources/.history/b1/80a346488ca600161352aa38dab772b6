@@ -1,0 +1,76 @@
+package index;
+
+
+
+
+
+import java.io.*;
+
+
+import java.util.*;
+
+import tools.FrenchTokenizer;
+import tools.Normalizer;
+public class kkk {
+
+
+	public File corpus;
+	public Normalizer normalizer;
+	public File index_; 
+	public String query ;
+
+	public kkk (Normalizer normalizer, File corpus , File index_ , String query)
+	{
+		this.normalizer = normalizer;
+
+		this.corpus = corpus;
+		this.index_ = index_;
+		this.query = query ;
+	}
+	
+	public void  getIndex() throws IOException
+	{	
+		if (!index_.exists()) 
+		{
+			index_.createNewFile();
+		}
+		else {
+			   index_.delete();
+			    index_.createNewFile();
+		
+		}
+		if (corpus.isDirectory())
+		{
+			// get all the files of the directory in order to Calculate of Tf (frequency terms)
+			String [] files_corpus = corpus.list();
+			
+			for (String file : files_corpus)
+			{
+		//System.out.print(file);
+		ArrayList<String>words = normalizer.normalize(query);
+		System.out.print(words);
+		}
+		}
+  }
+	public static void main(String[] args) throws IOException {
+		 
+		
+		String StopWords = "/home/anonyme/search-engine/project/data/frenchST.txt";
+		File corpus = new File ("/home/anonyme/search-engine/project/data corpus_reduit");
+    		Normalizer tokenizerNoStopWords = new FrenchTokenizer(new File(StopWords));
+	     	Normalizer normalizer = tokenizerNoStopWords;
+		String path_index = "/home/anonyme/search-engine/project/result_indexation/indlljr";
+	     	File index_ = new File(path_index);
+			String resquest = "charlie";
+		    Index kkk = kkk (normalizer ,corpus , index_ , resquest);
+	
+		index.getIndex();
+		
+		
+	
+		
+	}
+
+
+
+}

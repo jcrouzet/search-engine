@@ -1,0 +1,120 @@
+package index;
+
+
+
+
+
+import java.io.*;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
+
+import java.util.*;
+
+import tools.FrenchTokenizer;
+import tools.Normalizer;
+public class kkk {
+
+
+	public File corpus;
+	public Normalizer normalizer;
+	public File index_; 
+	public String query ;
+
+	public kkk (Normalizer normalizer, File corpus , File index_ , String query)
+	{
+		this.normalizer = normalizer;
+
+		this.corpus = corpus;
+		this.index_ = index_;
+		this.query = query ;
+	}
+	
+	public void  getIndex() throws IOException
+	{	
+		if (!index_.exists()) {
+			index_.createNewFile();
+		}
+		else {
+			   index_.delete();
+			   index_.createNewFile();
+		}
+
+		FileWriter fw = new FileWriter(index_.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw);
+		
+		//  get the occurence of each term in each document
+//	HashMap<String, HashMap<String, Integer>> tf = new HashMap<String, HashMap<String, Integer>>();
+		int NumberOfDocument = 0 ;
+		ArrayList<String>words = normalizer.normalize(query);
+				HashSet<String> wordInFiles = new HashSet<String>(words) ;
+	//	System.out.print(wordsInFiles);
+ HashMap <String , Integer> tf =  new HashMap <String ,Integer> () ; 
+		// ArrayList <Integer> tfs = new ArrayList <Integer>();
+		if (corpus.isDirectory()) {
+	 for (String term : wordInFiles) {
+		 term =  term.toLowerCase();
+		Integer value =  Collections.frequency(words, term);
+			
+		tf.put (term , value) ;
+		 System.out.print(term + "," + tf.get(term) + "\n");
+		}
+	 }
+			
+		// df
+		
+		HashMap<String, Integer> hits = new HashMap<String, Integer>();
+	  //  ArrayList<String> wordsInFile;
+		String [] fileNames = corpus.list();
+	//	ArrayList<Integer> number;
+		//String wordLC;
+		
+		Integer [] c = {0,0,0,0};
+		
+		
+	for (int i =0 ; i<words.size() ; i++)
+	{
+		for (String file : fileNames)
+			
+		{
+		ArrayList<String>	terms = normalizer.normalize(new File(corpus, file));
+			if (terms.contains(words.get(i)))
+			{
+			c[i]+=1 ;
+			
+				
+			}
+					
+			
+		}
+		System.out.print(c[i]);
+		hits.put(words.get(i),c[i]);	
+		System.out.print(words.get(i)+ "t" + hits.get(words));
+	}
+		
+		
+		bw.close();
+		
+	}
+			
+	public static void main(String[] args) throws IOException {
+		 
+		
+		String StopWords = "/home/anonyme/search-engine/project/data/frenchST.txt";
+		File corpus = new File ("/home/anonyme/search-engine/project/data/corpus_reduit");
+    		Normalizer tokenizerNoStopWords = new FrenchTokenizer(new File(StopWords));
+	     	Normalizer normalizer = tokenizerNoStopWords;
+		String path_index = "/home/anonyme/search-engine/project/result_indexation/indlljr";
+	     	File index_ = new File(path_index);
+			String resquest = "charlie hebdo lljlj hebdo tabotbanmok";
+		    kkk kkk =  new kkk (normalizer ,corpus , index_ , resquest);
+	
+		kkk.getIndex();
+		
+		
+	
+		
+	}}
+
+
+

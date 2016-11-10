@@ -1,0 +1,12 @@
+Tokener
+
+first step change the names of the corpus by a count 1 ------- 9842  and truncate the weights it dosen't give a good results just < 80% Of the corpus 
+seconde step change the base of the documents name from decimal to 36 the result was < 75 %
+and we try with 62 base it gaves < 72.16 %
+
+Stemming
+
+the same 3 steps give a result of < 62,72 %
+
+
+
