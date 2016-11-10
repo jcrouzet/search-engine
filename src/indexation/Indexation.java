@@ -13,40 +13,40 @@ import tools.FrenchStemmer;
 import tools.FrenchTokenizer;
 import tools.Normalizer;
 
+import db.DB;
+
 public class Indexation {
 
-	private static String DB_PATH = "/home/jonathan/Documents/ENSIIE/S5/TC3/TP/lemonde_utf8/";
-	
-	private static String RESULTS_PATH = "/home/jonathan/Documents/ENSIIE/S5/TC3/TP/lemonde_utf8/";
+	private static String INDEX_PATH = "/media/jonathan/Jonathan CROUZET/Documents/ProjetREI/results/";
 	
 	private static String STOPWORDS_FILENAME = "/home/jonathan/Documents/ENSIIE/S5/TC3/TP/frenchST.txt";
+	
 
-
-	public static TreeMap<String, TreeMap<String, Integer>> getInvertedFileWithWeights(File dir, Normalizer normalizer) throws IOException{
+	public static TreeMap<String, TreeMap<String, Integer>> getInvertedFileWithWeights(TreeMap<String, String> files, Normalizer normalizer) throws IOException{
 		TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeights = new TreeMap<String, TreeMap<String, Integer>>();
-		
-		if (dir.isDirectory()) {
-			File[] files = dir.listFiles();
-			
-			for (File file : files){
-				HashSet<String> words = new HashSet<String>(normalizer.normalize(file));
-				TreeMap<String, Integer> files_list;
-				Integer file_word_count;
-				for (String word : words) {
-					word = word.toLowerCase();
-					files_list = invertedFileWithWeights.getOrDefault(word, new TreeMap<String, Integer>());
-					file_word_count = files_list.getOrDefault(file.getName(), 0);
-					files_list.put(file.getName(), file_word_count + 1);
-					invertedFileWithWeights.put(word, files_list);
-				}
+
+
+
+		for(Map.Entry<String, String> entry : files.entrySet()){
+			String id = entry.getKey();
+			File file = new File(entry.getValue());
+
+			HashSet<String> words = new HashSet<String>(normalizer.normalize(file));
+			TreeMap<String, Integer> files_list;
+			Integer file_word_count;
+			for (String word : words) {
+				word = word.toLowerCase();
+				files_list = invertedFileWithWeights.getOrDefault(word, new TreeMap<String, Integer>());
+				file_word_count = files_list.getOrDefault(id, 0);
+				files_list.put(id, file_word_count + 1);
+				invertedFileWithWeights.put(word, files_list);
 			}
-		
 		}
 		
 		return invertedFileWithWeights;
 	}
 	
-	public static void saveInvertedFileWithWeights(TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeight, File outFile) throws IOException {
+	public static void saveInvertedFileWithWeights(TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeight, String outFile) throws IOException {
 		try {
 			FileWriter fw = new FileWriter (outFile);
 			BufferedWriter bw = new BufferedWriter (fw);
@@ -76,15 +76,17 @@ public class Indexation {
 
 	public static void main(String[] args) {
 		try {
-			String dir = DB_PATH;
-			String outDir = RESULTS_PATH;
 			Normalizer stemmerAllWords = new FrenchStemmer();
 			Normalizer tokenizerAllWords = new FrenchTokenizer();
-			
-			
+				
 			System.out.println("Inverted with weights");
-			TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeights = getInvertedFileWithWeights(new File(dir), stemmerAllWords);
-			saveInvertedFileWithWeights(invertedFileWithWeights, new File(outDir + "/" + stemmerAllWords.getClass().getName() + ".ind"));
+			TreeMap<String, String> files = DB.getFiles();
+			System.out.println("Number of files : " + files.size());
+			DB.saveFiles(files);
+			
+			TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeights = getInvertedFileWithWeights(files, stemmerAllWords);
+			String out_file = INDEX_PATH + stemmerAllWords.getClass().getName() + ".ind";
+			saveInvertedFileWithWeights(invertedFileWithWeights, out_file);
 			
 		} catch (IOException e) {
 			e.printStackTrace();

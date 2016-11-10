@@ -26,10 +26,6 @@ import org.w3c.dom.NodeList;
 public class DB {
 	private static String DB_PATH = "/media/jonathan/Jonathan CROUZET/Documents/ProjetREI/";
 	
-	public static String getDBPath(){
-		return DB_PATH;
-	}
-	
 	private static List<String> getFilesFromDir(List<String> fileNames, Path dir) {
 	    try(DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
 	        for (Path path : stream) {
@@ -79,9 +75,12 @@ public class DB {
 					if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 						Element eElement = (Element) nNode; 
 						
-						String value = path_text + "/" + year + "/" + month + "/" + day + "/" + eElement.getAttribute("id") + ".txt";
-						files.put(indice.toString(), value);
-						indice += 1;
+						String value = path_text + "/" + year + "/" + month + "/" + day + "/" 
+								+ year + month + day + "_" + eElement.getAttribute("id") + ".txt";
+						if ((new File(value)).exists()) {
+							files.put(indice.toString(), value);
+							indice += 1;
+						}
 					}
 				} }
 			catch (Exception e) {
