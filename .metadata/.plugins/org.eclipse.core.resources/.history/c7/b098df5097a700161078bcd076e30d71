@@ -1,0 +1,29 @@
+package index;
+
+
+
+
+
+import java.io.*;
+
+
+
+import java.util.*;
+
+import tools.FrenchTokenizer;
+import tools.Normalizer;
+public class kkk {
+
+
+	public File corpus;
+	public Normalizer normalizer;
+	public static File index_; 
+	public String query ;
+	
+
+}
+
+
+
+
+

@@ -1,0 +1,139 @@
+package Search;
+
+
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+
+
+
+
+import tools.FrenchStemmer;
+import tools.Normalizer;
+
+public class WeightsQuery {
+
+
+
+	public File corpus;
+	public Normalizer normalizer;
+	public  File index_; 
+	public String query ;
+	public File weights_query;
+
+
+	public WeightsQuery (Normalizer normalizer, File corpus , File index_ , String query , File weights_query)
+	{
+		this.normalizer = normalizer; 
+		this.corpus = corpus;
+		this.index_ = index_;
+		this.query = query ;
+		this.weights_query = weights_query;
+	}
+
+
+
+
+	public void  saveWeights () throws IOException
+	{	
+		
+		// Create the index
+					// if file doesnt exists, then create it
+				if (!index_.exists()) {
+					index_.createNewFile();
+				}
+				else {
+					   index_.delete();
+					   index_.createNewFile();
+				
+				}
+				FileWriter fw = new FileWriter(index_.getAbsoluteFile());
+				BufferedWriter bw = new BufferedWriter(fw);
+				
+
+		HashMap <String , Integer> tf =  new HashMap <String ,Integer> () ; 
+
+		ArrayList<String> words = normalizer.normalize(query);
+		HashSet<String> wordsInFiles = new HashSet<String>(words) ;
+
+
+		if (corpus.isDirectory()) 
+		{
+
+			for (String term : wordsInFiles)
+			{
+				term =  term.toLowerCase();
+				Integer value =  Collections.frequency(words, term);
+
+				tf.put (term , value) ;
+
+			}
+
+			HashMap <String , Double> idf =  new HashMap <String ,Double> () ; 
+			BufferedReader br = null ;
+			br = new BufferedReader(new FileReader(index_));
+			String line;
+			while ((line = br.readLine()) != null)
+			{
+				String[] line_parts = line.split("  ");
+				String term= line_parts[0];
+
+				if(!wordsInFiles.contains(term))
+				continue;
+				String[] docs = line_parts[1].split(",");
+				idf.put(term, 1+Math.log(corpus.listFiles().length/docs.length) ); 
+				
+			
+			//	System.out.print(term );
+			}
+			 br.close();
+
+
+			HashMap <String , Double> tfidf =  new HashMap <String ,Double> () ; 
+			for (String term : wordsInFiles)
+			{
+				tfidf.put(term ,    idf.get(term) );
+	
+
+		//System.out.print(term + "\t " + tfidf.get(term) +"\n");
+				
+				
+				bw.write(term + "\t"+  idf.get(term));
+			}
+			
+		bw.close();
+		}
+
+	}
+
+
+
+
+
+	public static void main(String[] args) throws IOException {
+
+
+		String StopWords = "/home/anonyme/search-engine/project/data/frenchST.txt";
+		String weights_q = "/home/anonyme/search-engine/project/weights_query/weights.txt";
+		File weights = new File (weights_q);
+		File corpus = new File ("/home/anonyme/search-engine/project/data/corpus_reduit");
+		Normalizer stemmerNoStopWords = new FrenchStemmer(new File(StopWords));
+		Normalizer normalizer = stemmerNoStopWords;
+
+		String path_index = "/home/anonyme/search-engine/project/result_indexation/index_stemmer";
+		File index_ = new File(path_index);
+		String query = " charlie hebdo  jawad charlie israel samsung con  summer hi ";
+		WeightsQuery poids = new WeightsQuery (normalizer ,corpus , index_ ,query , weights);;
+
+		poids.saveWeights();
+	}
+
+}

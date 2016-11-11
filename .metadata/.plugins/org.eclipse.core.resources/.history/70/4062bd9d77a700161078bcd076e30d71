@@ -1,0 +1,25 @@
+package Search;
+
+import java.io.File;
+
+import tools.Normalizer;
+
+public class WeightsQuery {
+
+	
+
+	public File corpus;
+	public Normalizer normalizer;
+	public  File index_; 
+	public String query ; 
+	
+	public WeightsQuery (Normalizer normalizer, File corpus , File index_ , String query)
+	{
+		this.normalizer = normalizer;
+
+		this.corpus = corpus;
+		this.index_ = index_;
+		this.query = query ;
+	}
+	
+}

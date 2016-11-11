@@ -21,8 +21,11 @@ public class main_Tokenizer {
 	     	Normalizer normalizer = tokenizerNoStopWords;
 	     	String path_index = "/home/anonyme/search-engine/project/result_indexation/index_tokenizer";
 	     	File index_ = new File(path_index);
+	     	
+	   //  	String path_outdir= "/home/anonyme/search-engine/project/poids/corpus";
+	    // 	File outdir = new File(path_outdir);
 			
-		    Index index = new Index(normalizer ,corpus , index_);
+		    Index index = new Index(normalizer ,corpus , index_ );
 	
 		index.getIndex();
 		
