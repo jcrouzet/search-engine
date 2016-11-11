@@ -68,7 +68,7 @@ public class Search {
 		int i;
 		for (Map.Entry<String, Pair> sim : sims.entrySet()){
 			curr_file = sim.getKey();
-			curr_sim =sim.getValue().getRight()/(Math.sqrt(sim.getValue().getLeft())*Math.sqrt(sum_wr));
+			curr_sim = sim.getValue().getRight()/(Math.sqrt(sim.getValue().getLeft())*Math.sqrt(sum_wr));
 			i = 0;
 			while (i < sim_values.size()){
 				if (curr_sim >= sim_values.get(i)){
@@ -90,9 +90,9 @@ public class Search {
 			norm_name = normalizer.getClass().getName();
 		}
 		else {
-			norm_name = normalizer.getClass().getName() + "StopWord_";
+			norm_name = normalizer.getClass().getName() + "StopWord";
 		}
-		File file = new File(RESULTS_PATH + norm_name + query + ".res");
+		File file = new File(RESULTS_PATH + norm_name + "_" + query + ".res");
 		try {
 			FileWriter fw = new FileWriter (file);
 			BufferedWriter bw = new BufferedWriter (fw);
@@ -133,5 +133,3 @@ public class Search {
 		System.out.println("End");
 	}	
 }
-
-

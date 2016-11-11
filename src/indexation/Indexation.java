@@ -71,11 +71,14 @@ public class Indexation {
 			TreeMap<String, Integer> word_counts = entry.getValue();
 			TreeMap<String, Double> word_tfidf = new TreeMap<String, Double>();
 
-			for(Map.Entry<String, Integer> sub_entry : word_counts.entrySet()){
-				Double tfidf = sub_entry.getValue() / Math.log(files.size()/ word_counts.size());
-				word_tfidf.put(sub_entry.getKey(), tfidf);
+			Double idf = Math.log((double)files.size() / (double)word_counts.size());
+			if(!(idf >= -0.1 && idf <= 0.1)){
+				for(Map.Entry<String, Integer> sub_entry : word_counts.entrySet()){
+					Double tfidf = (double)sub_entry.getValue() * idf;
+					word_tfidf.put(sub_entry.getKey(), tfidf);
+				}
+				invertedFileWithWeights.put(word, word_tfidf);
 			}
-			invertedFileWithWeights.put(word, word_tfidf);
 		}
 
 		return invertedFileWithWeights;
@@ -153,11 +156,11 @@ public class Indexation {
 				saveInvertedFileWithWeights(invertedFileWithWeights, file);
 				System.out.println("Wrote :" + file);
 
-				System.out.println("Reading index and saving it again (test)");
-				TreeMap<String, TreeMap<String, Double>> test = readInvertedFileWithWeights(file);
-				String file_test = file + ".test";
-				saveInvertedFileWithWeights(test, file_test);
-				System.out.println("Wrote :" + file_test);
+				// System.out.println("Reading index and saving it again (test)");
+				// TreeMap<String, TreeMap<String, Double>> test = readInvertedFileWithWeights(file);
+				// String file_test = file + ".test";
+				// saveInvertedFileWithWeights(test, file_test);
+				// System.out.println("Wrote :" + file_test);
 			}
 			System.out.println("Done");
 		} catch (IOException e) {
