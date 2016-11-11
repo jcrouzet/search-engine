@@ -27,38 +27,38 @@ import indexation.Encoding;
 
 public class DB {
 	private static String DB_PATH = "/media/jonathan/Jonathan CROUZET/Documents/ProjetREI/";
-	
+
 	private static List<String> getFilesFromDir(List<String> fileNames, Path dir) {
-	    try(DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
-	        for (Path path : stream) {
-	            if(path.toFile().isDirectory()) {
-	            	getFilesFromDir(fileNames, path);
-	            } else {
-	                fileNames.add(path.toAbsolutePath().toString());
-	            }
-	        }
-	    } catch(IOException e) {
-	        e.printStackTrace();
-	    }
-	    return fileNames;
+		try(DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
+			for (Path path : stream) {
+				if(path.toFile().isDirectory()) {
+					getFilesFromDir(fileNames, path);
+				} else {
+					fileNames.add(path.toAbsolutePath().toString());
+				}
+			}
+		} catch(IOException e) {
+			e.printStackTrace();
+		}
+		return fileNames;
 	}
-	
+
 	public static TreeMap<String, String> getFiles(){
 		TreeMap<String, String> files = new TreeMap<String, String>();;
 		Integer indice = 1;
-		
+
 		String path = DB_PATH + "subindex";
 		String path_text = DB_PATH + "text";
 		File directory = new File(path);
 		List<String> xml_files = new ArrayList<String>();
-		
-//get all the paths of files from a directory which the xml files are stocked
-		
+
+		//get all the paths of files from a directory which the xml files are stocked
+
 		if (directory.isDirectory()) {
 			xml_files = getFilesFromDir(xml_files, directory.toPath());
 		}
 
-// source: https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm	
+		// source: https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm	
 		for (String file_name : xml_files){
 			try {
 				File file = new File(file_name);
@@ -66,7 +66,7 @@ public class DB {
 				String year = name.substring(0, 4);
 				String month = name.substring(4, 6);
 				String day = name.substring(6, 8);
-				
+
 				DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 				DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 				Document doc = dBuilder.parse(file);
@@ -76,7 +76,7 @@ public class DB {
 					Node nNode = nList.item(temp);
 					if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 						Element eElement = (Element) nNode; 
-						
+
 						String value = path_text + "/" + year + "/" + month + "/" + day + "/" 
 								+ year + month + day + "_" + eElement.getAttribute("id") + ".txt";
 						if ((new File(value)).exists()) {
@@ -90,27 +90,30 @@ public class DB {
 			}
 
 		}
-		
+
 		return files;
 	}
-	
+
 	public static void saveFiles(TreeMap<String, String> files){
 		try {
 			FileWriter fw = new FileWriter (DB_PATH + "filesIndices.txt");
 			BufferedWriter bw = new BufferedWriter (fw);
 			PrintWriter out = new PrintWriter (bw);
+			double corpus_size = 0.0;
 
 			for(Map.Entry<String, String> entry : files.entrySet()) {
-				  String line = entry.getKey() + "\t" + entry.getValue();
-				  out.println(line);
+				corpus_size += (new File(entry.getValue())).length();
+				String line = entry.getKey() + "\t" + entry.getValue();
+				out.println(line);
 			}
 			out.close();
+			System.out.println("Corpus size : " + (corpus_size/1024)/1024 + "Mo");
 		}
 		catch (Exception e){
 			System.out.println(e.toString());
 		}
 	}
-	
+
 	public static TreeMap<String, String> loadFiles(){
 		TreeMap<String, String> files = new TreeMap<String, String>();
 		try {
@@ -118,16 +121,16 @@ public class DB {
 			BufferedReader br = new BufferedReader (fr);
 
 			String line;
-		    while ((line = br.readLine()) != null) {
-		       String[] split = line.split("\t");
-		       files.put(split[0], split[1]);
-		    }
-		    br.close();
+			while ((line = br.readLine()) != null) {
+				String[] split = line.split("\t");
+				files.put(split[0], split[1]);
+			}
+			br.close();
 		}
 		catch (Exception e){
 			System.out.println(e.toString());
 		}
-		
+
 		return files;
 	}
 }
