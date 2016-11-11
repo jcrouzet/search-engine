@@ -23,6 +23,8 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import indexation.Encoding;
+
 public class DB {
 	private static String DB_PATH = "/media/jonathan/Jonathan CROUZET/Documents/ProjetREI/";
 	
@@ -78,7 +80,7 @@ public class DB {
 						String value = path_text + "/" + year + "/" + month + "/" + day + "/" 
 								+ year + month + day + "_" + eElement.getAttribute("id") + ".txt";
 						if ((new File(value)).exists()) {
-							files.put(indice.toString(), value);
+							files.put(Encoding.base62(indice), value);
 							indice += 1;
 						}
 					}
@@ -128,10 +130,4 @@ public class DB {
 		
 		return files;
 	}
-	
-	public static void main(String[] args){
-		saveFiles(getFiles());
-		TreeMap<String, String> files = loadFiles();
-	}
-
 }
