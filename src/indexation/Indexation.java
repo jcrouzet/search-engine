@@ -11,11 +11,10 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.TreeMap;
 
+import db.DB;
 import tools.FrenchStemmer;
 import tools.FrenchTokenizer;
 import tools.Normalizer;
-
-import db.DB;
 
 public class Indexation {
 
@@ -23,6 +22,15 @@ public class Indexation {
 	
 	// private static String STOPWORDS_FILENAME = "/home/jonathan/Documents/ENSIIE/S5/TC3/TP/frenchST.txt";
 	
+	private static Normalizer[] normalizer = {new FrenchStemmer(), new FrenchTokenizer()};
+	
+	public static Normalizer[] getNormalizer(){
+		return normalizer;
+	}
+	
+	public static String getIndexPath(Normalizer norm){
+		return INDEX_PATH + norm.getClass().getName() + ".ind";
+	}
 
 	public static TreeMap<String, TreeMap<String, Integer>> getInvertedFileWithWeights(TreeMap<String, String> files, Normalizer normalizer) throws IOException{
 		TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeights = new TreeMap<String, TreeMap<String, Integer>>();
@@ -101,25 +109,27 @@ public class Indexation {
 
 
 	public static void main(String[] args) {
-		try {
-			Normalizer stemmerAllWords = new FrenchStemmer();
-			Normalizer tokenizerAllWords = new FrenchTokenizer();
-				
+		try {		
 			System.out.println("Creating DB dictionary");
 			TreeMap<String, String> files = DB.getFiles();
 			System.out.println("Number of files : " + files.size());
 			DB.saveFiles(files);
 			System.out.println("Done");
 			
-			System.out.println("Creating index");
-			TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeights = getInvertedFileWithWeights(files, stemmerAllWords);
-			String out_file = INDEX_PATH + stemmerAllWords.getClass().getName() + ".ind";
-			saveInvertedFileWithWeights(invertedFileWithWeights, out_file);
-			System.out.println("Done");
-			
-			System.out.println("Reading index and saving it again (test)");
-			TreeMap<String, TreeMap<String, Integer>> test = readInvertedFileWithWeights(out_file);
-			saveInvertedFileWithWeights(test, out_file + ".test");
+			System.out.println("Creating indexes");
+			for(Normalizer norm : getNormalizer()){
+				System.out.println("Index for " + norm.getClass().getName());
+				TreeMap<String, TreeMap<String, Integer>> invertedFileWithWeights = getInvertedFileWithWeights(files, norm);
+				String file = getIndexPath(norm);
+				saveInvertedFileWithWeights(invertedFileWithWeights, file);
+				System.out.println("Wrote :" + file);
+				
+				System.out.println("Reading index and saving it again (test)");
+				TreeMap<String, TreeMap<String, Integer>> test = readInvertedFileWithWeights(file);
+				String file_test = file + ".test";
+				saveInvertedFileWithWeights(test, file_test);
+				System.out.println("Wrote :" + file_test);
+			}
 			System.out.println("Done");
 		} catch (IOException e) {
 			e.printStackTrace();
