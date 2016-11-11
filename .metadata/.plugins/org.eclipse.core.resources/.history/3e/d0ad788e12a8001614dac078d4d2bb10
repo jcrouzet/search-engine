@@ -1,0 +1,16 @@
+package Mains;
+
+import java.io.IOException;
+
+import tools.FrenchStemmer;
+
+public class Serarch_stemmer {
+
+	
+	public static void main(String[] args) throws IOException {
+		
+		Normalizer stemmerNoStopWords = new (new File(Constantes.STOPWORDS_FILENAME));
+		
+	}
+	
+}

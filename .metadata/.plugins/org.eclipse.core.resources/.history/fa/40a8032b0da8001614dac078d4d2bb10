@@ -1,0 +1,42 @@
+package Search;
+
+
+
+
+
+
+
+
+
+import tools.Normalizer;
+
+public class Search {
+
+
+
+	public File corpus;
+	public Normalizer normalizer;
+	public  File index_; 
+	public String query ;
+
+
+
+	public Search (Normalizer normalizer, File corpus , File index_ , String query )
+	{
+		this.normalizer = normalizer; 
+		this.corpus = corpus;
+		this.index_ = index_;
+		this.query = query ;
+		
+	}
+	public static void search (){
+
+
+	}
+	
+
+
+
+
+
+}

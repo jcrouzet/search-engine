@@ -1,0 +1,12 @@
+package Mains;
+
+import java.io.IOException;
+
+public class Serarch_stemmer {
+
+	
+	public static void main(String[] args) throws IOException {
+		
+	}
+	
+}

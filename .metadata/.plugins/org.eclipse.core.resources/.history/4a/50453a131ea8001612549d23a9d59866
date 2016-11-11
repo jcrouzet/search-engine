@@ -1,0 +1,54 @@
+package Search;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashSet;
+
+import tools.FrenchStemmer;
+import tools.Normalizer;
+
+public class Rechercher {
+	
+	
+
+	public File corpus;
+	public  Normalizer normalizer;
+	public   File index_; 
+	public String query ;
+
+
+
+	public Rechercher (String query )
+	{
+	
+		this.query = query ;
+		
+	}
+	
+	public void getTermsQuery ()
+	
+	{
+		ArrayList<String> words = normalizer.normalize(query);
+		HashSet<String> wordsInFiles = new HashSet<String>(words) ; 
+
+		System.out.print(wordsInFiles);
+		
+	}
+	
+
+	public static void main(String[] args) throws IOException {
+	
+		String dir = "/home/anonyme/search-engine/project";
+		String StopWords = dir +"/data/frenchST.txt";
+		File index = new File(dir+"/result_indexation/index_stemmer");
+		Normalizer stemmerNoStopWords = new FrenchStemmer(new File(StopWords));
+		Normalizer normalizer = stemmerNoStopWords;
+		
+		String  query =  "charlie hebdcddo";
+		Rechercher ch  = new Rechercher (query);
+		ch.getTermsQuery();
+		
+	}
+	}
+

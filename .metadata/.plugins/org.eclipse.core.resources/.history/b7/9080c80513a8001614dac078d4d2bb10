@@ -1,0 +1,29 @@
+package Mains;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
+
+import tools.FrenchStemmer;
+import tools.Normalizer;
+
+public class Serarch_stemmer {
+
+	
+	public static void main(String[] args) throws IOException {
+		String dir = "/home/anonyme/search-engine/project";
+		String StopWords = dir +"data/frenchST.txt";
+		File f = new File(dir+"result_indexation/index_stemmer");
+		Normalizer stemmerNoStopWords = new FrenchStemmer(new File(StopWords));
+		Normalizer normalizer = stemmerNoStopWords;
+		
+		// Lire la requete 
+		System.out.println("Enter your request ");
+		Scanner reader = new Scanner(System.in);  // Reading from System.in
+		String req = reader.nextLine();
+		
+		Search chercher  =
+		
+	}
+	
+}

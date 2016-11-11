@@ -1,0 +1,46 @@
+package Search;
+
+import java.io.File;
+import java.io.IOException;
+
+import tools.Normalizer;
+
+public class Rechercher {
+	
+	
+
+	public File corpus;
+	public  Normalizer normalizer;
+	public   File index_; 
+	public String query ;
+
+
+
+	public Rechercher (String query )
+	{
+		this.normalizer = normalizer;
+	
+		this.index_ = index_;
+		this.query = query ;
+		
+	}
+
+	public String [] getTermsQuery ()
+	
+	{
+		String[] spliquery = query.split(" ");
+		
+		System.out.print(spliquery)	;
+		return spliquery ;
+		
+		
+	}
+	
+
+	public static void main(String[] args) throws IOException {
+	
+		String = charlie
+		
+	}
+	}
+

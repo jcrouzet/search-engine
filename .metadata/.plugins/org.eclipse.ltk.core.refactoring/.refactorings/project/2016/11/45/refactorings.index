@@ -1,0 +1,6 @@
+1478868980282	Encapsulate field 'normalizer'
+1478869375715	Encapsulate field 'index_'
+1478870644576	Delete element
+1478871221332	Convert local variable 'reader' to field
+1478885613131	Infer generic type arguments
+1478885651279	Infer generic type arguments

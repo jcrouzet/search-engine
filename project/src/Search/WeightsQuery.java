@@ -117,22 +117,5 @@ public class WeightsQuery {
 
 
 
-	public static void main(String[] args) throws IOException {
-
-
-		String StopWords = "/home/anonyme/search-engine/project/data/frenchST.txt";
-		String weights_q = "/home/anonyme/search-engine/project/weighs_query/weights.txt";
-		File weights = new File (weights_q);
-		File corpus = new File ("/home/anonyme/search-engine/project/data/corpus_reduit");
-		Normalizer stemmerNoStopWords = new FrenchStemmer(new File(StopWords));
-		Normalizer normalizer = stemmerNoStopWords;
-
-		String path_index = "/home/anonyme/search-engine/project/result_indexation/index_stemmer";
-		File index_ = new File(path_index);
-		String query = " charlie hebdo  jawad charlie israel samsung con  summer hi ";
-		WeightsQuery poids = new WeightsQuery (normalizer ,corpus , index_ ,query , weights);;
-
-		poids.saveWeights();
-	}
 
 }
