@@ -16,10 +16,10 @@ import java.util.HashSet;
 
 
 
-
+import tools.FrenchStemmer;
 import tools.Normalizer;
 
-public class Search {
+public class WeightsQuery {
 
 
 
@@ -30,7 +30,7 @@ public class Search {
 	public File weights_query;
 
 
-	public Search (Normalizer normalizer, File corpus , File index_ , String query , File weights_query)
+	public WeightsQuery (Normalizer normalizer, File corpus , File index_ , String query , File weights_query)
 	{
 		this.normalizer = normalizer; 
 		this.corpus = corpus;

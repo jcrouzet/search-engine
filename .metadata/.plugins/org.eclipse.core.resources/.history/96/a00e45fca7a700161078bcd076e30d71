@@ -16,7 +16,7 @@ import java.util.HashSet;
 
 
 
-
+import tools.FrenchStemmer;
 import tools.Normalizer;
 
 public class Search {

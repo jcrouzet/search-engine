@@ -1,0 +1,40 @@
+package Search;
+
+
+import index.Index;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+
+import tools.FrenchTokenizer;
+import tools.Normalizer;
+
+public class Search {
+
+	public Normalizer normalizer;
+	public  String query;
+    public File index_;
+
+
+	public Search (String query)
+	
+	
+		{
+			
+	         this.q = q;
+			
+		}	
+
+
+public HashMap<String, HashMap<String, Integer>> getweights throws IOException 
+{
+	 // j ai essayé d a pplique ce que j ai fait pour les poids d index sa marche pas 
+}
+}
+
