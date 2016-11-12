@@ -7,11 +7,14 @@ package Search;
 import index.Encoding;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -29,19 +32,21 @@ public class Search {
 
 
 
-	public File corpus;
+
 	public  Normalizer normalizer;
 	public   File index_; 
 	public String query ;
+public File results;
 
 
-
-	public Search (Normalizer normalizer, File index_ , String query )
+	public Search (Normalizer normalizer, File index_ , String query , File results )
 	{
 		this.normalizer = normalizer;
 	
 		this.index_ = index_;
 		this.query = query ;
+	
+		this.results = results ;
 		
 	}
 	
@@ -82,7 +87,7 @@ public class Search {
 					String[] Ws = line_parts[2].split(",");
 
 					wr = tf.get(term)*Math.log10(9842/Ids.length);
-		//		System.out.print(wr);
+		
 					for(int i = 0; i <Ids.length; i++){
 						Pair p = sims.get(Ids[i]);
 						if (p==null){p = new Pair(0,0);}
@@ -91,8 +96,9 @@ public class Search {
 						sims.put(Ids[i],p1);
 						sum_wr=sum_wr + Math.pow(wr, 2);
 					}
-					// line1 = br1.readLine();
+				
 				}
+br1.close();
 
 				ArrayList<String> files = new ArrayList<>();
 				ArrayList<Double> sim_values = new ArrayList<>();
@@ -116,14 +122,31 @@ public class Search {
 						files.add(curr_file);
 					}
 				}
+				
+				// write the results
+				
+				if (!results.exists()) {
+					results.createNewFile();
+				}
+			
+					FileWriter fw = new FileWriter (results);
+					BufferedWriter bw = new BufferedWriter (fw);
+					PrintWriter out = new PrintWriter (bw);
+
 				index1 = 0;
 				
-				while (index1 < 50 && index1 < sim_values.size()){
-					//Afficher les 50 meileurs  resultats
+				while (index1 <20 && index1 < sim_values.size()){
+					
 					System.out.println(Encoding.base62(files.get(index1))+".txt" + "\t" + "\t" + sim_values.get(index1) + "\n");
+					
+out.print(Encoding.base62(files.get(index1))+".txt" + "\t" + "\t" + sim_values.get(index1) + "\n");
 					index1++;
 				}
-				br1.close();
+				
+				
+				out.close();
+				
+				
 			} 
 			catch (IOException e) {
 				e.printStackTrace();
@@ -131,9 +154,6 @@ public class Search {
 		}
 	
 }
-
-
-
 
 
 
