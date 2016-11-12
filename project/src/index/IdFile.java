@@ -16,12 +16,9 @@ public class IdFile {
 		 
 		
 		File f = new File("/home/anonyme/search-engine/project/data/corpus_reduit");
-	//	ArrayList<String> names = new ArrayList<String>(Arrays.asList(f.list()));
+	
 		
 		String [ ] names = f.list();
-		//   Collections.sort(names);
-		//   System.out.print(names.size());
-		
 		File file_id = new File("/home/anonyme/search-engine/project/data/file_id");
 		if (!file_id.exists()) {
 			file_id.createNewFile();
