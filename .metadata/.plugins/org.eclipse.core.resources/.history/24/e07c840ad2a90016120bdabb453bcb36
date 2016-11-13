@@ -24,7 +24,7 @@ public class Serarch_stemmer {
 		// read the query
 		System.out.println("Enter your request ");
 		reader = new Scanner(System.in);  
-	    String query = reader.nextLine();
+		String query = reader.nextLine();
 		System.out.println("Start searching for the query " + query);
 		String res= dir+"/results/stemmer/"+query+".txt";
 		File sortie = new File (res);

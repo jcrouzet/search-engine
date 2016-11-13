@@ -129,7 +129,7 @@ public class Search {
 
 			index1 = 0;
 
-			while (index1 <100 && index1 < sim_values.size()){
+			while (index1 <10 && index1 < sim_values.size()){
 
 				out.print(Encoding.base62(files.get(index1))+".txt" + "\t" + "\t" + sim_values.get(index1) + "\n");
 				index1++;
