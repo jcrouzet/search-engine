@@ -50,21 +50,22 @@ public class Search {
 		HashMap <String , Integer> tf =  new HashMap <String ,Integer> () ; 
 		ArrayList<String> words = normalizer.normalize(query.toLowerCase());
 		HashSet<String> wordsInFiles = new HashSet<String>(words) ; 
-		double sum_wr=0;
-		double wr;
+		double sum_wr=0; // Partial sum of query 
+		double wr; // current weight of the query
 		for (String term : wordsInFiles)
 		{
 			term =  term.toLowerCase();
 			Integer value =  Collections.frequency(words, term);
 			tf.put (term , value) ;
 		}
-		// Calculate the weights of the query and the similarity between the query and each document in the corpus
-		HashMap<String, Pair> sims =new HashMap<String, Pair>();
+		// Calculate the weights of the query and the partial sums of similarity between the query and each document in the corpus
+		HashMap<String, Pair> sims =new HashMap<String, Pair>();// Partial sums for each document
 		try {
 			InputStream fis1 = new FileInputStream(index_);
 			InputStreamReader isr1 = new InputStreamReader(fis1);
 			BufferedReader br1 = new BufferedReader(isr1);
 			String line1 ;
+			// Index path
 			while ((line1 = br1.readLine()) != null) {
 				String[] line_parts = line1.split("  ");
 				String term= line_parts[0];
@@ -87,7 +88,8 @@ public class Search {
 
 			}
 			br1.close();
-
+			
+			// Calculate similarity with the partial sums
 			ArrayList<String> files = new ArrayList<>();
 			ArrayList<Double> sim_values = new ArrayList<>();
 			String curr_file;
