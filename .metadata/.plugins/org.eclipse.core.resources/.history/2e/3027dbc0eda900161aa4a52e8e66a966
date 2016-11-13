@@ -27,7 +27,7 @@ public class Serarch_stemmer {
 		// read the query
 		System.out.println("Enter your request ");
 		reader = new Scanner(System.in);  
-		String query = reader.nextLine();
+	    String query = reader.nextLine();
 		System.out.println("Start searching for the query " + query);
 		// to save results
 		String res= dir+"/results/stemmer/"+query+".txt";
@@ -36,7 +36,7 @@ public class Serarch_stemmer {
 		chercher.search();
 		long dur = (System.nanoTime()-durée)/1000000;
 		System.out.println( "La durée de la requête" + query + " est "  + dur + "ms");
-		System.out.println("Thank you!!! Enjoy the results ");
+		System.out.println("End");
 	}
 
 }

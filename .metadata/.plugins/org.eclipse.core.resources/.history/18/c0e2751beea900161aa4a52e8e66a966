@@ -44,20 +44,20 @@ public class WeightsQuery {
 
 	public void  saveWeights () throws IOException
 	{	
-
+		
 		// Create the index
-		// if file doesnt exists, then create it
-		if (!weights_query.exists()) {
-			weights_query.createNewFile();
-		}
-		else {
-			weights_query.delete();
-			weights_query.createNewFile();
-
-		}
-		FileWriter fw = new FileWriter(weights_query.getAbsoluteFile());
-		BufferedWriter bw = new BufferedWriter(fw);
-
+					// if file doesnt exists, then create it
+				if (!weights_query.exists()) {
+					weights_query.createNewFile();
+				}
+				else {
+					weights_query.delete();
+					weights_query.createNewFile();
+				
+				}
+				FileWriter fw = new FileWriter(weights_query.getAbsoluteFile());
+				BufferedWriter bw = new BufferedWriter(fw);
+				
 
 		HashMap <String , Integer> tf =  new HashMap <String ,Integer> () ; 
 
@@ -87,28 +87,28 @@ public class WeightsQuery {
 				String term= line_parts[0];
 
 				if(!wordsInFiles.contains(term))
-					continue;
+				continue;
 				String[] docs = line_parts[1].split(",");
 				idf.put(term, 1+Math.log(corpus.listFiles().length/docs.length) ); 
-
-
-
+				
+			
+			//	System.out.print(term );
 			}
-			br.close();
+			 br.close();
 
 
 			HashMap <String , Double> tfidf =  new HashMap <String ,Double> () ; 
 			for (String term : wordsInFiles)
 			{
 				tfidf.put(term ,    idf.get(term) );
+	
 
-
-				System.out.print(term + "\t " + tfidf.get(term) +"\n");
-
-				bw.write(term + "\t"+  idf.get(term) +"\n");
+	System.out.print(term + "\t " + tfidf.get(term) +"\n");
+				
+		bw.write(term + "\t"+  idf.get(term) +"\n");
 			}
-
-			bw.close();
+			
+		bw.close();
 		}
 
 	}
