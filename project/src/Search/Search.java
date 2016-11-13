@@ -58,7 +58,7 @@ public class Search {
 			Integer value =  Collections.frequency(words, term);
 			tf.put (term , value) ;
 		}
-		// Calculate the weights of the query and the similarity between the query and each document in the corpus
+		// Calculate the weights of the query and the partials sum of similarity between the query and each document in the corpus
 		HashMap<String, Pair> sims =new HashMap<String, Pair>();
 		try {
 			InputStream fis1 = new FileInputStream(index_);
@@ -87,7 +87,8 @@ public class Search {
 
 			}
 			br1.close();
-
+			
+			// Calculate similiraty with the partials sum
 			ArrayList<String> files = new ArrayList<>();
 			ArrayList<Double> sim_values = new ArrayList<>();
 			String curr_file;
