@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="16" version="2.0">
+<workbench progressCount="21" version="2.0">
 <workbenchAdvisor/>
 <window height="742" maximized="true" width="1012" x="65" y="24">
 <fastViewData fastViewLocation="1024"/>
@@ -35,8 +35,8 @@
 <part id="3"/>
 <part id="4"/>
 <part id="5"/>
-<part id="7"/>
 <part id="6"/>
+<part id="7"/>
 <part id="8"/>
 <part id="9"/>
 <part id="10"/>
@@ -68,21 +68,25 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/Search/Pair.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="287" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Search.java" partName="Search.java" path="/home/anonyme/search-engine/project/src/Search/Search.java" title="Search.java" tooltip="project/src/Search/Search.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/Search/Search.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2023" selectionTopPixel="1480"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Serarch_stemmer.java" partName="Serarch_stemmer.java" path="/home/anonyme/search-engine/project/src/Mains/Serarch_stemmer.java" title="Serarch_stemmer.java" tooltip="project/src/Mains/Serarch_stemmer.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Serarch_stemmer.java" partName="Serarch_stemmer.java" path="/home/anonyme/search-engine/project/src/Mains/Serarch_stemmer.java" title="Serarch_stemmer.java" tooltip="project/src/Mains/Serarch_stemmer.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/Mains/Serarch_stemmer.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="210" selectionOffset="398" selectionTopPixel="63"/>
+<editorState selectionHorizontalPixel="0" selectionLength="62" selectionOffset="401" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Encoding.java" partName="Encoding.java" path="/home/anonyme/search-engine/project/src/index/Encoding.java" title="Encoding.java" tooltip="project/src/index/Encoding.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/index/Encoding.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="main_stemmer.java" partName="main_stemmer.java" path="/home/anonyme/search-engine/project/src/Mains/main_stemmer.java" title="main_stemmer.java" tooltip="project/src/Mains/main_stemmer.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/Mains/main_stemmer.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="641" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Token_serch.java" partName="Token_serch.java" path="/home/anonyme/search-engine/project/src/Mains/Token_serch.java" title="Token_serch.java" tooltip="project/src/Mains/Token_serch.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/Mains/Token_serch.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="main_Tokenizer.java" partName="main_Tokenizer.java" path="/home/anonyme/search-engine/project/src/Mains/main_Tokenizer.java" title="main_Tokenizer.java" tooltip="project/src/Mains/main_Tokenizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/Mains/main_Tokenizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="129" selectionOffset="465" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Search.java" partName="Search.java" path="/home/anonyme/search-engine/project/src/Search/Search.java" title="Search.java" tooltip="project/src/Search/Search.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/project/src/Search/Search.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3086" selectionTopPixel="1414"/>
 </editor>
 </editors>
 <views>
@@ -119,11 +123,7 @@
 </viewState>
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
-<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.pathField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Warnings"/>
-</expanded>
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.locationField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="886" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -157,7 +157,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -309,7 +309,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.2379845" ratioLeft="307" ratioRight="983" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.7488789" ratioLeft="501" ratioRight="168" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.7278383" ratioLeft="468" ratioRight="175" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
@@ -341,163 +341,164 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Search/WeightsQuery.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Search/Search.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Search/Pair.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Mains/Serarch_stemmer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/index/Encoding.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Mains/Token_serch.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Mains/main_Tokenizer.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Mains/main_stemmer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Search/Save_weights_query.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Search/Search.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Mains/main_Tokenizer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/index/Encoding.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/project/src/Mains/Token_serch.java"/>
 </editors>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position/>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="3020" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="637" y="0"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="460" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="149" y="0"/>
 </item>
-<item historyLabel="main_stemmer.java" index="5">
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
+</item>
+<item historyLabel="main_stemmer.java" index="3">
 <position info="not_deleted" x="641" y="13"/>
 </item>
-<item historyLabel="Encoding.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="149" y="0"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="865" y="0"/>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="3020" y="0"/>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="641" y="13"/>
 </item>
-<item historyLabel="Pair.java" index="2">
-<position info="not_deleted" x="287" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="149" y="0"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="865" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="952" y="0"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="348" y="1"/>
+</item>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="641" y="13"/>
+</item>
+<item historyLabel="Token_serch.java" index="1">
 <position/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="865" y="0"/>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="690" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="865" y="9"/>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="909" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="790" y="0"/>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="726" y="0"/>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="641" y="13"/>
 </item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="817" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="3020" y="0"/>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="469" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="550" y="0"/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="589" y="10"/>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="641" y="13"/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="668" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="619" y="0"/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="867" y="0"/>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
 </item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="638" y="0"/>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="572" y="0"/>
 </item>
-<item historyLabel="Save_weights_query.java" index="6">
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="641" y="13"/>
+</item>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="572" y="0"/>
+</item>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="65" y="0"/>
+</item>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="491" y="10"/>
+</item>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="572" y="0"/>
+</item>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="557" y="104"/>
+</item>
+<item historyLabel="Serarch_stemmer.java" index="0">
+<position info="not_deleted" x="401" y="62"/>
+</item>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="474" y="0"/>
+</item>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
+</item>
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="474" y="0"/>
+</item>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="557" y="104"/>
+</item>
+<item historyLabel="Search.java" index="4">
+<position/>
+</item>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="723" y="0"/>
+</item>
+<item historyLabel="Search.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="WeightsQuery.java" index="0">
-<position info="not_deleted" x="2403" y="59"/>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="634" y="0"/>
 </item>
-<item historyLabel="Save_weights_query.java" index="6">
+<item historyLabel="Token_serch.java" index="1">
+<position info="not_deleted" x="474" y="0"/>
+</item>
+<item historyLabel="Search.java" index="4">
+<position info="not_deleted" x="3086" y="0"/>
+</item>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
+</item>
+<item historyLabel="main_stemmer.java" index="3">
+<position info="not_deleted" x="634" y="0"/>
+</item>
+<item historyLabel="main_Tokenizer.java" index="2">
+<position info="not_deleted" x="465" y="129"/>
+</item>
+<item historyLabel="Serarch_stemmer.java" index="0">
+<position info="not_deleted" x="401" y="62"/>
+</item>
+<item historyLabel="main_Tokenizer.java" index="5">
+<position info="not_deleted" x="465" y="129"/>
+</item>
+<item historyLabel="Encoding.java" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="WeightsQuery.java" index="0">
-<position info="not_deleted" x="800" y="18"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="714" y="0"/>
-</item>
-<item historyLabel="WeightsQuery.java" index="0">
-<position info="not_deleted" x="460" y="20"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="487" y="0"/>
-</item>
-<item historyLabel="Pair.java" index="2">
-<position info="not_deleted" x="287" y="0"/>
-</item>
-<item historyLabel="WeightsQuery.java" index="0">
-<position info="not_deleted" x="1254" y="116"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="681" y="0"/>
-</item>
-<item historyLabel="Pair.java" index="2">
-<position info="not_deleted" x="287" y="0"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="681" y="0"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="1231" y="0"/>
-</item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="904" y="0"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="1231" y="0"/>
-</item>
-<item historyLabel="Pair.java" index="2">
-<position info="not_deleted" x="287" y="0"/>
-</item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="904" y="0"/>
-</item>
-<item historyLabel="WeightsQuery.java" index="0">
-<position info="not_deleted" x="1254" y="116"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="1231" y="0"/>
-</item>
-<item historyLabel="Pair.java" index="2">
-<position info="not_deleted" x="287" y="0"/>
-</item>
-<item historyLabel="WeightsQuery.java" index="0">
-<position info="not_deleted" x="1254" y="116"/>
-</item>
-<item historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="904" y="0"/>
-</item>
-<item historyLabel="Search.java" index="1">
-<position info="not_deleted" x="2023" y="0"/>
-</item>
-<item historyLabel="Pair.java" index="2">
-<position info="not_deleted" x="287" y="0"/>
-</item>
-<item historyLabel="WeightsQuery.java" index="0">
-<position info="not_deleted" x="1254" y="116"/>
-</item>
-<item active="true" historyLabel="Serarch_stemmer.java" index="3">
-<position info="not_deleted" x="904" y="0"/>
+<item active="true" historyLabel="Token_serch.java" index="7">
+<position info="not_deleted" x="474" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -505,13 +506,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="bottom"/>
-<trimItem IMemento.internal.id="right"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -519,11 +513,19 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@22e36a1a"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Search.java" tooltip="project/src/Search/Search.java">
+<persistable path="/project/src/Search/Search.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="main_Tokenizer.java" tooltip="project/src/Mains/main_Tokenizer.java">
+<persistable path="/project/src/Mains/main_Tokenizer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Token_serch.java" tooltip="project/src/Mains/Token_serch.java">
+<persistable path="/project/src/Mains/Token_serch.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Save_weights_query.java" tooltip="project/src/Search/Save_weights_query.java">
 <persistable path="/project/src/Search/Save_weights_query.java"/>
 </file>
@@ -535,9 +537,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Serarch_stemmer.java" tooltip="project/src/Mains/Serarch_stemmer.java">
 <persistable path="/project/src/Mains/Serarch_stemmer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Search.java" tooltip="project/src/Search/Search.java">
-<persistable path="/project/src/Search/Search.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Pair.java" tooltip="project/src/Search/Pair.java">
 <persistable path="/project/src/Search/Pair.java"/>
@@ -562,9 +561,6 @@
 </file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TP2.java" tooltip="/home/amal/Documents/master aic/extraction/essai/REI/src/TP2.java">
 <persistable uri="file:/home/amal/Documents/master%20aic/extraction/essai/REI/src/TP2.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Index.java" tooltip="project/src/Index.java">
-<persistable path="/project/src/Index.java"/>
 </file>
 </mruList>
 </workbench>

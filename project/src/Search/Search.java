@@ -93,6 +93,7 @@ public class Search {
 					}
 					// line1 = br1.readLine();
 				}
+br1.close();
 
 				ArrayList<String> files = new ArrayList<>();
 				ArrayList<Double> sim_values = new ArrayList<>();
@@ -123,7 +124,11 @@ public class Search {
 					System.out.println(Encoding.base62(files.get(index1))+".txt" + "\t" + "\t" + sim_values.get(index1) + "\n");
 					index1++;
 				}
-				br1.close();
+				
+				
+				
+				
+				
 			} 
 			catch (IOException e) {
 				e.printStackTrace();
@@ -131,9 +136,6 @@ public class Search {
 		}
 	
 }
-
-
-
 
 
 
