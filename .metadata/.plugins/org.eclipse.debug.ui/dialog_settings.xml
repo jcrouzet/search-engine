@@ -3,7 +3,11 @@
 	<section name="org.eclipse.debug.ui.SCOPED_SAVE_SELECTION_DIALOG">
 		<item value="302" key="DIALOG_WIDTH"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+<<<<<<< HEAD
 		<item value="387" key="DIALOG_HEIGHT"/>
+=======
+		<item value="443" key="DIALOG_HEIGHT"/>
+>>>>>>> 04c10114cbd6089911a1ec9fa2bf3f191a531e48
 	</section>
 	<section name="org.eclipse.debug.ui.SELECT_LAUNCH_SHORTCUT_DIALOG">
 		<item value="295" key="DIALOG_WIDTH"/>

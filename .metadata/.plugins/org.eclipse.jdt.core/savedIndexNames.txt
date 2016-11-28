@@ -3,11 +3,13 @@ INDEX VERSION 1.126+/home/anonyme/search-engine/.metadata/.plugins/org.eclipse.j
 3539432263.index
 502732891.index
 813341167.index
-3684385496.index
 3485262699.index
 821608291.index
+<<<<<<< HEAD
 3883508318.index
 2849075626.index
+=======
+>>>>>>> 04c10114cbd6089911a1ec9fa2bf3f191a531e48
 1628687906.index
 2253745042.index
 3530540584.index

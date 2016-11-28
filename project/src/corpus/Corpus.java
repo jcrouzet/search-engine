@@ -59,8 +59,7 @@ public class Corpus {
 		if (directory_text.isDirectory()) {
 
 			File[] dList_text = directory_text.listFiles();
-			//	File[] dList_text_1= directory_text.listFiles();
-
+		
 			for (File file1 : dList_text){
 				File [] subdList_text = file1.listFiles();
 				for (File t : subdList_text) {
@@ -81,7 +80,9 @@ public class Corpus {
 			files_xml.add(new File(fichiers_xml.get(i)));
 		}
 		ArrayList<String> id = new ArrayList<String>();
+		
 // source: https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm	
+		
 		for (File file_xml : files_xml){
 			try {
 				DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
